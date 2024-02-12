@@ -69,7 +69,7 @@ def save_cluster_stm_files(stm_transcripts, cluster_labels, output_directory):
 # Main function
 def main():
     # Directory containing STM files
-    directory = 'cleaned_transcripts'
+    directory = 'cleaned_Devtranscripts'
 
     # Output directory for cluster STM files
     output_directory = 'cluster_stm_files'
@@ -84,7 +84,8 @@ def main():
 
     # Preprocess and generate document embeddings
     document_embeddings = preprocess_and_embed(stm_transcripts)
-    
+    document_embeddings = np.array(document_embeddings)  # Convert to numpy array
+
     # Determine the optimal number of clusters using the elbow method
     model = KMeans()
     visualizer = KElbowVisualizer(model, k=(2,800))
