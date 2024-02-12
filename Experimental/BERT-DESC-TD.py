@@ -88,7 +88,9 @@ def main():
 
     # Determine the optimal number of clusters using the elbow method
     model = KMeans()
-    visualizer = KElbowVisualizer(model, k=(2,800))
+    # Adjust the range of cluster numbers based on the number of samples
+    num_samples = len(stm_transcripts)
+    visualizer = KElbowVisualizer(model, k=(2, min(2*num_samples, 800)))
     visualizer.fit(document_embeddings)
     visualizer.show()
     
