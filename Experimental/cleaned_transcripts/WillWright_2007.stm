@@ -1,0 +1,127 @@
+  to be a cyborg one of my favorite shows as a kid was the six million dollar man
+  swallowing swords on stage here so
+ i figure it 's ok amongst this group but
+ that 's not what i want to talk about today i want to talk about toys  and the power that i see inherent in them 
+ when i was a kid i attended montessori school up to sixth grade in atlanta georgia 
+ and at the time i didn 't think much about it but then later i realized that that was the high point of my education from that point on everything else was pretty much downhill
+  and it wasn 't until later as i started making games that i really actually think of them more as toys people call me a game designer but i really think of these things more as toys 
+ i started getting very interested in maria montessori and her methods and the way she went about things and the way she thought it very valuable for kids to discover things on their own rather than being taught these things overtly and she would design these
+  where kids in playing with the toys would come to understand these deep principles of life and nature through play and since they discovered this 
+ it stuck with them so much more and also they would experience their own failures there was a failure based aspect to learning there it was very important  
+ and so the games that i do i think of really more as modern montessori toys  
+ and i really kind of want them to be presented in a way to where kids can kind of explore and discover their own principles
+  so a few years ago i started getting very interested in the seti program  and that 's the way i work i get interested in different subjects i dive in research them and then try to figure out how to craft a toy around that so that other people can experience the same sense of discovery that i did as i was learning that subject 
+ and it led me to astrobiology  the study of possible life in the universe  and then drake 's equation looking at the probability of life arising on planets how long it might last how many planets are out there
+  i started looking at how interesting drake 's equation was because it spanned all these different subjects
+ physics chemistry sociology  economics astronomy and
+ another thing that really impressed me a long time ago was powers of ten charles and ray eames ' film  
+ and i started putting those two together and wondering could i build a toy where kids would trip across all these interesting principles of life  as it exists and as it might go in the future things where you might
+ trip across things like the copernican principle  the fermi
+  paradox the anthropic principle  the origin of life 
+ and so i 'm going to show you a toy today that i 've been working on that i think of more  as kind of a philosophy toy playing this toy will bring up philosophical questions in you 
+ the game is spore i 've been working on it for several years it 's getting pretty close to finished now  it occurs at all these different scales from very small to very large
+  i 'm going to pop in at the start of the game  and you actually start this game in a drop of water as a very very small  single cell creature  
+ and right off the bat you basically just have to live survive reproduce  so here we are at a very microscopic scale  swimming around 
+ and i actually realize that cells don 't have eyes  but
+ it helps to make it cute the players are going to play through every generation of this species 
+  play the game the creature is actually growing bit by bit 
+ and as we start growing the camera will actually start zooming out and things that you see in the background there will start slowly pulling into the foreground  showing you a little bit of what you 'll be interacting with as you grow so as we eat  the camera starts pulling out  
+ and then we start interacting with larger and larger organisms
+ we actually play through many generations here at the cellular scale i 'm going to skip ahead here  
+  at this point we 're leaving the water  and one thing that 's kind of important about this game is that at every level 
+ the player is designing their creature  and that 's a fundamental aspect of this now in the evolution game here the creature scale basically you have to eat  survive and then reproduce you know very darwinian 
+ one thing we noticed with the sims 
+  game i did earlier is that players love making stuff when they were able to make stuff in the game they had a lot of empathy in connection to it  even if it wasn 't as pretty as
+  professional artist would make for games it really stuck with them and they really cared about what would happen to it at this point we 've left the water and now with this little creature we could bring up the volume a little bit
+ and now we might try to eat we might sneak up on this little guy over
+  play through every generation of this creature we
+  actual evolution with humans and all that because it 's almost more interesting to look at alternate
+ possibilities in evolution evolution is usually presented as this one path that we took through  but really it represents this huge set of possibilities  now once we mate
+  click on the egg  and this is where the game starts getting interesting because
+ one of the things we really focused on here was giving the players very high leverage tools  
+ so that for very little effort the player can make something very cool 
+ and it involves a lot of intelligence on the tool side but basically this is the editor where we 're going to design the next generation  so it has a little spine i can move around i
+ can extend i can also inflate or deflate it with the mouse wheel so you sculpt it like clay we have parts here that i can put on or pull off the idea is that the player can basically design
+  anything they can think of in this editor and we 'll basically bring it to life so i might put some limbs on the character here i 'll inflate them kind of large  
+ and in this case i might decide i 'm going to put i 'll
+ put mouths on the limbs 
+ so pretty much players are encouraged to be very
+  give it one eye in the middle maybe scale it up a bit point it down  and i 'll also give it a few legs  
+ so in some sense we want this to feel like an amplifier for the player 's imagination  so that with a very small number of clicks a player can create something
+ that they didn 't really think was possible before this is almost like designing something like maya that an eight year old can
+  but really the goal here was within about a minute i wanted somebody to replicate what typically takes a pictorial artist several weeks to create ok now i 'll put some hands on it
+ ok  so here i 've basically thrown together a little creature let me give it a little weapon on the tail here so it can fight  
+ ok so that 's the complete model now we can actually go to the painting phase at this phase the program has some understanding of the topology of this creature it knows where the backbone
+  where the spine the limbs are how stripes should run how it should be shaded  and so we 're procedurally generating the texture map something a texture artist would take many many days to work on and then we can test it out  
+ and see how it would move around 
+ and so at this point the computer is procedurally animating this creature  it 's looking at whatever i 've designed it will actually bring it to life and i can see how it might dance
+  it pose for a photo snap a little photo of it 
+ so then i bring this back into the game it 's born and i play the next generation of my creature through evolution 
+ now again the empathy that the players have when they create the content is tremendous when players create content in this game  it 's automatically sent up to a server
+ and then redistributed to all the other players transparently so in fact as i 'm interacting in this world with other creatures
+  these creatures are transparently coming from other players as they play so the process of playing the game is a process of building up this huge database of content  and pretty much everything you 're going to see 
+  in this game  there 's an editor for that the player can create up through civilization this is
+  start dealing with tribes cities and civilizations of them over time i 'm going to skip way ahead to the space phase  eventually they would go out into space and
+ start colonizing and exploring the universe  now  really in some sense i want the players to be
+ building this world in their imagination  and then extracting it from them with the least amount of pain so that 's kind of what these tools are about how do we make the gameplay
+ basically the player 's imagination amplifier 
+ and how do we make these tools these editors something that are just as fun as the game itself  so this is the planet that we 've been playing on up to this point in the game
+ so far the entire game has been played on the surface of this little world here at this point we 're actually dealing with a very little toy planet
+  like the montessori toy idea what happens if you give somebody a toy planet and let them play with a lot of dynamics on it  what could they discover what might they learn on this 
+ this world was actually extracted from the player 's imagination so this is the planet that the player evolved on things like the buildings the vehicles the architecture civilizations
+ were all designed by the player up to this point  so here 's a little city with some of our guys walking around in it and most games put the player in the role
+  this protagonist playing through this story
+ this is more about putting the player in the role of george lucas i want them after they 've played this game to have extracted an entire world that they 're now interacting with as we pull down here we still have a whole set of creatures
+ living on the surface of the planet all these different dynamics going on here i can look over here and this is a little simplified food web that 's going on with the creatures i can open this up and then scan what exists on the surface you get some sense of the diversity of creatures
+ that were brought in
+  were created by the player others by other players automatically sent over here  but there 's a very simple calculation of what 's required how many
+ plants are required for the herbivores to live how many herbivores for the carnivores to eat etc that you have to balance actively
+ also with this phase  we 're getting more and more god like powers for the player and you can experiment with this planet as a toy  so i can come in and i can do things and just treat this planet as a lump of clay we have very simple weather systems
+ simple geology for instance i could open one of my tools here
+ and then carve out rivers so this whole thing is kind of like a big lump of clay a sculpture  
+ i can also play with the dynamics in this world over time  so one of the things i can do is start pumping more co2 gases into the atmosphere  
+ and so that 's what i 'm doing here there 's actually a little readout down there of our planetary atmosphere pressure and temperature
+  as i start pumping in more atmosphere we 're going to start pushing up the greenhouse gases here and if you 'll start noticing we start seeing the ocean levels rise over time 
+ and our cities are going to be at risk too because a lot of these are coastal cities you can see the ocean levels are rising now and as they encroach upon the cities i 'll start losing cities here  
+ so basically i want the players to be able to experiment and explore a huge amount of failure space  so there goes one city
+  now over time this is going to heat up the planet so at first what we 're going to see is a global ocean rise here on this little toy planet  but then over time  i can speed it up 
+  see the heat impact of that as well not only will it get hotter but at some point it 's going to get so hot the oceans will evaporate
+  that actually brings up an interesting point about games now here our entire oceans are
+ evaporating off the surface and as it keeps getting hotter at some point the entire planet is going to melt down here it goes so we 're not only simulating
+ biological dynamics food webs and all that but also geologic you know on a very simple core scale  
+ and what 's interesting to me about games is that i think we can take a lot of long term dynamics and compress them into very
+ short term experiences  because it 's so hard for people to think fifty or one hundred years out  but when you can give them a toy and they can experience these long term dynamics in just a few minutes  i think it 's an entirely different point of view where we 're actually  using the game to remap our intuition 
+ it 's almost in the same way that a telescope or microscope recalibrates your eyesight i think computer simulations can recalibrate your instinct across vast scales of both space and time  
+ so here 's our little solar system as we pull
+  away from our melted planet here  we actually have a couple of other planets in this solar system let 's fly to another one
+ we 're going to have this unlimited number of worlds you can explore here as we move into the future and we start going out into space and doing stuff we 're drawing a lot from things like science fiction 
+ and all my favorite science fiction movies i want to play out here as different dynamics
+ this planet actually has some life on it here it is some indigenous life down here one of the tools i
+  eventually earn for my ufo is a monolith that i can drop down 
+ now
+ as you can see these guys are actually starting to go up and bow to it  and over time once they touch it they will become intelligent so i can actually pick a
+ species on a planet and then make them sentient now they 've actually gone to tribal dynamics and now because i 'm actually the one here i can get out of the ufo and walk up and they should be worshipping me at this
+  point as a god  at first they 're a little freaked out ok 
+ well maybe they 're not worshipping me i think i 'll leave before they get hostile
+  but we basically want a diversity of activities the players can play through this
+  from this world
+ we 're going to keep pulling away from the star now  one of the things that always frustrated me about astronomy when i was a kid is how it was always presented so   two dimensionally
+ and so static as we pull away from the star here we 're actually going now out into interstellar space and we 're getting a sense of the space around our home star
+ what i really wanted to do is to present this
+  and a lot of the interesting objects that you might find like in the hubble at pretty much realistic frequencies and scales  so most people have no idea of the difference between an emission nebula and a planetary 
+  nebula  but these are the things that we can put in this little galaxy here so we 're flying over here to what looks like a black hole  i want to basically have the entire zoo of hubble objects that people can interact with
+ but we also have stars and things as well if we pull all the way back we start seeing the entire galaxy here  
+ kind of slowly in motion
+  typically when people present galaxies  it 's always beautiful photos but they 're always static and when you bring it forward in time and start animating it it 's amazing what a galaxy would
+  would be about a million years a second because you have about
+ one supernova
+ every century  and so you 'd have this wonderful sparkling thing with the disk slowly rotating and this is roughly what it would look like  part of this is about bringing the beauty of the natural world to somebody in a very imaginative way so that they can start calibrating their instinct across these vast scales
+ of space and time
+ they might be a nurturing god they might be bootstrapping life on planets trying to terraform and spread civilization you might be a vengeful god  conquesting because you actually can do that you can attack other intelligent races you might be a networking god building alliances 
+ or just curious going around and wanting to explore as much as you possibly can but
+  the reason why i make toys like this is because
+ i think if there 's one difference i could possibly make in the world that i would choose to make it 's that
+ i would like to somehow give people just a little bit better calibration on long term thinking because i think most of the problems that our world is facing right now
+ are the result of short term thinking and the fact that it is so hard for us to think fifty one hundred or one thousand years out  and i think by giving kids toys like this and letting them replay dynamics
+  getting some sense of what we 're doing now  what it 's going to be like in one hundred years 
+ i think probably is the most effective thing i can be doing to help the world  and so that 's why i think that toys can change the world

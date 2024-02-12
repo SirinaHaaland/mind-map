@@ -1,0 +1,133 @@
+RonEglash_2007G 1 RonEglash_2007G 16.51 18.38 <NA> <unk> mathematician named georg cantor 
+RonEglash_2007G 1 RonEglash_2007G 18.13 23.07 <NA> and cantor decided he was going to take a line and erase the middle third of the line 
+RonEglash_2007G 1 RonEglash_2007G 23.07 29.94 <NA> and then take those two resulting lines and bring them back into the same process a recursive process <unk> so he starts out with one line
+RonEglash_2007G 1 RonEglash_2007G 29.93 32.4 <NA> <unk> then two and then four and then sixteen and so on <unk> 
+RonEglash_2007G 1 RonEglash_2007G 32.12 40.89 <NA> and if he does this an infinite number of times which you can do in mathematics <unk> he ends up with an infinite number of lines each of which has an infinite number of points in it 
+RonEglash_2007G 1 RonEglash_2007G 40.55 50.02 <NA> so he realized he had a set whose number of elements was larger than infinity <unk> and this blew his mind literally he checked into a sanitarium and when he came out of
+RonEglash_2007G 1 RonEglash_2007G 51.75 60.22 <NA> <unk> he was convinced that he had been put on earth to found transfinite set theory because the largest set of infinity would be god himself he was a very religious man he
+RonEglash_2007G 1 RonEglash_2007G 59.76 62.14 <NA> was a mathematician on a mission <unk> 
+RonEglash_2007G 1 RonEglash_2007G 61.89 70.15 <NA> and other mathematicians did the same sort of thing a swedish mathematician von koch decided that instead of subtracting lines he would add them 
+RonEglash_2007G 1 RonEglash_2007G 70.15 76.81 <NA> and so he came up with this beautiful curve <unk> and there 's no particular reason why we have to start with this seed shape we can use any
+RonEglash_2007G 1 RonEglash_2007G 76.44 79.73 <NA> any seed shape we like and
+RonEglash_2007G 1 RonEglash_2007G 80.2 83.93 <NA> <unk> rearrange this and i 'll stick this somewhere down there <unk> ok
+RonEglash_2007G 1 RonEglash_2007G 83.62 85.07 <NA> and
+RonEglash_2007G 1 RonEglash_2007G 84.67 96.59 <NA> now upon iteration that seed shape sort of unfolds into a very different looking structure <unk> so these all have the property of self similarity the part looks like the whole it 's the same pattern at many different scales <unk> 
+RonEglash_2007G 1 RonEglash_2007G 96.59 104.97 <NA> now mathematicians thought this was very strange because as you shrink a ruler down you measure a longer and longer length and since they went
+RonEglash_2007G 1 RonEglash_2007G 104.9 110.46 <NA> <unk> through the iterations an infinite number of times as the ruler shrinks down to infinity <unk> the length
+RonEglash_2007G 1 RonEglash_2007G 110.23 112.17 <NA> goes to infinity 
+RonEglash_2007G 1 RonEglash_2007G 112.31 119.52 <NA> this made no sense at all so they consigned these curves to the back of the math books they said these are pathological curves and we don 't have to discuss them 
+RonEglash_2007G 1 RonEglash_2007G 120.98 125.05 <NA> and that worked for a hundred years <unk> and then in
+RonEglash_2007G 1 RonEglash_2007G 129.84 136.39 <NA> <unk> realized that if you do computer graphics and used these shapes he called fractals <unk> you get the shapes of nature <unk> 
+RonEglash_2007G 1 RonEglash_2007G 136.39 142.93 <NA> you get the human lungs you get acacia trees you get ferns you get these beautiful natural forms if you
+RonEglash_2007G 1 RonEglash_2007G 142.47 148.19 <NA> take your thumb and your index finger and look right where they meet go ahead and do that now and
+RonEglash_2007G 1 RonEglash_2007G 154.99 162.8 <NA> <unk> is covered with fractals the mathematicians who were saying these were pathologically useless shapes they were breathing those words with fractal lungs it 's very ironic
+RonEglash_2007G 1 RonEglash_2007G 162.7 170.07 <NA> and i 'll show you a little natural recursion here again we just take these lines and recursively replace them with the whole shape <unk>
+RonEglash_2007G 1 RonEglash_2007G 170.07 173.37 <NA> <unk> so here 's the second iteration and the third fourth
+RonEglash_2007G 1 RonEglash_2007G 173.13 174.84 <NA> and and so on so
+RonEglash_2007G 1 RonEglash_2007G 180.53 186.9 <NA> <unk> i happened to notice that if you look at an aerial photograph of an african village <unk> you see fractals <unk> 
+RonEglash_2007G 1 RonEglash_2007G 186.47 194.32 <NA> and i thought this is fabulous i wonder why and of course i had to go to africa and ask folks why <unk> so i got a fulbright
+RonEglash_2007G 1 RonEglash_2007G 194.14 200.05 <NA> scholarship to to just travel around africa for a year asking people why they were building fractals
+RonEglash_2007G 1 RonEglash_2007G 199.81 204.91 <NA> which is a great job if you can get it and so i finally got to
+RonEglash_2007G 1 RonEglash_2007G 204.96 206.29 <NA> <unk> city
+RonEglash_2007G 1 RonEglash_2007G 205.8 213.98 <NA> <unk> and i 'd done a little fractal model for the city just to see how it would sort of unfold but when i got there 
+RonEglash_2007G 1 RonEglash_2007G 213.98 217.03 <NA> i got to the palace of the chief <unk> 
+RonEglash_2007G 1 RonEglash_2007G 216.72 224.93 <NA> and my french is not very good i said something like i am a mathematician and i would like to stand on your roof but he was really cool about it and he took me up there and we
+RonEglash_2007G 1 RonEglash_2007G 227.56 229.3 <NA> <unk> we knew about a rectangle within a rectangle <unk>
+RonEglash_2007G 1 RonEglash_2007G 229.14 239.46 <NA> <unk> we know all about that and it turns out the royal insignia has a rectangle within a rectangle within a rectangle <unk> and the path through that palace is actually this this spiral here 
+RonEglash_2007G 1 RonEglash_2007G 239.41 247.11 <NA> <unk> and as you go through the path you have to get more and more polite so they 're mapping the social scaling onto the geometric scaling it 's a conscious
+RonEglash_2007G 1 RonEglash_2007G 254.36 261.25 <NA> <unk> built this village about four hundred meters in diameter <unk> you have a huge ring <unk> the rings that
+RonEglash_2007G 1 RonEglash_2007G 261.25 268.38 <NA> represent the family enclosures get larger and larger as you go towards the back and then you have the chief 's ring here
+RonEglash_2007G 1 RonEglash_2007G 267.98 272.13 <NA> towards the back and then the chief 's immediate family
+RonEglash_2007G 1 RonEglash_2007G 271.85 279.79 <NA> in that ring <unk> so here 's a little fractal model for it here 's one house with the sacred altar here 's the house of houses the family enclosure
+RonEglash_2007G 1 RonEglash_2007G 280.05 286.61 <NA> with the humans here where the sacred altar would be and then here 's the village as a whole a ring of ring of rings
+RonEglash_2007G 1 RonEglash_2007G 286.37 293.75 <NA> with the chief 's extended family here the chief 's immediate family here <unk> and here there 's a tiny village only this big <unk> 
+RonEglash_2007G 1 RonEglash_2007G 293.75 300.02 <NA> now you might wonder how can people fit in a tiny village only this big that 's because they 're spirit people it 's the ancestors
+RonEglash_2007G 1 RonEglash_2007G 300.31 302.23 <NA> <unk> and of course the spirit people
+RonEglash_2007G 1 RonEglash_2007G 302.23 314.93 <NA> have a little miniature village in their village right <unk> so it 's just like georg cantor said <unk> the recursion continues forever this is in the mandara mountains near the nigerian border in cameroon mokoulek <unk> i saw this diagram drawn by a french
+RonEglash_2007G 1 RonEglash_2007G 314.89 324.84 <NA> architect and i thought wow what a beautiful fractal so i tried to come up with a seed shape which upon iteration would unfold into this thing i came up with this structure
+RonEglash_2007G 1 RonEglash_2007G 329.45 340.47 <NA> <unk> after i did the simulation <unk> i realized the whole village kind of spirals around just like this and here 's that replicating replicating line a self replicating line that that unfolds into the fractal well
+RonEglash_2007G 1 RonEglash_2007G 340.61 345.06 <NA> i noticed that line is about where the only square building in the village is at 
+RonEglash_2007G 1 RonEglash_2007G 345.47 349.87 <NA> so when i got to the village <unk> i said can you take me to the square building i think
+RonEglash_2007G 1 RonEglash_2007G 351.96 362.29 <NA> <unk> we can take you there but you can 't go inside because that 's the sacred altar where we do sacrifices every year to keep up those annual cycles of fertility for the fields and i started to realize that the cycles of fertility <unk>
+RonEglash_2007G 1 RonEglash_2007G 362.24 372.43 <NA> were just like the recursive cycles in the geometric algorithm that builds this and the recursion in some of these villages continues down into very tiny scales so here 's a nankani village in mali <unk>
+RonEglash_2007G 1 RonEglash_2007G 372.38 379.7 <NA> and you can see you go inside the family enclosure you go inside and here 's pots in the fireplace stacked recursively here 's
+RonEglash_2007G 1 RonEglash_2007G 379.75 381.92 <NA> <unk> calabashes that that
+RonEglash_2007G 1 RonEglash_2007G 381.43 394.85 <NA> issa was just showing us and they 're stacked recursively <unk> now the tiniest calabash in here keeps the woman 's soul and when she dies they have a ceremony where they break this stack called the zalanga and her soul goes off to to eternity <unk> 
+RonEglash_2007G 1 RonEglash_2007G 394.45 397.04 <NA> once again <unk> infinity is important
+RonEglash_2007G 1 RonEglash_2007G 397.66 404.94 <NA> <unk> now you might ask yourself three questions at this point aren 't these scaling patterns just universal to all
+RonEglash_2007G 1 RonEglash_2007G 405.22 415.29 <NA> indigenous architecture <unk> and that was actually my original hypothesis when i first saw those african fractals i thought wow <unk> so any indigenous group that doesn 't have a state society that sort of hierarchy <unk> must <unk>
+RonEglash_2007G 1 RonEglash_2007G 415.19 421.18 <NA> <unk> have a kind of bottom up architecture but that turns out not to be true i started collecting aerial photographs of
+RonEglash_2007G 1 RonEglash_2007G 430.05 432.7 <NA> <unk> that they use <unk> so native americans
+RonEglash_2007G 1 RonEglash_2007G 432.5 436.6 <NA> use a combination of circular symmetry and fourfold symmetry
+RonEglash_2007G 1 RonEglash_2007G 436.2 449.87 <NA> you can see on the pottery and the baskets here 's an aerial photograph of one of the anasazi ruins you can see it 's circular at the largest scale <unk> but it 's rectangular at the smaller scale right it is not the same pattern at two different scales <unk>
+RonEglash_2007G 1 RonEglash_2007G 453.64 456.11 <NA> <unk> you ignoring the diversity of african cultures 
+RonEglash_2007G 1 RonEglash_2007G 455.74 458.75 <NA> and three times <unk> the answer is no <unk> 
+RonEglash_2007G 1 RonEglash_2007G 458.32 467 <NA> first of all i agree with mudimbe 's wonderful book the invention of africa that africa is an artificial invention of first colonialism and then oppositional movements
+RonEglash_2007G 1 RonEglash_2007G 466.78 474.75 <NA> <unk> no because a widely shared design practice doesn 't necessarily give you a unity of culture and it definitely is not in the dna
+RonEglash_2007G 1 RonEglash_2007G 477.74 485.19 <NA> <unk> so they 're similar to themselves but they 're not necessarily similar to each other you see very different uses for fractals it 's a shared technology in africa 
+RonEglash_2007G 1 RonEglash_2007G 485.84 497.07 <NA> and finally <unk> well isn 't this just intuition it 's not really mathematical knowledge africans can 't possibly really be using fractal geometry right it wasn 't invented until the 1970s 
+RonEglash_2007G 1 RonEglash_2007G 497.07 499.83 <NA> well it 's true that some african fractals
+RonEglash_2007G 1 RonEglash_2007G 500.1 505.64 <NA> <unk> as far as i 'm concerned just pure intuition <unk> so some of these things i 'd wander around the streets of dakar asking people 
+RonEglash_2007G 1 RonEglash_2007G 505.64 511.6 <NA> what 's the algorithm what 's the rule for making this and they 'd say well we just make it that way because it looks pretty stupid 
+RonEglash_2007G 1 RonEglash_2007G 511.41 513.25 <NA> but sometimes
+RonEglash_2007G 1 RonEglash_2007G 513.06 516.25 <NA> that 's not the case in some cases 
+RonEglash_2007G 1 RonEglash_2007G 515.76 523.82 <NA> there would actually be algorithms <unk> and very sophisticated algorithms so in manghetu sculpture you 'd see this recursive geometry in
+RonEglash_2007G 1 RonEglash_2007G 523.65 527 <NA> ethiopian crosses you see this wonderful unfolding of the shape
+RonEglash_2007G 1 RonEglash_2007G 529.93 534.58 <NA> <unk> people draw lines in the sand and it 's what the german mathematician euler called
+RonEglash_2007G 1 RonEglash_2007G 534.36 541.43 <NA> a graph we now call it an eulerian path you can never lift your stylus from the surface and you can never go over the same line twice <unk> 
+RonEglash_2007G 1 RonEglash_2007G 541.43 554.94 <NA> but they do it recursively <unk> and they do it with an age grade system so the little kids learn this one and then the older kids learn this one then the next age grade initiation you learn this one and with with each iteration of that algorithm <unk> you learn the
+RonEglash_2007G 1 RonEglash_2007G 555.26 561.96 <NA> <unk> iterations of the myth <unk> you learn the next level of knowledge <unk> and finally all over africa you see this board game
+RonEglash_2007G 1 RonEglash_2007G 561.56 567.57 <NA> it 's called owari in ghana where i studied it it 's called mancala here on the east coast <unk> bao in
+RonEglash_2007G 1 RonEglash_2007G 567.57 575.05 <NA> kenya sogo elsewhere well you see self organizing patterns that spontaneously occur in this board game <unk> and the folks
+RonEglash_2007G 1 RonEglash_2007G 577.11 586 <NA> <unk> patterns and would use them strategically <unk> so this is very conscious knowledge here 's a wonderful fractal <unk> anywhere you go in the sahel <unk> you 'll see this
+RonEglash_2007G 1 RonEglash_2007G 585.6 600.02 <NA> this windscreen <unk> and of course fences around the world are all cartesian all strictly linear <unk> but here in africa <unk> you 've got these nonlinear scaling fences <unk> so i tracked down one of the folks who makes these things this guy in in mali just outside of bamako
+RonEglash_2007G 1 RonEglash_2007G 601.18 610.59 <NA> <unk> you 're making fractal fences because nobody else is and his answer was very interesting <unk> he said well if i lived in the jungle i would only use the long rows of straw
+RonEglash_2007G 1 RonEglash_2007G 610.38 614.27 <NA> because they 're very quick and they 're very cheap it doesn 't take much time doesn 't take much straw 
+RonEglash_2007G 1 RonEglash_2007G 613.93 616.74 <NA> he said but wind and dust goes through pretty easily <unk> 
+RonEglash_2007G 1 RonEglash_2007G 616.74 625.04 <NA> now the tight rows up at the very top they really hold out the wind and dust but it takes a lot of time and it takes a lot of straw because they 're really
+RonEglash_2007G 1 RonEglash_2007G 627.05 628.89 <NA> <unk> we know from experience
+RonEglash_2007G 1 RonEglash_2007G 628.7 636.33 <NA> that the farther up from the ground you go the stronger the wind blows right it 's just like a <unk> cost benefit analysis <unk> and i
+RonEglash_2007G 1 RonEglash_2007G 636.16 645.85 <NA> measured out the lengths of straw put it on a log log plot got the scaling exponent and it almost exactly matches the scaling exponent for the relationship between wind speed and height in the wind engineering handbook <unk> 
+RonEglash_2007G 1 RonEglash_2007G 645.85 649.87 <NA> so these guys are right on target for for a practical use of of
+RonEglash_2007G 1 RonEglash_2007G 649.63 654.94 <NA> scaling technology the most complex example of an algorithmic approach
+RonEglash_2007G 1 RonEglash_2007G 655.04 664.33 <NA> to fractals that i found was actually not in geometry it was in a symbolic code and this was bamana sand divination and the same divination system is found all over africa
+RonEglash_2007G 1 RonEglash_2007G 664.59 672.61 <NA> you can find it on the east coast as well as well as the west coast and often the the symbols are very well preserved so
+RonEglash_2007G 1 RonEglash_2007G 672.3 674.93 <NA> each of these symbols has four
+RonEglash_2007G 1 RonEglash_2007G 675.85 680.09 <NA> <unk> binary word you draw these lines in the sand randomly
+RonEglash_2007G 1 RonEglash_2007G 680.29 686.21 <NA> and then you count off <unk> and if it 's an odd number you put down one stroke and if it 's an even number you put down two strokes <unk> 
+RonEglash_2007G 1 RonEglash_2007G 686.02 689.18 <NA> and they did this very rapidly <unk> 
+RonEglash_2007G 1 RonEglash_2007G 688.96 695.6 <NA> and i couldn 't understand where they were getting they only did the randomness four times i couldn 't understand where they were getting the other twelve symbols
+RonEglash_2007G 1 RonEglash_2007G 695.62 697.26 <NA> <unk> and they wouldn 't tell me they said
+RonEglash_2007G 1 RonEglash_2007G 705.01 710.06 <NA> matter and finally out of desperation i said well <unk> let me explain georg cantor in one thousand eight hundred and seventy seven 
+RonEglash_2007G 1 RonEglash_2007G 710.07 716.79 <NA> and i started explaining why i was there in in africa and they got very excited when they saw the cantor set 
+RonEglash_2007G 1 RonEglash_2007G 716.45 724.84 <NA> and one of them said come here i think i can help you out here and so he took me through the initiation ritual for for a bamana priest
+RonEglash_2007G 1 RonEglash_2007G 725.61 732.07 <NA> <unk> and of course i was only interested in the math so the whole time he kept shaking his head going you know i didn 't learn it this way but i had to sleep with
+RonEglash_2007G 1 RonEglash_2007G 732.07 740.81 <NA> a kola nut next to my bed buried in sand and give seven coins to seven lepers and so on <unk> and finally he revealed the
+RonEglash_2007G 1 RonEglash_2007G 740.39 742.21 <NA> the truth of the matter
+RonEglash_2007G 1 RonEglash_2007G 742.23 748.09 <NA> <unk> and it turns out it 's a pseudo random number generator using deterministic chaos when you have
+RonEglash_2007G 1 RonEglash_2007G 747.63 754.97 <NA> a four bit symbol <unk> you then put it together with another one sideways <unk> so even plus odd gives you odd odd plus even
+RonEglash_2007G 1 RonEglash_2007G 755.07 763.46 <NA> gives you odd even plus even gives you even odd plus odd gives you even it 's addition modulo two just like in the parity bit check on your computer
+RonEglash_2007G 1 RonEglash_2007G 763.18 773.03 <NA> <unk> and then you you take this symbol <unk> and you put it back in so it 's a self generating diversity of symbols they 're truly using a kind of deterministic chaos in doing this 
+RonEglash_2007G 1 RonEglash_2007G 772.66 774.33 <NA> now because it 's a
+RonEglash_2007G 1 RonEglash_2007G 775.4 779.61 <NA> <unk> you can actually implement this in hardware what a fantastic teaching tool that should be
+RonEglash_2007G 1 RonEglash_2007G 779.27 791.25 <NA> in african engineering schools <unk> and the the most interesting thing i found out about it was historical in the 12th century hugo of santalla brought it from islamic mystics into spain
+RonEglash_2007G 1 RonEglash_2007G 791.45 799.84 <NA> and there it entered into the the alchemy community as geomancy divination through the earth this is a
+RonEglash_2007G 1 RonEglash_2007G 805.77 811.78 <NA> <unk> the german mathematician talked about geomancy in his dissertation called de combinatoria 
+RonEglash_2007G 1 RonEglash_2007G 811.29 819.4 <NA> and he said well instead of using one stroke and two strokes <unk> let 's use a one and a zero <unk> and we can count by powers of two 
+RonEglash_2007G 1 RonEglash_2007G 819.03 828.5 <NA> right <unk> ones and zeros the binary code george boole took leibniz 's binary code and created boolean algebra and john von neumann took boolean algebra and created the digital computer <unk> so all these these little
+RonEglash_2007G 1 RonEglash_2007G 829.93 835.43 <NA> <unk> every digital circuit in the world started in africa and i know
+RonEglash_2007G 1 RonEglash_2007G 835.06 838.73 <NA> brian eno says there 's there 's not enough africa in computers but
+RonEglash_2007G 1 RonEglash_2007G 838.73 841.67 <NA> you know i don 't think there 's enough african history in brian eno 
+RonEglash_2007G 1 RonEglash_2007G 845.56 848.72 <NA> so let me end with just a few words about
+RonEglash_2007G 1 RonEglash_2007G 848.23 854.46 <NA> applications that we 've found for this and you can go to our website <unk> the applets are all free they just run in the browser
+RonEglash_2007G 1 RonEglash_2007G 854.81 863.16 <NA> <unk> anybody in the world can use them <unk> the national science foundation 's broadening participation in computing program recently awarded us a grant to make
+RonEglash_2007G 1 RonEglash_2007G 864.23 868.24 <NA> a programmable version of these design tools so
+RonEglash_2007G 1 RonEglash_2007G 868.24 874.99 <NA> hopefully in three years anybody 'll be able to go on the web and create their own simulations and their own artifacts we 've focused in the u s on
+RonEglash_2007G 1 RonEglash_2007G 875.61 880.9 <NA> <unk> students as well as native american and latino <unk> we 've found statistically significant improvement
+RonEglash_2007G 1 RonEglash_2007G 880.9 890.11 <NA> with children using this software in a mathematics class in comparison with with a control group that did not have the software <unk> so it 's really very successful
+RonEglash_2007G 1 RonEglash_2007G 889.65 898.94 <NA> teaching children that they have a heritage that 's about mathematics that it 's not just about singing and dancing <unk> we 've started a pilot program in
+RonEglash_2007G 1 RonEglash_2007G 898.94 899.99 <NA> ghana <unk> we got
+RonEglash_2007G 1 RonEglash_2007G 903.1 913.55 <NA> <unk> see if folks would be willing to work with us on this we 're very excited about the future possibilities for that we 've also been working in design i didn 't put his his name up here my colleague <unk> kerry in <unk>
+RonEglash_2007G 1 RonEglash_2007G 913.5 924.18 <NA> kenya has come up with this great idea for using fractal structure for postal address in villages that have fractal structure because if you try to impose a a grid structure postal system on a fractal village <unk> 
+RonEglash_2007G 1 RonEglash_2007G 925.19 932.73 <NA> <unk> bernard tschumi at columbia university has finished using this in a design for a museum of african art david hughes at
+RonEglash_2007G 1 RonEglash_2007G 932.96 941.29 <NA> ohio state university has written a primer on afrocentric architecture in which <unk> he 's used some of these fractal structures

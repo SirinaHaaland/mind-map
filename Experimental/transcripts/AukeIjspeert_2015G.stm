@@ -1,0 +1,121 @@
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 16.12 19.62 <NA> <unk> is a robot that we designed to closely mimic a salamander species called
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 21.58 25.23 <NA> <unk> can walk as you can see here <unk> and as you 'll see later it can also swim
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 26.24 33.18 <NA> <unk> so you might ask why did we design this robot and in fact this robot has been designed as a scientific tool for neuroscience <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 32.96 40.86 <NA> indeed we designed it together with neurobiologists to understand how animals move <unk> and especially how the spinal cord controls locomotion but
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 41.12 45.93 <NA> the more i work in biorobotics the more i 'm really impressed by animal locomotion <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 45.47 54.91 <NA> if you think of a dolphin swimming or a cat running or jumping around or even us as humans <unk> when you go jogging or play tennis we do amazing things
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 55.44 59.9 <NA> and in fact our nervous system solves a very very complex control problem <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 59.9 67.24 <NA> it has to coordinate more or less two hundred muscles perfectly <unk> because if the coordination is bad we fall over or we do bad locomotion 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 67.11 70.6 <NA> and my goal is to understand how this works 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 70.74 79.82 <NA> there are four main components behind animal locomotion <unk> the first component is just the body <unk> and in fact we should never underestimate to what extent the biomechanics
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 79.84 82.61 <NA> <unk> already simplify locomotion in animals 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 82.42 93.74 <NA> then you have the spinal cord and in the spinal cord you find reflexes multiple reflexes that create a sensorimotor coordination loop between neural activity in the spinal cord and mechanical activity 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 93.58 96.83 <NA> a third component are central pattern generators 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 96.83 104.94 <NA> these are very interesting circuits in the spinal cord of vertebrate animals that can generate by themselves very coordinated rhythmic patterns of activity
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 105.01 118.23 <NA> while receiving only very simple input signals <unk> and these input signals coming from descending modulation from higher parts of the brain like the motor cortex the cerebellum the basal ganglia will all modulate activity of the spinal cord while we do locomotion <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 117.89 124.96 <NA> but what 's interesting is to what extent just a low level component the spinal cord together with the body already solve a big part of the locomotion
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 125.79 135.04 <NA> <unk> you probably know it by the fact that you can cut the head off a chicken it can still run for a while showing that just the lower part spinal cord and body already solve a big part of locomotion <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 134.82 149.23 <NA> now <unk> understanding how this works is very complex because first of all recording activity in the spinal cord is very difficult it 's much easier to implant electrodes in the motor cortex than in the spinal cord because it 's protected by the vertebrae <unk> especially in humans very hard to do 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 149.04 154.97 <NA> a second difficulty is that locomotion is really due to a very complex and very dynamic interaction between
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 154.96 159.86 <NA> <unk> these four components <unk> so it 's very hard to find out what 's the role of each over time 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 160.42 165.92 <NA> this is where biorobots like pleurobot and mathematical models can really help <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 169.3 179.97 <NA> <unk> is a very active field of research in robotics where people want to take inspiration from animals to make robots to go outdoors like service robots or search and rescue robots or field robots
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 180.44 191.52 <NA> and the big goal here is to take inspiration from animals to make robots that can handle complex terrain stairs mountains forests <unk> places where robots still have difficulties and where animals can do a much better job 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 191.24 199.63 <NA> the robot can be a wonderful scientific tool as well there are some very nice projects where robots are used like a scientific tool for neuroscience for biomechanics or for
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 203.94 214.51 <NA> <unk> do in my lab is to collaborate with neurobiologists like jean marie cabelguen a neurobiologist in bordeaux in france <unk> and we want to make spinal cord models and validate them on robots 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 214.05 226.99 <NA> and here we want to start simple so it 's good to start with simple animals like lampreys which are very primitive fish <unk> and then gradually go toward more complex locomotion <unk> like in salamanders but also in cats and in humans in mammals <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 227.43 229.97 <NA> and here a robot becomes an interesting tool
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 230.25 231.95 <NA> to validate our models 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 231.76 242.63 <NA> and in fact for me pleurobot is a kind of dream becoming true <unk> like more or less twenty years ago i was already working on a computer making simulations of lamprey and salamander locomotion during my phd 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 242.32 249.81 <NA> but i always knew that my simulations were just approximations <unk> like simulating the physics in water or with mud or with complex
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 250.34 255.57 <NA> <unk> very hard to simulate that properly on a computer why not have a real robot and real physics 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 255.14 260.71 <NA> so among all these animals one of my favorites is the salamander you might ask why <unk> and it
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 260.35 268.98 <NA> 's because as an amphibian it 's a really key animal from an evolutionary point of view it makes a wonderful link between swimming as you find it in eels or fish 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 268.98 273.84 <NA> and quadruped locomotion as you see in mammals in cats and humans <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 273.68 279.94 <NA> and in fact the modern salamander is is very close to the first terrestrial vertebrate so it 's almost a living fossil which gives us
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 279.93 283.69 <NA> <unk> us access to our ancestor the ancestor to all terrestrial
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 283.41 292.96 <NA> tetrapods so the salamander swims by doing what 's called an anguilliform swimming gait so they propagate a nice traveling wave of muscle activity from head to tail 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 293.01 300.8 <NA> and if you place the salamander on the ground <unk> it switches to what 's called a walking trot gait in this case you have nice periodic activation of the limbs
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 300.61 304.82 <NA> which are very nicely coordinated with this standing wave undulation of the body
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 304.86 308.81 <NA> that 's exactly the gait that you are seeing here on pleurobot now
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 308.38 315.83 <NA> one thing which is very surprising and fascinating in fact is the fact that all this can be generated just by the spinal cord and the body <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 315.83 322.82 <NA> so if you take a decerebrated salamander it 's not so nice but you remove the head and if you electrically stimulate the spinal cord <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 322.36 329.13 <NA> at low level of stimulation this will induce a walking like gait <unk> if you stimulate a bit more the gait accelerates and at some point
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 329.96 332.61 <NA> <unk> automatically the animal switches to swimming 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 332.6 334.23 <NA> this is amazing 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 334.23 343.29 <NA> just changing the global drive as if you are pressing the gas pedal of descending modulation to your spinal cord makes a complete switch between two very different gaits 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 344 351.04 <NA> and in fact the same has been observed in cats if you stimulate the spinal cord of a cat you can switch between walk trot and gallop 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 351.04 354.64 <NA> or in birds <unk> you can make a bird switch between walking at a low level of
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 355.25 358.42 <NA> and flapping its wings at high level stimulation <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 357.99 362.63 <NA> and this really shows that the spinal cord is is a very sophisticated locomotion controller <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 362.63 371.89 <NA> so we studied salamander locomotion in more detail <unk> and we had in fact access to a very nice x ray video machine from professor martin fischer in jena university in germany 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 371.64 375.08 <NA> and thanks to that you really have an amazing machine to record all
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 375.04 382.43 <NA> <unk> the bone motion in great detail that 's what we did <unk> so we basically figured out which bones are important for us and
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 382.2 384.54 <NA> collected their motion in 3d 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 384.3 394.88 <NA> and what we did is collect a whole database of motions both on ground and in water to really collect a whole database of motor behaviors that a real animal can do and then our job as roboticists was to replicate <unk>
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 394.78 404.88 <NA> <unk> that in our robot so we did a whole optimization process to find out the right structure where to place the motors how to connect them together to be able to replay these motions as well as possible
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 405.23 411.93 <NA> and this is how pleurobot came to life <unk> so let 's look at how close it is to the real animal <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 412.49 422.31 <NA> so what you see here is almost a direct comparison between the walking of the real animal and the pleurobot you can see that we have almost a one to one exact replay of the walking gait <unk> if you <unk>
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 422.21 424.71 <NA> <unk> go backwards and slowly you see it even better <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 427.07 429.73 <NA> but even better <unk> we can do swimming
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 429.87 433.21 <NA> <unk> so for that we have a dry suit that we put all over the robot 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 433.59 440.52 <NA> and then we can go in water and start replaying the swimming gaits and here we were very happy because this is difficult to do
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 440.53 450.23 <NA> the physics of interaction are complex our robot is much bigger than a small animal <unk> so we had to do what 's called dynamic scaling of the frequencies to make sure we had the same interaction physics
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 450.79 458.75 <NA> <unk> but you see at the end we have a very close match <unk> and we were very very happy with this so let 's go to the spinal cord so here what we did <unk>
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 459.75 462.71 <NA> is model the spinal cord circuits <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 462.61 471.33 <NA> and what 's interesting is that the salamander has kept a very primitive circuit which is very similar to the one we find in the lamprey this primitive eel like fish <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 471.33 479.94 <NA> and it looks like during evolution <unk> new neural oscillators have been added to control the limbs to do the leg locomotion <unk> and we know where these neural oscillators are but what
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 479.96 486.51 <NA> <unk> did was to make a mathematical model to see how they should be coupled to allow this transition between the two very different gaits 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 486.11 489.5 <NA> and we tested that on board of a robot 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 489.5 491.31 <NA> and this is how it looks
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 497.24 500.17 <NA> <unk> so what you see here
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 500.49 507.04 <NA> <unk> is a previous version of pleurobot that 's completely controlled by our spinal cord model programmed on board of the robot and
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 506.82 514.66 <NA> the only thing we do is send to the robot through a remote control the two descending signals it normally should receive from the upper part of the brain
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 515.01 521.05 <NA> and what 's interesting is by playing with these signals we can completely control speed <unk> heading and type of gait 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 521.1 524.96 <NA> for instance <unk> when we stimulate at a low level we have the
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 526.45 530.66 <NA> <unk> and at some point if we stimulate a lot very rapidly it switches to the swimming gait <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 531.04 537.29 <NA> and finally we can also do turning very nicely by just stimulating more one side of the spinal cord than the other 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 537.76 548.12 <NA> and i think it 's really beautiful how nature has distributed control to really give a lot of responsibility to the spinal cord so that the upper part of the brain doesn 't need to worry about every muscle <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 548.12 549.75 <NA> it just has to worry about this high level
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 551 554.46 <NA> <unk> 's really the job of the spinal cord to coordinate all the muscles 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 554.36 558.96 <NA> so now let 's go to cat locomotion and the importance of biomechanics <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 558.62 572.13 <NA> so this is another project where we studied cat biomechanics and we wanted to see how much the morphology helps locomotion <unk> and we found three important criteria in the properties basically of the limbs <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 571.85 574.93 <NA> the first one is that a cat limb more or less looks
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 578.22 583.21 <NA> <unk> is a mechanical structure which keeps the upper segment and the lower segments always parallel so a
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 583.26 588.52 <NA> simple geometrical system that kind of coordinates a bit the internal movement of the segments 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 588.12 597.73 <NA> a second property of cat limbs is that they are very lightweight <unk> most of the muscles are in the trunk <unk> which is a good idea because then the limbs have low inertia and can be moved very rapidly the
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 597.78 604.97 <NA> last final important property is this very elastic behavior of the cat limb so to handle impacts and forces <unk> and this
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 606.64 611.15 <NA> so let 's invite <unk> cheetah cub onstage <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 613.69 625.05 <NA> so this is peter eckert who does his phd on on this robot and as you see it 's a cute little robot it looks a bit like a toy but it was really used as a scientific tool to investigate these properties of
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 625.28 629.19 <NA> <unk> the legs of the cat <unk> so you see it 's very compliant very lightweight <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 628.79 633.48 <NA> and also very elastic so you can easily press it down and it will not break it
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 632.99 638.04 <NA> will just jump in fact <unk> and this very elastic property is also very important 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 638.72 643.83 <NA> and you also see a bit these properties of these three segments of the leg as pantograph now
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 643.82 650.02 <NA> what 's interesting is that this quite dynamic gait is obtained purely in open loop <unk> meaning no sensors
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 650 652.15 <NA> <unk> no complex feedback loops 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 651.72 653.71 <NA> and that 's interesting 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 653.25 658.43 <NA> because it means that just the mechanics already stabilized this quite rapid gait <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 658.19 662.66 <NA> and that really good mechanics already basically simplify locomotion <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 662.66 671.81 <NA> to the extent that we can even disturb a bit locomotion <unk> as you will see in the next video where we can for instance do some exercise where we have the robot go down a step 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 671.58 675.02 <NA> and the robot will not fall over <unk> which was a surprise for us
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 675 684.77 <NA> <unk> this is a small perturbation i was expecting the robot to immediately fall over because there are no sensors no fast feedback loop <unk> but no just the mechanics stabilized the gait <unk> and the robot doesn 't fall over <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 684.61 692 <NA> obviously if you make the step bigger and if you have obstacles <unk> you need the full control loops and reflexes and everything 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 691.54 701.31 <NA> but what 's important here is that just for small perturbation the mechanics are right and i think this is a very important message from biomechanics and robotics to neuroscience saying
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 701.13 704.97 <NA> don 't underestimate to what extent the body already helps locomotion
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 706.97 714.06 <NA> now how does this relate to human locomotion <unk> clearly human locomotion is more complex than cat and salamander locomotion <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 713.93 723.75 <NA> but at the same time <unk> the nervous system of humans is very similar to that of other vertebrates <unk> and especially the spinal cord is also the key controller for locomotion in humans 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 723.29 729.37 <NA> that 's why if there 's a lesion of the spinal cord this has dramatic effects <unk> the person can become paraplegic or
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 730.13 738.73 <NA> this is because the brain loses this communication with the spinal cord especially it loses this descending modulation to initiate and modulate locomotion <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 739.17 743.81 <NA> so a big goal of neuroprosthetics is to be able to reactivate that communication
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 743.63 749.81 <NA> using electrical or chemical stimulations and there are several teams in the world that do exactly that especially at
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 755.53 758.92 <NA> but to do this properly it 's very important to understand
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 758.76 765.5 <NA> how the spinal cord works how it interacts with the body <unk> and how the brain communicates with the spinal cord
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 765.37 773.82 <NA> this is where the robots and models that i 've presented today will hopefully play a key role towards these very important goals <unk> thank you
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 784.7 787.85 <NA> <unk> seen in your lab other robots that do things like
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 787.69 796.89 <NA> swim in pollution and measure the pollution while they swim <unk> but for this one you mentioned in your talk like a side project 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 797.21 800.59 <NA> search and rescue <unk> and it does have a camera on its nose
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 804.93 809.86 <NA> <unk> we would like to use the robots to do search and rescue inspection so this robot is now seeing you 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 809.43 816.77 <NA> and the big dream is to if you have a difficult situation like a collapsed building or a building that is flooded <unk> 
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 816.77 828.65 <NA> and this is very dangerous for a rescue team or even rescue dogs why not send in a robot that can crawl around swim walk with a camera onboard to do inspection and identify survivors and possibly create a communication link with the survivor
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 830.37 833.21 <NA> don 't get scared by the shape of this
+AukeIjspeert_2015G 1 AukeIjspeert_2015G 832.78 845.46 <NA> ai yeah we should probably change the appearance quite a bit because here i guess a survivor might die of a heart attack just of being worried that this would feed on you but by changing the appearance and it making it more robust i 'm sure we can make a good tool out

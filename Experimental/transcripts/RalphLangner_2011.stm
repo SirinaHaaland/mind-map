@@ -1,0 +1,80 @@
+RalphLangner_2011 1 RalphLangner_2011 12.85 17.42 <NA> <unk> the idea behind the stuxnet computer worm is actually quite simple 
+RalphLangner_2011 1 RalphLangner_2011 17.14 20.57 <NA> we don 't want iran to get the bomb 
+RalphLangner_2011 1 RalphLangner_2011 20.08 27.59 <NA> their major asset for developing nuclear weapons is the natanz uranium enrichment facility <unk> 
+RalphLangner_2011 1 RalphLangner_2011 27.16 29.49 <NA> the gray boxes that you see
+RalphLangner_2011 1 RalphLangner_2011 29.9 38.94 <NA> <unk> are real time control systems <unk> now if we manage to compromise these systems that control drive speeds and valves 
+RalphLangner_2011 1 RalphLangner_2011 38.94 41.4 <NA> we can actually cause a lot of problems with <unk>
+RalphLangner_2011 1 RalphLangner_2011 42.65 50.14 <NA> the gray boxes don 't run windows software they are a completely different technology <unk> but if we manage to
+RalphLangner_2011 1 RalphLangner_2011 50.82 54.58 <NA> <unk> a good windows virus on a
+RalphLangner_2011 1 RalphLangner_2011 54.24 58.59 <NA> notebook that is used by a maintenance engineer to configure
+RalphLangner_2011 1 RalphLangner_2011 58.37 62.65 <NA> this gray box <unk> then we are in business <unk> 
+RalphLangner_2011 1 RalphLangner_2011 62.19 69.64 <NA> and this is the plot behind stuxnet so we start with a windows dropper <unk> 
+RalphLangner_2011 1 RalphLangner_2011 69.3 79.67 <NA> the payload goes onto the gray box <unk> damages the centrifuge and the iranian nuclear program is delayed mission accomplished
+RalphLangner_2011 1 RalphLangner_2011 80.14 81.36 <NA> that 's easy huh 
+RalphLangner_2011 1 RalphLangner_2011 81.12 91.58 <NA> i want to tell you how we found that out <unk> when we started our research on stuxnet six months ago <unk> it was completely unknown what the purpose of this thing was the only thing that <unk>
+RalphLangner_2011 1 RalphLangner_2011 91.48 104.97 <NA> <unk> was known is it 's very very complex on the windows part the dropper part used multiple zero day vulnerabilities and it seemed to want to do something with these gray boxes these real time control systems <unk> so that got our attention
+RalphLangner_2011 1 RalphLangner_2011 104.99 113.22 <NA> <unk> and we started a lab project where we infected our environment with stuxnet and checked this thing out 
+RalphLangner_2011 1 RalphLangner_2011 113.22 116.16 <NA> and then some very funny things happened 
+RalphLangner_2011 1 RalphLangner_2011 116.09 121.77 <NA> stuxnet behaved like a lab rat that didn 't like our cheese
+RalphLangner_2011 1 RalphLangner_2011 121.85 124.89 <NA> sniffed but didn 't want to eat didn
+RalphLangner_2011 1 RalphLangner_2011 125 135.2 <NA> didn 't make sense to me and after we experimented with different flavors of cheese i realized well this is a directed attack it 's completely directed
+RalphLangner_2011 1 RalphLangner_2011 135.02 145.3 <NA> <unk> the dropper is prowling actively on the gray box if a specific configuration is found and even if the actual program code that <unk>
+RalphLangner_2011 1 RalphLangner_2011 145.25 151.61 <NA> it 's trying to infect is actually running on on that target and if not stuxnet does nothing <unk> 
+RalphLangner_2011 1 RalphLangner_2011 154.9 168.95 <NA> <unk> on this nearly around the clock <unk> because i thought well <unk> we don 't know what the target is it could be let 's say for example a u s power plant or a chemical plant in germany <unk> so we better find out what the target is soon 
+RalphLangner_2011 1 RalphLangner_2011 168.95 179.97 <NA> so we extracted and decompiled the attack code and we discovered that it 's structured in two digital bombs a smaller one and a bigger one and we
+RalphLangner_2011 1 RalphLangner_2011 179.93 190.08 <NA> <unk> also saw that they are very professionally engineered by people who obviously had all insider information they knew all the bits and bites that <unk>
+RalphLangner_2011 1 RalphLangner_2011 189.98 200.08 <NA> <unk> they had to attack they probably even know the shoe size of the operator so they know everything <unk> and if you have heard that the dropper of stuxnet is complex
+RalphLangner_2011 1 RalphLangner_2011 202.95 210.04 <NA> <unk> the payload is rocket science it 's way above everything that we have ever seen before 
+RalphLangner_2011 1 RalphLangner_2011 209.79 220.36 <NA> here you see a sample of this actual attack code we are talking about around about fifteen thousand lines of code <unk> looks pretty much like old style assembly <unk>
+RalphLangner_2011 1 RalphLangner_2011 220.26 225.04 <NA> <unk> language <unk> and i want to tell you how we were able to make sense out of this code <unk> so
+RalphLangner_2011 1 RalphLangner_2011 229.84 244.47 <NA> and then we were looking for timers and data structures and trying to relate them to the real world to potential real world targets <unk> so we do need target theories that we can prove or disprove 
+RalphLangner_2011 1 RalphLangner_2011 244.47 250.26 <NA> in order to get target theories we remember that it 's definitely hardcore sabotage
+RalphLangner_2011 1 RalphLangner_2011 250.55 260.85 <NA> <unk> it must be a high value target and it is most likely located in iran because that 's where most of the infections had been reported now you don 't find <unk>
+RalphLangner_2011 1 RalphLangner_2011 260.75 271.35 <NA> <unk> several thousand targets in that area it basically boils down to the bushehr nuclear power plant and to the natanz fuel enrichment plant so i told my assistant get me a list of all centrifuge <unk>
+RalphLangner_2011 1 RalphLangner_2011 271.25 279.97 <NA> <unk> and power plant experts from our client base and i phoned them up and picked their brain in an effort to match their expertise with what we found in code and data
+RalphLangner_2011 1 RalphLangner_2011 280.34 290.65 <NA> and that worked pretty well <unk> so we were able to associate the small digital warhead with the rotor control the rotor is that moving part within <unk>
+RalphLangner_2011 1 RalphLangner_2011 290.55 302.5 <NA> <unk> the centrifuge that black object that you see <unk> and if you manipulate the speed of this rotor you are actually able to crack the rotor and eventually even have the centrifuge explode 
+RalphLangner_2011 1 RalphLangner_2011 305.02 311.93 <NA> <unk> the goal of the attack was really to to do it slowly and creepy obviously in an effort to
+RalphLangner_2011 1 RalphLangner_2011 311.86 319.29 <NA> drive maintenance engineers crazy that they would not be able to figure this out quickly the big digital warhead
+RalphLangner_2011 1 RalphLangner_2011 319.29 324.75 <NA> we had a shot at this by looking very closely at data and data structures so for
+RalphLangner_2011 1 RalphLangner_2011 327.53 330.45 <NA> <unk> really stands out in that code you can 't overlook it 
+RalphLangner_2011 1 RalphLangner_2011 330.25 341.1 <NA> i started to research scientific literature on how these centrifuges are actually built in natanz and found <unk> they are structured in what is called a cascade <unk>
+RalphLangner_2011 1 RalphLangner_2011 341.05 349.99 <NA> and each cascade holds one hundred and sixty four centrifuges <unk> so that made sense that was a match and it even got better these centrifuges in iran
+RalphLangner_2011 1 RalphLangner_2011 350 353.88 <NA> <unk> are subdivided into fifteen what is called stages <unk> 
+RalphLangner_2011 1 RalphLangner_2011 353.69 364.15 <NA> and guess what we found in the attack code an almost identical structure so again that was a real good match and this gave us very high confidence for what we were looking <unk>
+RalphLangner_2011 1 RalphLangner_2011 364.05 374.86 <NA> <unk> at now don 't get me wrong here it didn 't go like this these results have been obtained over several weeks of really hard labor and we often
+RalphLangner_2011 1 RalphLangner_2011 376.39 378.26 <NA> <unk> a dead end and had to recover <unk> 
+RalphLangner_2011 1 RalphLangner_2011 378.06 388.37 <NA> anyway so we figured out that both digital warheads were actually aiming at one and the same target <unk> but from different angles the small warhead is taking <unk>
+RalphLangner_2011 1 RalphLangner_2011 388.27 400.05 <NA> <unk> one cascade <unk> and spinning up the rotors and slowing them down and the big warhead is talking to six cascades and manipulating valves <unk> so in all we are very confident that
+RalphLangner_2011 1 RalphLangner_2011 400 409.56 <NA> we have actually determined what the target is it is natanz and it is only natanz so we don 't have to worry that other targets might be
+RalphLangner_2011 1 RalphLangner_2011 409.56 414.96 <NA> hit by by stuxnet here 's some very cool stuff that we saw
+RalphLangner_2011 1 RalphLangner_2011 414.5 416.84 <NA> really knocked my socks off 
+RalphLangner_2011 1 RalphLangner_2011 416.84 429.97 <NA> down there is the gray box and on the top you see the centrifuges <unk> now what this thing does is it intercepts the input values from sensors so for example from pressure sensors and vibration sensors
+RalphLangner_2011 1 RalphLangner_2011 430.17 432.37 <NA> and it provides
+RalphLangner_2011 1 RalphLangner_2011 432.2 437.75 <NA> legitimate program code which is still running during the attack with fake input data 
+RalphLangner_2011 1 RalphLangner_2011 437.75 449.05 <NA> and as a matter of fact this fake input data is actually prerecorded by stuxnet <unk> so it 's just like from the hollywood movies where during the heist the observation camera is fed with prerecorded video 
+RalphLangner_2011 1 RalphLangner_2011 448.83 450.23 <NA> that 's cool
+RalphLangner_2011 1 RalphLangner_2011 452.8 457.55 <NA> <unk> idea here is obviously not only to fool the operators in the control room 
+RalphLangner_2011 1 RalphLangner_2011 457.54 466.85 <NA> it actually is much more dangerous and aggressive the idea is to circumvent a digital safety system 
+RalphLangner_2011 1 RalphLangner_2011 466.96 474.87 <NA> we need digital safety systems where a human operator could not act quick enough so for example in a power plant when your big
+RalphLangner_2011 1 RalphLangner_2011 475 480.63 <NA> steam turbine gets too over speed you must open relief valves within a millisecond 
+RalphLangner_2011 1 RalphLangner_2011 480.46 490.74 <NA> obviously this cannot be done by a human operator <unk> so this is where we need digital safety systems and when they are compromised then real bad things can happen your plant <unk>
+RalphLangner_2011 1 RalphLangner_2011 490.64 496.66 <NA> <unk> can blow up and neither your operators nor nor your safety system will notice it 
+RalphLangner_2011 1 RalphLangner_2011 505.44 512.05 <NA> is generic <unk> it doesn 't have anything to do in specifics with
+RalphLangner_2011 1 RalphLangner_2011 511.68 514.57 <NA> centrifuges with
+RalphLangner_2011 1 RalphLangner_2011 514.2 523.6 <NA> uranium enrichment <unk> so it would work as well for example <unk> in a power plant or in an automobile factory <unk> 
+RalphLangner_2011 1 RalphLangner_2011 526.99 541.49 <NA> <unk> you don 't have as an attacker you don 't have to deliver this payload by a usb stick as we saw it in the case of stuxnet you could also use conventional worm technology for spreading just spread it as wide as possible <unk> 
+RalphLangner_2011 1 RalphLangner_2011 541 545.51 <NA> and if you do that what you end up with is
+RalphLangner_2011 1 RalphLangner_2011 545.86 549.95 <NA> a cyber weapon of mass destruction 
+RalphLangner_2011 1 RalphLangner_2011 551.2 554.97 <NA> that 's the consequence that we have to face
+RalphLangner_2011 1 RalphLangner_2011 554.69 555.93 <NA> <unk> face 
+RalphLangner_2011 1 RalphLangner_2011 555.77 558.78 <NA> so unfortunately <unk> 
+RalphLangner_2011 1 RalphLangner_2011 558.56 567.75 <NA> the biggest number of targets for such attacks are not in the middle east they 're in the united states and europe and in japan <unk> 
+RalphLangner_2011 1 RalphLangner_2011 567.38 571.92 <NA> so all of the green areas <unk> these are your <unk> target rich environments 
+RalphLangner_2011 1 RalphLangner_2011 572.06 574.6 <NA> we have to face the
+RalphLangner_2011 1 RalphLangner_2011 591.53 601.37 <NA> quite widely reported that people assume that mossad is is the main entity behind this is that your opinion ralph langner okay you really want to hear that
+RalphLangner_2011 1 RalphLangner_2011 605.1 606.62 <NA> is involved but
+RalphLangner_2011 1 RalphLangner_2011 606.28 609.51 <NA> that the leading force is not israel <unk> so
+RalphLangner_2011 1 RalphLangner_2011 609.51 617.81 <NA> the leading force behind that is the cyber superpower there is only one and that 's the united states
+RalphLangner_2011 1 RalphLangner_2011 617.8 624.17 <NA> fortunately <unk> fortunately <unk> because otherwise our problems would even be bigger ca 
+RalphLangner_2011 1 RalphLangner_2011 625.24 627.99 <NA> thank you for scaring the living daylights out

@@ -1,0 +1,141 @@
+  is it
+ that french people do better than all the others 
+ if you would take polls  the top three answers might be love  wine
+  but let me suggest a fourth one 
+ mathematics 
+ did you know that paris has more mathematicians than any other city in the world and more streets with mathematicians ' names too 
+ and if you look at the statistics of the fields medal 
+ often called the nobel prize for mathematics and always awarded to mathematicians below the age of forty 
+ you will find that france has more fields medalists
+  per inhabitant than any other country  
+ what is it that we find so sexy in math
+  after all it seems to be dull and abstract  just numbers and computations and rules to apply 
+ mathematics may be abstract  but it 's not dull and it 's not about
+  is about reasoning
+ and proving our core activity  it is about imagination the talent which we most praise  it is about finding the truth 
+ there 's nothing like the feeling which invades you when after months of hard thinking you finally understand the right reasoning to solve your problem
+ that this feeling can last for hours or even days  
+ the reward may be big  
+ hidden mathematical truths permeate our whole physical world 
+ they are inaccessible to our senses but can be seen through mathematical lenses  
+ close your eyes for moment and think of what is occurring right now around you
+  invisible particles from the air around are bumping on you by the billions and billions at each second 
+ all in complete chaos  and still  their statistics can be accurately predicted by mathematical physics  
+ and open your eyes now to the statistics of the
+  the law of errors of deviations with respect to the mean behavior 
+ this curve tells about the statistics of velocities of particles in the same way as a demographic curve would tell about the statistics of ages of individuals  
+ it 's one of the most important curves
+  keeps on occurring again and again from many theories and many experiments as a great example of the universality
+ which is so dear to us mathematicians 
+ of this curve  the famous scientist francis galton said it would have been deified by the greeks if they had known it
+ it is the supreme law of unreason
+  better way to materialize that supreme goddess than galton 's board inside this board
+ are narrow tunnels through which tiny balls will fall down randomly going
+ right or left  or left  etc all in complete randomness and chaos
+  let 's see what happens when we look at all these random trajectories together
+  trapped here inside this transparent box as dream in the sandman comics for you
+ i have shown it  but to my students i explain why it could not be any other curve  
+ and this is touching the mystery of that goddess replacing a beautiful coincidence by a beautiful explanation 
+ all of science is like this 
+ and beautiful mathematical explanations
+ are not only for our pleasure  they also
+  they used the mathematical analysis of random trajectories
+ and the gauss curve
+ to explain and prove that our world is made of atoms  
+ it was not the first time that mathematics was revolutionizing our view of the world 
+ more than two thousand years ago at the time of the ancient greeks
+ it already occurred 
+ in those days only a small fraction of the world had been explored and the earth might have seemed infinite  
+ but clever eratosthenes  using mathematics was able to measure the earth with an amazing accuracy of two percent
+  a pendulum swings slightly slower in cayenne than in paris 
+ from this observation alone  and clever mathematics  newton rightly deduced that the earth is a wee bit flattened at the poles 
+ like zero point three percent
+ so tiny that you wouldn 't even notice it on the real view of the earth 
+ these stories show that mathematics is able to make us go out of our intuition
+ measure the earth which seems infinite see atoms which are invisible or detect an imperceptible variation of shape and
+  if there is just one thing that you should take home from this talk  it is this mathematics allows us to go beyond the intuition
+ and explore territories which do not fit within our grasp  
+ here 's a modern example you will all relate to searching the internet
+  the world wide web more than one billion web pages do you want to go through them all 
+ computing power helps  but it would be useless without the mathematical modeling to find the information hidden in the data
+ let 's work out a baby problem  
+ imagine that you 're a detective working on a crime case  and there are many people who have their version of the facts 
+ who do you want to interview first
+  answer prime witnesses you see suppose that
+ there is person number seven 
+ tells you a story but when you ask where he got if from he points to person number three as a source  
+ and maybe person number three in turn points at person number one
+ as the primary source now number one is a prime witness so i definitely want to interview
+  him priority  
+ and from the graph we also see that person number four is a prime witness  and maybe i even want to interview him first because there are more people who refer to him  
+ ok that was easy  but now what about if you have a big bunch of people who will testify
+  and this graph i may think of it as
+ all people who testify in a complicated crime case  
+ but it may just as well be web pages pointing to each other referring to each other for contents 
+ which ones are the most authoritative not so clear  
+ enter pagerank one of the early cornerstones of google 
+ this algorithm uses the laws of mathematical randomness to
+  determine automatically the most relevant web pages in the same way as we used randomness in the galton board experiment 
+ so let 's send into this graph a bunch of tiny digital marbles
+ and let them go randomly through the graph 
+ each time they arrive at some site they will go out through some link chosen at random to the next one  and again
+  again and again and with small growing piles we 'll keep the record of how many times each site has been visited by these digital marbles 
+ here we go randomness randomness 
+ and from time to time also let 's make jumps completely randomly to increase the fun  
+ and look at this from the chaos will emerge the solution the
+  highest piles correspond to those sites which somehow are better connected than the others  more pointed at than the others  and here we see clearly which are the web pages we want to first try  
+ once again  the solution emerges from the randomness 
+ of course  since that time  google has come up with much more sophisticated algorithms
+  was beautiful  
+ and still  just one problem in a million 
+ with the advent of digital area  more and more problems lend themselves to mathematical analysis  
+ making the job of mathematician a more and more useful one 
+ to the extent that a
+ few years ago  it was ranked number one among hundreds of jobs in a study
+ about the best and worst jobs published by the wall street journal in two thousand and nine mathematician
+ best job in the world
+  analysis  and why not stochastic processes linear programming or fluid simulation 
+ each of these fields have monster industrial applications  and through them there is big money in mathematics 
+ and let me concede that when it comes to making money from
+  the americans are by a long shot the world champions 
+ with clever  emblematic billionaires and amazing giant companies all resting  ultimately on good algorithm 
+ now with all this beauty  usefulness and wealth mathematics does look more sexy  
+ but don 't you think that the life a mathematical researcher is an easy one  it is filled with perplexity
+ frustration a desperate fight for understanding 
+ let me evoke for you one of the most striking days in my mathematician 's life 
+ or should i say one of the most striking nights 
+ at that time i was staying at the institute for advanced studies in princeton for many years the home of albert einstein and
+  the most holy place for mathematical research in the world
+  and that night i was working and working on an elusive proof which was incomplete  
+ it was all about understanding the paradoxical stability property of plasmas which are a crowd of electrons in
+ the perfect world of plasma there are no collisions
+  and no friction to provide the stability like we are used to  
+ but still if you slightly perturb a plasma equilibrium you will find that the resulting electric field spontaneously vanishes  or damps out as if
+ by some mysterious friction force this paradoxical effect  called the landau damping is one of the most important in
+  physics and it was discovered through mathematical ideas
+ but still  a full mathematical understanding of this phenomenon was missing  and together with my former student and main collaborator
+ in paris at the time we had been working for months and months on such a
+  i had already announced by mistake that we could solve it  but the truth is the proof was just not working 
+ in spite of more than one hundred pages of complicated mathematical arguments and a bunch discoveries and huge calculation it was not working 
+ and that night in princeton a certain gap in the chain of arguments was driving me crazy  i was putting in there all my energy
+ and experience and tricks  and still nothing was working one
+  my head i swear take the second term to the other side fourier transform and invert in l2 damn
+ it that was the start of the solution 
+ you see i thought i had taken some rest  but really my brain had continued to work on it in
+ those moments you don 't think of your career or your colleagues
+  complete battle between the problem and you 
+ that being said  it does not harm when you do get a promotion in reward for your hard work and after we completed
+ our huge analysis of the landau damping i was lucky enough to get the most coveted fields medal from the
+  hands of the president of india in hyderabad on nineteen august two thousand and ten
+ an honor that mathematicians never dare to dream a day that i will remember until i live  
+ what do you think on such an occasion  
+ pride yes  and gratitude to the many collaborators who made this possible  
+ and because it was a collective adventure you need to share it not just with your collaborators
+  collaborators 
+ i believe that everybody can appreciate the thrill of mathematical research and share the passionate stories of humans and ideas behind it
+ and i 've been working with my staff at institut
+ together with partners and artists of mathematical communication worldwide so that we can found our own very special
+ museum of mathematics there 
+ so in a few years 
+ when you come to paris  after tasting the great crispy baguette and macaroon  
+ please come and visit us at institut henri poincar and share the mathematical dream with us thank you

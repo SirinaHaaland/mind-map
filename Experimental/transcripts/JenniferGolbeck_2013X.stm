@@ -1,0 +1,78 @@
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 12.76 19.5 <NA> <unk> if you remember that first decade of the web it was really a static place you could go online you could look at pages <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 19.5 25.02 <NA> and they were put up either by organizations who had teams to do it or by individuals who were really
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 25.79 27.06 <NA> <unk> for the time 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 26.69 36.63 <NA> and with the rise of social media and social networks in the early 2000s the web was completely changed to a place where now the vast majority of <unk>
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 36.53 46.39 <NA> <unk> content we interact with is put up by average users either in youtube videos or blog posts or product reviews or social media postings <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 55.08 59.43 <NA> <unk> is not the only place you can do this but it 's the biggest and it serves to illustrate the numbers 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 59.27 69.49 <NA> facebook has one point two billion users per month so half the earth 's internet population is using facebook they are a site <unk> along with others that has allowed people <unk>
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 69.39 78.02 <NA> <unk> to create an online persona with very little technical skill and people responded by putting huge amounts of personal data online <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 80.41 90.86 <NA> <unk> preference demographic data for hundreds of millions of people <unk> which is unprecedented in history and as a computer scientist what this means is that i 've been able to build models <unk>
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 90.76 97.31 <NA> <unk> that can predict all sorts of hidden attributes for all of you that you don 't even know you 're sharing information about 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 104.93 112.41 <NA> <unk> there 's a problem in that users don 't really understand these techniques and how they work <unk> and even if they did they don 't have a lot of control over it <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 112.41 122.37 <NA> so what i want to talk to you about today is some of these things that we 're able to do <unk> and then give us some ideas of how we might go forward to move some control back into the hands of users <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 121.97 130 <NA> so this is target the company i didn 't just put that logo on this poor pregnant woman 's belly you may have seen this anecdote that was printed in forbes magazine
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 130.11 141.19 <NA> <unk> where target sent a flyer to this 15 year old girl with advertisements and coupons for baby bottles and diapers and cribs two weeks before she told her parents that she was pregnant 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 141.03 143.59 <NA> yeah the dad was really upset he said 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 144.18 149.41 <NA> how did target figure out that this high school girl was pregnant before she told her parents 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 149.41 154.7 <NA> it turns out that they have the purchase history for hundreds of thousands of customers
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 154.87 161.12 <NA> <unk> they compute what they call a pregnancy score <unk> which is not just whether or not a woman 's pregnant but what her due date is 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 161.12 167.03 <NA> and they compute that not by looking at the obvious things like she 's buying a crib or baby clothes <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 166.6 174.75 <NA> but things like she bought more vitamins than she normally had or she bought a handbag that 's big enough to hold diapers 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 174.75 179.43 <NA> and by themselves those purchases don 't seem like they might reveal a lot but it 's
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 179.84 187.05 <NA> <unk> pattern of behavior that when you take it in the context of thousands of other people starts to actually reveal some insights <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 187.05 199.35 <NA> so that 's the kind of thing that we do when we 're predicting stuff about you on social media we 're looking for little patterns of behavior that when you detect them among millions of people lets us find out all kinds of things <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 199.01 204.91 <NA> so in my lab and with colleagues we 've developed mechanisms where we can quite accurately predict things like your
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 204.87 219.8 <NA> <unk> political preference your personality score <unk> gender <unk> sexual orientation <unk> religion age intelligence <unk> along with things like how much you trust the people you know and how strong those relationships are we can do all of this really well 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 219.8 224.47 <NA> and again it doesn 't come from what you might think of as obvious information 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 224.01 229.97 <NA> so my favorite example is from this study that was published this year in the proceedings of the national academies if you google
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 230.08 232.7 <NA> <unk> this you 'll find it it 's four pages <unk> easy to read <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 232.7 241.49 <NA> and they looked at just people 's facebook likes <unk> so just the things you like on facebook and used that to predict all these attributes along with some other ones 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 241 247.19 <NA> and in their paper they listed the five likes that were most indicative of high intelligence
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 246.85 249.81 <NA> and among those was liking a page for curly
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 251.33 253.15 <NA> <unk> curly fries are delicious
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 252.97 258.18 <NA> but liking them does not necessarily mean that you 're smarter than the average person 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 258.18 268.9 <NA> so how is it that one of the strongest indicators of your intelligence is liking this page when the content is totally irrelevant to the attribute that 's being predicted
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 268.67 274.84 <NA> <unk> and it turns out that we have to look at a whole bunch of underlying theories to see why we 're able to do this 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 275 288.91 <NA> one of them is a sociological theory called homophily which basically says people are friends with people like them <unk> so if you 're smart you tend to be friends with smart people and if you 're young you tend to be friends with young people and this is well established for hundreds of years <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 288.57 292.57 <NA> we also know a lot about how information spreads through networks <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 292.57 299.93 <NA> it turns out things like viral videos or facebook likes or other information spreads in exactly the same way that diseases spread through
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 301.03 309.59 <NA> <unk> so this is something we 've studied for a long time we have good models of it <unk> and so you can put those things together and start seeing why things like this happen <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 309.59 312.72 <NA> so if i were to give you a hypothesis it would be that
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 312.36 318.44 <NA> a smart guy started this page or maybe one of the first people who liked it would have scored high on that test <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 318.43 324.87 <NA> and they liked it and their friends saw it <unk> and by homophily we know that he probably had smart friends <unk> and so it spread to
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 325.19 330.88 <NA> <unk> some of them liked it <unk> and they had smart friends and so it spread to them and so it propagated through the network
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 330.88 338.37 <NA> to a host of smart people <unk> so that by the end the action of liking the curly fries page
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 337.88 347.64 <NA> is indicative of high intelligence not because of the content but because the actual action of liking reflects back the common attributes of other people who have done it
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 347.78 354.61 <NA> <unk> so this is pretty complicated stuff right it 's a hard thing to sit down and explain to an average user
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 354.87 358.2 <NA> <unk> and even if you do what can the average user do about it 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 358.21 365.57 <NA> how do you know that you 've liked something that indicates a trait for you that 's totally irrelevant to the content of what you 've liked 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 365.36 373.48 <NA> there 's a lot of power that users don 't have to control how this data is used <unk> and i see that as a real problem going forward <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 373.14 379.7 <NA> so i think there 's a couple paths that we want to look at if we want to give users some control over how this data is used
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 380.11 383.13 <NA> <unk> because it 's not always going to be used for their benefit 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 382.89 395.24 <NA> an example i often give is that if i ever get bored being a professor i 'm going to go start a company that predicts all of these attributes and things like how well you work in teams and if you 're a drug user if you 're an alcoholic we know how to predict all that 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 395.24 400.7 <NA> and i 'm going to sell reports to h r companies and big businesses that want to hire you 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 400.9 404.94 <NA> we totally can do that now i could start that business tomorrow and you would
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 404.9 412.8 <NA> <unk> have absolutely no control over me using your data like that that seems to me to be a problem so one of the paths we can go down
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 412.63 420.48 <NA> is the policy and law path and in some respects i think that that would be most effective but the problem is we 'd actually have to do it
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 420.2 424.9 <NA> <unk> observing our political process in action makes me think it 's highly
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 425.76 435.64 <NA> <unk> that we 're going to get a bunch of representatives to sit down learn about this and then enact sweeping changes to intellectual property law in the u s so users control their data 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 435.54 442.67 <NA> we could go the policy route where social media companies say you know what you own your data you have total control over how it 's used 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 442.67 450.4 <NA> the problem is that the revenue models for most social media companies rely on sharing or exploiting users ' data in some way 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 449.94 453.26 <NA> it 's sometimes said of facebook that the users aren 't the customer
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 454.93 465.26 <NA> <unk> so how do you get a company to cede control of their main asset back to the users it 's possible but i don 't think it 's something that we 're going to see change quickly <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 464.86 470.63 <NA> so i think the other path that we can go down that 's going to be more effective is one of more science it
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 470.62 479.97 <NA> 's doing science that allowed us to develop all these mechanisms for computing this personal data in the first place <unk> and it 's actually very similar research that we 'd have to do
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 480.16 490.35 <NA> if we want to develop mechanisms that can say to a user here 's the risk of that action you just took <unk> by liking that facebook page or by sharing this piece of personal <unk>
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 490.25 497.56 <NA> <unk> information you 've now improved my ability to predict whether or not you 're using drugs or whether or not you get along well in the workplace 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 500 505.64 <NA> <unk> share something keep it private or just keep it offline altogether we can also look at things like
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 505.46 514.24 <NA> allowing people to encrypt data that they upload so it 's kind of invisible and worthless to sites like facebook or third party services that access it <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 514.24 520.43 <NA> but that select users who the the person who posted it want to see it have access to see it 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 520.22 528.79 <NA> this is all super exciting research from an intellectual perspective and so scientists are going to be willing to do it so that gives us an advantage over the law side
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 528.57 529.97 <NA> <unk> one of the
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 529.93 540.29 <NA> <unk> problems that people bring up when i talk about this is they say you know if people start keeping all this data private all those methods that you 've been developing to predict their traits are going to fail <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 539.86 551.85 <NA> and i say <unk> absolutely and for me that 's success because as a scientist my goal is not to infer information about users it 's to improve the way people interact online <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 551.85 554.61 <NA> and sometimes that involves inferring things about them
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 555.11 565.26 <NA> <unk> but if users don 't want me to use that data i think they should have the right to do that i want users to be informed and consenting users of the tools that we develop <unk> 
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 564.77 574.63 <NA> and so i think encouraging this kind of science and supporting researchers who want to cede some of that control back to users and away from the social media companies
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 574.47 579.97 <NA> means that going forward as these tools evolve and advance means that we 're going to have an educated
+JenniferGolbeck_2013X 1 JenniferGolbeck_2013X 580.23 586.16 <NA> <unk> and empowered user base <unk> and i think all of us can agree that that 's a pretty ideal way to go forward <unk> thank you

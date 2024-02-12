@@ -1,0 +1,113 @@
+  almost a year ago my aunt started suffering back pains she went to see the doctor
+ and they told her it was a normal injury for someone who had been playing tennis for almost thirty years 
+ they recommended that she do some therapy  but after a while she wasn 't feeling better
+  decided to do further tests  
+ they did an x ray and discovered an injury in her lungs and at the time they thought that the injury was a strain in the muscles and tendons between her ribs  
+ but after a few weeks of treatment  again
+ her health wasn 't getting any better  so finally they decided to do a biopsy  and two weeks
+  the results of the biopsy came back it was stage three lung cancer  
+ her lifestyle was almost free of risk  
+ she never smoked a cigarette  she never drank alcohol  and she had been playing sports for almost half her life 
+ perhaps that is why it took them almost six months to get her properly diagnosed 
+ my story might
+  familiar to most of you one out of three people sitting in this audience
+ will be diagnosed with some type of cancer and one out of four will die because of it 
+ not only did that cancer diagnosis change the life of our family  but that process of going back and forth
+ with new tests  different doctors describing symptoms discarding diseases
+ over and over was stressful and frustrating
+  for my aunt  and that is the way cancer diagnosis has been done since the beginning of history  we have 
+ medical treatments and drugs to treat cancer  but we still have 20th century procedures and processes for diagnosis if any 
+ today  most of us have to wait for symptoms to indicate that something is 
+ the majority of people still
+  have access to early cancer detection methods  even though we know that catching cancer early
+ is basically the closest thing we have to a silver bullet cure against it 
+ we know that we can change this in our lifetime  and that is why my team and i have decided to begin this journey 
+ this journey to try to make cancer detection at the early stages and
+  easier  cheaper  smarter
+ and more accessible than ever before 
+ the context of course is that we 're living at a time where technology is disrupting our present at exponential rates 
+ and the biological realm is no exception  
+ it is said today that biotech is advancing at least six times faster
+  than the growth rate of the processing power of computers  but progress in biotech is not only being accelerated it is also being democratized  just as
+ personal computers or the internet or smartphones leveled the playing field for entrepreneurship politics or education  
+ recent advances have leveled it up for biotech progress as well  
+ and that is allowing multidisciplinary teams like ours to try to tackle
+ and look at these problems with new approaches we are a team of scientists
+ and technologists from chile  panama  mexico  israel and greece  
+ and based on recent scientific discoveries  we believe that we have found a reliable
+ and accurate way of detecting several types of cancer at the very early stages through a blood sample  
+ we do it by detecting a set of very small molecules that circulate freely in our blood called
+  micrornas 
+ to explain what micrornas are and their important role in cancer  i need to start with proteins  because when cancer is present in our body  
+ protein modification is observed in all cancerous cells 
+ as you might know proteins are large biological molecules that perform different functions within our body  
+ like catalyzing metabolic reactions or responding to stimuli or replicating dna
+  but before a protein is expressed or produced  relevant parts of its genetic code
+ present in the dna are copied into the messenger rna 
+ so this messenger rna has instructions on how to build a specific protein  
+ and potentially it can build hundreds of proteins but the one that tells them when to build them and how many to build
+ are micrornas
+ so micrornas are small molecules that regulate gene expression  
+ unlike dna which is mainly fixed micrornas can vary depending on internal and environmental conditions at any given time
+ telling us which genes are actively expressed at that particular moment  
+ and that is what makes micrornas such a promising biomarker for cancer  
+ because as you know cancer  is a disease of altered gene expression
+ it is the uncontrolled regulation of genes
+ another important thing to consider is that no two cancers are the same  but at the microrna level there are patterns 
+ several scientific studies have shown
+ that abnormal
+ microrna expression levels varies and creates a unique specific pattern for each type of cancer  
+ even at the early stages  reflecting the progression of the disease
+  whether it 's responding to medication or in remission  making micrornas a perfect  highly sensitive biomarker  
+ however the problem with micrornas is that we cannot use existing dna based technology to detect them in a reliable way 
+ because they are very short sequences of nucleotides much smaller
+  and also all micrornas are very similar to each other with just tiny differences  
+ so imagine trying to differentiate two molecules  extremely similar  extremely small  
+ we believe that we have found a way to do so and this is the first time that we 've shown it in public  let me do a demonstration  
+ imagine that next time you go to your doctor and do your next standard blood test a
+  which is quite simple today  
+ and puts it in a standard 96 well plate like this one 
+ each well of these plates has specific biochemistry that we assign that is looking for a specific microrna 
+ acting like a trap that closes only when the microrna is present in the sample and when it does  it will shine with green color 
+ to run the reaction you put the plate inside a device like this one 
+ and then you can put your smartphone on top of
+ it if we can
+  a camera here so you can see my screen 
+ a smartphone is a connected computer and it 's also a camera  
+ good enough for our purpose 
+ the smartphone is taking pictures  and when the reaction is over it will send the pictures to our online database for processing and interpretation 
+ this entire process lasts around sixty
+  minutes  but when the process is over  wells that shine are matched with the specific micrornas and analyzed in terms of how much and how fast they shine  
+ and then when this entire process is over 
+ this is
+ what happens this chart is showing the specific micrornas present in this sample and how they reacted over time 
+ then if we take this specific pattern of microrna
+  this person 's samples and compare it with existing scientific documentation that correlates microrna patterns with a specific presence of a disease 
+ this is how pancreatic cancer looks like this inside is a real sample where we just detected pancreatic cancer
+  important aspect of this approach is the gathering and mining of data in the cloud so we can get results in real time and analyze them with our contextual information if
+ we want to better understand and decode diseases like cancer  we need to stop treating them as acute  isolated
+  and data science
+ to try to tackle one of humanity 's toughest challenges
+ since we believe early cancer detection should really be democratized  this entire solution costs at least fifty times less
+  than current available methods  
+ and we know that the community can help us accelerate this even more so we 're making the design of the device open source 
+ let me say very clearly that we are at the
+  so far we have been able to successfully identify the microrna pattern
+ of pancreatic cancer  lung cancer  breast cancer and hepatic cancer  and currently we 're doing a clinical trial
+ in collaboration with the german cancer research center with two hundred women for breast cancer
+  test
+ that has the potential to dramatically change how cancer procedures and diagnostics have been done 
+ since we 're looking for the microrna patterns in your blood at any given time you don 't need to know which cancer you 're looking for 
+ you don 't need to have any symptoms you only need one milliliter of blood
+ and a relatively simple
+  cancer detection happens mainly when symptoms appear 
+ that is at stage three or four and i believe that is too late it is too expensive for our families it is too expensive for humanity  
+ we cannot lose the war against cancer it not only costs us billions of dollars but it also costs us the people we love
+ today my aunt
+  she 's fighting bravely and going through this process with a very positive attitude  
+ however  i want fights like this to become very rare  
+ i want to see the day when cancer is treated easily because it can be routinely diagnosed at the very early stages and i 'm certain
+ that in the very near future  
+ because of this and other breakthroughs that we are seeing every day in the life sciences the way we see cancer will radically change  
+ it will give us the chance of detecting it early
+ understanding it better  and finding a cure  thank you very much

@@ -1,0 +1,185 @@
+  this is such a strange thing your software linux 
+ is in millions of computers  it probably powers much of the internet  
+ and i think that there are like a billion and a half active android devices out there your software is in every single one of them
+ it 's kind of amazing you must have some amazing software headquarters driving all this  that 's what i thought and i was shocked when i saw a picture of it 
+ i mean this is this is the linux world headquarters
+ part in this
+ picture that people mostly react to is the walking desk 
+ it is the most interesting part in my office and i 'm not actually using it anymore and i think the two things are related
+  the way i work is 
+ i want to not have external stimulation
+ you can kind of see on the walls
+  are this
+ light green i 'm told that at mental institutions they use that on the walls 
+ it 's like a calming color  it 's not something that really stimulates you 
+ what you can 't see is the computer here you only see the screen  but the main thing i worry about in my computer is it doesn 't have to be big and powerful although
+ i like that it really has to be completely silent
+ i know people who work for google and they have their own small data center at home and i don 't do that my office is the most boring office you 'll ever see  
+ and i sit there alone
+ in the quiet if the cat
+  it sits in my lap  and i want to hear the cat purring not the sound of the fans in the computer ca so this is astonishing because
+ working this way you 're able to run this this vast technology empire it is an empire
+ so that 's that 's an amazing testament to the power of open source  tell us
+ how you got to understand open source and how it lead to the development of linux lt i mean i still work alone
+ really i work alone in my house often in my bathrobe when a photographer shows up  i dress up so i have clothes on 
+ and that 's how i 've always worked i mean  this was how i started linux too i did not start linux as a collaborative project i started it as
+ one in a series of many projects i had done at the time
+  for myself  partly because i needed the end result but even more because i just enjoyed programming so
+ it was it was about the the
+ end of the journey which twenty five years later we still have not reached but it was really about the fact that i was looking for a project on my own
+ and there was no open source really on my radar at all and what happened is the
+  project grows and becomes something you want to show off to people
+ really this is more of a wow look at what i did and trust me it was not that great back then 
+ i made it publicly available and it wasn 't even open source at that point at that point it was source that was open but there was no intention behind using the kind of
+  methodology that we think of today to improve it it was more like look i 've been working on this for half a year
+  i 'd love to have comments and other people approached me at the university of helsinki i had a friend
+ who was one of the open source it was called mainly free
+  back then and he actually introduced me to the notion that hey
+ you can use these open source licenses that had been around  
+ and i thought about it for a while i was actually worried about the whole commercial interests coming in i mean that 's one of the worries i think most people who start out have is that they worry about
+ somebody taking advantage of their work
+ i decided what the hell 
+ and ca and
+ then at some point someone contributed some code that you thought wow that really is interesting i would not have thought of that this could actually improve this lt it didn 't even start by people contributing 
+ code it was more that people started contributing ideas  
+  other things too but it 's definitely true in code is that somebody else takes an interest in your code  looks at it enough to actually give you feedback and give you ideas  
+ that was a huge thing for me i was  twenty one at the time so i was young  but i had already programmed for half my life basically 
+ and every project before that had been completely personal and it was a revelation when
+  people just started commenting started giving feedback on your code  and even before they started giving code back 
+ that was i think one of the big moments where i said i love other people 
+ don 't get me wrong i 'm actually not a people person 
+ laughter i
+  i do love other people who comment and and get involved in my project and it made it so much more ca
+ so was there a moment when you saw what was being built and it suddenly started taking off and you thought wait
+  actually could be something huge not just a personal project that i 'm getting nice feedback on but a kind of explosive
+ development in the whole technology world lt not really i mean the big
+ point for me really was not when it was becoming huge it was when it was becoming little the big point for me was
+ not being alone and having ten maybe one hundred people being involved that was a big point then everything else was very
+  gradual  going from one hundred people to a million people is not a big deal
+ to me well i mean  maybe it is if you 're if you want to sell your
+ result then it 's a huge deal don 't get me wrong but if you 're interested in the technology and you 're interested in the project the big part was getting the community then the community grew gradually and there 's actually not a single point where i went like 
+ wow that just took off
+ i mean it took a long time  relatively ca so all the technologists that i talk to really credit you with with massively changing their work  and it 's not just linux it 's this thing called git 
+ which is this management system for software development 
+ tell us briefly about that and your your role in that lt 
+  so one of the issues we had and this took a while to to start to appear is when you 
+ when you grow from having ten people or one hundred people working on a project
+ to having ten thousand people which i mean  right now we 're in the situation where just on the kernel we have one thousand people involved in every single release and that 's every two months roughly two or three
+  some of those people don 't do a lot there 's a lot of people who make small small changes but to maintain this the scale changes how you have to maintain it and we went through a lot of pain 
+ and
+ there are there are whole projects that do only source code maintenance cvs is the one that used to be the most
+  hated cvs with a passion and refused to touch it and tried something else that was radical and interesting and and everybody else hated ca lt 
+ and we were in this bad spot where we had thousands of people who wanted to participate but in many ways i was the
+ the kind of break point where i could not scale to the point where i could work with thousands of people so git is my second big project
+  which was only created for me to maintain my first big project  and this is literally how i work i don 't code for
+ well i do code for fun
+ but i want to code for something meaningful so every single project i 've ever done has been something i needed and ca so
+  the man who 's transformed technology not just once but twice  and we have to try and understand why it is you 've given us some clues but here 's a picture of you as a kid 
+  with a rubik 's cube you mentioned that you 've been programming since you were like ten or eleven half your life  
+ were you this sort of computer genius you know bernerd were you the star at school who could do everything what were you like as a kid lt 
+ yeah i think i was the prototypical nerd i mean i was i was not a people person back then that 's my younger
+  i was
+ clearly more interested in the rubik 's cube than my younger brother 
+ my younger sister who 's not in the picture
+  when we had family meetings and it 's not a huge family but i have like a couple of cousins
+ she would prep me
+ beforehand like before i stepped into the room she
+  into computers i was into math i was into physics i was good at that  i don 't think i was particularly exceptional
+  apparently my sister said that
+ my biggest exceptional quality was that i would not let go
+  ca ok so let 's go there because that 's interesting you would not let go so that 's not about being a geek and being smart that 's about being
+  being stubborn lt that 's about being stubborn that 's about like 
+ just starting something and not saying ok  
+ i 'm done let 's do something else look shiny 
+ and i notice that in many other parts in my life too i lived in silicon valley for seven years  and i worked for the same
+  company in silicon valley 
+ for the whole time that is unheard of 
+ that 's not how silicon valley works the whole point of silicon valley is that people jump between jobs
+ to kind of
+ mix up the pot and that 's not the kind of person i am ca but during the actual development of linux itself  that stubbornness
+ sometimes brought you in conflict with other people
+  about that a bit  was that essential to sort of maintain the quality of what was being
+ built how would you describe what happened lt i don 't know if it 's essential  going back to the i 'm not a
+ people person sometimes i 'm also  shall we say
+  when it comes to other people 's feelings  and that sometimes makes you say things that hurt other people  and
+ i 'm not proud of that but at the same time it 's
+ i get people who tell me that i should be nice  and
+ then when i try to explain to them that maybe you 're nice  maybe you should be more aggressive
+  they see that as me being not nice  laughter
+ what i 'm trying to say is we are different  i 'm not a people person  it 's not something i 'm particularly proud of but it 's part of me and one of the things i really like about open source is
+ it really allows different people to work together we don 't have to like each other and sometimes we really don 't like
+  each other really i mean there are very very heated arguments but you can actually you can find things that
+ you don 't even agree to disagree it 's just that you 're interested in really different things 
+ and coming back to the point where i said earlier that i was afraid of commercial people taking advantage of your work 
+ it turned out and very quickly turned out that those commercial people were
+  lovely lovely people and they did all the things that i was not at all interested in doing and they had completely different goals  and they used open source in ways that
+ i just did not want to go  
+ but because it was open source they could do it and it actually works really beautifully together  and i actually think it works the same way you need to have
+  the warm and friendly people who
+ like 
+ laughter really want to hug you and get you into the community but that 's not everybody and that 's not me  
+ i care about the technology there are people who care about the ui i can 't do ui to save my life  i mean if i was stranded on
+ an island and the only way to get off that island was the
+  so there 's different kinds of people and
+ i 'm not making excuses i 'm trying to explain ca now when we talked last week you talked about some some other trait that
+ that you have which i found really interesting it 's this idea called taste and i 've just got a couple of images here
+ i think this is an example of not particularly good taste in code
+ and this one is better taste  which one can immediately see what is the difference between these two
+ so this is how many people here actually have coded 
+ oh my goodness lt so i guarantee you everybody who raised their hand they have done what 's called a singly linked list and it 's taught
+ this the first not very good taste approach is basically how it 's taught to be done when you start out coding and you don 't have to understand the code
+  the most interesting part to me is the last if statement
+  because what happens in a singly linked list this is trying to remove an existing entry from a list
+ and
+ there 's a difference between if it 's the first entry or whether it 's an entry in the middle 
+ because if it 's the first entry you have to change the pointer to the first entry if it 's in the middle you have to change the pointer of
+  previous entry  so they 're two completely different cases ca and that 's better lt and this is better  
+ it does not have the if statement
+  and it doesn 't really matter  i don 't want you understand why it doesn 't have the if statement  but i want you to understand that sometimes you can see a problem in a different way and rewrite 
+  it so that a special case goes away and becomes the normal case  and that 's good code
+ but this is simple code this is cs one hundred and one this is not important although  details are important 
+ to me the sign of people i really want to work with is that they have good taste  which is how 
+ i sent you this stupid example that is not relevant because it 's too small good taste is much bigger than this good taste is about
+ really seeing the big patterns
+ kind of
+ instinctively knowing what 's the right way to do things ca ok so we 're putting the pieces together here now   you have taste 
+ in a way that 's meaningful to software people
+  but there must be something else i mean you 've changed the future you must have 
+  of these grand visions of the future you 're a visionary right lt i
+ 've actually felt slightly uncomfortable at ted for the last two
+ days because there 's a lot of vision going on right  and i am not a visionary  i do not have a five year plan  i
+  and i think it 's really i mean
+ i 'm perfectly happy with all the people who are walking around and just staring at the clouds and looking at the stars and saying i want to go there 
+ but i 'm looking at the ground and i want to fix the pothole that 's right in front of me before i fall in 
+ this is the kind of person i am ca so
+ you spoke to me last week about about these two guys who are they and how do you relate to them
+ clich in technology the whole tesla versus edison where tesla is seen as the visionary scientist and crazy idea man and people love tesla 
+ i mean there are people who name their companies after him 
+ the other person there is edison who is actually often vilified for being kind of pedestrian and
+  his most famous quote is genius is one percent inspiration and ninety nine percent perspiration 
+ and i 'm in the edison camp even if people don 't always like him because if you actually compare the two 
+ tesla has kind of this mind
+ grab these days  but who actually changed the
+  may not have been a nice person he did a lot of things he he was maybe not so intellectual not so visionary
+ but
+ i think i 'm more of an edison than a tesla ca 
+ so our theme at ted this week is is dreams big bold audacious dreams you 're really the antidote to that lt i 'm trying to dial it down a bit
+  companies like google and many others have made  arguably like  billions of dollars out of your software does that piss you off  
+ lt no no it doesn 't piss me off for several reasons and one of them is i 'm doing fine  i 'm really doing fine
+  but the other reason is i mean  without doing the whole open source and really letting go thing linux would never have been what it is and
+ it 's brought experiences i don 't really enjoy  public talking but at the same time  this is an experience trust me  
+ so there 's a lot of things going on that make me a
+ very happy man and thinking i did the right choices ca is the open source idea this is i think we 'll end here is the open source idea fully realized now in the world
+  more that it could go are there more things that it could do lt so i 'm of two minds there
+ i think one reason open source works so well in in code
+ is that
+ at the end of the day code tends to be somewhat black and white there 's
+ often a fairly good way to decide this is done correctly and this is not done well
+ code either works or it doesn 't 
+ which means that there 's less room for arguments  and we have arguments despite this right 
+ in many other areas
+ i mean people have talked about open politics and things like that and it 's really hard sometimes to say that yes you can apply the same principles in some other areas just because
+  the black and white turns into not just gray but different colors 
+ so obviously open source in science is making a comeback science was there first 
+ but then science ended up being pretty closed with very expensive journals and some some of that going on and open source is
+  so there are other examples i 'm sure there are more to come

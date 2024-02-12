@@ -1,0 +1,178 @@
+StephenWolfram_2010 1 StephenWolfram_2010 12.73 21.92 <NA> <unk> so i want to talk today about an idea <unk> it 's a big idea actually i think it 'll eventually be seen as probably the single biggest idea that 's emerged in the past century it
+StephenWolfram_2010 1 StephenWolfram_2010 21.58 29.97 <NA> 's the idea of computation now of course that idea has brought us all of the computer technology we have today and so on <unk> but there 's actually a lot
+StephenWolfram_2010 1 StephenWolfram_2010 29.96 38.13 <NA> <unk> more to computation than that it 's really a very deep very powerful very fundamental idea <unk> whose effects we 've only just begun to see <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 37.76 43.42 <NA> well <unk> i myself have spent the past thirty years of my life working on three large projects
+StephenWolfram_2010 1 StephenWolfram_2010 42.94 48.45 <NA> that really try to take the idea of computation seriously so i started off
+StephenWolfram_2010 1 StephenWolfram_2010 48.44 54.58 <NA> at a young age as a physicist using computers as tools then i started drilling down thinking about the
+StephenWolfram_2010 1 StephenWolfram_2010 55.17 61.72 <NA> <unk> i might want to do trying to figure out what primitives they could be built up from and how they could be automated as much as possible 
+StephenWolfram_2010 1 StephenWolfram_2010 61.72 67.84 <NA> eventually i created a whole structure based on symbolic programming and so on that let me build mathematica <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 67.71 79.97 <NA> and for the past twenty three years at an increasing rate we 've been pouring more and more ideas and capabilities and so on into mathematica and i 'm happy to say that that 's led to many good things in r & d and education lots of other areas
+StephenWolfram_2010 1 StephenWolfram_2010 79.63 80.87 <NA> <unk> areas <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 80.98 86.53 <NA> well <unk> i have to admit actually that i also had a very selfish reason for building mathematica 
+StephenWolfram_2010 1 StephenWolfram_2010 86.54 91.83 <NA> i wanted to use it myself a bit like galileo got to use his telescope four hundred years ago <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 91.41 97.65 <NA> but i wanted to look not at the astronomical universe <unk> but at the computational universe <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 97.65 103.82 <NA> so we normally think of programs as being complicated things that we build for very specific purposes <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 103.45 104.97 <NA> but what about the
+StephenWolfram_2010 1 StephenWolfram_2010 104.93 110.34 <NA> <unk> space of all possible programs here 's a representation of a of a really simple program 
+StephenWolfram_2010 1 StephenWolfram_2010 110.03 115.5 <NA> so if we run this program this is what we get very simple <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 115.55 118.53 <NA> so let 's try changing the rule
+StephenWolfram_2010 1 StephenWolfram_2010 118.04 124.9 <NA> for this program a little bit now we get another result still very simple try changing it
+StephenWolfram_2010 1 StephenWolfram_2010 127.08 136.75 <NA> <unk> something a little bit more complicated but if we keep running this for a while we find out that although the pattern we get is very intricate it has a very regular structure 
+StephenWolfram_2010 1 StephenWolfram_2010 136.89 140.29 <NA> so the question is can anything else happen <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 140.16 150.14 <NA> well <unk> we can do a little experiment let 's just do a little mathematical experiment try and find out <unk> let 's just run all possible programs of the particular type
+StephenWolfram_2010 1 StephenWolfram_2010 150.64 152.55 <NA> <unk> we 're looking at they 're called cellular automata <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 152.34 162.68 <NA> you can see a lot of diversity in the behavior here most of them do very simple things but if you if you look along all these different pictures at rule number thirty you start to see something interesting going on <unk>
+StephenWolfram_2010 1 StephenWolfram_2010 162.63 167.09 <NA> <unk> so let 's take a closer look at rule number thirty here <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 179.99 186.78 <NA> <unk> my intuition and in fact to understand it i eventually had to create a whole new kind of science 
+StephenWolfram_2010 1 StephenWolfram_2010 189.83 197.88 <NA> this science is is different more general than the mathematics based science that we 've had for the for the past three hundred or so years you
+StephenWolfram_2010 1 StephenWolfram_2010 197.93 199.78 <NA> know it 's always seemed like a big
+StephenWolfram_2010 1 StephenWolfram_2010 203.7 207.88 <NA> <unk> manages to produce so much that seems to us so complex <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 207.69 210.46 <NA> well <unk> i think we 've found its secret <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 210.46 220.48 <NA> it 's just sampling what 's out there in the computational universe and quite often getting things like rule thirty or or like this 
+StephenWolfram_2010 1 StephenWolfram_2010 220.8 224.99 <NA> and knowing that starts to explain a lot of long standing mysteries
+StephenWolfram_2010 1 StephenWolfram_2010 226.51 236.37 <NA> <unk> it also brings up new issues though like computational irreducibility <unk> i mean we 're used to having science let us predict things but something like this is
+StephenWolfram_2010 1 StephenWolfram_2010 236.19 243.38 <NA> is fundamentally irreducible the only way to find its outcome is effectively just to watch it evolve it
+StephenWolfram_2010 1 StephenWolfram_2010 243.13 251.34 <NA> 's connected to what i call the principle of computational equivalence <unk> which tells us that even incredibly simple systems can do computations
+StephenWolfram_2010 1 StephenWolfram_2010 251.15 254.97 <NA> as sophisticated as anything it doesn 't take lots of technology
+StephenWolfram_2010 1 StephenWolfram_2010 254.99 261.9 <NA> <unk> biological evolution to be able to do arbitrary computation just something that happens naturally all over the place 
+StephenWolfram_2010 1 StephenWolfram_2010 261.9 265.41 <NA> things with rules as simple as these can do it 
+StephenWolfram_2010 1 StephenWolfram_2010 265.52 274.78 <NA> well <unk> this has deep implications about the limits of science about predictability and controllability of things like biological processes or economies 
+StephenWolfram_2010 1 StephenWolfram_2010 274.78 279.88 <NA> about intelligence in the universe <unk> about questions like free will and about
+StephenWolfram_2010 1 StephenWolfram_2010 279.81 281.62 <NA> <unk> creating technology <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 281.64 288.22 <NA> you know in working on this science for many years i kept wondering what will be its first killer app 
+StephenWolfram_2010 1 StephenWolfram_2010 287.91 293.99 <NA> well <unk> ever since i was a kid i 'd been thinking about systematizing knowledge and somehow making it computable 
+StephenWolfram_2010 1 StephenWolfram_2010 293.99 302.62 <NA> people like leibniz had wondered about that too three hundred years earlier <unk> but i 'd always assumed that to make progress i 'd essentially have to replicate a whole brain <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 302.61 304.85 <NA> well then i got to thinking this
+StephenWolfram_2010 1 StephenWolfram_2010 304.75 308.03 <NA> <unk> scientific paradigm of mine suggests something different
+StephenWolfram_2010 1 StephenWolfram_2010 307.63 313.23 <NA> and by the way i 've now got huge computation capabilities in mathematica <unk> and
+StephenWolfram_2010 1 StephenWolfram_2010 313.23 319.04 <NA> i 'm a ceo with some worldly resources to do large <unk> seemingly crazy projects
+StephenWolfram_2010 1 StephenWolfram_2010 318.61 325.35 <NA> so i decided to just try to see how much of the systematic knowledge that 's out there in the world we could make computable
+StephenWolfram_2010 1 StephenWolfram_2010 326.12 334.82 <NA> <unk> it 's been a big very complex project which i was not sure was going to work at all <unk> but i 'm happy to say it 's actually going really well <unk> and
+StephenWolfram_2010 1 StephenWolfram_2010 334.66 340.3 <NA> last year we were able to release the first website version of wolfram alpha 
+StephenWolfram_2010 1 StephenWolfram_2010 340.3 346.17 <NA> its purpose is to be a serious knowledge engine that computes answers to questions <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 345.95 350.28 <NA> so let 's give it a try <unk> let 's start off with something really easy 
+StephenWolfram_2010 1 StephenWolfram_2010 350.3 354.73 <NA> hope for the best very good okay <unk> so far so good
+StephenWolfram_2010 1 StephenWolfram_2010 358.77 362.41 <NA> let 's try something a little bit harder <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 363.42 367.79 <NA> let 's do some some mathy thing and
+StephenWolfram_2010 1 StephenWolfram_2010 367.79 376.51 <NA> with luck it 'll work out the answer and try and tell us some interesting things things about related math we could ask it something about
+StephenWolfram_2010 1 StephenWolfram_2010 376.14 379.16 <NA> the real world let 's say i don 't know what 's the
+StephenWolfram_2010 1 StephenWolfram_2010 379.93 381.86 <NA> <unk> gdp of spain <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 381.52 384.19 <NA> and it should be able to tell us that 
+StephenWolfram_2010 1 StephenWolfram_2010 384.2 390.92 <NA> now we could compute something related to this let 's say the gdp of spain divided by i don 't know the hmmm <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 391.21 394.7 <NA> let 's say the revenue of microsoft 
+StephenWolfram_2010 1 StephenWolfram_2010 395.65 400.05 <NA> the idea is that we can just type this in this kind of question in however we think of
+StephenWolfram_2010 1 StephenWolfram_2010 401.21 404.67 <NA> <unk> let 's try asking a question <unk> like a health related question <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 404.67 412.29 <NA> so let 's say we have a a lab finding that you know we have an ldl level of one hundred and forty for a male aged fifty
+StephenWolfram_2010 1 StephenWolfram_2010 412.16 416.17 <NA> <unk> so let 's type that in and now wolfram alpha will go and use
+StephenWolfram_2010 1 StephenWolfram_2010 415.72 421.89 <NA> available public health data and try and figure out what part of the population that corresponds to and so on <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 421.61 427.02 <NA> or let 's try asking about i don 't know the international space station 
+StephenWolfram_2010 1 StephenWolfram_2010 427.07 428.38 <NA> and
+StephenWolfram_2010 1 StephenWolfram_2010 428.15 429.91 <NA> what 's happening here is that wolfram
+StephenWolfram_2010 1 StephenWolfram_2010 429.87 433.42 <NA> <unk> alpha is not just looking up something it 's computing
+StephenWolfram_2010 1 StephenWolfram_2010 432.93 439.9 <NA> <unk> in real time where the international space station is right now at this moment how fast it 's going and so on <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 440.58 444.97 <NA> so wolfram alpha knows about lots and lots of kinds of things it 's
+StephenWolfram_2010 1 StephenWolfram_2010 444.75 449.81 <NA> got by now pretty good coverage of everything you might find in a standard reference library
+StephenWolfram_2010 1 StephenWolfram_2010 451.3 456.86 <NA> <unk> the goal is to go much further and very broadly to democratize
+StephenWolfram_2010 1 StephenWolfram_2010 456.4 461.79 <NA> all of this knowledge and to try and be an authoritative source
+StephenWolfram_2010 1 StephenWolfram_2010 461.79 475.1 <NA> in all areas to be able to compute answers to specific questions that people have not by searching what other people may have written down before <unk> but by using built in knowledge to compute fresh new answers to specific questions 
+StephenWolfram_2010 1 StephenWolfram_2010 475.82 481.29 <NA> <unk> of course wolfram alpha is a a monumentally huge long term project with lots and lots of challenges
+StephenWolfram_2010 1 StephenWolfram_2010 481.13 486.88 <NA> <unk> for a start one has to curate a zillion different sources of of facts and data 
+StephenWolfram_2010 1 StephenWolfram_2010 486.88 492.93 <NA> and we built quite a pipeline of mathematica automation and human domain experts for doing this 
+StephenWolfram_2010 1 StephenWolfram_2010 492.62 493.81 <NA> but
+StephenWolfram_2010 1 StephenWolfram_2010 493.62 499.93 <NA> that 's just the beginning <unk> given raw facts or data to actually answer questions one has to
+StephenWolfram_2010 1 StephenWolfram_2010 501.09 508.26 <NA> <unk> one has to implement all those methods and models and algorithms and so on that science and other areas have built up over the centuries <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 508.26 513.19 <NA> well <unk> even starting from mathematica this is still a huge amount of work 
+StephenWolfram_2010 1 StephenWolfram_2010 512.88 519.88 <NA> so far there are about eight million lines of mathematica code in wolfram alpha built by experts from many many different fields <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 519.81 524.99 <NA> well <unk> a crucial idea of wolfram alpha is that you can just ask it questions using
+StephenWolfram_2010 1 StephenWolfram_2010 527.77 534.98 <NA> <unk> which means that we 've got to be able to take all those strange utterances that people type into the input field and understand them <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 534.7 539.66 <NA> and i must say that i thought that that step might just be plain impossible
+StephenWolfram_2010 1 StephenWolfram_2010 540.82 543.14 <NA> two big things happened 
+StephenWolfram_2010 1 StephenWolfram_2010 542.86 554.82 <NA> first a bunch of new ideas about linguistics that came from studying the computational universe and second the realization that having actual computable knowledge completely changes how one can set about
+StephenWolfram_2010 1 StephenWolfram_2010 554.78 556.65 <NA> <unk> understanding language 
+StephenWolfram_2010 1 StephenWolfram_2010 556.7 565.05 <NA> and of course <unk> now with wolfram alpha actually out in the wild <unk> we can learn from its actual usage and in fact there 's been
+StephenWolfram_2010 1 StephenWolfram_2010 564.71 570.75 <NA> an interesting coevolution that 's been going on between wolfram alpha and its human users
+StephenWolfram_2010 1 StephenWolfram_2010 570.47 579.82 <NA> and it 's really encouraging right now if we look at web queries more than eighty percent of them get handled successfully the first time and if you look at things like the iphone app
+StephenWolfram_2010 1 StephenWolfram_2010 579.84 581.84 <NA> <unk> fraction is considerably larger <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 581.6 586.39 <NA> so i 'm pretty pleased with it all but in many ways we 're
+StephenWolfram_2010 1 StephenWolfram_2010 586.19 596.65 <NA> still at the very beginning with wolfram alpha <unk> i mean everything is scaling up very nicely and we 're getting getting more confident you can expect to see wolfram alpha technology showing up in more and more places 
+StephenWolfram_2010 1 StephenWolfram_2010 596.65 600.32 <NA> working both with this kind of public data like on the website 
+StephenWolfram_2010 1 StephenWolfram_2010 600.13 603.83 <NA> and with private knowledge for for people and companies and so on
+StephenWolfram_2010 1 StephenWolfram_2010 605.44 618.06 <NA> <unk> i 've realized that wolfram alpha actually gives one a whole new kind of computing that one can call knowledge based computing in which one 's starting not just from raw computation but from a vast amount of built in knowledge
+StephenWolfram_2010 1 StephenWolfram_2010 618.06 624.92 <NA> and when one does that one really changes the economics of delivering computational things whether it 's on the web or elsewhere <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 626.09 637.2 <NA> <unk> we have a fairly interesting situation right now on the one hand we have mathematica with its sort of precise formal language and a huge network of carefully designed capabilities
+StephenWolfram_2010 1 StephenWolfram_2010 636.77 641.7 <NA> able to get a lot done in in just a few lines let me show you
+StephenWolfram_2010 1 StephenWolfram_2010 641.45 648.15 <NA> a couple of examples here <unk> so here 's a a trivial piece of mathematica programming 
+StephenWolfram_2010 1 StephenWolfram_2010 647.66 652.54 <NA> here 's something where we 're sort of integrating a bunch of different capabilities here
+StephenWolfram_2010 1 StephenWolfram_2010 654.87 658.78 <NA> <unk> line a little user interface that allows us to
+StephenWolfram_2010 1 StephenWolfram_2010 658.56 660.91 <NA> do something fun there if
+StephenWolfram_2010 1 StephenWolfram_2010 661.44 670.21 <NA> you go on that 's a slightly more complicated program that 's now doing all sorts of algorithmic things and and creating user interface and so on but it 's something that
+StephenWolfram_2010 1 StephenWolfram_2010 669.75 676.03 <NA> is very precise stuff it 's a precise specification with a precise formal language that causes
+StephenWolfram_2010 1 StephenWolfram_2010 675.63 679.97 <NA> mathematica to know what to do here <unk> <unk> then on the other hand we have
+StephenWolfram_2010 1 StephenWolfram_2010 679.93 685.28 <NA> <unk> wolfram alpha with all the messiness of the world and human language and so on built into it 
+StephenWolfram_2010 1 StephenWolfram_2010 685.09 688.31 <NA> so what happens when you put these things together <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 687.82 696.75 <NA> i think it 's actually rather wonderful with wolfram alpha inside mathematica <unk> you can for example make precise programs that call on real world data here 's a
+StephenWolfram_2010 1 StephenWolfram_2010 696.59 699.29 <NA> real simple example <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 700.63 704.97 <NA> you can also just sort of give vague input and then try
+StephenWolfram_2010 1 StephenWolfram_2010 704.96 708.84 <NA> <unk> and have wolfram alpha figure out what you 're talking about let 's try this here 
+StephenWolfram_2010 1 StephenWolfram_2010 709.85 715.58 <NA> but actually i think the most exciting thing about this is that it really gives one the chance to
+StephenWolfram_2010 1 StephenWolfram_2010 715.59 729.91 <NA> to democratize programming <unk> i mean anyone will be able to say what they want in plain language then the idea is that wolfram alpha will be able to figure out what precise pieces of code can do what they 're asking for and then show them examples that will let them
+StephenWolfram_2010 1 StephenWolfram_2010 729.84 734.14 <NA> <unk> pick what they need to build up bigger and bigger precise programs <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 733.77 742.6 <NA> so <unk> sometimes wolfram alpha will be able to do the whole thing immediately and just give back a a whole big program that you can then compute with here 's a
+StephenWolfram_2010 1 StephenWolfram_2010 742.11 749.96 <NA> big website where we 've been collecting lots of educational and other demonstrations about lots of kinds of things 
+StephenWolfram_2010 1 StephenWolfram_2010 750 755.48 <NA> i 'll show you one example here this is just an example of one of these
+StephenWolfram_2010 1 StephenWolfram_2010 755.11 759.96 <NA> computable documents this is probably a fairly small piece of mathematica code
+StephenWolfram_2010 1 StephenWolfram_2010 759.96 765.5 <NA> that that 's able to be run here <unk> okay <unk> let 's
+StephenWolfram_2010 1 StephenWolfram_2010 765.01 775.02 <NA> zoom out again <unk> so given our new kind of science is there a general way to use it to make technology so with physical materials we 're used to
+StephenWolfram_2010 1 StephenWolfram_2010 775 781.69 <NA> <unk> going around the world and discovering that particular materials are useful for particular technological purposes <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 781.69 793.36 <NA> well it turns out we can do very much the same kind of thing in the computational universe <unk> there 's an inexhaustible supply of programs out there the challenge is to see how to harness them for human purposes 
+StephenWolfram_2010 1 StephenWolfram_2010 793.16 802.08 <NA> something like rule thirty for example turns out to be a really good randomness generator other simple programs are good models for processes in the natural or social world 
+StephenWolfram_2010 1 StephenWolfram_2010 801.68 804.97 <NA> and for example wolfram alpha and mathematica are actually now
+StephenWolfram_2010 1 StephenWolfram_2010 804.96 812.56 <NA> <unk> full of algorithms that we discovered by searching the computational universe and for example this if we go back here
+StephenWolfram_2010 1 StephenWolfram_2010 814.11 815.67 <NA> this has become
+StephenWolfram_2010 1 StephenWolfram_2010 815.68 824.84 <NA> surprisingly popular among composers finding musical forms by searching the computational universe <unk> in a sense we can use the computational universe to get
+StephenWolfram_2010 1 StephenWolfram_2010 827.2 841.28 <NA> <unk> i 'm hoping we can for example <unk> use that even to get wolfram alpha to routinely do invention and discovery on the fly <unk> and to find all sorts of wonderful stuff that no engineer and no process of incremental evolution would ever come up with 
+StephenWolfram_2010 1 StephenWolfram_2010 841.33 850.11 <NA> well so that leads to kind of an ultimate question could it be that someplace out there in the computational universe we might find our physical
+StephenWolfram_2010 1 StephenWolfram_2010 851.24 855.97 <NA> <unk> perhaps there 's even some quite simple rule some simple program for our universe <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 855.97 861.51 <NA> well <unk> the history of physics would have us believe that the rule for the universe must be pretty complicated <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 861.17 869.37 <NA> but in the computational universe we 've now seen how rules that are incredibly simple can produce incredibly rich and complex behavior <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 869.03 873.06 <NA> so could that be what 's going on with our whole universe <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 872.84 875.17 <NA> if the rules for the universe are simple
+StephenWolfram_2010 1 StephenWolfram_2010 875.16 882.8 <NA> <unk> it 's kind of inevitable that that they have to be very abstract and very low level <unk> operating for example far below the level of space or time <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 882.8 890.98 <NA> which makes it hard to represent things <unk> but in at least a large class of cases one can think of the universe as being like some kind of network <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 891.21 896.24 <NA> which when it gets big enough behaves like continuous space in much the same way as
+StephenWolfram_2010 1 StephenWolfram_2010 896.06 904.85 <NA> having lots of molecules can behave like a continuous fluid <unk> well <unk> then the universe has to evolve by applying little rules that progressively update this network
+StephenWolfram_2010 1 StephenWolfram_2010 904.86 912.8 <NA> and each possible rule in a sense corresponds to a candidate universe <unk> actually i haven 't shown these before but
+StephenWolfram_2010 1 StephenWolfram_2010 913.03 914.96 <NA> here are a few of the
+StephenWolfram_2010 1 StephenWolfram_2010 914.76 916.84 <NA> candidate universes that
+StephenWolfram_2010 1 StephenWolfram_2010 916.84 925.08 <NA> that i 've looked at some of these are hopeless universes completely sterile with other kinds of pathologies like no notion of space no notion
+StephenWolfram_2010 1 StephenWolfram_2010 926.96 929.49 <NA> <unk> other problems like that but
+StephenWolfram_2010 1 StephenWolfram_2010 929.27 941.73 <NA> the exciting thing that i 've found in the last few years is that you actually don 't have to go very far in the computational universe before you start finding candidate universes that aren 't obviously not our universe here
+StephenWolfram_2010 1 StephenWolfram_2010 941.27 950.08 <NA> 's the problem <unk> any serious candidate for our universe is inevitably full of computational irreducibility <unk> which means
+StephenWolfram_2010 1 StephenWolfram_2010 950.37 957.49 <NA> <unk> irreducibly difficult to find out how it will really behave and whether it matches our physical universe a
+StephenWolfram_2010 1 StephenWolfram_2010 957.51 971.98 <NA> few years ago i was pretty excited to discover that there are candidate universes with incredibly simple rules that successfully reproduce special relativity and even general relativity and gravitation and at least give hints of quantum mechanics <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 971.55 975.05 <NA> so <unk> will we find the whole of physics i don 't know
+StephenWolfram_2010 1 StephenWolfram_2010 975.88 979.97 <NA> <unk> but i think at this point it 's sort of almost embarrassing not to at least try 
+StephenWolfram_2010 1 StephenWolfram_2010 979.69 987.77 <NA> not an easy project one 's got to build a lot of technology one 's got to build a structure that 's probably at least as deep as existing physics <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 987.37 993.72 <NA> and i 'm not sure what the best way to organize the whole thing is build a team open it up offer prizes and so on but
+StephenWolfram_2010 1 StephenWolfram_2010 993.72 1000.02 <NA> i 'll tell you here today that i 'm committed to seeing this project done to see if within
+StephenWolfram_2010 1 StephenWolfram_2010 1001.18 1009.24 <NA> <unk> we can finally hold in our hands the rule for our universe and know where our universe lies in the space of all possible universes 
+StephenWolfram_2010 1 StephenWolfram_2010 1009.24 1013.88 <NA> and be able to type into wolfram alpha the theory of the universe and have it tell us 
+StephenWolfram_2010 1 StephenWolfram_2010 1015.37 1017.15 <NA> so
+StephenWolfram_2010 1 StephenWolfram_2010 1016.96 1028.01 <NA> i 've been working on the idea of computation now for more than thirty years building tools and methods and turning intellectual ideas into millions of lines of code and grist for server farms and so on <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 1027.85 1029.73 <NA> with every passing year
+StephenWolfram_2010 1 StephenWolfram_2010 1029.9 1039.97 <NA> <unk> realize how much more powerful the idea of computation really is it 's taken us a long way already <unk> but there 's so much more to come from the foundations of science
+StephenWolfram_2010 1 StephenWolfram_2010 1039.92 1048.34 <NA> <unk> to the limits of technology to the very definition of the human condition <unk> i think computation is destined to be the defining idea of our future <unk> 
+StephenWolfram_2010 1 StephenWolfram_2010 1078.1 1083.99 <NA> <unk> you able to say in a sentence or two how this type of thinking
+StephenWolfram_2010 1 StephenWolfram_2010 1083.65 1090 <NA> could integrate at some point to things like string theory or the kind of things that people think of as the fundamental explanations of the universe <unk>
+StephenWolfram_2010 1 StephenWolfram_2010 1092.11 1097.88 <NA> <unk> the parts of physics that we kind of know to be true things like the standard model of physics 
+StephenWolfram_2010 1 StephenWolfram_2010 1097.42 1104.94 <NA> what i 'm trying to do better reproduce the standard model of physics or it 's simply wrong the things that people have tried to do in the last twenty five years or so with string
+StephenWolfram_2010 1 StephenWolfram_2010 1104.87 1112.45 <NA> <unk> theory and so on have been an interesting exploration that has tried to get back to the standard model but hasn 't quite gotten there 
+StephenWolfram_2010 1 StephenWolfram_2010 1112.45 1117.91 <NA> my guess is that some great simplifications of what i 'm doing may actually have
+StephenWolfram_2010 1 StephenWolfram_2010 1117.72 1124.68 <NA> considerable resonance with what 's been done in string theory but that 's a complicated math thing that
+StephenWolfram_2010 1 StephenWolfram_2010 1128.55 1135.43 <NA> <unk> in the audience he also has shown how complexity can arise out of a simple start does your work relate to his sw 
+StephenWolfram_2010 1 StephenWolfram_2010 1135.12 1141.05 <NA> i think so i view benoit mandelbrot 's work as as one of the
+StephenWolfram_2010 1 StephenWolfram_2010 1140.83 1149.96 <NA> the founding contributions to to this kind of area <unk> benoit has been particularly interested in nested patterns in fractals and so on <unk> where
+StephenWolfram_2010 1 StephenWolfram_2010 1150 1158.87 <NA> <unk> the structure is something that 's kind of tree like and where there 's sort of a big branch that makes little branches and even smaller branches and so on that 's
+StephenWolfram_2010 1 StephenWolfram_2010 1158.87 1166.17 <NA> one of the ways that you get towards true complexity <unk> i think things like the rule thirty cellular automaton
+StephenWolfram_2010 1 StephenWolfram_2010 1165.95 1175.05 <NA> get us to a different level <unk> in fact <unk> in a very precise way they get us to a different level because they seem to be things that are capable
+StephenWolfram_2010 1 StephenWolfram_2010 1176.09 1182.8 <NA> <unk> complexity that 's sort of as great as complexity can ever get <unk> i could go on about this at great length

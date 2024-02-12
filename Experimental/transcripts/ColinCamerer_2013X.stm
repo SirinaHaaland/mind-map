@@ -1,0 +1,122 @@
+ColinCamerer_2013X 1 ColinCamerer_2013X 12.94 14.99 <NA> <unk> 'm going to talk about the strategizing brain we 're
+ColinCamerer_2013X 1 ColinCamerer_2013X 14.79 22.14 <NA> going to use an unusual combination of tools from game theory and neuroscience to understand how people interact socially when value is on the line 
+ColinCamerer_2013X 1 ColinCamerer_2013X 22.14 25.29 <NA> so game theory is a a branch of originally applied mathematics
+ColinCamerer_2013X 1 ColinCamerer_2013X 26.03 32.14 <NA> <unk> used mostly in economics and political science a little bit in biology that gives us a mathematical taxonomy of social life
+ColinCamerer_2013X 1 ColinCamerer_2013X 32.14 42.73 <NA> and it predicts what people are likely to do and believe others will do in in cases where everyone 's actions affect everyone else <unk> that 's a lot of things competition <unk> cooperation bargaining
+ColinCamerer_2013X 1 ColinCamerer_2013X 43.93 45.57 <NA> and poker 
+ColinCamerer_2013X 1 ColinCamerer_2013X 45.41 54.97 <NA> here 's a simple game to get us started everyone chooses a number from zero to one hundred we 're going to compute the average of those numbers and whoever 's closest to two thirds of the average
+ColinCamerer_2013X 1 ColinCamerer_2013X 55.34 63.59 <NA> wins a fixed prize <unk> so you want to be a little bit below the average number <unk> but not too far below and everyone else wants to be a little bit below the average number as well 
+ColinCamerer_2013X 1 ColinCamerer_2013X 63.59 65.65 <NA> think about what you might pick 
+ColinCamerer_2013X 1 ColinCamerer_2013X 65.43 79.97 <NA> as you 're thinking <unk> this is a toy model of something like selling in the stock market during a rising market right <unk> you don 't want to sell too early <unk> because you miss out on profits <unk> but you don 't want to wait too late to when everyone else sells <unk> triggering a crash you want to be a little bit ahead of the competition
+ColinCamerer_2013X 1 ColinCamerer_2013X 80.02 81.62 <NA> <unk> but not too far ahead <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 81.64 86.43 <NA> okay here 's two theories about how people might think about this and then we 'll see some data 
+ColinCamerer_2013X 1 ColinCamerer_2013X 86.43 91.79 <NA> some of these will sound familiar because you probably are thinking that way i 'm using my brain theory to see 
+ColinCamerer_2013X 1 ColinCamerer_2013X 92.23 100.02 <NA> a lot of people say i really don 't know what people are going to pick so i think the average will be fifty they 're not being really strategic at all and i 'll pick
+ColinCamerer_2013X 1 ColinCamerer_2013X 101.39 102.84 <NA> <unk> that 's a start 
+ColinCamerer_2013X 1 ColinCamerer_2013X 102.47 111.57 <NA> other people who are a little more sophisticated using more working memory say i think people will pick thirty three because they 're going to pick a response to fifty and so i 'll pick twenty two which is <unk>
+ColinCamerer_2013X 1 ColinCamerer_2013X 112.97 115.65 <NA> <unk> doing one extra step of thinking two steps 
+ColinCamerer_2013X 1 ColinCamerer_2013X 115.37 117.09 <NA> that 's better 
+ColinCamerer_2013X 1 ColinCamerer_2013X 116.6 121.59 <NA> and of course in principle you could do three four or more but it starts to get very difficult <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 121.58 129.85 <NA> just like in language and other domains we know that it 's hard for people to parse very complex sentences with a kind of recursive structure <unk> this is called a cognitive hierarchy theory by the way
+ColinCamerer_2013X 1 ColinCamerer_2013X 130.02 138.92 <NA> <unk> i 've worked on and a few other people and it indicates a kind of hierarchy along with some assumptions about how many people stop at different steps and how the steps of thinking are affected by
+ColinCamerer_2013X 1 ColinCamerer_2013X 138.74 142.63 <NA> lots of interesting variables and variant people as we 'll see in a minute 
+ColinCamerer_2013X 1 ColinCamerer_2013X 142.41 149.96 <NA> a very different theory a much more popular one and an older one due largely to john nash of a beautiful mind fame is what 's called
+ColinCamerer_2013X 1 ColinCamerer_2013X 151.33 161.45 <NA> <unk> so if you 've ever taken a game theory course at any level <unk> you will have learned a little bit about this an equilibrium is a mathematical state in which everybody has figured out exactly what everyone else will do it is a very <unk>
+ColinCamerer_2013X 1 ColinCamerer_2013X 161.35 169.86 <NA> <unk> useful concept <unk> but behaviorally it may not exactly explain what people do the first time they play these types of economic games or in situations in the outside world 
+ColinCamerer_2013X 1 ColinCamerer_2013X 178.97 184.78 <NA> <unk> this experiment 's been done many many times some of the earliest ones were done in the ' 90s by me and rosemarie nagel and others <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 184.78 192.91 <NA> this is a beautiful data set of nine thousand people who wrote in to three newspapers and magazines that had a contest <unk> the contest said send in your numbers
+ColinCamerer_2013X 1 ColinCamerer_2013X 192.67 204.1 <NA> and whoever is close to two thirds of the average will win a big prize <unk> and as you can see there 's so much data here you can see the spikes very visibly there 's a spike at thirty three those are people doing one step there is another spike visible at
+ColinCamerer_2013X 1 ColinCamerer_2013X 204.93 216.95 <NA> <unk> and notice by the way that most people pick numbers right around there they don 't necessarily pick exactly thirty three and twenty two there 's something a little bit noisy around it <unk> but you can see those spikes and they 're there there 's another group of people who seem to have a firm grip on equilibrium analysis <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 216.95 219.13 <NA> because they 're picking zero or one <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 218.94 228.95 <NA> but they lose right <unk> because picking a number that that low is actually a bad choice if other people aren 't doing equilibrium analysis as well <unk> so they 're smart but poor
+ColinCamerer_2013X 1 ColinCamerer_2013X 231.04 233.66 <NA> where are these things happening in the brain 
+ColinCamerer_2013X 1 ColinCamerer_2013X 233.59 237.54 <NA> one study by coricelli and nagel gives a really sharp interesting answer <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 237.3 241.41 <NA> so they had people play this game while they were being scanned in an fmri 
+ColinCamerer_2013X 1 ColinCamerer_2013X 241.41 248.78 <NA> and two conditions in some trials they 're told you 're playing another person who 's playing right now and we 're going to match up your behavior at the end and pay you if you win 
+ColinCamerer_2013X 1 ColinCamerer_2013X 248.53 250.02 <NA> in the other trials they 're told you
+ColinCamerer_2013X 1 ColinCamerer_2013X 250.79 254.28 <NA> <unk> just choosing randomly <unk> so what you see here is a subtraction
+ColinCamerer_2013X 1 ColinCamerer_2013X 254.08 260.04 <NA> of areas in which there 's more brain activity when you 're playing people compared to playing the computer and
+ColinCamerer_2013X 1 ColinCamerer_2013X 259.7 272.82 <NA> you see activity in some regions we 've seen today medial prefrontal cortex <unk> dorsomedial however up here <unk> ventromedial prefrontal cortex anterior cingulate an area that 's involved in lots of types of conflict resolution like if you 're playing simon says 
+ColinCamerer_2013X 1 ColinCamerer_2013X 272.63 275.29 <NA> and also the right and left temporoparietal
+ColinCamerer_2013X 1 ColinCamerer_2013X 276.36 282.46 <NA> <unk> and these are all areas which are fairly reliably known to be part of what 's called a theory of mind circuit or mentalizing circuit 
+ColinCamerer_2013X 1 ColinCamerer_2013X 282.36 290.26 <NA> that is it 's a circuit that 's used to imagine what other people might do <unk> so these were some of the first studies to see this tied in to game theory 
+ColinCamerer_2013X 1 ColinCamerer_2013X 290.25 295.27 <NA> what happens with these one and two step types <unk> so we classify people by what they picked <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 294.78 304.91 <NA> and then we look at the difference between playing humans versus playing computers which brain areas are differentially active on the top you see the one step players there 's almost no difference <unk> the reason is they 're treating other people like a
+ColinCamerer_2013X 1 ColinCamerer_2013X 304.84 310.37 <NA> <unk> computer <unk> and the brain is too the bottom players you see all the activity in dorsomedial pfc <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 310.15 313.16 <NA> so we know that those two step players are doing something differently 
+ColinCamerer_2013X 1 ColinCamerer_2013X 313.16 324.87 <NA> now if you were to step back and say what can we do with this information you might be able to look at brain activity and say this person 's going to be a good poker player or this person 's socially naive and we might also be able to study things like development of adolescent brains once we have an
+ColinCamerer_2013X 1 ColinCamerer_2013X 330.71 334.47 <NA> <unk> i 'm saving you some brain activity because you don 't need to use your hair detector cells 
+ColinCamerer_2013X 1 ColinCamerer_2013X 334.25 337.78 <NA> you should use those cells to think carefully about this game <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 337.54 339.34 <NA> this is a bargaining game 
+ColinCamerer_2013X 1 ColinCamerer_2013X 339.34 349.99 <NA> two players who are being scanned using eeg electrodes are going to bargain over one to six dollars if they can do it in ten seconds they 're going to actually earn that money if ten seconds goes by and they haven 't made a deal
+ColinCamerer_2013X 1 ColinCamerer_2013X 350.88 359.86 <NA> <unk> that 's kind of a mistake together <unk> the twist is that one player on the left is informed about how much on each trial there is they play lots of trials with different amounts each time 
+ColinCamerer_2013X 1 ColinCamerer_2013X 359.86 362.26 <NA> in this case they know there 's four dollars 
+ColinCamerer_2013X 1 ColinCamerer_2013X 362.04 375.05 <NA> the uninformed player doesn 't know but they know that the informed player knows <unk> so the uninformed player 's challenge is to say is this guy really being fair or are they giving me a very low offer in order to get me to think that there 's only one or two dollars available to split 
+ColinCamerer_2013X 1 ColinCamerer_2013X 375 380.79 <NA> <unk> in which case they might reject it and not come to a deal so there 's some tension here between trying to get the most money
+ColinCamerer_2013X 1 ColinCamerer_2013X 380.61 390.86 <NA> but trying to goad the other player into giving you more and the way they bargain is to point on a number line that goes from zero to six dollars and they 're bargaining over how much the uninformed player gets <unk> and the <unk>
+ColinCamerer_2013X 1 ColinCamerer_2013X 390.76 395.78 <NA> <unk> informed player 's going to get the rest <unk> so this is like a management labor negotiation in which
+ColinCamerer_2013X 1 ColinCamerer_2013X 400.97 407.01 <NA> <unk> they want to maybe hold out for more money but the company might want to create the impression that there 's very little to split i 'm giving you the most that i can 
+ColinCamerer_2013X 1 ColinCamerer_2013X 407.3 415.33 <NA> first some behavior so a bunch of the subject pairs they play face to face we have some other data where they play across computers that 's an interesting difference as you might imagine <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 415.33 420.72 <NA> but a bunch of the face to face pairs agree to divide the money evenly every single time <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 420.71 424.75 <NA> boring <unk> it 's just not interesting neurally <unk> it 's good for
+ColinCamerer_2013X 1 ColinCamerer_2013X 425.4 431.8 <NA> <unk> they make a lot of money but we 're interested in can we say something about when disagreements occur versus don 't occur <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 431.4 434.45 <NA> so this is the other group of subjects who often disagree <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 434.45 441.43 <NA> so they have a chance of they bicker and disagree and end up with less money they might be eligible to be on real housewives the tv show 
+ColinCamerer_2013X 1 ColinCamerer_2013X 441.75 450.05 <NA> you see on the left when the amount to divide is one two or three dollars <unk> they disagree about half the time <unk> and when the amount is four five six they agree quite
+ColinCamerer_2013X 1 ColinCamerer_2013X 450.4 457.46 <NA> <unk> this turns out to be something that 's predicted by a very complicated type of game theory you should come to graduate school at caltech and learn about 
+ColinCamerer_2013X 1 ColinCamerer_2013X 457.51 464.93 <NA> it 's a little too complicated to explain right now but the theory tells you that this shape kind of should occur your intuition might tell you that too <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 464.62 472.97 <NA> now i 'm going to show you the results from the eeg recording very complicated the right brain schematic is the uninformed person <unk> and the left is the informed 
+ColinCamerer_2013X 1 ColinCamerer_2013X 472.51 474.93 <NA> remember that we we scanned both brains at the
+ColinCamerer_2013X 1 ColinCamerer_2013X 475.73 483.2 <NA> <unk> so we can ask about time synced activity in similar or different areas simultaneously <unk> just like if you wanted to study a conversation
+ColinCamerer_2013X 1 ColinCamerer_2013X 483.04 489.96 <NA> and you were scanning two people talking to each other and you 'd expect common activity in language regions when they 're actually kind of listening and communicating <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 489.74 494.1 <NA> so the arrows connect regions that are active at the same time <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 493.67 501.3 <NA> and the direction of the arrows flows from the region that 's active first in time <unk> and the arrowhead goes to the region that 's active
+ColinCamerer_2013X 1 ColinCamerer_2013X 500.9 504.91 <NA> later <unk> so in this case if you look carefully most of the arrows
+ColinCamerer_2013X 1 ColinCamerer_2013X 504.84 512.29 <NA> <unk> flow from right to left that is it looks as if the uninformed brain activity is happening first <unk> and then it
+ColinCamerer_2013X 1 ColinCamerer_2013X 511.8 518.32 <NA> 's followed by activity in the informed brain and by the way these were trials where their deals were made 
+ColinCamerer_2013X 1 ColinCamerer_2013X 518.01 529.91 <NA> this is from the first two seconds <unk> we haven 't finished analyzing this data <unk> so we 're still peeking in <unk> but the hope is that we can say something in the first couple of seconds about whether they 'll make a deal or not which could be very useful in thinking about avoiding
+ColinCamerer_2013X 1 ColinCamerer_2013X 529.87 533.74 <NA> <unk> litigation and ugly divorces and things like that those are all cases in which
+ColinCamerer_2013X 1 ColinCamerer_2013X 533.52 537.77 <NA> a lot of value is lost by delay and strikes 
+ColinCamerer_2013X 1 ColinCamerer_2013X 538.06 542.39 <NA> here 's the case where the disagreements occur you can see it looks different than the one before 
+ColinCamerer_2013X 1 ColinCamerer_2013X 542.2 544.37 <NA> there 's a lot more arrows 
+ColinCamerer_2013X 1 ColinCamerer_2013X 544.37 554.7 <NA> that means that the brains are synced up more closely in terms of simultaneous activity and the arrows flow clearly from left to right <unk> that is the informed brain seems to be deciding we 're probably not going to make a deal here
+ColinCamerer_2013X 1 ColinCamerer_2013X 554.81 558.21 <NA> and then later there 's activity in the uninformed brain 
+ColinCamerer_2013X 1 ColinCamerer_2013X 558.29 566.55 <NA> next i 'm going to introduce you to some relatives <unk> they 're hairy <unk> smelly fast and strong you might be thinking back to your last thanksgiving <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 566.39 569.19 <NA> maybe if you had a chimpanzee with you 
+ColinCamerer_2013X 1 ColinCamerer_2013X 569.18 580 <NA> charles darwin and i and you broke off from the family tree from chimpanzees about five million years ago they 're still our closest genetic kin <unk> we share ninety eight point eight percent of the genes we share more genes with them than zebras
+ColinCamerer_2013X 1 ColinCamerer_2013X 579.99 581.32 <NA> <unk> do with horses <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 580.92 585.8 <NA> and we 're also their closest cousin they have more genetic relation to us than to gorillas <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 585.8 591.13 <NA> so how humans and chimpanzees behave differently might tell us a lot about brain evolution <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 590.82 592.57 <NA> so this is an
+ColinCamerer_2013X 1 ColinCamerer_2013X 592.32 600.14 <NA> amazing memory test from nagoya japan primate research institute where they 've done a lot of this research this goes back quite a ways they 're interested in working
+ColinCamerer_2013X 1 ColinCamerer_2013X 608.59 616.07 <NA> <unk> then they disappear and they 're replaced by squares and they have to press the squares that correspond to the numbers from low to high to get an apple reward let 's see how
+ColinCamerer_2013X 1 ColinCamerer_2013X 615.61 617.51 <NA> they can do it
+ColinCamerer_2013X 1 ColinCamerer_2013X 628.4 632.01 <NA> <unk> this is a young chimp <unk> the young ones are better than the old ones just like humans 
+ColinCamerer_2013X 1 ColinCamerer_2013X 632.36 638.22 <NA> and they 're highly experienced so they 've done this thousands and thousands of time obviously there 's a big training effect as you can imagine 
+ColinCamerer_2013X 1 ColinCamerer_2013X 641 648.88 <NA> you can see they 're very blas and kind of effortless not only can they do it very well they do it in a sort of lazy way right who thinks you could beat the chimps
+ColinCamerer_2013X 1 ColinCamerer_2013X 656.52 658.67 <NA> <unk> next part of this study i 'm going to go quickly through
+ColinCamerer_2013X 1 ColinCamerer_2013X 658.43 667.58 <NA> is based on an idea of tetsuro matsuzawa he had a bold idea that what he called the cognitive trade off hypothesis we know chimps are faster and stronger they 're also very obsessed with status 
+ColinCamerer_2013X 1 ColinCamerer_2013X 667.58 672.83 <NA> his thought was <unk> maybe they 've preserved brain activities and they practice them in development
+ColinCamerer_2013X 1 ColinCamerer_2013X 672.6 679.91 <NA> that are really really important to them to negotiate status and to win which is something like strategic thinking during competition <unk> so we
+ColinCamerer_2013X 1 ColinCamerer_2013X 679.99 683.69 <NA> <unk> to check that out by having the chimps actually play a game
+ColinCamerer_2013X 1 ColinCamerer_2013X 683.44 684.91 <NA> by
+ColinCamerer_2013X 1 ColinCamerer_2013X 684.69 694.97 <NA> touching two touch screens the chimps are actually interacting with each other through the computers <unk> they 're going to press left or right <unk> one chimp is called a matcher they win if they press left left like a <unk>
+ColinCamerer_2013X 1 ColinCamerer_2013X 694.87 699.96 <NA> <unk> seeker finding someone in hide and seek or right right the mismatcher wants to mismatch <unk> they want to press the
+ColinCamerer_2013X 1 ColinCamerer_2013X 700 704.31 <NA> <unk> opposite screen of the chimp <unk> and the rewards are apple cube rewards <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 703.91 714.19 <NA> so here 's how game theorists look at these data <unk> this is a graph of the percentage of times the matcher picked right on the x axis and the percentage of times they predicted right by the mismatcher on the <unk>
+ColinCamerer_2013X 1 ColinCamerer_2013X 715.27 721.02 <NA> so a point here is the behavior by a pair of players one trying to match one trying to mismatch <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 720.56 725.05 <NA> the ne square in the middle actually ne <unk> ch and qre those are three different
+ColinCamerer_2013X 1 ColinCamerer_2013X 725 731.14 <NA> <unk> theories of nash equilibrium and others tells you what the theory predicts which is that they should match 50 50 
+ColinCamerer_2013X 1 ColinCamerer_2013X 730.89 736.66 <NA> because <unk> if you play left too much for example i can exploit that if i 'm the mismatcher by then playing right <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 736.32 742.66 <NA> and as you can see the chimps each chimp is one triangle are circled around hovering around that prediction <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 742.68 750.23 <NA> now we move the payoffs we 're actually going to make the left left payoff for the matcher a little bit higher now they get three apple cubes game theoretically
+ColinCamerer_2013X 1 ColinCamerer_2013X 750.19 758.6 <NA> <unk> that should actually make the mismatcher 's behavior shift because what happens is the mismatcher will think oh this guy 's going to go for the big reward and so i 'm going to go to the right <unk> make sure he doesn 't get it
+ColinCamerer_2013X 1 ColinCamerer_2013X 758.35 762.36 <NA> <unk> and as you can see their behavior moves up in the direction of this change
+ColinCamerer_2013X 1 ColinCamerer_2013X 762.03 763.93 <NA> in the nash equilibrium <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 763.94 774.12 <NA> finally we changed the payoffs one more time <unk> now it 's four apple cubes <unk> and their behavior again moves towards the nash equilibrium it 's sprinkled around but if you average the chimps out they 're really really close within 01 
+ColinCamerer_2013X 1 ColinCamerer_2013X 773.88 779.94 <NA> they 're actually closer than any species we 've observed what about humans you think you 're smarter than a chimpanzee
+ColinCamerer_2013X 1 ColinCamerer_2013X 780.8 784.4 <NA> here 's two human groups in green and blue <unk> 
+ColinCamerer_2013X 1 ColinCamerer_2013X 784.18 794.83 <NA> they 're closer to <unk> 50 50 they 're not responding to payoffs as closely and also if you study their learning in the game they aren 't as sensitive to previous rewards <unk> the chimps are playing better than the humans better in the sense of adhering to game theory 
+ColinCamerer_2013X 1 ColinCamerer_2013X 794.83 798.79 <NA> and these are two different groups of humans from japan and africa they replicate
+ColinCamerer_2013X 1 ColinCamerer_2013X 798.61 799.9 <NA> quite nicely none of them are
+ColinCamerer_2013X 1 ColinCamerer_2013X 800.31 801.35 <NA> <unk> to where the chimps are

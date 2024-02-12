@@ -1,0 +1,111 @@
+  so i 'm an artist  but a little bit of a peculiar one i don 't paint  i can 't draw 
+ my shop teacher in high school wrote that i was a menace
+ on my report card
+ you probably don 't really want to see my photographs
+  but there is one thing i know how to do i know how to program a computer i can code  
+ and people will tell me that one hundred years ago  folks like me didn 't exist that it was impossible that art made with data is a new thing 
+ it 's a product of our age it 's something that 's really important to think of as something that 's very
+  that 's true  but there is an art form that 's been around
+ for a very long time that 's really about using information abstract information 
+ to make emotionally resonant pieces and it 's called music  
+ we 've been making music for tens of thousands of years  right and if you think about what music is notes and chords and keys and harmonies and melodies these things are algorithms these things are systems
+ that are designed to unfold over time
+  to make us feel  i came to the arts through music i was trained as a composer and about fifteen years ago i started making pieces
+ that were designed to look at the intersection between sound and image 
+ to use an image to unveil a musical structure or to use a sound to show you something interesting about something that 's usually
+  so what you 're seeing on the screen is literally being drawn by the musical structure of the musicians onstage and there 's no accident that it looks like a plant because the underlying 
+  algorithmic biology of the plant is what informed the musical structure in the first place  so once you know how to do this once you know how to code with media you can do some pretty cool stuff
+ speed it up to one minute each and string them all together  
+ and so in seventy five minutes i can show you the history of hollywood cinema  
+ and what it really shows you is the history of editing in hollywood cinema so on the left  we 've got casablanca on the right we 've got chicago and you can see that casablanca is a little easier to read that 's because the average length of a cinematic shot in the
+  seconds  and now it 's around six seconds  
+ this is a project that was inspired by some work that was funded by the us federal government in the early 2000s to look at
+ video footage and find a specific actor
+ in any video
+ and so i repurposed this code to train a system on one person in our culture who would never need to be surveilled in that manner
+  which is britney spears i downloaded two thousand paparazzi photos of britney spears and trained my computer to find her face
+ and her face alone  i can run any footage of her through it and will center her eyes
+ in the frame and this sort of is a little double commentary about surveillance in our society we are very fraught with anxiety about being watched but then
+ we obsess over celebrity what you 're seeing on the
+  screen here is a collaboration i did with
+ an artist named lin  amaris 
+ what she did is is very simple to explain and describe but very hard to do she took seventy two minutes of activity 
+  getting ready for a night out on the town and stretched it over three days and performed it on a
+  traffic island in slow motion in new york city 
+ i was there too with a film crew we filmed the whole thing and then we reversed the process speeding it up to seventy two minutes again 
+ so it looks like she 's moving normally and the whole world is flying by 
+ at a certain point i figured out that what i was doing was making portraits
+  when you think about portraiture you tend to think about stuff like this the guy on the left is named gilbert stuart he
+ 's sort of the first real portraitist of the united states and on the right is
+  his portrait of george washington from 
+  lansdowne portrait and if you look at this painting there 's a lot of symbolism right we 've got a rainbow out the window we 've got a sword 
+ we 've got a quill on the desk all of these things are meant to evoke george washington as the father of the nation 
+ this is my portrait of george washington 
+  this is an eye chart  only instead of letters they 're words  
+ and what the words are is the sixty six words in george washington 's state of the union addresses that he uses more than any other president 
+ so gentlemen has its own symbolism and its own rhetoric and it 's really kind of significant that that 's the word he used the most  
+ this is the eye chart for george
+  tells us a lot about american history and gives you a different insight than you would have looking at a series of paintings  these pieces
+ provide a history lesson of the united states through the political rhetoric of its leaders ronald reagan spent a lot of time talking about deficits  
+ bill clinton spent a lot of time talking about the century in which he would no longer be president but maybe
+  his wife would be lyndon johnson
+ was the first president to give his state of the union addresses on prime time television he began every paragraph with the word tonight 
+ and richard nixon or more accurately his speechwriter a guy named william safire spent a lot of time thinking about language and making sure that his boss
+ portrayed a rhetoric of honesty this project is shown as a series of monolithic sculptures
+  series of light boxes  and it 's important to note that they 're to scale so if you stand twenty feet back and you can read between those two black lines you have twenty twenty vision 
+ this is a portrait  and there 's a lot of these there 's a lot of ways to do this with with
+ data i started looking for a way to think about
+ how i can do a more democratic form of portraiture  something that 's more about my country and how it
+ how it works  every ten years  we make a census in the united states we literally count people 
+ find out who lives where what kind of jobs we 've got the language we speak at home and this is important stuff really important stuff 
+ but it doesn 't really tell us who we are 
+ it doesn 't tell us about our dreams and our aspirations and so in
+  i decided to make my own census  and i started looking for a corpus of data that had a lot of descriptions written by ordinary americans and it turns out that there is such a corpus of data that 's just sitting there for the taking it
+ 's called online dating 
+ so in two thousand and ten  i joined twenty one different online dating services as a gay man a straight man a gay woman and a straight woman in every zip code in america and downloaded about nineteen million people 's dating profiles
+  percent of the adult population of the united states i have obsessive compulsive disorder this is going to become really freaking obvious just go with me
+  so what i did was i sorted all this stuff by zip code
+  and i looked at word analysis these are some dating profiles from two thousand and ten with the word lonely highlighted
+  you imagine dark colors to light colors are more use of the word you can see that appalachia is a pretty lonely place  
+ you can also see that
+ nebraska ain 't that funny  this is the kinky map so what 
+ this is showing you is that the women in alaska need to get together with the men in southern new mexico and have a good time
+  and i have this at a pretty granular level
+  so i can tell you that the men in the eastern half of long island are way more interested in being spanked than men in the western half of long
+ island this will be your one takeaway from this whole conference you 're going to remember that fact for like thirty years 
+  when you bring this down to a cartographic level you can make maps and do the same trick i was doing with the eye charts you can replace the name of every city in the united states with the word people use more
+ in that city than anywhere else if you 've ever dated anyone from seattle this makes perfect sense
+  so los angeles is acting and san francisco is gay some are a little bit more heartbreaking in baton rouge they talk about being curvy downstream in new orleans they still talk about the flood  
+ folks in the american capital will say they 're interesting people in baltimore maryland will say they 're afraid this is new jersey  i grew up somewhere between
+  and new york city 's number one word is now as in now i 'm working as a waiter but actually i 'm an actor 
+ or now i 'm a professor of engineering at nyu but actually i 'm an artist if you go upstate you see dinosaur that 's syracuse  the best place to eat in syracuse new york is a hell 's angels barbecue joint called dinosaur barbecue that
+ 's where you would take
+  so that 's maybe a more democratic portrait and the idea was what if we made red state and blue state maps based on what we want to do on a friday night  this is 
+ this is based on my email about five hundred thousand emails sent over twenty years  you can think of this as a quantified 
+  so what i 'm doing is running a
+  a physics equation based on my personal data you have to imagine everybody i 've ever corresponded with it started out in the middle and it exploded with a big bang
+  and everybody has gravity to one another
+  gravity based on how much they 've been emailing who they 've been emailing with and it also does sentimental analysis so if i say i love you you 're heavier to me 
+ and you attract to my email addresses in the middle which act like mainline stars  
+ and all the names are handwritten
+ sometimes you do this data
+ and this work with real time data to illuminate a specific problem in a specific city this
+ is a walther ppk 9mm semiautomatic handgun that was used in a shooting in the french quarter of new orleans about two years ago on valentine 's day in an argument over parking those are my cigarettes this is
+ the house where the shooting took place
+  this project involved a little bit of engineering i 've got a bike chain rigged up as a cam shaft with a computer driving it
+ that computer and the mechanism are buried in a box the gun 's on top welded to a steel plate there 's a wire going through
+ to the trigger and the computer in the box is online it 's listening to the nine hundred and eleven feed of the new orleans police department so that anytime there 's a shooting reported in new orleans 
+ the gun fires 
+  there 's a blank so there 's no bullet there 's big light big noise and most importantly there 's a casing there
+ 's about five shootings a day in new orleans so over the four months this piece was installed the
+ case filled up with bullets  
+ you guys know what this is you call this data visualization 
+ when you do it right it 's illuminating when you do it wrong it 's
+  piece for you i spent the last summer
+ as the artist in residence for times square 
+ and times square in new york is literally the crossroads of the world one of the things people don 't notice about it is it 's the most instagrammed place on earth 
+ about every five seconds someone commits a selfie in times square that 's seventeen thousand a day  and i have them all laughter
+ these are some of them with their eyes
+  centered every civilization will use the maximum level of technology available to make art and it 's the responsibility of the artist to ask questions about what that technology means and how it reflects our culture
+ so i leave you with this we 're more than numbers we 're people and we have dreams and ideas and reducing us to statistics is something that 's done
+ at our peril thank you very much

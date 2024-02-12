@@ -1,0 +1,129 @@
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 12.61 19.16 <NA> <unk> had to fill out some sort of web form where you 've been asked to read a distorted sequence of characters like this how many of you found it really really annoying 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 19.57 22.28 <NA> okay outstanding so i invented that or
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 25.04 34.84 <NA> <unk> of the people who did it that thing is called a captcha <unk> and the reason it is there is to make sure you the entity filling out the form are actually a human and not some sort of computer program that was written to submit the form millions and millions of times 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 34.84 43.54 <NA> the reason it works is because humans at least non visually impaired humans have no trouble reading these distorted squiggly characters whereas computer programs simply can 't do it as well yet 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 43.34 50.02 <NA> so for example in the case of ticketmaster <unk> the reason you have to type these distorted characters is to prevent scalpers from writing a program that can buy millions
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 50.4 51.58 <NA> <unk> two at a time 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 51.18 61.84 <NA> captchas are used all over the internet and since they 're used so often a lot of times the precise sequence of random characters that is shown to the user is not so fortunate <unk> so this is an example from the yahoo registration <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 61.74 69.65 <NA> <unk> page the random characters that happened to be shown to the user were w a i t which of course spell a word but the best part is the
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 88.03 92.48 <NA> <unk> captcha project is something that we did here at carnegie melllon over ten years ago and it 's been used everywhere 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 92.02 99.18 <NA> let me now tell you about a project that we did a few years later which is sort of the the next evolution of captcha this is a project that we call recaptcha <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 99.18 104.94 <NA> which is something that we started here at carnegie mellon then we turned it into a startup company <unk> and then about a year and a half
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 104.87 109.53 <NA> <unk> ago google actually acquired this company <unk> so let me tell you what this project started
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 109.19 116.7 <NA> so this project started from the following realization it turns out that approximately two hundred million captchas are typed everyday by people around the world
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 116.54 121.74 <NA> <unk> when i first heard this i was quite proud of myself i thought look at the impact that my research has had <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 121.82 124.9 <NA> but then i started feeling bad see here 's the thing each time you type a
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 126.33 135.28 <NA> <unk> you waste ten seconds of your time <unk> and if you multiply that by two hundred million you get that humanity as a whole is wasting about five hundred thousand hours every day typing these annoying captchas <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 135.27 138.13 <NA> so then i started feeling bad 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 139.05 146.12 <NA> and then i started thinking well of course we can 't just get rid of captchas <unk> because the security of the web sort of depends on them <unk> but then i started thinking is there any way
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 145.96 154.94 <NA> we can use this effort for something that is good for humanity so see here 's the thing while you 're typing a captcha during those ten seconds your brain is doing something amazing
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 154.96 157.76 <NA> <unk> your brain is doing something that computers cannot yet do 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 157.56 167.67 <NA> so can we get you to do useful work for those ten seconds another way of putting it is is there some humongous problem that we cannot yet get computers to solve yet we can split into tiny 10 second chunks
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 167.62 178.53 <NA> <unk> such that each time somebody solves a captcha they solve a little bit of this problem and the answer to that is yes and this is what we 're doing now <unk> so what you may not know is that nowadays while you 're typing a captcha not only are you authenticating yourself as a human 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 179.93 181.53 <NA> <unk> to digitize books
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 181.16 192.15 <NA> so let me explain how this works so there 's a lot of projects out there trying to digitize books <unk> google has one the internet archive has one amazon now with the kindle is trying to digitize books basically the way this works is you start with an old book <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 193.63 195.6 <NA> you 've seen those things right like a book so
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 197.45 199.9 <NA> you start with a book <unk> and then you scan it <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 200.55 212.43 <NA> <unk> scanning a book is like taking a digital photograph of every page of the book it gives you an image for every page of the book this is an image with text for every page of the book the next step in the process is that the computer needs to be able to decipher all of the words in this image 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 212.44 220.24 <NA> that 's using a technology called ocr for optical character recognition which takes a picture of text and tries to figure out what text is in there 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 219.87 229.85 <NA> now the problem is that <unk> ocr is not perfect especially for older books where the ink has faded and the pages have turned yellow ocr cannot recognize a lot of the words for example
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 229.93 238.14 <NA> <unk> things that were written more than fifty years ago <unk> the computer cannot recognize about thirty percent of the words <unk> so what we 're doing now is we 're taking all of the words that the computer cannot recognize
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 238.14 249.87 <NA> and we 're getting people to read them for us while they 're typing a captcha on the internet so the next time you type a captcha these words that you 're typing are actually words that are coming from books that are being digitized that the computer could not recognize
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 250.55 262.56 <NA> <unk> the reason we have two words nowadays instead of one is because you see one of the words is a word that the system just got out of a book <unk> it didn 't know what it was and it 's going to present it to you but since it doesn 't know the answer for it <unk> it cannot grade it for you 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 262.56 266.26 <NA> so what we do is we give you another word one for which the system does know the answer
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 265.9 269 <NA> we don 't tell you which one 's which and we say please type both <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 269 276.66 <NA> and if you type the correct word for the one for which the system already knows the answer <unk> it assumes you are human and it also gets some confidence that you typed the other word correctly <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 276.41 279.91 <NA> and if we repeat this process to like ten different people and all
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 279.96 283.85 <NA> <unk> them agree on what the new word is then we get one more word digitized accurately <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 283.85 290.59 <NA> so this is how the system works and basically since we released it about three or four years ago a lot of websites have started switching from
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 290.28 299.12 <NA> the old captcha where people wasted their time to the new captcha where people are helping to digitize books <unk> so for example <unk> ticketmaster so every time you buy tickets on ticketmaster <unk> you help to digitize a book
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 299.12 304.97 <NA> <unk> facebook every time you add a friend or poke somebody you help to digitize a book <unk> twitter and about three hundred and fifty thousand
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 304.99 315.12 <NA> <unk> other sites are all using recaptcha <unk> and in fact the number of sites that are using recaptcha is so high that the number of words that we 're digitizing per day is really really large it 's about one hundred million a day <unk> which is the equivalent
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 315.07 321.51 <NA> <unk> of about two and a half million books a year and this is all being done one word at a time by just people typing captchas on the internet
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 331.82 340.53 <NA> <unk> we 're doing so many words per day funny things can happen and this is especially true because now we 're giving people two randomly chosen english words next to each other
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 340.53 350.17 <NA> so funny things can happen <unk> for example <unk> we presented this word it 's the word christians there 's nothing wrong with it <unk> but if you present it along with another randomly chosen word <unk> bad things can happen
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 354.93 359.29 <NA> <unk> showed this actually happened to be called the embassy of the kingdom of god oops 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 365.4 367.45 <NA> laughter here 's another really bad one <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 375 377.66 <NA> so we keep on insulting people left and right everyday <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 377.44 387.06 <NA> now of course we 're not just insulting people see here 's the thing <unk> since we 're presenting two randomly chosen words interesting things can happen so this actually has given rise to
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 386.87 400.14 <NA> a really big internet meme that tens of thousands of people have participated in which is called captcha art i 'm sure some of you have heard about it <unk> here 's how it works imagine you 're using the internet and you see a captcha that you think is somewhat
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 403.22 410.19 <NA> <unk> then what you 're supposed to do is you take a screen shot of it <unk> then of course you fill out the captcha because you help us digitize a book <unk> but then 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 409.76 414.09 <NA> first you take a screen shot and then you draw something that is related to it 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 415.31 423.34 <NA> that 's how it works <unk> there are tens of thousands of these some of them are very cute
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 433.38 440.26 <NA> <unk> and some of them like paleontological shvisle they contain snoop dogg 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 442.74 448.25 <NA> okay <unk> so this is my favorite number of recaptcha <unk> so this is the favorite thing that i like about this whole project 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 448.25 454.97 <NA> this is the number of distinct people that have helped us digitize at least one word out of a book through recaptcha <unk> seven hundred and fifty million
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 454.93 465.62 <NA> <unk> which is a little over ten percent of the world 's population has helped us digitize human knowledge <unk> and it is numbers like these that motivate my research agenda so the question that motivates my research is the following 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 465.42 473.18 <NA> if you look at humanity 's large scale achievements these really big things that humanity has gotten together and done historically like for example <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 473.18 478.13 <NA> building the pyramids of egypt or the panama canal or putting a man on the moon
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 477.91 479.64 <NA> there is a curious fact about them
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 479.93 485.97 <NA> <unk> it is that they were all done with about the same number off people it 's weird <unk> they were all done with about one hundred thousand people 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 485.54 488.35 <NA> and the reason for that is because before the internet <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 488.14 492.16 <NA> coordinating more than one hundred thousand people let alone paying them 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 491.98 493.66 <NA> was essentially impossible <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 493.66 504.94 <NA> but now with the internet i 've just shown you a project where we 've gotten seven hundred and fifty million people to help us digitize human knowledge <unk> so the question that motivates my research is if we can put a man on the moon with one hundred thousand what can we do
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 505.16 514.16 <NA> with one hundred million so based on this question we 've had a lot of different projects that we 've been working on let me tell you about one that i 'm most excited about this is something that we 've been
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 515.28 525.08 <NA> <unk> working on for the last year and a half or so it hasn 't yet been launched it 's called duolingo <unk> since it hasn 't been launched shhhhh yeah i can trust you 'll
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 526.27 533.24 <NA> <unk> so this is the project here 's how it started it started with me posing a question to my graduate student <unk> severin hacker <unk> okay that 's severin hacker
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 533.05 539.45 <NA> <unk> so i posed the question to my graduate student by the way you did hear me correctly his last name is hacker <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 539.56 546.98 <NA> so i posed this question to him how can we get one hundred million people translating the web into every major language for free okay
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 546.94 550.05 <NA> so there 's a lot of things to say about this question first of all translating
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 550.94 557.73 <NA> <unk> right now the web is partitioned into multiple languages a large fraction of it is in english if you don 't know any english <unk> you can 't access it <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 557.27 567.84 <NA> but there 's large fractions in other different languages <unk> and if you don 't know those languages <unk> you can 't access it <unk> so i would like to translate all of the web <unk> or at least most of the web into every major language so
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 567.5 579.97 <NA> that 's what i would like to do <unk> now some of you may say why can 't we use computers to translate <unk> why can 't we use machine translation machine translation nowadays is starting to translate some sentences here and there why can 't we use it to translate the whole web <unk> well the problem with that is that it
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 579.93 589.39 <NA> <unk> 's not yet good enough and it probably won 't be for the next fifteen to twenty years it makes a lot of mistakes <unk> even when it doesn 't make a mistake <unk> since it makes so many mistakes you don 't know whether to trust it or not 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 589.17 600.23 <NA> so let me show you an example of something that was translated with a machine actually it was a forum post it was somebody who was trying to ask a question about javascript <unk> it was translated from japanese
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 602.41 606.11 <NA> <unk> 'll just let you read this person starts apologizing for the fact that it 's
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 606.1 614.58 <NA> translated with a computer <unk> so the next sentence is is going to be the preamble to the question so he 's just explaining something <unk> remember it 's a question about javascript
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 641.81 644.35 <NA> <unk> and then comes the ending which is my favorite part of the whole thing
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 654.99 664.27 <NA> <unk> we need people to translate the whole web <unk> so now the next question you may have is well why can 't we just pay people to do this we could pay professional language translators to translate the whole web <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 664.17 665.74 <NA> we could do that
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 665.74 674.53 <NA> <unk> unfortunately it would be extremely expensive for example <unk> translating a tiny tiny fraction of the whole web <unk> wikipedia into one other language <unk> spanish
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 674.28 679.73 <NA> <unk> wikipedia exists in spanish <unk> but it 's very small compared to the size of english it 's about twenty percent of the size of english
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 679.93 682.01 <NA> <unk> we wanted to translate the other eighty percent
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 681.81 688.91 <NA> into spanish <unk> it would cost at least fifty million dollars and this is at even the most exploited outsourcing country out there so it
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 689.62 695.69 <NA> would be very expensive so what we want to do is we want to get one hundred million people translating the web into every major language for free <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 695.5 700.05 <NA> <unk> now if this is what you want to do you pretty quickly realize you 're going to run into two pretty big
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 702.32 706.56 <NA> <unk> the first one is a lack of bilinguals so
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 706.43 712.63 <NA> i don 't even know if there exists one hundred million people out there using the web who are bilingual enough to help us translate
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 712.39 716.49 <NA> that 's a big problem the other problem you 're going to run into is a lack of motivation 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 716.49 725.2 <NA> how are we going to motivate people to actually translate the web for free <unk> normally you have to pay people to do this <unk> so how are we going to motivate them to do it for free <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 724.99 729.94 <NA> now when we were starting to think about this we were blocked by these two things but then we realized there 's actually a way to
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 729.9 734.98 <NA> <unk> solve both these problems with the same solution there 's a way to kill two birds with one stone 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 734.58 740.18 <NA> and that is to transform language translation into something that millions of people want to do <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 740.18 745.66 <NA> and that also helps with the problem of lack of bilinguals <unk> and that is language education <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 745.17 751.75 <NA> so it turns out that today there are over one point two billion people learning a foreign language <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 751.59 754.94 <NA> people really really want to learn a foreign language and it 's not just because they 're being
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 754.9 765.05 <NA> <unk> forced to do so in school for example in the united states alone there are over five million people who have paid over $ five hundred for software to learn a new language so people really really want to learn a new language <unk> so <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 764.95 774.93 <NA> <unk> what we 've been working on for the last year and a half is a new website it 's called duolingo where the basic idea is people learn a new language for free while simultaneously translating the web <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 780.02 787.71 <NA> <unk> we give you very very simple sentences there 's of course a lot of very simple sentences on the web <unk> we give you very very simple sentences along with what each word means
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 787.4 798.21 <NA> and as you translate them and as you see how other people translate them you start learning the language and as you as you get more and more advanced we give you more and more complex sentences to translate but at all times you 're learning by doing 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 797.9 799.96 <NA> now the crazy thing about this
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 800 802.33 <NA> <unk> method is that it actually really works
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 801.84 808.4 <NA> first of all people are really really learning a language we 're mostly done building it and now we 're testing it people really can learn a language with it 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 808.19 818.62 <NA> and they learn it about as well as the leading language learning software so people really do learn a language and not only do they learn it as well <unk> but actually it 's way more interesting because you see with duolingo people <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 818.52 824.98 <NA> <unk> are actually learning with real content as opposed to learning with made up sentences people are learning with real content which is inherently interesting
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 826.48 834.29 <NA> <unk> so people really do learn a language but perhaps more surprisingly the translations that we get from people using the site <unk> even though they 're just beginners 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 833.8 844.19 <NA> the translations that we get are as accurate as those of professional language translators <unk> which is very surprising so let me show you one example <unk> this is a sentence that was translated from german into english <unk> the top is <unk>
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 844.09 854.67 <NA> <unk> the german the middle is an english translation that was done by somebody who was a professional english translator who we paid twenty cents a word for this translation and the bottom is a translation by users of duolingo
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 855.08 858.45 <NA> <unk> of whom knew any german before they started using the site you
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 858.11 860.23 <NA> can see it 's pretty much perfect <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 860.23 870.69 <NA> now of course we play a trick here to make the translations as good as professional language translators we combine the translations of multiple beginners to get the quality of a single professional translator
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 870.32 873.3 <NA> now even though we 're combining
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 873.5 874.72 <NA> the translations
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 875.85 883.42 <NA> <unk> the site actually can translate pretty fast <unk> so let me show you this is our estimates of how fast we could translate wikipedia from english into spanish <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 883.42 886.33 <NA> remember this is fifty million dollars worth of value
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 885.99 891.65 <NA> so if we wanted to translate wikipedia into spanish <unk> we could do it in five weeks with one hundred thousand active users <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 891.65 900.11 <NA> and we could do it in about eighty hours with a million active users since all the projects that my group has worked on so far have gotten millions of users we 're hopeful that we 'll be able to translate extremely fast
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 902.05 908.39 <NA> <unk> the thing that i 'm most excited about with duolingo is i think this provides a fair business model for language education <unk> 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 908.39 913.01 <NA> so here 's the thing the current business model for language education is the student pays 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 913.06 917.54 <NA> and in particular the student pays rosetta stone five hundred dollars that 's
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 918.13 925.02 <NA> the current business model the problem with this business model is that ninety five percent of the world 's population doesn 't have five hundred dollars <unk> so
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 925 935.11 <NA> 's extremely unfair towards the poor this is totally biased towards the rich now see in duolingo <unk> because while you learn you 're actually creating value 
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 935.11 941.31 <NA> you 're translating stuff which for example we could charge somebody for translations <unk> so this is how we could monetize this
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 940.85 953.46 <NA> <unk> since people are creating value while they 're learning they don 't have to pay their money they pay with their time but the magical thing here is that they 're paying with their time but that is time that would have had to have been spent anyways learning the language
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 953.03 954.97 <NA> so the nice thing about duolingo is i think
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 954.93 960.25 <NA> <unk> it provides a fair business model one that doesn 't discriminate against poor people so here 's the site thank you applause
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 969.48 971.99 <NA> so here 's the site we haven 't yet launched
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 971.99 979.49 <NA> <unk> but if you go there <unk> you can sign up to be part of our private beta which is probably going to start in about three or four weeks we haven 't yet launched this duolingo by the way
+LuisVonAhn_2011X 1 LuisVonAhn_2011X 979.87 985.32 <NA> <unk> talking here but actually duolingo is the work of a really awesome team some of whom are here so thank you

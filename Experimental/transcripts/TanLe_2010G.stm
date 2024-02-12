@@ -1,0 +1,80 @@
+TanLe_2010G 1 TanLe_2010G 16.81 22.65 <NA> <unk> our communication with machines has always been limited to conscious and direct forms 
+TanLe_2010G 1 TanLe_2010G 22.65 29.94 <NA> whether it 's something simple like turning on the lights with a switch or even as complex as programming robotics we
+TanLe_2010G 1 TanLe_2010G 29.9 36.81 <NA> <unk> have always had to give a command to a machine or even a series of commands in order for it to do something for us <unk> 
+TanLe_2010G 1 TanLe_2010G 36.59 39.48 <NA> communication between people on the other hand 
+TanLe_2010G 1 TanLe_2010G 39.48 47.34 <NA> is far more complex and a lot more interesting because we take into account so much more than what is explicitly expressed 
+TanLe_2010G 1 TanLe_2010G 46.94 49.84 <NA> we observe facial expressions body
+TanLe_2010G 1 TanLe_2010G 50.64 59.08 <NA> <unk> and we can intuit feelings and emotions from our dialogue with one another this actually forms a large part of our decision making process 
+TanLe_2010G 1 TanLe_2010G 59.46 64.46 <NA> our vision is to introduce this whole new realm of human interaction
+TanLe_2010G 1 TanLe_2010G 64.28 66.68 <NA> into human computer interaction
+TanLe_2010G 1 TanLe_2010G 66.47 74.72 <NA> so that computers can understand not only what you direct it to do <unk> but it can also respond to your facial expressions and emotional
+TanLe_2010G 1 TanLe_2010G 76.51 84.95 <NA> <unk> and what better way to do this than by interpreting the signals naturally produced by our brain our center for control and experience 
+TanLe_2010G 1 TanLe_2010G 85.03 92.72 <NA> well it sounds like a pretty good idea but this task <unk> as bruno mentioned isn 't an easy one for two main reasons 
+TanLe_2010G 1 TanLe_2010G 92.71 95.72 <NA> first the detection algorithms <unk> 
+TanLe_2010G 1 TanLe_2010G 95.5 104.88 <NA> our brain is made up of billions of active neurons around one hundred and seventy thousand km of combined axon length when these
+TanLe_2010G 1 TanLe_2010G 104.81 113.09 <NA> <unk> neurons interact the chemical reaction emits an electrical impulse which can be measured the majority of our functional brain
+TanLe_2010G 1 TanLe_2010G 112.93 114.92 <NA> is distributed over the
+TanLe_2010G 1 TanLe_2010G 114.76 123.54 <NA> outer surface layer of the brain and to increase the area that 's available for mental capacity the brain surface is highly folded 
+TanLe_2010G 1 TanLe_2010G 123.29 129.97 <NA> now this cortical folding presents a significant challenge for interpreting surface electrical impulses
+TanLe_2010G 1 TanLe_2010G 130.44 136.81 <NA> each individual 's cortex is folded differently very much like a fingerprint <unk> 
+TanLe_2010G 1 TanLe_2010G 136.35 140.89 <NA> so even though a signal may come from the same functional part of the brain 
+TanLe_2010G 1 TanLe_2010G 140.88 149.44 <NA> by the time the structure has been folded its physical location is very different between individuals even identical twins 
+TanLe_2010G 1 TanLe_2010G 149.73 154.97 <NA> there is no longer any consistency in the surface signals our breakthrough
+TanLe_2010G 1 TanLe_2010G 155.25 166.16 <NA> was to create an algorithm that unfolds the cortex so that we can map the signals closer to its source <unk> and therefore making it capable of working across a mass population 
+TanLe_2010G 1 TanLe_2010G 166.42 168.57 <NA> the second challenge
+TanLe_2010G 1 TanLe_2010G 168.36 178.68 <NA> is the actual device for observing brainwaves <unk> eeg measurements typically involve a hairnet with an array of sensors like the one that you can see here in the photo
+TanLe_2010G 1 TanLe_2010G 179.93 185.42 <NA> <unk> technician will put the electrodes onto the scalp using a conductive gel or paste
+TanLe_2010G 1 TanLe_2010G 185.2 194.61 <NA> and usually after a procedure of preparing the scalp by light abrasion now this is quite time consuming and isn 't the most comfortable process <unk> 
+TanLe_2010G 1 TanLe_2010G 194.21 199.71 <NA> and on top of that these systems actually cost in the tens of thousands of dollars <unk> 
+TanLe_2010G 1 TanLe_2010G 201.33 203.35 <NA> <unk> like to invite onstage
+TanLe_2010G 1 TanLe_2010G 202.89 210.91 <NA> evan grant who is one of last year 's speakers who 's kindly agreed to help me to demonstrate what we 've been able to develop 
+TanLe_2010G 1 TanLe_2010G 217.29 219.79 <NA> so the device that you see is <unk>
+TanLe_2010G 1 TanLe_2010G 222.18 224.9 <NA> <unk> acquisition system it doesn 't require
+TanLe_2010G 1 TanLe_2010G 225 233.24 <NA> <unk> any scalp preparation no conductive gel or paste it only takes a few minutes to put on and for the signals to settle 
+TanLe_2010G 1 TanLe_2010G 233.23 239.4 <NA> it 's also wireless <unk> so it gives you the freedom to move around and
+TanLe_2010G 1 TanLe_2010G 238.98 241.81 <NA> compared to the tens of thousands of dollars
+TanLe_2010G 1 TanLe_2010G 241.81 249.75 <NA> for a traditional eeg system this headset only costs a few hundred dollars now on to the detection
+TanLe_2010G 1 TanLe_2010G 251.24 255.19 <NA> <unk> so facial expressions as i mentioned before in emotional experiences
+TanLe_2010G 1 TanLe_2010G 255.01 261.9 <NA> are actually designed to work out of the box with some sensitivity adjustments available for personalization 
+TanLe_2010G 1 TanLe_2010G 261.56 267.25 <NA> but with the limited time we have available i 'd like to show you the cognitive suite <unk> which is
+TanLe_2010G 1 TanLe_2010G 267.09 276.57 <NA> the ability for you to basically move virtual objects with your mind <unk> now evan is new to this system so what we have to do first is
+TanLe_2010G 1 TanLe_2010G 276.29 279.91 <NA> create a new profile for him he 's obviously not joanne so
+TanLe_2010G 1 TanLe_2010G 280.02 282.76 <NA> <unk> add user evan
+TanLe_2010G 1 TanLe_2010G 282.53 290.23 <NA> okay <unk> so the first thing we need to do with the cognitive suite is to start with training a neutral signal 
+TanLe_2010G 1 TanLe_2010G 290.01 300.02 <NA> with neutral there 's nothing in particular that evan needs to do he just hangs out he 's relaxed and the idea is to establish a baseline or normal state for his
+TanLe_2010G 1 TanLe_2010G 300.31 307.34 <NA> <unk> because every brain is different it takes eight seconds to do this and now that that 's done we can choose a <unk>
+TanLe_2010G 1 TanLe_2010G 308.56 313.28 <NA> <unk> so evan choose something that you can visualize clearly in your mind evan grant let 's do
+TanLe_2010G 1 TanLe_2010G 313 316.85 <NA> pull tan le okay <unk> so let 's choose pull 
+TanLe_2010G 1 TanLe_2010G 316.48 324.38 <NA> so the idea here now is that evan needs to imagine the object coming forward into the screen 
+TanLe_2010G 1 TanLe_2010G 324.38 328.82 <NA> and there 's a progress bar that will scroll across the screen while he 's doing that 
+TanLe_2010G 1 TanLe_2010G 328.66 329.88 <NA> the first time
+TanLe_2010G 1 TanLe_2010G 329.84 339.16 <NA> <unk> nothing will happen because the system has no idea how he thinks about pull but maintain that thought for the entire duration of the eight seconds so one
+TanLe_2010G 1 TanLe_2010G 371.58 379.97 <NA> <unk> so we have a little bit of time available so i 'm going to ask evan to do a really difficult task <unk> and this one is difficult because
+TanLe_2010G 1 TanLe_2010G 380.11 384.73 <NA> <unk> it 's all about being able to visualize something that doesn 't exist in our physical world
+TanLe_2010G 1 TanLe_2010G 384.74 393.81 <NA> this is disappear so what you want to do at least with <unk> movement based actions we do that all the time so you can visualize it but with disappear there 's really no analogies
+TanLe_2010G 1 TanLe_2010G 393.62 399.96 <NA> so evan what you want to do here is to imagine the cube slowly fading out okay <unk> same sort of drill so one
+TanLe_2010G 1 TanLe_2010G 429.84 437.2 <NA> <unk> actually works even though you can only hold it for a little bit of time as i said it 's a very difficult
+TanLe_2010G 1 TanLe_2010G 436.77 446.62 <NA> process to imagine this and the great thing about it is that we 've only given the software one instance of how he thinks about disappear
+TanLe_2010G 1 TanLe_2010G 446.25 449.27 <NA> <unk> as there is a machine learning algorithm
+TanLe_2010G 1 TanLe_2010G 460.39 463.49 <NA> <unk> thank you evan you 're a wonderful wonderful
+TanLe_2010G 1 TanLe_2010G 463.18 466.04 <NA> example of the technology 
+TanLe_2010G 1 TanLe_2010G 465.67 474.81 <NA> so as you can see before there is a leveling system built into this software so that as evan or any user becomes more
+TanLe_2010G 1 TanLe_2010G 475.25 483.69 <NA> <unk> with the system they can continue to add more and more detections so that the system begins to differentiate between different distinct thoughts
+TanLe_2010G 1 TanLe_2010G 483.5 492.24 <NA> <unk> and once you 've trained up the detections these thoughts can be assigned or mapped to any computing platform <unk> application or device 
+TanLe_2010G 1 TanLe_2010G 491.75 498.99 <NA> so i 'd like to show you a few examples because there are many possible applications for this new interface 
+TanLe_2010G 1 TanLe_2010G 499.28 504.97 <NA> in games and virtual worlds for example your facial expressions can naturally and intuitively be
+TanLe_2010G 1 TanLe_2010G 504.96 509.41 <NA> <unk> used to control an avatar or virtual character <unk> 
+TanLe_2010G 1 TanLe_2010G 508.98 514.21 <NA> obviously you can experience the fantasy of magic and control the world with your mind <unk> 
+TanLe_2010G 1 TanLe_2010G 516.45 525.02 <NA> and also colors <unk> lighting sound and effects can dynamically respond to your emotional state to heighten the experience that
+TanLe_2010G 1 TanLe_2010G 525.64 535.17 <NA> <unk> in real time <unk> and moving on to some applications developed by developers and researchers around the world with robots and simple machines for example
+TanLe_2010G 1 TanLe_2010G 534.96 540.2 <NA> in this case flying a toy helicopter simply by thinking lift with your mind 
+TanLe_2010G 1 TanLe_2010G 540.28 549.27 <NA> the technology can also be applied to real world applications in this example a smart home you know from the user interface of the control system
+TanLe_2010G 1 TanLe_2010G 549.06 551.03 <NA> to opening
+TanLe_2010G 1 TanLe_2010G 550.9 552.99 <NA> curtains or closing curtains
+TanLe_2010G 1 TanLe_2010G 562.67 565.23 <NA> and of course also to the lighting
+TanLe_2010G 1 TanLe_2010G 565.55 567.33 <NA> turning them on
+TanLe_2010G 1 TanLe_2010G 568.25 569.7 <NA> or off 
+TanLe_2010G 1 TanLe_2010G 570.26 579.19 <NA> and finally to real life changing applications such as being able to control an electric wheelchair in this example
+TanLe_2010G 1 TanLe_2010G 580.08 584.23 <NA> <unk> expressions are mapped to the movement commands man now blink right to go right now blink left
+TanLe_2010G 1 TanLe_2010G 591.36 592.45 <NA> to turn back <unk>
+TanLe_2010G 1 TanLe_2010G 602.95 604.38 <NA> <unk> now smile to go straight

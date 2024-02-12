@@ -1,0 +1,47 @@
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 12.85 16.31 <NA> <unk> what 's the fastest growing threat to americans ' health 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 15.97 25.02 <NA> cancer <unk> heart attacks <unk> diabetes the answer is actually none of these it 's alzheimer 's disease <unk> every sixty seven seconds
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 25 28.23 <NA> someone in the united states is diagnosed with alzheimer 's 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 28.25 37.95 <NA> as the number of alzheimer 's patients triples by the year two thousand and fifty caring for them <unk> as well as the rest of the aging population <unk> will become an overwhelming societal challenge 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 38.15 43.14 <NA> my family has experienced firsthand the struggles of caring for an alzheimer 's patient 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 42.65 47.29 <NA> growing up in a family with three generations i 've always been very close to my grandfather 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 47.29 54.91 <NA> when i was four years old my grandfather and i were walking in a park in japan when he suddenly got lost <unk> it was one of the scariest moments i 've ever experienced
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 54.99 60.43 <NA> <unk> life and it was also the first instance that informed us that my grandfather had alzheimer 's disease <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 60.15 75.05 <NA> over the past twelve years his condition got worse and worse and his wandering in particular caused my family a lot of stress my aunt his primary caregiver really struggled to stay awake at night to keep an eye on him and even then often failed to catch him leaving the bed <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 75 84.17 <NA> i became really concerned about my aunt 's well being as well as my grandfather 's safety <unk> i searched extensively for a solution that could help my family 's problems <unk> but couldn 't find one 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 84.55 87.62 <NA> then one night about two years ago <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 87.55 91.27 <NA> i was looking after my grandfather and i saw him stepping out of the bed 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 91.11 96.49 <NA> the moment his foot landed on the floor <unk> i thought <unk> why don 't i put a pressure sensor on the heel of his foot <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 96.49 104.94 <NA> once he stepped onto the floor and out of the bed the pressure sensor would detect an increase in pressure caused by body weight and then wirelessly send an audible alert to the caregiver
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 104.93 113.49 <NA> <unk> smartphone that way my aunt could sleep much better at night without having to worry about my grandfather 's wandering <unk> so now i 'd like to perform a demonstration of this sock
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 115.91 119.25 <NA> <unk> could i please have my sock model on the stage <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 120.26 122.61 <NA> great <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 123.68 125.02 <NA> so once
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 144.09 146.65 <NA> <unk> so this is a drawing of my preliminary design 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 147.66 154.94 <NA> my desire to create a sensor based technology perhaps stemmed from my lifelong love for sensors and technology when i was six
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 154.9 165.44 <NA> <unk> years old an elderly family friend fell down in the bathroom and suffered severe injuries <unk> i became concerned about my own grandparents and decided to invent a smart bathroom system motion sensors would be installed <unk>
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 165.34 171.44 <NA> <unk> inside the tiles of bathroom floors to detect the falls of elderly patients whenever they fell down in the bathroom 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 179.98 191.25 <NA> but nonetheless my research experience really implanted in me a firm desire to use sensors to help the elderly people i really believe that sensors can improve the quality of life of the elderly 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 192.59 204.79 <NA> when i laid out my plan i realized that i faced three main challenges first <unk> creating a sensor second designing a circuit and third coding a smartphone app this made me realize that my project was actually much harder to realize
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 205.02 206.74 <NA> <unk> i initially had thought it to be 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 206.7 212.75 <NA> first i had to create a wearable sensor that was thin and flexible enough to be worn comfortably on the bottom of the patient 's foot <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 212.75 222.61 <NA> after extensive research and testing of different materials like rubber which i realized was too thick to be worn snugly on the bottom of the foot <unk> i decided to print a film sensor with electrically conductive
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 222.3 229.94 <NA> <unk> pressure sensitive ink particles once pressure is applied the connectivity between the particles increases <unk> therefore i could design a circuit that would measure
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 229.9 232.7 <NA> <unk> pressure by measuring electrical resistance <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 232.87 235.92 <NA> next i had to design a wearable wireless circuit <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 235.74 241.08 <NA> but wireless signal transmission consumes lots of power and requires heavy bulky batteries <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 241.08 248.12 <NA> thankfully i was able to find out about the bluetooth low energy technology which consumes very little power and can be driven by a coin sized battery <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 247.78 251.24 <NA> this prevented the system from dying in the middle of the night <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 251.62 255 <NA> lastly i had to code a smartphone app that would essentially transform
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 255.05 257.65 <NA> <unk> the care giver 's smartphone into a remote monitor 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 257.65 268.17 <NA> for this i had to expand upon my knowledge of coding with java and xcode and i also had to learn about how to code for bluetooth low energy devices by watching youtube tutorials and reading various textbooks <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 268.82 275.23 <NA> integrating these components i was able to successfully create two prototypes one in which the sensor is embedded inside a sock
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 275.25 281.56 <NA> <unk> and another that 's a re attachable sensor assembly that can be adhered anywhere that makes contact with the bottom of the patient 's foot <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 281.1 289.6 <NA> i 've tested the device on my grandfather for about a year now and it 's had a one hundred percent success rate in detecting the over nine hundred known cases of his wandering <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 290.19 295.81 <NA> last summer i was able to beta test my device at several residential care facilities in california 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 295.41 300.05 <NA> and i 'm currently incorporating the feedback to further improve the device into a marketable product
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 300.82 307.91 <NA> <unk> testing the device on a number of patients made me realize that i needed to invent solutions for people who didn 't want to wear socks to sleep at night <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 308.32 313.59 <NA> so sensor data collected on a vast number of patients can be useful for improving
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 313.2 317.15 <NA> patient care and also leading to a cure for the disease possibly 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 316.69 324.32 <NA> for example i 'm currently examining correlations between the frequency of a patient 's nightly wandering and his or her daily activities and diet <unk> 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 325.88 335.88 <NA> <unk> one thing i 'll never forget is when my device first caught my grandfather 's wandering out of bed at night at that moment i was really struck by the power of technology to change lives for the better 
+KennethShinozuka_2014Y 1 KennethShinozuka_2014Y 335.39 340.63 <NA> people living happily and healthfully that 's the world that i imagine thank you very much

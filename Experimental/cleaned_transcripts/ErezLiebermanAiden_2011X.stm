@@ -1,0 +1,104 @@
+  everyone knows that a picture
+ is worth a thousand words  but we at harvard
+ were wondering if this was really true 
+ so we assembled a team of experts spanning harvard
+  mit the american heritage dictionary the encyclopedia britannica and even our proud sponsors the google
+  and we cogitated about this for about four years 
+ and we came to a startling conclusion  
+ ladies and gentlemen a picture is not worth a thousand words in fact we found some pictures that are worth
+ five hundred billion words jean baptiste michel 
+ so how did we get to this conclusion  
+ so erez and i were thinking about ways to get a big picture of human culture and human history change over time  so many books actually have been written over the years so we were thinking well 
+ the best way to learn from them is to read all of these millions of books  now of course if there 's a scale for how awesome that is that has to rank extremely
+  now the problem is there 's an x axis for that which is the practical axis this is very very low 
+ now people tend to use an alternative approach  which is to take a few sources and read them very carefully this is extremely practical but not so awesome  
+ what you really want to do is to get to the awesome yet practical
+ part of this space so it turns out there was a company across the river called
+ who had started a digitization project a few years back that might just enable this approach  they have digitized millions of books  so what that means is one could use computational methods to read all of the books in a click of a button  
+ that 's very practical and extremely awesome ela
+ let me tell you a little bit about where books come from  since time immemorial there have been authors these authors have been striving
+ to write books and this became considerably easier
+  easier with the development of the printing press some centuries ago  since then the authors have won on one hundred and twenty nine million distinct occasions  publishing books now if those books are not lost to history then they are somewhere in a library 
+ and many of those books have been getting retrieved from the libraries and digitized by google which has scanned fifteen million books to date now when google digitizes a book they put it into a really nice format now we 've got the data
+  plus we have metadata we have information about things like where was it published who was the author  when was it published and what we do is go through all of those records and exclude everything 
+  that 's not the highest quality data  what we 're left with is a collection of five million books five hundred billion
+  string of characters a thousand times longer than the human genome a text which when written out would stretch from here to the moon and back ten times over a veritable shard of our cultural genome of
+ course what we did when faced with such outrageous hyperbole was what any 
+  researchers would have done  
+ we took a page out of xkcd and we said stand back we 're going to try science jm 
+ now of course we were thinking well let 's just first put the data out there for people to do science to it now we
+ 're thinking what data can we release well of course you want to take the books and release the full text of these five million books  
+ now google and jon orwant in particular told us a little equation that we should learn so you have five million
+ and five million plaintiffs is a massive lawsuit so although that would be really really awesome  again  that 's extremely extremely impractical 
+ laughter now
+ again we kind of caved in and we did the very practical approach which was a bit less awesome  we said well instead of releasing the full text we 're going to release statistics about the books  so take for instance
+  all the way up to two thousand and eight 
+ that gives us a time series of how frequently this particular sentence was used over time we do that for all the words and phrases that appear in those books and that gives us a big table of two billion lines that tell us about the way culture has been changing ela 
+ so those two billion lines we call them two billion n grams
+  do they tell us well the individual n grams measure cultural trends let me give you an example  let 's suppose that i am thriving then tomorrow i want to tell you about how well i did and so i 
+  might say yesterday  i throve alternatively i could say yesterday i thrived well which one should i use 
+ field is that you would for instance go up to the following psychologist with fabulous hair  and you 'd say 
+ steve you 're an expert on the irregular verbs what should i do and he 'd tell you well most people say thrived but some people say throve 
+ and you also knew more or less that if you were to go back in time two hundred years and ask the following statesman with equally fabulous hair
+  most people throve  but some thrived 
+ so now what i 'm just going to show you is raw data two rows from this table of two billion entries 
+ what you 're seeing is year by year frequency of thrived and throve over time  
+ now this is just two out of two billion
+ billion rows so the entire data set is a billion times more awesome than this slide jm 
+ now there are many other pictures that are worth five hundred billion words for instance  this one if you just take influenza 
+  you will see peaks at the time where you knew big flu epidemics were killing people around
+ and global temperature jm 
+ you might also want to have a look at this particular n gram and that 's to
+ tell nietzsche that god is not dead  although you might agree that he might need a better publicist ela you can
+ get at some pretty abstract concepts with this sort of thing for instance let me tell you the history of the year one thousand nine hundred and fifty pretty much
+  there started to be a buzz people realized that one thousand nine hundred and fifty was going to happen  and it could be big
+  people were walking around obsessed they couldn 't stop talking about all the things they did in one thousand nine hundred and fifty all the things they were planning to do in one thousand nine hundred and fifty all the dreams of what they wanted to accomplish in one thousand nine hundred and fifty 
+ in fact one thousand nine hundred and fifty was so fascinating
+  someone woke up and realized that one thousand nine hundred and fifty had gotten somewhat pass 
+ and just like that the bubble burst and the story of one thousand nine hundred and fifty is the story of every year that we have on
+  with a little twist  because now we 've got these nice charts  and because we have these nice charts we can measure things we can say well how fast does the bubble burst and it turns out that we can measure that very precisely 
+ equations were derived graphs were produced and the net result
+  now a little piece of career advice  
+ so for those of you who seek to be famous we can learn from the twenty five most famous famous political figures authors actors and so on so if you want to become famous early on you should be an actor  because then fame 
+ starts rising by the end of your  20s you 're still young it 's really great  now if you can wait a little bit you should be an author because then you rise to very great heights like mark twain for instance extremely famous 
+  by the end of your 50s and become very very famous afterward  so scientists also tend to get famous when they 're much much older like for instance biologists and physics tend to be almost as famous as actors 
+ one mistake you should not do is become a mathematician 
+ laughter if you do that you might think oh great i 'm going to do my best work when
+  there are more sobering notes among the n grams for instance here 's the trajectory of marc chagall an artist born in one thousand eight hundred and eighty seven and this looks like the normal trajectory of a famous person he gets more and more and more and more famous
+  except if you look in german if you look in german you see something completely bizarre something you pretty much never
+  which is he becomes extremely famous and then all of a sudden plummets going through a nadir between one thousand nine hundred and thirty three and one thousand nine hundred and forty five before
+ rebounding afterward and of course what we 're seeing is the fact
+ marc chagall was a jewish artist in nazi germany now these signals are actually so strong that
+ we don 't need to know that someone was censored we can actually figure it out using really basic signal processing here 's a simple way to do it
+ well a reasonable expectation is that somebody 's fame in a given period of time should be roughly the average of their fame before
+ and their fame after so that 's sort of what we expect  
+ and we compare that to the fame that we observe  
+ and we just divide one by the other to produce something we call a suppression index if the suppression index is very very very small then
+  you very well might be being suppressed if it 's very large  maybe you 're benefiting from propaganda 
+ jm now you can actually look at the distribution of suppression indexes over whole populations so for instance here
+ this suppression index is for five thousand people picked in english books where there 's no known suppression it would be like this basically tightly centered on one  what you expect is basically what you observe 
+ this is distribution as seen in germany very different it 's shifted to the
+  people talked about it twice less as it should have been but much more importantly the distribution is much wider  there are many people who end up on the far left on this distribution who are talked about ten times fewer than they 
+  should have been but then also many people on the far right who seem to benefit from propaganda this picture is the hallmark of censorship in the book record ela 
+  culturomics is similar it 's the application of massive scale data collection analysis to the study of human culture  here instead of through the lens of a genome through the lens of digitized pieces of the historical record
+ the great thing about culturomics is that everyone can do it why can everyone do it everyone can do it because
+ three guys jon orwant matt gray and will brockman over at google saw the prototype of the ngram viewer and they said
+  is so fun we have to
+ make this available for people so in two weeks flat the two weeks before our paper came out they coded up a version of the ngram viewer for the general public and so you too can type in any word or phrase that you 're interested in and 
+  see its n gram immediately also browse examples of all the various books in which your n gram appears jm 
+  the first day and this is really the best of all the queries  so people want to be their best put their best foot forward but it turns out in the 18th century people didn 't really care about that
+ at all they didn 't want to be their best they wanted to be their beft  so what happened is of course  
+ this is just a mistake it 's not that strove for mediocrity it 's just that the s used to be written differently kind of like  an f now of course google didn 't pick this up at the time  so we reported this in the science article
+  but it turns out this is just a reminder that although this is a lot of fun when you interpret these graphs you have to be very careful and you have to adopt the base standards in the sciences ela 
+ people have been using this for all kinds of fun purposes 
+ actually we 're not going to have to talk we 're just going to show you all the slides and
+ remain silent this person was interested in the history of frustration there 's
+ various types of frustration
+  you stub your toe that 's a one a argh 
+ if the planet earth is annihilated by the vogons to make room for an interstellar bypass  that 's an eight a aaaaaaaargh 
+ this person studies all the arghs from one through eight a 's and it turns out that the
+ arghs are of course the ones that correspond to things that are more frustrating
+  we think that might have something to do with reagan 
+  many usages of this data but the bottom line is that the historical record is being digitized google has started to digitize fifteen million books that 's twelve percent of all the books that have ever been published  it 's a sizable chunk 
+  of human culture  there 's much more in culture there 's manuscripts there newspapers there 's things that are not text like art and paintings
+  happen to be on our computers on computers across the world and when that happens that will transform the way we have to understand our past our present and human culture  thank you very much

@@ -1,0 +1,120 @@
+  so you go to the doctor and get some tests the doctor determines that you have high cholesterol and you would benefit
+ from medication to treat it so you get a pillbox you have some confidence your physician has some confidence that this is going to work  the company that
+  invented it did a lot of studies submitted it to the fda they studied it very carefully skeptically they approved it they have a rough idea of how it works they have a rough idea of what the side effects are it should be ok  
+ you have a little more of a conversation with your physician
+ and the physician is a little worried because you 've been blue haven 't felt like yourself you haven 't been able to enjoy things in life quite as much as you usually do your physician says
+  you have some depression i 'm
+ going to have to give you another pill 
+ so now we 're talking about two medications this pill also millions of people have taken it the
+ company did studies  the fda looked at it all good 
+ think things should go ok think things should go ok  
+  wait a minute how much have we studied
+ these two together  well  it 's very hard to do that in fact it 's not traditionally done we totally depend on
+ what we call 
+ after the drugs hit the market 
+ how can we figure out if bad things are happening between two medications three  five  seven  
+ ask your favorite person who has several diagnoses how many medications they 're on
+  care about this problem i care about it deeply  i 'm an informatics and data science guy and really in my
+ opinion the only hope only hope to understand these interactions is to leverage lots of different sources of data
+ in order to figure out when drugs can be used together safely and when it 's not so safe 
+ so let me tell you a data science story  and it begins with my student nick  let 's call him
+  because that 's his name 
+ nick was a young student i said you know nick we have to understand how drugs work and how and how they work together and how they work separately and we don 't have a great understanding 
+  but the fda has made available an amazing database it 's a database of adverse events  
+  patients doctors companies pharmacists and these reports are pretty simple it has all the diseases that the patient has 
+ all the drugs that they 're on and all the adverse events or side effects that they experience  it is not all of the adverse events that are occurring in america today  but it 's hundreds and hundreds of thousands of drugs  so i said
+  let 's think about glucose glucose is very important  and we know it 's involved with diabetes  let 's see if we can understand
+ glucose response i sent nick off nick came back russ he said 
+ i 've created a classifier that can look at the side effects of a drug based on looking at this database 
+ and can tell you whether that drug is likely to change glucose or not he did it it was very simple in a way he took all the drugs that were
+  known to change glucose and a bunch of drugs that don 't change glucose and said what 's the difference in their side effects 
+ differences in fatigue in appetite in urination habits all those things conspired to give him a really good predictor he said russ i can predict with ninety three percent accuracy when a drug will change glucose i said nick that 's great he 's a young
+  it 's that every physician in the world knows all the drugs that change glucose because it 's core to our practice 
+ so it 's great  good job but not really that interesting definitely not publishable 
+ he said i know russ i thought you might say that nick is smart 
+ i thought you might say that so i did one other experiment i looked at people in this database who were on two drugs and i looked for signals similar
+ glucose changing signals for people taking two drugs  where each drug alone
+ did not change glucose  but together i saw a strong signal and
+ i said oh you 're clever good idea  show me the list and there 's a bunch of drugs not very exciting  but what caught my eye was on the list there were two drugs
+  or paxil an antidepressant 
+ and pravastatin or pravachol a cholesterol medication  
+ and i said huh 
+ there are millions of americans on those two drugs in fact we learned later fifteen million americans on paroxetine at the time  fifteen million on pravastatin  and a million we estimated on both so that
+ 's a million people who might be having some problems with their glucose if this machine learning mumbo jumbo that he did in the
+ fda database actually holds up  
+ but i said it 's still not publishable because i love what you did with the mumbo jumbo with the machine learning but it 's not really  standard of proof evidence that we have 
+ so we have to do something else let 's go into the stanford electronic medical record we have a copy of it that 's ok for research we removed identifying
+  let 's see if people on these two drugs have problems with their glucose 
+ now there are thousands and thousands of people in the stanford medical records that take paroxetine and pravastatin
+  but we needed special patients we needed patients who were on one of them
+ and had a glucose measurement  then got the second one and had another glucose measurement all within a reasonable period of time something like two months
+  out of the ten had a bump in their glucose when they got the second p we call this p and p when they got the second p either one could be first the second one comes up glucose went up 
+  twenty milligrams per deciliter just as a reminder you walk around normally if you 're not diabetic with a glucose of around ninety  and if it gets up to one hundred and twenty one hundred
+  your doctor begins to think about a potential diagnosis of diabetes so a twenty bump
+ pretty significant i said nick this is very cool  
+ but i 'm sorry we still don 't have a paper because this is ten patients and give me a break it 's not enough patients 
+ so we said what can we do and we said let 's call our friends at harvard and vanderbilt who also harvard in boston vanderbilt in nashville who also have electronic medical records similar to ours let 's see if they can find similar patients with the one p  the other p
+ the glucose measurements in that range that we need 
+ god bless them vanderbilt in one week found forty such patients  same trend  
+ harvard found one hundred patients  same trend  so at the end we had one hundred and fifty patients from three diverse medical centers that were telling us that patients getting these two drugs were having their glucose bump somewhat significantly
+  more interestingly we had left out diabetics because diabetics already have messed up glucose when we looked at the glucose of diabetics it was going up sixty milligrams per deciliter not just twenty 
+ this was a big deal  and we said we 've got to publish this we submitted the paper  it was all data evidence data from the fda 
+ data from stanford data from vanderbilt data from harvard we had not done a single real experiment  
+ but we were nervous 
+ so nick  while the paper was in review went to the lab we found somebody who knew about lab stuff i don 't do that 
+ i take care of patients but i don 't do pipettes
+  they taught us how to feed mice drugs  
+ we took mice and we gave them one p paroxetine we gave some other mice pravastatin  and we gave a third group of mice
+ both of them 
+ and lo and behold glucose went up twenty to sixty milligrams per deciliter in the mice 
+ so the paper was accepted based on the informatics evidence alone  but we added a little note at the end saying oh by the way if you give these to mice it
+ goes up that was great  and the story could have ended there  but i still have six and a half minutes 
+ so we were sitting around thinking about all of this
+ and i don 't remember who thought of it but somebody said i wonder if patients who are taking these two drugs
+ are noticing side effects of hyperglycemia  they could and they should how would we ever determine that 
+ we said well  what do you do you 're taking a medication one new medication or two and you get a funny feeling
+  what do you do you go to google and type in the two drugs you 're taking or the one drug you 're taking and you type in side effects what are you experiencing  
+ so we said ok  let 's ask google if they will share their search logs with us so that we can look at the search logs and see if patients are doing these kinds of searches 
+ google i am sorry to say denied our request  
+ so i was bummed  i was at a at a dinner with a colleague who works at microsoft research and i said we wanted to do this study google said no it 's kind of a bummer
+  have the bing searches 
+ yeah 
+ that 's great now i felt like i was 
+ i felt like i was talking to nick again he works for one of the largest companies in the world and i 'm already trying to make him feel better  
+  you might not understand we not only have bing searches but if you use
+ internet explorer to do searches at google yahoo bing any  then for eighteen months we keep that data for research purposes only 
+ i said now you 're talking 
+ this was eric horvitz my friend at microsoft  
+ so we did a study where we defined fifty words that a regular person might type in if they 're having hyperglycemia
+  peeing a lot forgive me but that 's one of the things you might type in so we had fifty phrases that we called the diabetes words 
+ and we did first a baseline and it turns out that about  5 to one percent of all searches on the internet involve one of those words so that 's our baseline rate 
+ if people type in paroxetine or paxil those are synonyms and one of those words  the rate goes up to about two percent
+ of
+ diabetes type words if you already know that there 's that paroxetine word if it 's pravastatin the rate goes up to about three percent from the baseline 
+ if both paroxetine and pravastatin are present in the query  it goes up to ten percent a huge three to four fold increase
+ in those searches with the two drugs that we were interested in and
+ we published this and it got some attention the reason it deserves attention is that patients are telling us their side effects indirectly through their searches 
+  we brought this to the attention of the fda they were interested  they have set up social media surveillance programs to collaborate with microsoft
+ which had a nice infrastructure for doing this and others to look at twitter feeds to look at facebook feeds to look at search logs to try to see early signs that drugs  either individually or together are causing problems
+ what do i take from this why tell this story well first of all 
+ we have now the promise of big data and medium sized data to help us understand drug interactions and really 
+  drugs work this will create and has created a new ecosystem for understanding how drugs work and to optimize their use 
+ nick went on he 's a professor at columbia now he did this in his phd for hundreds of pairs of drugs he found several very important interactions and so we replicated this and we showed that this is a way that really works for finding 
+  there 's a couple of things we don 't just use pairs of drugs at a time as i said before there are patients on three  five  seven  nine drugs 
+ have they been studied with respect to their nine way interaction yes we can do pair wise a and b a and c a and d  but what about a b c d e f g all together  
+ being taken by the same patient perhaps interacting with each other in ways that either makes them more effective or less
+  effective or causes side effects that are unexpected we really have no idea  it 's a blue sky  open field for us to use data to try to understand the interaction of drugs 
+ two more lessons i want you to think about the power that we were able to generate
+ with the data from people who had
+  volunteered their adverse reactions through their pharmacists through themselves through their doctors 
+ the people who allowed the databases at stanford harvard vanderbilt to be used for research 
+ people are worried about data they 're worried about their privacy and security they should be we need secure systems  but we can 't have a system that closes that data off  because it is too rich of a source
+ of
+ inspiration innovation and discovery for new things in medicine
+  thing i want to say is in this case we found two drugs and it was a little bit of a sad story the two drugs actually caused problems they increased glucose  they could throw somebody into diabetes 
+  who would otherwise not be in diabetes and so you would want to use the two drugs very carefully together perhaps not together make different choices when you 're prescribing  
+  a beneficial way  
+ we could have found new effects of drugs that neither of them has alone  but together instead of causing a side effect  they could be a new and novel treatment 
+ for diseases that don 't have treatments or where the treatments are not effective if we think about drug treatment today 
+  for tuberculosis for depression for diabetes it 's always a cocktail of drugs and so the upside here  and the subject for a different ted talk on a different 
+  day is how can we use the same data sources to find good effects of drugs in combination that will provide us new treatments 

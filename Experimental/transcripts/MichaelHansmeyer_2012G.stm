@@ -1,0 +1,102 @@
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 12.85 19.88 <NA> <unk> as an architect <unk> i often ask myself <unk> what is the origin of the forms that we design what kind of forms
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 19.57 25.2 <NA> could we design if we wouldn 't work with references anymore <unk> if we had no bias
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 25.28 27.45 <NA> <unk> if we had no preconceptions 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 27.17 32.79 <NA> what kind of forms could we design if we could free ourselves from from our experience <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 32.79 36.9 <NA> if we could free ourselves from our our education <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 36.92 40.02 <NA> what would these unseen forms look like
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 39.89 46.53 <NA> would they surprise us would they intrigue us would they delight us 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 46.22 50.02 <NA> if so then how can we go about creating something that is truly
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 51.42 57.73 <NA> <unk> i propose we look to nature nature has been called the greatest architect of forms <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 57.78 63.94 <NA> and i 'm not saying that we should copy nature i 'm not saying we should mimic biology 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 63.45 70.72 <NA> instead i propose that we can borrow nature 's processes <unk> we can abstract them and to create something that is new 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 71.28 79.85 <NA> nature 's main process of creation morphogenesis is the splitting of one cell into two cells and these cells can
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 80.02 85.34 <NA> <unk> be identical <unk> or they can be distinct from each other through asymmetric cell division 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 85.12 91.7 <NA> if we abstract this process and simplify it as much as possible <unk> then we could start with a single sheet of paper 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 91.7 96.44 <NA> one surface and we could make a fold and divide the surface into two surfaces we
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 96.22 103.04 <NA> 're free to choose where we make the fold and by doing so we can differentiate the surfaces 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 103.18 104.82 <NA> through this very simple
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 104.75 108.6 <NA> <unk> process <unk> we can create an astounding variety of forms 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 109.16 114.28 <NA> now we can take this form and use the same process to generate three dimensional structures <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 114.07 122.07 <NA> but rather than than folding things by hand we 'll bring the structure into the computer <unk> <unk> and code it as an algorithm <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 122.07 125.02 <NA> and in doing so we can suddenly fold anything
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 125.49 127.64 <NA> <unk> we can fold a million times faster
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 127.4 133.37 <NA> we can fold in hundreds and hundreds of variations and as we 're seeking to make something three dimensional 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 133.16 137.5 <NA> we start not with a single surface but with a volume a simple volume the cube <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 137.33 141.24 <NA> if we take its surfaces and fold them again and again and again and again 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 141.24 150.46 <NA> then after sixteen iterations sixteen steps <unk> we end up with four hundred thousand surfaces and a shape that looks for instance like this 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 150.09 154.97 <NA> and if we change where we make the folds if we change the folding ratio
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 154.93 161.96 <NA> <unk> then this cube turns into this one <unk> we can change the folding ratio again to produce this shape <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 162.37 164.21 <NA> or this shape <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 163.78 173.24 <NA> so we exert control over the form by specifying the position of where we 're making the fold but essentially you 're looking at a folded cube <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 173.62 179.94 <NA> and we can play with this <unk> we can apply different folding ratios to different parts of the form to create local conditions
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 180.32 182.94 <NA> we can begin to sculpt the form 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 182.63 189.25 <NA> and because we 're doing the folding on the computer <unk> we are completely free of any physical constraints <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 189.25 197.31 <NA> so that means that surfaces can intersect themselves they can become impossibly small <unk> we can make folds that we otherwise could not make 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 197.03 204.91 <NA> surfaces can become porous they can stretch they can tear <unk> and all of this expounds the scope of forms that we can
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 204.84 212.23 <NA> <unk> produce but in each case <unk> i didn 't design the form i designed the process that generated the form 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 213.33 223.42 <NA> in general <unk> if we make a small change to the folding ratio <unk> which is what you 're seeing here then the form changes correspondingly <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 223.29 229.97 <NA> but that 's only half of the story ninety nine point nine percent of the folding ratios produce not this
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 230.41 234.8 <NA> but this the geometric equivalent of noise 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 234.7 242.36 <NA> the forms that i showed before were made actually through very long trial and error a far more effective way to create forms i have found 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 242.36 254.85 <NA> is to use information that is already contained in forms a very simple form such as this one actually contains a lot of information that may not be visible to the human eye so for instance we can plot the length of the edges
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 255.08 263.6 <NA> <unk> white surfaces have long edges black ones have short ones we can plot the planarity of the surfaces <unk> their curvature <unk> how radial they are
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 263.44 270.42 <NA> all information that may not be instantly visible to you <unk> but that we can bring out that we can articulate 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 270.02 274.99 <NA> and that we can use to control the folding so now i 'm not specifying a
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 277.77 283.04 <NA> <unk> but instead i 'm establishing a rule i 'm establishing a link between a property of a surface
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 282.86 285.37 <NA> and how that surface is folded <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 285.33 293.06 <NA> and because i 've designed the process and not the form i can run the process again and again and again to produce a whole family of forms
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 307.81 317.24 <NA> <unk> but the process is a very minimal one there is a simple input it 's always a cube that i start with and it 's a very simple operation it 's making a fold 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 316.87 319.79 <NA> and doing this over and over again <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 320.05 329.7 <NA> so let 's bring this process to architecture <unk> how and at what scale <unk> i chose to design a column columns are architectural archetypes
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 330.17 333.48 <NA> <unk> they 've been used throughout history to express ideals
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 332.99 337.11 <NA> about about beauty about technology 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 337.16 343.08 <NA> a challenge to me was how we could express this new algorithmic order in a column <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 342.98 351.72 <NA> i started using four cylinders through a lot of experimentation these cylinders eventually evolved
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 351.62 354.94 <NA> into this <unk> and these columns
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 354.95 359.86 <NA> they have information at very many scales <unk> we can begin to zoom into them 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 359.64 367.24 <NA> the closer one gets the more new features one discovers some formations are almost at the threshold of human visibility <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 366.99 375.1 <NA> and unlike traditional architecture <unk> it 's a single process that creates both the overall form and the microscopic surface detail <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 376.83 379.97 <NA> these forms are undrawable
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 380.07 381.74 <NA> an architect who 's
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 381.57 391.79 <NA> drawing them with a pen and a paper would probably take months or it would take even a year to draw all the sections all of the elevations you can only create something like this through an algorithm 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 391.48 399.96 <NA> the more interesting question perhaps is are these forms imaginable usually an architect can somehow envision the end state of what he
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 401.45 406.44 <NA> <unk> in this case the process is deterministic there 's no randomness involved at all <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 406.1 413.79 <NA> but it 's not entirely predictable <unk> there 's too many surfaces there 's too much detail one can 't see the end state 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 413.33 416.52 <NA> so this leads to a new role for the architect
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 416.3 421.86 <NA> one needs a new method to explore all of the possibilities that are out there 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 421.67 425.05 <NA> for one thing one can design many variants of
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 425.4 436.45 <NA> <unk> in parallel and one can cultivate them and to go back to the analogy with nature one can begin to think in terms of populations one can talk about permutations about generations <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 436.02 440.08 <NA> about crossing and breeding to come up with a design 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 440.01 446.47 <NA> and the architect is really he moves into the position of being an orchestrator of all of these processes <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 446.73 454.49 <NA> but enough of the theory at one point i simply wanted to jump inside this image so to say i bought these
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 454.87 457.1 <NA> <unk> and blue 3d glasses got up
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 456.67 467.48 <NA> very close to the screen but still that wasn 't the same as being able to to walk around and touch things so there was only one possibility to to bring the column out of the computer <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 467.05 470.48 <NA> there 's been a lot of talk now about about 3d printing
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 470.47 477.63 <NA> for me or for my purpose at this moment there 's still too much of an unfavorable tradeoff between scale
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 480.13 483.66 <NA> and resolution and speed <unk> on the other <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 483.26 492.21 <NA> so instead we decided to take the column <unk> and we decided to build it as a layered model made out of very many slices <unk> thinly stacked over each other 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 491.75 500.02 <NA> what you 're looking at here is an x ray of the column that you just saw <unk> viewed from the top unbeknownst to me at the time because we had
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 500 505.93 <NA> <unk> only seen the outside the surfaces were continuing to fold themselves to grow on the inside of the column
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 505.74 515.53 <NA> which was quite a surprising discovery from this shape we calculated a cutting line and then we gave this cutting line to a laser cutter
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 515.04 518.93 <NA> to produce and you 're seeing a segment of it here
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 518.93 523.57 <NA> very many thin slices individually cut on top of each other 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 525.76 536.51 <NA> <unk> and this is a photo now it 's not a rendering <unk> and the column that we ended up with after a lot of work ended up looking remarkably like the one that we had designed in the computer <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 536.44 542.6 <NA> almost all of the details almost all of the surface intricacies were preserved <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 544.09 549.87 <NA> but it was very labor intensive there 's a huge disconnect at the moment still
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 550.16 551.21 <NA> <unk> the virtual
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 550.96 560.25 <NA> and the physical it took me several months to design the column but ultimately it takes the computer about thirty seconds to calculate all of the sixteen million faces 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 559.82 562.33 <NA> the physical model on the other hand
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 563.39 572.53 <NA> <unk> seven hundred layers one millimeter thick it weighs seven hundred kilos it 's made of sheet that that can cover this entire auditorium <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 572.53 576.31 <NA> and the cutting path that the laser followed goes from here
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 576.13 578.44 <NA> to the airport and back again
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 579.96 588.58 <NA> <unk> but it is increasingly possible machines are getting faster it 's getting less expensive and there 's some promising technological developments just on the horizon 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 588.48 595.43 <NA> these are images from the gwangju biennale <unk> and in this case i used abs plastic to produce the columns <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 595.43 599.69 <NA> we used the bigger faster machine and they have a steel core inside so they they 're
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 600.34 602.57 <NA> <unk> they can bear loads for once 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 602.5 605.87 <NA> each column is effectively a hybrid of two columns 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 605.47 612.71 <NA> you can see a different column in the mirror if there 's a mirror behind the column that creates a sort of an optical illusion <unk> 
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 613.57 621.63 <NA> so where does this leave us <unk> i think this project gives us a glimpse of the unseen objects that await us if we as architects
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 621.45 629.97 <NA> begin to think about designing not the object but a process to generate objects i 've shown one simple process that was inspired by
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 629.96 636.99 <NA> <unk> nature <unk> there 's countless other ones in short <unk> we have no constraints
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 636.86 642.99 <NA> instead we have processes in our hands right now that allow us to create
+MichaelHansmeyer_2012G 1 MichaelHansmeyer_2012G 642.71 651.97 <NA> structures at at all scales that we couldn 't even have dreamt up and if i may add at one point we will build them

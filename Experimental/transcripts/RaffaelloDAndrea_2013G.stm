@@ -1,0 +1,102 @@
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 23.47 24.96 <NA> <unk> so what does it mean for a machine to
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 27.05 35.49 <NA> <unk> we will demonstrate the concept of machine athleticism and the research to achieve it with the help of these flying machines called quadrocopters or quads for short
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 37.79 44.13 <NA> quads have been around for a long time they 're so popular these days because they 're mechanically simple 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 43.76 51.99 <NA> by controlling the speeds of these four propellers <unk> these machines can roll <unk> pitch <unk> yaw and accelerate along their common orientation 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 51.68 54.82 <NA> on board are also a battery a computer
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 54.9 57.91 <NA> various sensors and wireless radios 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 58.77 63.04 <NA> quads are extremely agile but this agility comes at a cost <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 63.48 70.12 <NA> they are inherently unstable and they need some form of automatic feedback control in order to be able to fly <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 77.23 78.95 <NA> <unk> how did it just do that 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 78.94 88.22 <NA> cameras on the ceiling and a laptop serve as an indoor global positioning system <unk> it 's used to locate objects in the space that have these reflective markers on them 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 88.03 97.49 <NA> this data is then sent to another laptop that is running estimation and control algorithms which in turn sends commands to the quad <unk> which is also running estimation and control algorithms
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 101.84 106.98 <NA> <unk> the bulk of our research is algorithms <unk> it 's the magic that brings these machines to life <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 107.78 115.68 <NA> so how does one design the algorithms that create a machine athlete we use something broadly called model based design 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 115.31 118.93 <NA> we first capture the physics with a mathematical model
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 118.51 120.45 <NA> of how the machines behave <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 120.45 129.04 <NA> we then use a branch of mathematics called control theory to analyze these models and also to synthesize algorithms for controlling them
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 129.9 137.98 <NA> <unk> example that 's how we can make the quad hover <unk> we first captured the dynamics with a set of differential equations <unk> we then manipulate these equations
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 137.81 145.78 <NA> with the help of control theory to create algorithms that stabilize the quad <unk> let me demonstrate the strength of this approach
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 148.71 154.97 <NA> suppose that we want this quad to not only hover but to also balance this pole with a little bit
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 154.93 164.33 <NA> <unk> of practice it 's pretty straightforward for a human being to do this although we do have the advantage of having two feet on the ground and the use of our very versatile hands <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 164.23 167.18 <NA> it becomes a little bit more difficult
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 167.14 171.32 <NA> when i only have one foot on the ground and when i don 't use my hands <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 172.33 174.99 <NA> notice how this pole has a reflective marker on top
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 191.42 195.63 <NA> <unk> you can notice that this quad is making fine adjustments to keep the pole balanced 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 196.04 204.43 <NA> how did we design the algorithms to do this we added the mathematical model of the pole to that of the quad <unk> once we have a model of the combined
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 204.99 212.66 <NA> <unk> system <unk> we can use control theory to create algorithms for controlling it here you see that it 's stable and
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 212.66 215.95 <NA> even if i give it little nudges <unk> it goes back
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 217.17 224.96 <NA> to the nice <unk> balanced position we can also augment the model to include where we want the quad to be in space <unk> using this
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 225.85 231.62 <NA> <unk> made out of reflective markers i can point to where i want the quad to be in space a fixed distance away from me 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 247.3 249.81 <NA> the key to these acrobatic maneuvers is
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 251.03 260.95 <NA> <unk> designed with the help of mathematical models and control theory let 's tell the quad to come back here and let the pole drop and i will next demonstrate the importance
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 260.77 265.11 <NA> of understanding physical models and the workings of the physical world
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 277.5 281.03 <NA> <unk> notice how the quad lost altitude when i put this glass of water on it 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 281.03 289.63 <NA> unlike the balancing pole i did not include the mathematical model of the glass in the system in fact the system doesn 't even know that the glass is there 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 289.38 292.1 <NA> like before i could use the pointer
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 291.86 294.29 <NA> to tell the quad where i want it to be in space
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 305.77 309.59 <NA> <unk> you should be asking yourself <unk> why doesn 't the water fall out of the glass 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 309.34 314.93 <NA> two facts <unk> the first is that gravity acts on all objects in the same way 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 314.56 320.42 <NA> the second is that the propellers are all pointing in the same direction of the glass pointing up 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 320.26 329.97 <NA> you put these two things together <unk> the net result is that all side forces on the glass are small and are mainly dominated by aerodynamic effects which at these speeds are negligible
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 335.03 340.12 <NA> that 's why you don 't need to model the glass it naturally doesn 't spill no matter what the quad does
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 357.9 360.88 <NA> <unk> the lesson here is that some <unk> high performance
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 360.72 368.08 <NA> tasks are easier than others and that understanding the physics of the problem tells you which ones are easy and which ones are hard 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 368.08 372.61 <NA> in this instance carrying a glass of water is easy balancing a pole is hard 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 373.62 379.88 <NA> we 've all heard stories of athletes performing feats while physically injured can a machine also perform
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 379.87 382.04 <NA> <unk> with extreme physical damage <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 382.33 390.09 <NA> conventional wisdom says that you need at least four fixed motor propeller pairs in order to fly <unk> because there are four degrees of freedom to control 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 390.09 392.96 <NA> roll <unk> pitch <unk> yaw and acceleration <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 392.71 400.23 <NA> hexacopters and octocopters with six and eight propellers can provide redundancy <unk> but quadrocopters are much more popular
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 400.04 403.14 <NA> because they have the minimum number of fixed motor propeller pairs
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 420.86 425.05 <NA> if we analyze the mathematical model of this machine with only two working
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 426.15 429.04 <NA> <unk> we discover that there 's an unconventional way to fly it
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 439.44 442.42 <NA> we relinquish control of yaw <unk> but roll <unk>
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 442.37 448.18 <NA> <unk> pitch and acceleration can still be controlled with algorithms that exploit this new configuration 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 453.12 454.97 <NA> mathematical models tell
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 454.93 462.71 <NA> <unk> us exactly when and why this is possible in this instance this knowledge allows us to design novel machine architectures
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 462.76 471.11 <NA> or to design clever algorithms that gracefully handle damage <unk> just like human athletes do instead of building machines with redundancy <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 472.21 475.2 <NA> we can 't help but hold our breath when we watch a diver
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 475 480.51 <NA> diver somersaulting into the water or when a vaulter is twisting in the air the ground fast approaching 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 480.26 485.13 <NA> will the diver be able to pull off a rip entry will the vaulter stick the landing <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 484.88 491.64 <NA> suppose we want this quad here to perform a triple flip and finish off at the exact same spot that it started 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 491.24 499.53 <NA> this maneuver is going to happen so quickly that we can 't use position feedback to correct the motion during execution there simply isn 't enough time <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 499.22 504.76 <NA> instead what the quad can do is perform the maneuver blindly observe how it finishes
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 504.81 510.25 <NA> <unk> maneuver and then use that information to modify its behavior so that the next flip is better <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 509.91 516.92 <NA> similar to the diver and the vaulter it is only through repeated practice that the maneuver can be learned and executed to the highest standard
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 531.13 538.71 <NA> <unk> striking a moving ball is a necessary skill in many sports how do we make a machine do what an athlete does seemingly without effort
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 562.49 565.29 <NA> <unk> this quad has a racket strapped onto its head
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 565.29 575.02 <NA> with a sweet spot roughly the size of an apple so not too large <unk> the following calculations are made every twenty milliseconds or fifty times per second <unk> we first figure out where the ball
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 576.48 584.77 <NA> <unk> we then next calculate how the quad should hit the ball so that it flies to where it was thrown from third a trajectory is planned
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 584.37 590.16 <NA> that carries the quad from its current state to the impact point with the ball fourth <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 590.16 597.86 <NA> we only execute twenty milliseconds ' worth of that strategy twenty milliseconds later <unk> the whole process is repeated until the quad strikes the ball
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 610.06 618.69 <NA> <unk> machines can not only perform dynamic maneuvers on their own <unk> they can do it collectively these three quads are cooperatively carrying a sky net
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 634.58 636.9 <NA> <unk> an extremely dynamic and
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 636.67 639.96 <NA> collective maneuver to launch the ball back to me <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 639.96 643.56 <NA> notice that at full extension these quads are vertical 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 650.13 652.3 <NA> <unk> in fact when fully extended 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 652.3 658.18 <NA> this is roughly five times greater than what a bungee jumper feels at the end of their launch 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 662.88 668.95 <NA> the algorithms to do this are very similar to what the single quad used to hit the ball back to me 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 668.61 675.31 <NA> mathematical models are used to continuously re plan a cooperative strategy fifty times per second 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 676.2 679.97 <NA> everything we have seen so far has been about the machines and their capabilities
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 680.37 689.24 <NA> <unk> what happens when we couple this machine athleticism with that of a human being what i have in front of me is a commercial gesture sensor
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 688.99 694.52 <NA> mainly used in gaming it can recognize what my various body parts are doing in real time <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 694.24 700.11 <NA> similar to the pointer that i used earlier <unk> we can use this as inputs to the system <unk> we now have
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 700.1 705.13 <NA> <unk> a natural way of interacting with the raw athleticism of these quads with my gestures
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 757.06 764.27 <NA> <unk> doesn 't have to be virtual <unk> it can be physical take this quad for example <unk> it 's trying to stay at a fixed point in space 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 764.44 770.72 <NA> if i try to move it out of the way <unk> it fights me <unk> and moves back to where it wants to be 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 771.73 779.7 <NA> we can change this behavior however <unk> we can use mathematical models to estimate the force that i 'm applying to the quad
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 780.11 785.61 <NA> <unk> once we know this force we can also change the laws of physics as far as the quad is concerned of course 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 787.49 791.55 <NA> here the quad is behaving as if it were in a viscous fluid <unk> 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 794.15 798.51 <NA> we now have an intimate way of interacting with a machine 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 798.14 804.91 <NA> i will use this new capability to position this camera carrying quad to the appropriate location for filming the remainder of this
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 804.84 806.02 <NA> <unk> demonstration 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 816.57 821.29 <NA> <unk> so we can physically interact with these quads and we can change the laws of physics 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 829.96 836.25 <NA> <unk> gravity will be increased until we 're all back on planet earth but i assure you we won 't get there <unk> okay here goes
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 886.98 895.48 <NA> <unk> you 're all thinking now these guys are having way too much fun and you 're probably also asking yourself <unk> why exactly are they building machine athletes 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 895.77 904.94 <NA> some conjecture that the role of play in the animal kingdom is to hone skills and develop capabilities <unk> others think that it has more of a social role that it 's used to bind the group
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 905.05 912.68 <NA> similarly <unk> we use the analogy of sports and athleticism to create new algorithms for machines to push them to their limits 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 912.85 922.11 <NA> what impact will the speed of machines have on our way of life like all our past creations and innovations they may be used to improve the human condition
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 921.95 929.64 <NA> or they may be misused and abused this is not a technical choice we are faced with it 's a social one let 's make the right choice
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 930.02 936.03 <NA> <unk> that brings out the best in the future of machines just like athleticism in sports can bring out the best in us 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 935.81 942.42 <NA> let me introduce you to the wizards behind the green curtain they 're the current members of the flying machine arena research team 
+RaffaelloDAndrea_2013G 1 RaffaelloDAndrea_2013G 947.63 955.48 <NA> applause federico augugliaro dario brescianini <unk> markus hehn <unk> sergei lupashin <unk> mark muller and robin ritz look out for them they 're destined for great things thank you

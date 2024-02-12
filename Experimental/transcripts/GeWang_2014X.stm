@@ -1,0 +1,106 @@
+GeWang_2014X 1 GeWang_2014X 12.97 14.02 <NA> <unk> i want to
+GeWang_2014X 1 GeWang_2014X 13.62 18.14 <NA> talk to you about one thing and just one thing only and
+GeWang_2014X 1 GeWang_2014X 18.16 27.24 <NA> this has to do with when people ask me what do you do to which i usually respond i do computer music
+GeWang_2014X 1 GeWang_2014X 29.84 37.78 <NA> a number of people just stop talking to me right then and there and the rest who are left usually have this blank look in their eye
+GeWang_2014X 1 GeWang_2014X 37.78 41.17 <NA> as if to say what does that mean and i feel like
+GeWang_2014X 1 GeWang_2014X 40.81 49.65 <NA> i 'm actually depriving them of information by telling them this <unk> at which point i usually panic and spit out the first thing that comes to my mind which is 
+GeWang_2014X 1 GeWang_2014X 49.61 53.73 <NA> i have no idea what i 'm doing <unk> which is true 
+GeWang_2014X 1 GeWang_2014X 53.9 54.91 <NA> that 's usually
+GeWang_2014X 1 GeWang_2014X 54.84 61.39 <NA> <unk> followed by a second thought which is <unk> whatever it is that i 'm doing <unk> i love it
+GeWang_2014X 1 GeWang_2014X 61.65 64.66 <NA> and today i want to 
+GeWang_2014X 1 GeWang_2014X 64.47 69.4 <NA> well <unk> share with you something i love and also why <unk> 
+GeWang_2014X 1 GeWang_2014X 69.18 74.93 <NA> and i think we 'll begin with just this question <unk> what is computer music and i 'm going to
+GeWang_2014X 1 GeWang_2014X 75.85 78.2 <NA> <unk> do my best to provide a definition
+GeWang_2014X 1 GeWang_2014X 78.28 83.15 <NA> maybe by telling you a story that goes through some of the stuff i 've been working on 
+GeWang_2014X 1 GeWang_2014X 82.72 88.97 <NA> and the first thing i think in our story is going to be something called chuck now 
+GeWang_2014X 1 GeWang_2014X 90.01 94.38 <NA> chuck is a programming language for music and
+GeWang_2014X 1 GeWang_2014X 95.47 103.47 <NA> <unk> it 's freely available and i like to think that it crashes equally well on all modern operating systems <unk> and instead of telling you more about it
+GeWang_2014X 1 GeWang_2014X 104.84 108.93 <NA> by the way i 'm just going to nerd out for just a few minutes here so
+GeWang_2014X 1 GeWang_2014X 109.07 116.95 <NA> i would say don 't freak out in fact <unk> i would invite all of you to join me in just geeking out if you 've never written a line of code before in your life 
+GeWang_2014X 1 GeWang_2014X 116.95 119.71 <NA> do not worry i 'll bet you 'll be able to
+GeWang_2014X 1 GeWang_2014X 119.5 125.19 <NA> come along on this first thing i 'm going to do is to make a sine wave oscillator 
+GeWang_2014X 1 GeWang_2014X 132.36 139.72 <NA> <unk> to the dac now this is kind of the abstraction for the sound output on my computer okay <unk> so i 've connected myself into the speaker next i
+GeWang_2014X 1 GeWang_2014X 139.72 145.51 <NA> 'm going to say my frequency is four hundred and forty hertz and i 'm going to let time
+GeWang_2014X 1 GeWang_2014X 145.89 152.69 <NA> advance by two seconds through this operation all right <unk> so if i were to play this
+GeWang_2014X 1 GeWang_2014X 156.76 159.63 <NA> <unk> you would hear a sine wave at four hundred and forty hertz for two seconds okay
+GeWang_2014X 1 GeWang_2014X 179.96 188.04 <NA> <unk> kinds of really horrible single sine wave pieces of music with this <unk> but i 'm going to do something that computers are really good at which is repetition <unk> 
+GeWang_2014X 1 GeWang_2014X 188.04 194.79 <NA> i 'm going to put this all in a while loop and you actually don 't need to indent but this is purely for aesthetic reasons it 's good practice 
+GeWang_2014X 1 GeWang_2014X 194.33 195.63 <NA> and when
+GeWang_2014X 1 GeWang_2014X 195.35 197.16 <NA> we do this 
+GeWang_2014X 1 GeWang_2014X 201 210.7 <NA> <unk> that 's going to go on for a while in fact it 's probably not going to stop until this computer disintegrates <unk> and i can 't really empirically prove that to you but i hope you 'll believe me when i say that 
+GeWang_2014X 1 GeWang_2014X 211.74 214.16 <NA> i 'm going to replace this two hundred and twenty by
+GeWang_2014X 1 GeWang_2014X 215.93 222.83 <NA> to generate a random number between thirty and one thousand and send that to the frequency of me
+GeWang_2014X 1 GeWang_2014X 240.52 250.08 <NA> <unk> we 've reached something that i would like to think of as the canonical computer music <unk> this is to me the sound that
+GeWang_2014X 1 GeWang_2014X 264.08 273.79 <NA> <unk> is this computer music <unk> yeah i guess by definition it 's kind of computer music it 's probably not the kind of music you would listen to cruising down the highway
+GeWang_2014X 1 GeWang_2014X 280.23 285.6 <NA> <unk> using chuck we 've actually been building instruments in the stanford laptop orchestra <unk> based right here
+GeWang_2014X 1 GeWang_2014X 285.44 288.78 <NA> at stanford center for computer research in music and acoustics 
+GeWang_2014X 1 GeWang_2014X 288.79 296.21 <NA> now the laptop orchestra is an ensemble of laptops <unk> humans and special hemispherical speaker arrays now the reason we have these
+GeWang_2014X 1 GeWang_2014X 296.04 304.97 <NA> is so that for the instruments that we create out of the laptop we want the sound to come out of somewhere near the instrument and the performer kind of much
+GeWang_2014X 1 GeWang_2014X 304.96 312.24 <NA> <unk> like a traditional acoustic instrument like if i were to play a violin here the sound would naturally not come out of the p a system 
+GeWang_2014X 1 GeWang_2014X 312.24 315.41 <NA> but from the artifact itself so these
+GeWang_2014X 1 GeWang_2014X 315.07 319.43 <NA> these speakers are meant to emulate that in fact i 'm going to show you how we
+GeWang_2014X 1 GeWang_2014X 319.63 324.48 <NA> actually built them the first step is to go to ikea and buy a salad bowl
+GeWang_2014X 1 GeWang_2014X 330.05 335.85 <NA> <unk> i actually use one of these to make salad at home as well i kid you not and the first step is you turn it upside down <unk> 
+GeWang_2014X 1 GeWang_2014X 336.14 345.09 <NA> and then you drill holes in them <unk> six holes per hemi <unk> and then make a base plate put car speaker drivers
+GeWang_2014X 1 GeWang_2014X 344.75 349.99 <NA> in them along with amplifiers in the enclosure and you put that all together and you have these
+GeWang_2014X 1 GeWang_2014X 351.24 356.89 <NA> <unk> add people add laptops you have a laptop orchestra <unk> and
+GeWang_2014X 1 GeWang_2014X 357.15 362.5 <NA> what might a laptop orchestra sound like well let me give you a demonstration of
+GeWang_2014X 1 GeWang_2014X 362.5 366.16 <NA> about two hundred instruments we 've created so far for the laptop orchestra and what i 'm
+GeWang_2014X 1 GeWang_2014X 367.29 374.99 <NA> going to do is actually come over to this thing this thing i have in front of me actually used to be a commodity gaming
+GeWang_2014X 1 GeWang_2014X 377.38 387.11 <NA> <unk> this thing actually has a glove you can put on your hands it 's tethered to the base <unk> and this will track the position of your hands in real time it was originally designed as a golfing controller
+GeWang_2014X 1 GeWang_2014X 387.25 390.77 <NA> to detect the motion of your swing that turned out to be
+GeWang_2014X 1 GeWang_2014X 390.57 399.47 <NA> a rather large commercial non success at which point they slashed prices to ten dollars at which point computer music researchers
+GeWang_2014X 1 GeWang_2014X 399.47 404.13 <NA> said this is awesome we can prototype instruments out of this
+GeWang_2014X 1 GeWang_2014X 405.47 411.99 <NA> me show you one instrument we 've created one of many and this instrument is called twilight and it 's meant to
+GeWang_2014X 1 GeWang_2014X 412.04 417.91 <NA> go with this metaphor of pulling a sound out of out of the ground so let me see if this will work
+GeWang_2014X 1 GeWang_2014X 445.47 447.5 <NA> <unk> this is a slightly metallic sound
+GeWang_2014X 1 GeWang_2014X 482.87 485.2 <NA> <unk> slightly different interaction the fourth one is a drone
+GeWang_2014X 1 GeWang_2014X 505.07 511.82 <NA> <unk> and i think you have to imagine that there 's this giant invisible drum sitting right here on stage <unk> and i 'm going to bang it
+GeWang_2014X 1 GeWang_2014X 531.67 535.2 <NA> <unk> put that together you get something that sounds like this
+GeWang_2014X 1 GeWang_2014X 550 553.66 <NA> the
+GeWang_2014X 1 GeWang_2014X 587.04 593.65 <NA> <unk> from the experience of building a lot of instruments for the laptop orchestra and i think from the curiosity of wondering what if we
+GeWang_2014X 1 GeWang_2014X 593.48 598.69 <NA> took these hopefully expressive instruments and we brought it to a lot of people <unk> 
+GeWang_2014X 1 GeWang_2014X 598.29 604.37 <NA> plus then a healthy bout of insanity put those three things together led to me actually
+GeWang_2014X 1 GeWang_2014X 605.1 613.34 <NA> a startup company in two thousand and eight called smule now smule 's mission is to create expressive mobile music
+GeWang_2014X 1 GeWang_2014X 612.94 616.28 <NA> things and one of the first
+GeWang_2014X 1 GeWang_2014X 616.09 623.07 <NA> musical instruments we created is called ocarina and i 'm going to just demo this for you real quick
+GeWang_2014X 1 GeWang_2014X 639.23 644.4 <NA> <unk> english pendant configuration <unk> and you 're literally blowing into the microphone
+GeWang_2014X 1 GeWang_2014X 644.03 653.23 <NA> to to make the sound and there 's actually a little chuck script running in here that 's detecting the strength of your blowing and also synthesizing the sound
+GeWang_2014X 1 GeWang_2014X 657.18 659.83 <NA> and vibrato is mapped to
+GeWang_2014X 1 GeWang_2014X 659.46 663.49 <NA> the accelerometer so you can get all right 
+GeWang_2014X 1 GeWang_2014X 665.82 669.01 <NA> so let me play a little little ditty for you a
+GeWang_2014X 1 GeWang_2014X 670.96 671.96 <NA> little bach
+GeWang_2014X 1 GeWang_2014X 696.97 700.11 <NA> <unk> let you take your time and figure out where your expressive
+GeWang_2014X 1 GeWang_2014X 756.58 757.82 <NA> <unk> a toy
+GeWang_2014X 1 GeWang_2014X 757.45 764.03 <NA> or it an instrument maybe it 's both <unk> but for me i think the more important question is is it expressive 
+GeWang_2014X 1 GeWang_2014X 764.02 774.96 <NA> and at the same time i think creating these types of instruments asks a question about the role of technology and its place for how we make music apparently for example not that long ago
+GeWang_2014X 1 GeWang_2014X 775.25 784.35 <NA> <unk> hundred years ago that 's not that long in the course of human history families back then used to make music together as a common form of entertainment i don 't
+GeWang_2014X 1 GeWang_2014X 784.16 787.35 <NA> think that 's really happening that much anymore you know
+GeWang_2014X 1 GeWang_2014X 787.01 796.5 <NA> this is before radio before recording in the last hundred years with all this technology we now have more access to music as listeners and consumers but somehow <unk> 
+GeWang_2014X 1 GeWang_2014X 796.5 799.89 <NA> i think we 're making less music than ever before i 'm
+GeWang_2014X 1 GeWang_2014X 800.04 808.15 <NA> <unk> not sure why that would be maybe it 's because it 's too easy just to hit play and while listening to music is wonderful there 's a
+GeWang_2014X 1 GeWang_2014X 807.69 815.03 <NA> special joy to making music that 's all its own <unk> and i think that 's one part of the goal of why i do what i do
+GeWang_2014X 1 GeWang_2014X 814.85 816.05 <NA> is
+GeWang_2014X 1 GeWang_2014X 815.87 817.1 <NA> kind of to take us
+GeWang_2014X 1 GeWang_2014X 816.92 819.16 <NA> back to the past a little bit <unk> 
+GeWang_2014X 1 GeWang_2014X 818.67 828.05 <NA> right now if that 's one goal the other goal is to look to the future and think about what kind of new musical things can we make that we don 't perhaps yet have names for
+GeWang_2014X 1 GeWang_2014X 827.83 830 <NA> that 's enabled by technology but ultimately
+GeWang_2014X 1 GeWang_2014X 830.25 838.01 <NA> might change the way that humans make music and i 'll just give you one example here and this is ocarina
+GeWang_2014X 1 GeWang_2014X 837.67 839.9 <NA> 's other feature this
+GeWang_2014X 1 GeWang_2014X 841.3 849.93 <NA> is a globe <unk> <unk> and here you 're actually listening to other users of ocarina blow into their iphones
+GeWang_2014X 1 GeWang_2014X 888.06 892.87 <NA> <unk> opened this up the first thought is that hey you know there 's somebody somewhere out there
+GeWang_2014X 1 GeWang_2014X 893.04 900.23 <NA> playing some music <unk> and this is a small but i think important human connection to make that perhaps the technology affords
+GeWang_2014X 1 GeWang_2014X 900.46 908.26 <NA> <unk> as a final example <unk> and perhaps my favorite example is that in the wake of the two thousand and eleven earthquake and
+GeWang_2014X 1 GeWang_2014X 908.27 913.28 <NA> tsunami disaster in japan a woman reached out in one of our singing apps
+GeWang_2014X 1 GeWang_2014X 912.79 920.69 <NA> to try to get people to join in to sing with her on a version of lean on me now in these apps there 's this thing that allows
+GeWang_2014X 1 GeWang_2014X 920.69 929.73 <NA> any user to add their voice to an existing performance by any other user or group of users so in some sense she 's created this kind of global ad hoc
+GeWang_2014X 1 GeWang_2014X 929.96 935.64 <NA> <unk> corral of strangers and within weeks <unk> thousands of people joined in on this 
+GeWang_2014X 1 GeWang_2014X 935.64 944.17 <NA> and you can kind of see people coming from all around the world and all these lines converging on the origin where the first rendition of the song was sung and that 's in tokyo <unk> 
+GeWang_2014X 1 GeWang_2014X 943.94 946.06 <NA> and this is what it sounds like when there 's
+GeWang_2014X 1 GeWang_2014X 1005.8 1011.6 <NA> <unk> 's something that you really couldn 't have done without computers <unk> but at the same time it 's also
+GeWang_2014X 1 GeWang_2014X 1011.47 1014.24 <NA> just human <unk> and i think
+GeWang_2014X 1 GeWang_2014X 1014.24 1023.22 <NA> what i 've essentially answered so far is maybe why i do the stuff that i do and let 's just finally return to the first question what
+GeWang_2014X 1 GeWang_2014X 1022.99 1029.79 <NA> is computer music and i think that the the catch here is that at least to me computer music isn 't really about computers it
+GeWang_2014X 1 GeWang_2014X 1030.05 1034.72 <NA> <unk> people it 's about how we can use technology to change the way we think
+GeWang_2014X 1 GeWang_2014X 1034.51 1038.05 <NA> and do and make music and maybe even
+GeWang_2014X 1 GeWang_2014X 1038.05 1047.26 <NA> add to how we can connect with each other through music and with that i want to say this is computer music <unk> and thank you for listening

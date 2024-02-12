@@ -1,0 +1,54 @@
+DennisHong_2011 1 DennisHong_2011 12.79 17.24 <NA> <unk> many believe driving is an activity solely reserved for those who can see 
+DennisHong_2011 1 DennisHong_2011 17.24 23.21 <NA> a blind person driving a vehicle safely and independently was thought to be an impossible task 
+DennisHong_2011 1 DennisHong_2011 22.81 29.91 <NA> until now hello my name is dennis hong <unk> and we 're bringing freedom and independence to the blind by building a vehicle for the visually impaired
+DennisHong_2011 1 DennisHong_2011 30.59 40.41 <NA> so before i talk about this car for the blind let me briefly tell you about another project that i worked on called the darpa urban challenge now this was about building a robotic car <unk>
+DennisHong_2011 1 DennisHong_2011 40.36 46.32 <NA> that can drive itself you press start nobody touches anything and it can reach its destination fully autonomously 
+DennisHong_2011 1 DennisHong_2011 54.96 65.08 <NA> <unk> nfb <unk> challenged the research committee about who can develop a car that lets a blind person drive safely and independently <unk> we decided to give it a try because we thought hey how hard could it <unk>
+DennisHong_2011 1 DennisHong_2011 64.98 70.51 <NA> <unk> be we have already an autonomous vehicle we just put a blind person in it and we 're done right 
+DennisHong_2011 1 DennisHong_2011 79.84 84.76 <NA> <unk> active decisions and drive <unk> so we had to throw everything out the window and start from scratch <unk> 
+DennisHong_2011 1 DennisHong_2011 84.76 91.62 <NA> so to test this crazy idea <unk> we developed a small dune buggy prototype vehicle to test the feasibility 
+DennisHong_2011 1 DennisHong_2011 91.38 100.05 <NA> and in the summer of two thousand and nine we invited dozens of blind youth from all over the country and gave them a chance to take it for a spin it was an absolutely amazing
+DennisHong_2011 1 DennisHong_2011 100.91 111.03 <NA> <unk> but the problem with this car was it was designed to only be driven in a very controlled environment in a flat closed off parking lot even the lanes defined by red traffic cones <unk> so with this success <unk>
+DennisHong_2011 1 DennisHong_2011 110.98 116.5 <NA> we decided to take the next big step to develop a real car that can be driven on real roads <unk> 
+DennisHong_2011 1 DennisHong_2011 129.81 140.29 <NA> <unk> obviously the driver cannot see so the system needs to perceive the environment and gather information for the driver for that we use an initial measurement unit so it measures acceleration angular acceleration <unk>
+DennisHong_2011 1 DennisHong_2011 140.24 149.93 <NA> like a human ear inner ear <unk> we fuse that information with a gps unit to get an estimate of the location of the car we also use two cameras to detect the lanes of the
+DennisHong_2011 1 DennisHong_2011 150.7 161.99 <NA> <unk> also use three laser range finders the lasers scan the environment to detect obstacles a car approaching from the front the back and also any obstacles that run into the roads <unk> any obstacles around the vehicle 
+DennisHong_2011 1 DennisHong_2011 161.79 172.55 <NA> so all this vast amount of information is then fed into the computer and the computer can do two things one is first of all process this information to have an understanding of the environment <unk>
+DennisHong_2011 1 DennisHong_2011 172.5 177.3 <NA> these are the lanes of the road there 's the obstacles and convey this information to the driver 
+DennisHong_2011 1 DennisHong_2011 179.9 194.24 <NA> <unk> way to operate the car <unk> so we can also generate instructions on how to operate the controls of the vehicle but the problem is this how do we convey this information and instructions to a person who cannot see fast enough and accurate enough so he can drive <unk> 
+DennisHong_2011 1 DennisHong_2011 194.24 199.03 <NA> so for this we developed many different types of non visual user interface technology 
+DennisHong_2011 1 DennisHong_2011 198.84 199.93 <NA> so starting
+DennisHong_2011 1 DennisHong_2011 200.94 204.09 <NA> <unk> ping sound system a vibrating vest a
+DennisHong_2011 1 DennisHong_2011 204.09 212.87 <NA> click wheel with voice commands a leg strip even a shoe that applies pressure to the foot <unk> but today we 're going to talk about three of these non visual user interfaces <unk> 
+DennisHong_2011 1 DennisHong_2011 212.66 224.23 <NA> now the first interface is called a drivegrip <unk> so these are a pair of gloves and it has vibrating elements on the knuckle part so you can convey instructions about how to steer the direction and the intensity 
+DennisHong_2011 1 DennisHong_2011 223.74 229.55 <NA> another device is called speedstrip <unk> so this is a chair as a matter of fact it 's actually a massage chair
+DennisHong_2011 1 DennisHong_2011 229.87 239.57 <NA> <unk> gut it out and we rearrange the vibrating elements in different patterns <unk> and we actuate them to convey information about the speed and also instructions how to use the gas and the brake pedal 
+DennisHong_2011 1 DennisHong_2011 239.47 253.16 <NA> so over here you can see how the computer understands the environment and because you cannot see the vibration we actually put red <unk> led 's on the driver so that you can see what 's happening this is the sensory data and that data is transferred to the devices through the computer <unk> 
+DennisHong_2011 1 DennisHong_2011 253.45 254.79 <NA> so these two
+DennisHong_2011 1 DennisHong_2011 254.75 269.31 <NA> <unk> devices <unk> drivegrip and speedstrip are very effective but the problem is these are instructional cue devices so this is not really freedom right the computer tells you how to drive turn left turn right <unk> speed up stop <unk> we call this the backseat driver problem 
+DennisHong_2011 1 DennisHong_2011 269.31 275.2 <NA> so we 're moving away from the instructional cue devices <unk> and we 're now focusing more on the informational
+DennisHong_2011 1 DennisHong_2011 275.97 286.15 <NA> <unk> a good example for this informational non visual user interface is called airpix <unk> so think of it as a monitor for the blind so it 's a small tablet has many holes in it and compressed air comes <unk>
+DennisHong_2011 1 DennisHong_2011 286.05 292.46 <NA> <unk> out <unk> so it can actually draw images so even though you are blind you can put your hand over it you can see the lanes of the road and obstacles
+DennisHong_2011 1 DennisHong_2011 298.43 299.86 <NA> user interface 
+DennisHong_2011 1 DennisHong_2011 300 311.07 <NA> so here you can see the left camera the right camera from the vehicle and how the computer interprets that and sends that information to the airpix for this we 're showing a simulator a blind person driving using the airpix 
+DennisHong_2011 1 DennisHong_2011 311.07 320.42 <NA> this simulator was also very useful for training the blind drivers and also quickly testing different types of ideas for different types of non visual user interfaces <unk> so basically that 's how it works <unk> 
+DennisHong_2011 1 DennisHong_2011 320.08 329.97 <NA> so just a month ago on january 29th we unveiled this vehicle for the very first time to the public at the <unk> world famous daytona international speedway during the rolex
+DennisHong_2011 1 DennisHong_2011 330.04 333.52 <NA> twenty four racing event <unk> we also had some surprises <unk> let 's take a look
+DennisHong_2011 1 DennisHong_2011 350 379.94 <NA> the
+DennisHong_2011 1 DennisHong_2011 375 404.94 <NA> the
+DennisHong_2011 1 DennisHong_2011 400 422.8 <NA> the
+DennisHong_2011 1 DennisHong_2011 431.7 441.7 <NA> <unk> so since we started this project we 've been getting hundreds of letters emails phone calls from people from all around the world letters thanking us but sometimes you also get funny letters like this one 
+DennisHong_2011 1 DennisHong_2011 441.36 443.98 <NA> now i understand why there is braille on a <unk>
+DennisHong_2011 1 DennisHong_2011 446.37 448.75 <NA> but sometimes 
+DennisHong_2011 1 DennisHong_2011 451.47 454.94 <NA> but sometimes i also do get i wouldn 't call it hate
+DennisHong_2011 1 DennisHong_2011 454.9 462.8 <NA> <unk> mail but letters of really strong concern dr hong are you insane trying to put blind people on the road you must be out of your mind 
+DennisHong_2011 1 DennisHong_2011 462.73 471.6 <NA> but this vehicle is a prototype vehicle and it 's not going to be on the road until it 's proven as safe as or safer than today 's vehicle and i truly believe that this can happen <unk> 
+DennisHong_2011 1 DennisHong_2011 471.6 479.97 <NA> but still will the society <unk> would they accept such a radical idea how are we going to handle insurance how are we going to issue driver 's licenses
+DennisHong_2011 1 DennisHong_2011 479.98 485.97 <NA> there 's many of these different kinds of hurdles besides technology challenges that we need to address before this becomes a reality 
+DennisHong_2011 1 DennisHong_2011 485.6 495.97 <NA> of course the main goal of this project is to develop a car for the blind but potentially more important than this is the the tremendous value of the spin off technology that
+DennisHong_2011 1 DennisHong_2011 495.81 500.05 <NA> can come from this project <unk> the sensors that are used can see through the dark the
+DennisHong_2011 1 DennisHong_2011 500 507.28 <NA> fog and rain and together with this new type of interfaces <unk> we can use these technologies and apply them to safer cars for sighted people 
+DennisHong_2011 1 DennisHong_2011 507.28 512.05 <NA> or for the blind everyday home appliances in the educational setting in the office setting 
+DennisHong_2011 1 DennisHong_2011 511.65 517.04 <NA> just imagine in a classroom a teacher writes on the blackboard and a blind student
+DennisHong_2011 1 DennisHong_2011 516.83 525.35 <NA> can see what 's written and read using these non visual interfaces <unk> this is priceless <unk> so today the things i 've showed you today
+DennisHong_2011 1 DennisHong_2011 525.64 527.76 <NA> <unk> is just the beginning thank you very much

@@ -1,0 +1,117 @@
+CarloRatti_2011 1 CarloRatti_2011 14.5 15.78 <NA> <unk> i 've got something to show you
+CarloRatti_2011 1 CarloRatti_2011 36.38 39.66 <NA> <unk> think about this as a pixel a flying pixel 
+CarloRatti_2011 1 CarloRatti_2011 39.44 44.36 <NA> this is what we call <unk> in our lab sensible design let me tell you a bit about it <unk> 
+CarloRatti_2011 1 CarloRatti_2011 44.36 50.02 <NA> now if you take this picture i 'm italian originally and every boy in italy grows up with this picture on the
+CarloRatti_2011 1 CarloRatti_2011 50 54.16 <NA> wall of his bedroom but the reason i 'm showing you this is that
+CarloRatti_2011 1 CarloRatti_2011 53.94 58.98 <NA> something very interesting happened in formula one racing over the past couple of decades <unk> 
+CarloRatti_2011 1 CarloRatti_2011 58.98 67.84 <NA> now some time ago if you wanted to win a formula one race <unk> you take a budget <unk> and you bet your budget on a good driver and a good car 
+CarloRatti_2011 1 CarloRatti_2011 67.38 79.97 <NA> and if the car and the driver were good enough then you 'd win the race <unk> now today if you want to win the race actually you need also something like this something that monitors the car in real time has a few
+CarloRatti_2011 1 CarloRatti_2011 79.96 86.5 <NA> <unk> thousand sensors collecting information from the car transmitting this information into the system <unk> 
+CarloRatti_2011 1 CarloRatti_2011 86.51 95.34 <NA> and then processing it and using it in order to go back to the car with decisions and changing things in real time as information is collected 
+CarloRatti_2011 1 CarloRatti_2011 95.1 98.49 <NA> this is what in engineering terms <unk> you would call a
+CarloRatti_2011 1 CarloRatti_2011 98.28 99.99 <NA> real time control system
+CarloRatti_2011 1 CarloRatti_2011 100.13 106.29 <NA> <unk> and basically it 's a system made of two components a sensing and an actuating component 
+CarloRatti_2011 1 CarloRatti_2011 105.8 113.53 <NA> what is interesting today is that real time control systems are starting to enter into our lives our cities 
+CarloRatti_2011 1 CarloRatti_2011 113.53 117.52 <NA> over the past few years just have been blanketed with
+CarloRatti_2011 1 CarloRatti_2011 117.34 124.9 <NA> networks <unk> electronics they 're becoming like computers in open air and as computers in open air they 're starting to respond in a different
+CarloRatti_2011 1 CarloRatti_2011 125.22 128.5 <NA> <unk> to be able to be sensed and to be actuated 
+CarloRatti_2011 1 CarloRatti_2011 128.5 142.61 <NA> if we fix cities actually it 's a big deal <unk> just as an aside i wanted to mention cities are only two percent of the earth 's crust <unk> but they are fifty percent of the world 's population they are seventy five percent of the energy consumption
+CarloRatti_2011 1 CarloRatti_2011 142.45 149.69 <NA> up to eighty percent of co2 emissions <unk> so if we 're able to do something with cities that 's a big deal <unk> beyond cities
+CarloRatti_2011 1 CarloRatti_2011 150.49 155.35 <NA> <unk> all of this sensing and actuating is entering our everyday objects 
+CarloRatti_2011 1 CarloRatti_2011 155.13 165.53 <NA> that 's from an exhibition that paola antonelli is organizing at moma later this year during the summer it 's called talk to me well our objects our environment is starting <unk>
+CarloRatti_2011 1 CarloRatti_2011 165.43 178.26 <NA> <unk> to talk back to us in a certain sense it 's almost as if every atom out there were becoming both a sensor and an actuator <unk> and that is radically changing the interaction we have as humans with the environment
+CarloRatti_2011 1 CarloRatti_2011 180.04 183 <NA> it 's almost as if the old dream of michelangelo you know
+CarloRatti_2011 1 CarloRatti_2011 182.99 191.79 <NA> when michelangelo sculpted the moses at the end it said that he took the hammer threw it at the moses actually you can still see a small chip underneath
+CarloRatti_2011 1 CarloRatti_2011 191.45 200.02 <NA> and said <unk> shouted perch non parli <unk> why don 't you talk well today for the first time our environment is starting to talk back to us
+CarloRatti_2011 1 CarloRatti_2011 200.49 203.95 <NA> <unk> show just a few examples again with this idea of sensing
+CarloRatti_2011 1 CarloRatti_2011 203.52 206.11 <NA> our environment and actuating it 
+CarloRatti_2011 1 CarloRatti_2011 205.65 215.21 <NA> let 's starting with sensing well the first project i wanted to share with you is actually one of the first projects by our lab <unk> it was four and a half years ago
+CarloRatti_2011 1 CarloRatti_2011 215 221.63 <NA> in italy and what we did there was actually use a new type of network at the time that had been deployed
+CarloRatti_2011 1 CarloRatti_2011 221.4 225.05 <NA> all across the world that 's a cellphone network and use anonymous
+CarloRatti_2011 1 CarloRatti_2011 225.01 232.28 <NA> <unk> and aggregated information from that network that 's collected anyway by the operator in order to understand how the city works 
+CarloRatti_2011 1 CarloRatti_2011 232.28 238.31 <NA> the summer was a lucky summer two thousand and six <unk> it 's when italy won the soccer world cup 
+CarloRatti_2011 1 CarloRatti_2011 238.12 246.05 <NA> some of you might remember it was italy and france playing and then zidane at the end the headbutt and anyway italy won at the end now
+CarloRatti_2011 1 CarloRatti_2011 246.67 254.91 <NA> look at what happened that day just by monitoring activity happening on the network here you see the city
+CarloRatti_2011 1 CarloRatti_2011 255.05 259.18 <NA> you see the colosseum in the middle <unk> the river
+CarloRatti_2011 1 CarloRatti_2011 259.18 265.68 <NA> tiber <unk> it 's morning before the match <unk> you see the timeline on the top
+CarloRatti_2011 1 CarloRatti_2011 265.76 274.93 <NA> early afternoon people here and there making calls and moving the match begins silence france
+CarloRatti_2011 1 CarloRatti_2011 277.83 287.62 <NA> <unk> people make a quick call and go to the bathroom <unk> second half end of normal time first overtime <unk> second zidane the headbutt in a moment 
+CarloRatti_2011 1 CarloRatti_2011 287.91 289.57 <NA> italy wins yeah 
+CarloRatti_2011 1 CarloRatti_2011 294.36 299.99 <NA> applause well that night everybody went to celebrate in in the center you saw the big peak the following
+CarloRatti_2011 1 CarloRatti_2011 300.76 303.08 <NA> <unk> everybody went to the center to meet
+CarloRatti_2011 1 CarloRatti_2011 302.77 312.9 <NA> the winning team and the prime minister at the time and then everybody moved down you see the image of the place called circo massimo where since roman times people go to celebrate 
+CarloRatti_2011 1 CarloRatti_2011 312.9 322.17 <NA> to have a big party and you see the peak at the end of the day well that 's just one example of how we can sense the city today in a way that we couldn 't have done just a few years ago <unk> 
+CarloRatti_2011 1 CarloRatti_2011 321.98 325.49 <NA> another quick example about sensing <unk> it 's
+CarloRatti_2011 1 CarloRatti_2011 325.33 329.73 <NA> not about people but about things we use and consume well today
+CarloRatti_2011 1 CarloRatti_2011 329.9 336.43 <NA> <unk> know everything about where our objects come from this is a map that shows you all the chips that form a
+CarloRatti_2011 1 CarloRatti_2011 336.22 350.34 <NA> mac computer how they came together <unk> but we know very little about where things go so in this project we actually developed some small tags to track trash as it moves through the system <unk> so we actually started with
+CarloRatti_2011 1 CarloRatti_2011 350.34 354.94 <NA> a number of volunteers who helped us in seattle <unk> just over a year ago
+CarloRatti_2011 1 CarloRatti_2011 354.9 357.94 <NA> <unk> to tag what they were throwing away
+CarloRatti_2011 1 CarloRatti_2011 357.69 361 <NA> different types of things as you can see here
+CarloRatti_2011 1 CarloRatti_2011 361 367.51 <NA> things they would throw away anyway then we put a little chip little tag onto the trash
+CarloRatti_2011 1 CarloRatti_2011 367.35 372.02 <NA> and then started following it here are the results we just obtained
+CarloRatti_2011 1 CarloRatti_2011 410.33 416.81 <NA> <unk> this information we realized there 's a lot of inefficiencies in the system <unk> we can actually do the same thing with much less energy 
+CarloRatti_2011 1 CarloRatti_2011 416.81 422.62 <NA> this data was not available before but there 's a lot of wasted transportation and convoluted things happening 
+CarloRatti_2011 1 CarloRatti_2011 422.44 429.85 <NA> but the other thing is that we believe that if we see every day that the cup we 're throwing away it doesn 't disappear it 's still somewhere on the
+CarloRatti_2011 1 CarloRatti_2011 429.78 440.11 <NA> <unk> planet and the plastic bottle we 're throwing away every day still stays there and if we show that to people then we can also promote some behavioral change <unk> so that was the reason for the project <unk> my colleague at mit <unk>
+CarloRatti_2011 1 CarloRatti_2011 440.06 454.91 <NA> assaf biderman he could tell you much more about sensing and many other wonderful things we can do with sensing but i wanted to go to the second part we discussed at the beginning <unk> and that 's actuating our environment and the first project is something we did a couple of years ago in zaragoza
+CarloRatti_2011 1 CarloRatti_2011 455.6 466.56 <NA> it started with a question by the mayor of the city who came to us saying that spain and southern europe have a beautiful tradition of using water in public space <unk> in architecture 
+CarloRatti_2011 1 CarloRatti_2011 466.38 475.95 <NA> and the question was how could technology new technology be added to that and one of the ideas that was developed at mit in a workshop was imagine this pipe and you 've got
+CarloRatti_2011 1 CarloRatti_2011 480.02 485.55 <NA> <unk> create like a water curtain with pixels made of water if those pixels fall you can
+CarloRatti_2011 1 CarloRatti_2011 485.55 492.7 <NA> write on it <unk> you can show patterns images text and even you can approach it and it will open up to let you
+CarloRatti_2011 1 CarloRatti_2011 492.34 495.69 <NA> jump through as you see in this image 
+CarloRatti_2011 1 CarloRatti_2011 495.38 503.01 <NA> well we presented this to mayor belloch he liked it very much and we got a commission to design a building at the entrance of the expo
+CarloRatti_2011 1 CarloRatti_2011 502.64 504.82 <NA> we called it digital water pavilion
+CarloRatti_2011 1 CarloRatti_2011 504.92 507.61 <NA> <unk> the whole building is made of water 
+CarloRatti_2011 1 CarloRatti_2011 510.87 515.54 <NA> there 's no doors or windows but when you approach it it will open up to let you in
+CarloRatti_2011 1 CarloRatti_2011 530.05 532.94 <NA> <unk> the roof also is covered with water <unk> 
+CarloRatti_2011 1 CarloRatti_2011 534.34 539.06 <NA> and if there 's a bit of wind if you want to minimize splashing you can actually lower the roof or
+CarloRatti_2011 1 CarloRatti_2011 540.58 542.24 <NA> you could
+CarloRatti_2011 1 CarloRatti_2011 542.29 552.12 <NA> close the building <unk> and the whole architecture will disappear like in this case you know these days you always get images during the winter when they take the roof down of people who have been there
+CarloRatti_2011 1 CarloRatti_2011 554.99 558.03 <NA> <unk> it just when it goes down the architecture almost
+CarloRatti_2011 1 CarloRatti_2011 557.83 564.16 <NA> disappears <unk> here 's the building working you see the person puzzled about what was going on inside and
+CarloRatti_2011 1 CarloRatti_2011 564.16 569.29 <NA> here was myself trying not to get wet <unk> testing the sensors that open the water <unk> 
+CarloRatti_2011 1 CarloRatti_2011 569.05 573.84 <NA> well <unk> i should tell you now what happened one night when all of the sensors stopped working
+CarloRatti_2011 1 CarloRatti_2011 574.1 575.14 <NA> <unk> but actually
+CarloRatti_2011 1 CarloRatti_2011 576.93 585.19 <NA> <unk> more fun all the kids from zaragoza came to the building because the way of engaging with the building became something different not anymore a building that would open up to let you in 
+CarloRatti_2011 1 CarloRatti_2011 585.19 590.24 <NA> but a building that would still make cuts and holes through the water and you had to jump without getting
+CarloRatti_2011 1 CarloRatti_2011 604.81 614.99 <NA> <unk> very interesting because as architects as engineers <unk> as designers we always think about how people will use the things we design <unk> but then reality 's always unpredictable and that 's the beauty of <unk>
+CarloRatti_2011 1 CarloRatti_2011 614.94 629.01 <NA> of doing things that are used and interact with people here is an image then of the building with the physical pixels the pixels made of water <unk> and then projections on them and this is what led us to think about the following project i 'll show you now 
+CarloRatti_2011 1 CarloRatti_2011 630.05 640.44 <NA> <unk> pixels could actually start flying imagine you could have small helicopters that move in the air <unk> and then each of them with a small pixel in changing lights almost <unk>
+CarloRatti_2011 1 CarloRatti_2011 640.34 644.07 <NA> <unk> as a cloud that can move in space <unk> here is the video 
+CarloRatti_2011 1 CarloRatti_2011 650 652.29 <NA> so imagine one helicopter 
+CarloRatti_2011 1 CarloRatti_2011 654.99 656.02 <NA> <unk> before <unk> 
+CarloRatti_2011 1 CarloRatti_2011 658.56 664.99 <NA> moving with others <unk> in synchrony <unk> so you can have this cloud
+CarloRatti_2011 1 CarloRatti_2011 671.7 678.74 <NA> you can have a kind of flexible screen or display like this a regular configuration in two dimensions
+CarloRatti_2011 1 CarloRatti_2011 685.66 687.08 <NA> or in
+CarloRatti_2011 1 CarloRatti_2011 686.86 692.84 <NA> regular but in three dimensions <unk> where the thing that changes is the light not the pixels ' position
+CarloRatti_2011 1 CarloRatti_2011 703.06 704.37 <NA> you can play with
+CarloRatti_2011 1 CarloRatti_2011 705.14 708.35 <NA> <unk> type imagine your screen could just appear in different
+CarloRatti_2011 1 CarloRatti_2011 708.19 710.16 <NA> scales or sizes 
+CarloRatti_2011 1 CarloRatti_2011 710.06 713.13 <NA> different types of resolution <unk> 
+CarloRatti_2011 1 CarloRatti_2011 721.97 724.84 <NA> but then the the whole thing can be
+CarloRatti_2011 1 CarloRatti_2011 725.88 733.54 <NA> <unk> cloud of pixels that you can approach and move through it and see from many many directions <unk> here is
+CarloRatti_2011 1 CarloRatti_2011 733.05 743.14 <NA> the real flyfire control and going down to form the regular grid as before when you turn on the light actually you see this so the same as we saw before and imagine each of them then controlled <unk>
+CarloRatti_2011 1 CarloRatti_2011 743.04 751.82 <NA> <unk> by people <unk> you can have each pixel having an input that comes from people from people 's movement or so and so i want to show you something here for the first time <unk> 
+CarloRatti_2011 1 CarloRatti_2011 754.84 762.74 <NA> <unk> top ballet dancers the toile at metropolitan in new york and la scala in milan and actually captured his movement in 3d
+CarloRatti_2011 1 CarloRatti_2011 762.34 766.5 <NA> in order to use it as an input for flyfire <unk> and here you can see
+CarloRatti_2011 1 CarloRatti_2011 766.29 768.17 <NA> roberto dancing <unk> 
+CarloRatti_2011 1 CarloRatti_2011 770.59 778.26 <NA> you see on the left the pixels the different resolutions being captured it 's both 3d scanning in real time and motion capture
+CarloRatti_2011 1 CarloRatti_2011 780.14 783 <NA> <unk> so you can reconstruct a whole movement you
+CarloRatti_2011 1 CarloRatti_2011 787.07 789.18 <NA> can go all the way through 
+CarloRatti_2011 1 CarloRatti_2011 793.07 799.75 <NA> but then once we have the pixels then you can play with them and play with color and movement and gravity and
+CarloRatti_2011 1 CarloRatti_2011 801.54 804.97 <NA> <unk> so we want to use this as one of the possible inputs for flyfire <unk>
+CarloRatti_2011 1 CarloRatti_2011 824.49 829.97 <NA> <unk> to show you the last project we are working on it 's something we 're working on for the london olympics <unk> it 's called the cloud
+CarloRatti_2011 1 CarloRatti_2011 830.22 840.32 <NA> and the idea here is imagine again <unk> we can involve people in doing something and changing our environment almost to impart what we call cloud raising like <unk>
+CarloRatti_2011 1 CarloRatti_2011 840.22 849.99 <NA> <unk> barn raising but with a cloud imagine you can have everybody make a small donation for one pixel <unk> and i think what is remarkable that has happened over the past couple of years is that over
+CarloRatti_2011 1 CarloRatti_2011 850 858.84 <NA> past couple of decades <unk> we went from the physical world to the digital one this has been digitizing everything knowledge and making that accessible through the internet 
+CarloRatti_2011 1 CarloRatti_2011 858.84 868.26 <NA> now today for the first time and the obama campaign showed us this we can go from the digital world from the self organizing power of networks to the physical one 
+CarloRatti_2011 1 CarloRatti_2011 868.1 874.99 <NA> this can be in our case we want to use it for designing and doing a symbol that means something built in a city <unk> but
+CarloRatti_2011 1 CarloRatti_2011 875 882.37 <NA> <unk> tomorrow it can be in order to tackle today 's pressing challenges think about climate change or co2 emissions how we can go from the
+CarloRatti_2011 1 CarloRatti_2011 882.17 892.51 <NA> digital world to the physical one <unk> so the idea that we can actually involve people in doing this thing together collectively <unk> the cloud is a cloud again made of pixels in the same way as <unk>
+CarloRatti_2011 1 CarloRatti_2011 892.46 904.88 <NA> the real cloud is a cloud made of particles and those particles are water <unk> where our cloud is a cloud of pixels it 's a physical structure in london but covered with pixels <unk> you can move inside have different types of experiences you can
+CarloRatti_2011 1 CarloRatti_2011 904.81 912.11 <NA> <unk> actually see from underneath sharing the main moments for the olympics in two thousand and twelve and beyond and
+CarloRatti_2011 1 CarloRatti_2011 912.11 919.31 <NA> really using it as a way to connect with the community <unk> so both the physical cloud in the sky
+CarloRatti_2011 1 CarloRatti_2011 918.91 920.06 <NA> and
+CarloRatti_2011 1 CarloRatti_2011 919.83 924.8 <NA> something you can go to the top [ of ] like london 's new mountaintop <unk> 
+CarloRatti_2011 1 CarloRatti_2011 924.43 934.44 <NA> you can enter inside it and a kind of new digital beacon for the night but most importantly a new type of experience for anybody who will go to the top

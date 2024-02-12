@@ -1,0 +1,90 @@
+  or share with you a breakthrough new approach for managing items of inventory inside of a warehouse
+  hundreds of mobile robots  sometimes thousands of mobile robots moving around a warehouse and i 'll get to the solution  but for a moment just think about the last time that you ordered something online  
+ you were sitting on your couch
+ and you decided that you absolutely had to have this red t shirt so click you put it into your shopping cart
+  and then you decided that green pair of pants looks pretty good too click  and maybe a blue pair of shoes click
+  so at this point you 've assembled your order  you didn 't stop to think for a moment that that might not be a great outfit  but you hit submit order 
+ and two days later this package shows up on your doorstep and you open the box and you 're like wow there 's my goo  
+ did you ever stop to think about how those items of inventory actually found their way inside that box in the warehouse  
+ so i 'm here to tell you it 's that guy right there
+ so deep in the middle of that
+ that picture you see a classic pick pack worker in a distribution or order fulfillments setting  
+ classically these pick workers will spend sixty or seventy percent of their day wandering around the warehouse they 'll often walk as much as five or ten miles in pursuit of those items of
+  not only is this an unproductive way to fill
+ orders it also turns out to be an unfulfilling way to fill orders  
+ so let me tell you where i first bumped into this problem  i was out in the bay area in ' ninety nine two thousand the dot com boom  
+ i worked for a fabulously spectacular flame out called webvan 
+ this company raised hundreds of millions of dollars with the notion that we will deliver grocery orders online  and it really came
+  down to the fact that we couldn 't do it cost effectively turns out e commerce was something that was very hard and very costly 
+ in this particular instance we were trying to assemble thirty items of inventory into a few totes  onto a van to deliver to the home  
+ and when you think about it it was costing us thirty dollars imagine we had an eighty nine
+ can of soup that was costing us one dollar to pick and pack into that
+ and that 's before we actually tried to deliver it to the home  
+ so long story short during my one year at webvan what i realized by talking to all the material handling providers was that there was no solution designed specifically to solve 
+ each base picking red item  green blue  getting those three things in a box 
+  goo to retail stores of course webvan
+ went out of business and about a year and a half later  i was still noodling on this problem it was still nagging at me and i started thinking about it again and i said  let me just focus briefly 
+ on what i wanted as a pick worker or my vision for how it should work
+  let 's focus on the problem  i have an order here
+ and what i want to do is i want to put red green and blue in this box right here what i need is a system where i put out my hand and poof  the product shows up and i pack it into the order 
+  and now we 're thinking this would be a very  operator centric approach to solving the problem  this is what i need what technology is available to solve this problem
+  making the pick worker the center of the problem  and providing them the tools to make them as as productive as possible  
+ so how did i arrive at this notion well actually it came from a brainstorming exercise  probably a technique that many of you use 
+ it 's this notion of testing your ideas take a blank sheet of course  but then test your ideas
+  in this particular case we challenged ourselves with the idea  what if we had to build a distribution center in china  where it 's a very very  low cost market  and say  
+ labor is cheap  land is cheap
+ and we said specifically what if it was zero dollars an hour for direct labor and we could build a 
+  distribution center so naturally that led to ideas that said let 's put lots of people in the warehouse and i said hold on zero dollars per hour what i
+  would do is ' hire 
+  ' ten thousand workers to come to the warehouse every morning at eight a m walk into the warehouse and pick up one item of inventory and then just stand there  
+ so you hold captain crunch you hold the mountain dew  you hold the diet coke if i need it i 'll call you otherwise just stand there  but when i need diet coke and i call it you guys talk
+  diet coke walks up to the front pick it put it in the tote  away it goes wow  what if the products could walk and talk on their own that 's a very interesting very powerful way that we could potentially organize this warehouse  
+ so of course  labor isn 't free on that practical that practical versus awesome spectrum 
+ laughter so we said mobile shelving we 'll put them on mobile shelving
+  got underway on that and then i 'm sitting on my couch in two thousand and eight  did any of you see the beijing olympics the opening ceremonies  i about fell out of my couch when i saw this i 'm like that was the idea we 'll
+ put thousands of people on the warehouse floor the stadium
+  interestingly enough this actually relates to the idea in that these guys were creating some incredibly powerful impressive digital art all without computers 
+ i 'm told it was all peer to peer coordination and communication you stand up i 'll squat down and they made some fabulous art  it speaks to the power of emergence in systems when you let things start to talk with each other 
+  the journey so of course now what became the practical reality of this idea  here is a warehouse it 's a pick pack and ship center that has about ten thousand different 
+  call them red pens green pens yellow  post it notes  
+ we send the little orange robots out to pick up the blue shelving pods and we deliver them to the side of the building so all the pick workers now get to stay on the perimeter 
+ and the game here is to pick up the shelves  take them down the highway and deliver them
+  straight to the pick worker  this pick worker 's life is completely different rather than wandering around the warehouse  she gets to stay still in a pick station like this and every product in the building can now come to her 
+ so the process is very  is very productive  reach in pick an item  scan the bar code  pack it out by the time you turn around there 's another product there ready to be picked and
+  so what we 've done is take out all of the non value added walking searching wasting  waited time and we 've developed
+ a very   high fidelity way to pick these orders where you point at it with a laser  scan the upc barcode  and then indicate with a light which box it needs to go into so more productive more accurate
+ and it turns out it 's a more interesting office environment for these pick workers
+  they actually complete the whole order so they do red green and blue not just a part of the order  and they feel a little bit more in control of their environment so
+ the side effects of this approach are what really surprised us we knew it was going to be more productive  but we didn 't realize just how pervasive
+ this way of thinking
+ extended to other functions in the warehouse
+  what effectively this approach is doing inside of the dc is turning it into a massively parallel processing engine so this is again 
+  of ideas here 's a warehouse  and we 're thinking about parallel processing supercomputer architectures the
+ notion here is that you have ten workers on the right side of the screen
+  pick workers if the worker in station three decides to leave and go to the bathroom  it has no impact on the productivity of the other nine workers  contrast that for a moment 
+ with the traditional method of using a conveyor when one person passes the order to you you put something in and pass it downstream  everyone has to be in place for that serial process to
+  this becomes a more robust way to think about the warehouse and then underneath the hoods gets interesting in that we 're tracking the popularity of the products and we 're using dynamic and adaptive algorithms to
+ tune the floor of the warehouse  so what you see here
+ potentially
+ the week leading up to valentine 's day all that pink chalky candy has moved to the front of the building and is now being picked into a lot of orders in those pick stations
+  come in two days after valentine 's day and that candy  the leftover candy has all drifted to the back of the warehouse and is occupying the cooler zone on the thermal map there 
+ one other side effect of this approach using the parallel processing is these things can scale
+ to ginormous so
+ whether you 're doing two pick
+  twenty pick stations or two hundred pick stations the path planning algorithms and all of the inventory algorithms just work in this example you see 
+  that the inventory has now occupied all the perimeter of the building because that 's where the pick stations were 
+ they sorted it out for themselves so i 'll conclude with just one final video that shows how this comes to bear on the pick worker 's actual
+  so as we mentioned  the process is to move inventory along the highway and then find your way into these pick stations  
+ and our software in the background understands what 's going on in each station  we direct the pods across the highway and we 're attempting to get into a queuing system
+ to present the work to the pick worker what 's interesting is we can even adapt the speed of the pick workers the faster pickers get more pods and the slower pickers get few
+  this pick worker now is literally having that experience that we described before she puts out her hand  the product jumps into it or she has to reach in and get it
+  she scans it and she puts it in the bucket and all of the rest of the technology is kind of behind the scenes  so she gets to now focus on the picking and packing portion of her job  never has any idle time never has to leave her mat
+ not only a more productive and more accurate
+ way to fill orders  we think it 's a more fulfilling way to fill orders  the reason we can say that though is that workers in a lot of these buildings now compete for the privilege of working in the kiva zone that day  
+ and sometimes we 'll catch them on testimonial videos saying such things as they have more energy after the
+  with their grandchildren  or in one case a guy said  the kiva zone is so stress free that i 've actually stopped taking my blood pressure medication 
+ that was at a pharmaceutical distributor so they told us not to use that video 
+ so what i wanted to leave you with today is the notion that that when you let things start to think and walk and talk on their
+  own interesting
+ processes and  productivities can emerge
+ and now i think next time you go to your front step and pick up that box that you just ordered online  you break it open and the goo is in there you 'll have some wonderment as to whether a robot assisted in the picking and packing of that order

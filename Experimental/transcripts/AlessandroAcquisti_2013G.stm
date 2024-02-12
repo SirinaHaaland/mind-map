@@ -1,0 +1,120 @@
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 13.12 21.98 <NA> <unk> like to tell you a story connecting the notorious privacy incident involving adam and eve and
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 21.82 24.78 <NA> the remarkable shift in the boundaries between
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 25 31.5 <NA> public and private which has occurred in the past ten years you know the incident <unk> adam and eve
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 31.16 38.85 <NA> one day in the garden of eden realize they are naked they freak out <unk> and the rest is history <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 39.08 44.32 <NA> nowadays adam and eve would probably act differently
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 55.26 58.99 <NA> <unk> about us is being collected by organizations now
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 58.53 65.59 <NA> there is much to gain and benefit from this massive analysis of personal information or big data <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 65.34 71.53 <NA> but there are also complex tradeoffs that come from giving away our privacy <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 71.58 74.27 <NA> and my story is about these tradeoffs
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 76.15 85.84 <NA> <unk> we start with an observation which in my mind has become clearer and clearer in the past few years that any personal information can become sensitive information <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 85.84 99.84 <NA> back in the year two thousand about one hundred billion photos were shot worldwide but only a minuscule proportion of them were actually uploaded online in two thousand and ten only on facebook in a single
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 100.43 105.35 <NA> <unk> two point five billion photos were uploaded most of them identified <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 105.36 115.65 <NA> in the same span of time computers ' ability to recognize people in photos improved by three orders of magnitude 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 115.85 125.23 <NA> what happens when you combine these technologies together <unk> increasing availability of facial data <unk> improving facial recognizing ability by computers
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 125.34 126.39 <NA> <unk> but also
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 126.2 136.25 <NA> cloud computing which gives anyone in this theater the kind of computational power which a few years ago was only the domain of three letter agencies <unk> and ubiquitous computing 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 136.2 145.96 <NA> <unk> which allows my phone which is not a supercomputer to connect to the internet and do there hundreds of thousands of face metrics in a few seconds well
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 155.32 166.06 <NA> to test that we did an experiment on carnegie mellon university campus we asked students who were walking by to participate in a study <unk> and we took a shot with a webcam <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 166.06 179.97 <NA> and we asked them to fill out a survey on a laptop while they were filling out the survey we uploaded their shot to a cloud computing cluster <unk> and we started using a facial recognizer to match that shot to a database of some hundreds of thousands of images
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 180.13 183.48 <NA> which we had downloaded from facebook profiles 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 183.68 195.09 <NA> by the time the subject reached the last page on the survey the page had been dynamically updated with the ten best matching photos which the recognizer had found 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 194.66 199.92 <NA> and we asked the subjects to indicate whether he or she found themselves in the photo do
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 200.75 202.24 <NA> you see the subject
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 204.95 209.65 <NA> the computer did and in fact did so for one out of three subjects 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 209.31 220.75 <NA> so essentially <unk> we can start from an anonymous face <unk> offline or online <unk> and we can use facial recognition to give a name to that anonymous face thanks to social media data <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 220.29 224.72 <NA> but a few years back we did something else we started from social media data <unk> we
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 229.63 238.31 <NA> <unk> we ended up predicting social security numbers which in the united states are extremely sensitive information <unk> do you see where i 'm going with this 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 238.03 245.55 <NA> so if you combine the two studies together then the question becomes can you start from a face
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 245.31 249.63 <NA> and using facial recognition find a name and publicly available
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 265.31 279.79 <NA> <unk> but in fact we even decided to develop an iphone app which uses the phone 's internal camera to take a shot of a subject and then upload it to a cloud and then do what i just described to you in real time looking for a match finding public information
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 280.02 287.58 <NA> <unk> to infer sensitive information <unk> and then sending back to the phone so that it is overlaid on the face of the subject
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 287.59 292.88 <NA> an example of augmented reality probably a creepy example of augmented reality in fact <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 292.65 297.28 <NA> we didn 't develop the app to make it available just as a proof of concept
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 297.06 299.96 <NA> in fact <unk> take these technologies and push
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 300 308.99 <NA> <unk> to their logical extreme imagine a future in which strangers around you will look at you through their google glasses or one day their contact lenses
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 308.56 313.1 <NA> <unk> and use seven or eight data points about you
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 312.73 317.87 <NA> to infer anything else which may be known about you 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 317.89 324.5 <NA> what will this future without secrets look like and should we care 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 325.31 332.43 <NA> <unk> we may like to believe that the future with so much wealth of data would be a future with no more biases <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 332.27 344.34 <NA> but in fact having so much information doesn 't mean that we will make decisions which are more objective in another experiment <unk> we presented to our subjects information about a potential job candidate 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 344.34 354.55 <NA> we included in this information some references to some funny <unk> absolutely legal but perhaps slightly embarrassing information that the subject had posted online
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 354.9 362.26 <NA> <unk> now interestingly among our subjects some had posted comparable information <unk> and some had not 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 362.49 367.79 <NA> which group do you think was more likely to judge harshly
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 367.55 374.69 <NA> our subject paradoxically it was the group who had posted similar information <unk> an example of moral
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 376.54 386.33 <NA> <unk> you may be thinking this does not apply to me because i have nothing to hide but in fact privacy is not about having something negative
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 386.33 387.5 <NA> to hide
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 387.28 392.3 <NA> imagine that you are the h r director of a certain organization and you receive rsums
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 391.84 398.28 <NA> and you decide to find more information about the candidates <unk> therefore you google their names
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 398.07 399.87 <NA> and in a certain universe you
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 402.05 404.43 <NA> <unk> or in a parallel universe you find
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 404.23 411.69 <NA> this information <unk> do you think that you would be equally likely to call either candidate for an interview 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 411.86 424.99 <NA> if you think so then you are not like the u s employers who are in fact <unk> part of our experiment <unk> meaning we did exactly that we created facebook profiles manipulating traits then we started sending out rsums
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 426.45 438.79 <NA> <unk> and we detected <unk> we monitored whether they were searching for our candidates <unk> and whether they were acting on the information they found on social media and they were discrimination was happening through social media for equally skilled candidates <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 439.11 443.35 <NA> now marketers like us
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 442.86 449.35 <NA> to believe that all information about us will always be used in a manner which is in our favor
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 449.28 454.94 <NA> <unk> but think again why should that be always the case in a movie which came out a few
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 455.13 461.83 <NA> years ago minority report a famous scene had tom cruise walk in a mall and
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 461.83 468.65 <NA> holographic personalized advertising would appear around him now that movie is set in <unk>
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 469.75 479.94 <NA> <unk> about forty years from now and as exciting as that technology looks it already vastly underestimates the amount of information that organizations can gather about
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 479.93 485.19 <NA> <unk> you and how they can use it to influence you in a way that you will not even detect 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 484.73 489.3 <NA> so as an example this is another experiment actually we are running not yet completed <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 489.3 496.81 <NA> imagine that an organization has access to your list of facebook friends <unk> and through some kind of algorithm they can detect
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 496.63 504.58 <NA> the two friends that you like the most and then they create in real time a facial composite of these two friends now
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 505.28 511.55 <NA> prior to ours have shown that people don 't recognize any longer even themselves in facial composites <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 511.55 519.73 <NA> but they react to those composites in a positive manner <unk> so next time you are looking for a certain product and there is an ad
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 519.24 524.96 <NA> suggesting you to buy it it will not be just a standard spokesperson <unk> it will be one of your
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 526.09 529.28 <NA> <unk> and you will not even know that this is happening 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 528.97 534.86 <NA> now the problem is that the current policy mechanisms we have
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 534.37 541.13 <NA> to protect ourselves from the abuses of personal information are like bringing a knife to a gunfight 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 540.73 549.99 <NA> one of these mechanisms is transparency <unk> telling people what you are going to do with their data and in principle that 's a very good thing it 's necessary
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 550.31 554.8 <NA> <unk> but it is not sufficient <unk> transparency
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 554.59 566.31 <NA> can be misdirected you can tell people what you are going to do and then you still nudge them to disclose arbitrary amounts of personal information <unk> so in yet another experiment this one with students 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 566.48 573.94 <NA> we asked them to provide information about their campus behavior including pretty sensitive questions such as this one
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 579.99 584.98 <NA> <unk> another group of subjects we told them students and faculty will see your answers transparency
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 584.52 592.72 <NA> notification and sure enough this worked in the sense that the first group of subjects were much more likely to disclose than the second it makes sense right 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 592.59 599.68 <NA> but then we added the misdirection we repeated the experiment with the same two groups this time adding a delay
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 599.34 604.1 <NA> between the time we told subjects how we would use their data
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 605.02 609.2 <NA> <unk> the time we actually started answering the questions <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 608.8 616.25 <NA> how long a delay do you think we had to add in order to nullify the inhibitory effect
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 615.97 621.17 <NA> of knowing that faculty would see your answers <unk> ten minutes 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 621.28 629.88 <NA> five minutes one minute how about fifteen seconds fifteen seconds were sufficient to have the two groups
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 629.84 639.21 <NA> <unk> disclose the same amount of information <unk> as if the second group now no longer cares for faculty reading their answers <unk> now i have to admit that this
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 638.72 642.63 <NA> talk so far may sound exceedingly gloomy <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 642.63 654.97 <NA> but that is not my point in fact i want to share with you the fact that there are alternatives the way we are doing things now is not the only way they can done <unk> and certainly not the best way they can
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 655.1 658.18 <NA> be done when someone tells you 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 658.44 666.01 <NA> people don 't care about privacy consider whether the game has been designed and rigged so that they cannot care about privacy 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 665.61 673.09 <NA> and coming to the realization that these manipulations occur is already halfway through the process of being able to protect yourself <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 672.99 679.97 <NA> when someone tells you that privacy is incompatible with the benefits of big data <unk> consider that in the last
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 679.9 689.84 <NA> <unk> twenty years <unk> researchers have created technologies to allow virtually any electronic transactions to take place in a more privacy preserving manner <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 689.65 699.69 <NA> we can browse the internet anonymously <unk> we can send emails that can only be read by the intended recipient not even the nsa we can have even
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 704.96 709.32 <NA> <unk> big data while protecting privacy of course 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 709.04 718.92 <NA> these technologies imply a shifting of cost and revenues between data holders and data subjects which is why perhaps you don 't hear more about them 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 718.52 720.72 <NA> which brings me back
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 720.38 727.84 <NA> to the garden of eden there is a second privacy interpretation of the story of the garden of eden which
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 730.43 733.63 <NA> feeling naked and feeling ashamed 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 733.35 739.21 <NA> you can find echoes of this interpretation in john milton 's paradise lost 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 738.93 747.98 <NA> in the garden <unk> adam and eve are materially content they 're happy they are satisfied <unk> however they also lack knowledge
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 749.33 754.04 <NA> the moment they eat the aptly named fruit of knowledge
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 754.93 756.86 <NA> <unk> they discover themselves 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 756.67 760.73 <NA> they become aware they achieve autonomy 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 760.51 769.5 <NA> the price to pay however is leaving the garden <unk> so privacy <unk> in a way is both the means and the price to pay
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 769.32 776.6 <NA> for freedom again <unk> marketers tell us that big data and social media
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 776.11 779.55 <NA> are not just a paradise of profit for them
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 780.14 790.26 <NA> <unk> but a garden of eden for the rest of us we get free content we get to play angry birds <unk> we get targeted apps <unk> but in fact in a few years organizations will know so much <unk>
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 790.16 796.15 <NA> <unk> about us they will be able to infer our desires before we even form them <unk> and perhaps
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 801.27 804.19 <NA> <unk> there was one english author
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 803.7 810.17 <NA> who anticipated this kind of future where we would trade away our autonomy and freedom
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 809.96 811.87 <NA> for comfort 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 811.65 816.62 <NA> even more so than george orwell the author is of course <unk> aldous huxley 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 816.62 825.02 <NA> in brave new world he imagines a society where technologies that we created originally for freedom end up coercing
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 826.96 830.87 <NA> <unk> in the book he also offers us a way out
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 830.44 837.83 <NA> of that society <unk> similar to the path that adam and eve had to follow to leave the garden <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 838.45 840.81 <NA> in the words of the savage
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 840.63 848.43 <NA> regaining autonomy and freedom is possible although the price to pay is steep so
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 848.19 854.97 <NA> i do believe that one of the defining fights of our times will be the fight for the
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 854.9 857.04 <NA> <unk> control over personal information 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 856.58 866.25 <NA> the fight over whether big data will become a force for freedom rather than a force which will <unk> hiddenly manipulate us <unk> 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 866.3 874.44 <NA> right now many of us do not even know that the fight is going on but it is whether you like it or not 
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 874.01 879.97 <NA> and at the risk of playing the serpent i will tell you that the tools for the fight
+AlessandroAcquisti_2013G 1 AlessandroAcquisti_2013G 880.04 888.89 <NA> are here the awareness of what is going on and in your hands just a few clicks away <unk> thank you

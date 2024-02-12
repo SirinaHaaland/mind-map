@@ -1,0 +1,54 @@
+  my students and i work on very tiny robots now you can think of these as robotic versions of something that you 're all very familiar with an ant  
+ we all know that ants and other insects at this size scale can do some pretty incredible things we 've all seen a group of ants or some version of that
+  that carting off your potato chip at a picnic for example  but what are the real challenges
+ of engineering these ants well first of all how do we
+ get the capabilities of an ant in a robot at the same size scale well first we need to figure out how to make them move when they 're so small 
+ we need mechanisms like legs and efficient motors in order to support that locomotion 
+ and we need the sensors power and control in order to
+  pull everything together in a 
+ ant robot and finally to make these things really functional  we want a lot of them working together in order to do bigger things  so
+ i 'll start with mobility  
+ insects move around amazingly well 
+ this video is from uc berkeley it shows a cockroach moving over incredibly rough terrain without tipping over  and it 's able to do this because its legs are a
+  combination of rigid materials which is what we traditionally use to make robots  and soft materials 
+ jumping is another really interesting way to get around when you 're very small 
+ so these insects store energy in a spring and release that really quickly to get the high power they need to jump out of water for example  
+ so one of the big contributions from my lab
+ has been to combine rigid and soft materials in very very
+  small mechanisms  
+ so this jumping mechanism is about four millimeters on a side so really tiny the hard material here is silicon and the soft material is silicone rubber  
+ and the basic idea is that we 're going to compress this store energy in the springs and then release it to jump 
+ so there 's no motors on board this right now no power this is actuated with a method that we call in my lab graduate student with tweezers
+  you 'll see in the next video is this guy doing amazingly well for its jumps  so this is aaron the graduate student in question with the tweezers  and what you see is this 
+  mechanism jumping almost forty centimeters high that 's almost one hundred times its own length and it survives bounces on the table it 's incredibly robust and of course survives quite well
+  until we lose it because it 's very tiny 
+ ultimately though we want to add motors to this too  
+ and we have students in the lab working on millimeter sized motors to eventually integrate onto small  autonomous robots  
+ but in order to look at mobility and locomotion at this size scale to start we 're cheating and using magnets  
+ so this shows what would eventually be part of a micro robot leg and you can see the silicone rubber joints and there 's an embedded magnet that 's being moved around by an external magnetic field  
+ so this leads to the robot that i showed you
+  earlier 
+ the really interesting thing that this robot can help us figure out is how insects move at this scale we have a really good model for how everything from a cockroach up to an elephant moves  we all move in this kind of bouncy way when we run 
+ but when i 'm really small the forces between my feet and the ground are going to affect my locomotion a lot more than my mass which is what causes that bouncy motion  
+ so this guy doesn 't work
+  quite yet but we do have slightly larger versions that do run around  
+ so this is about a centimeter cubed a centimeter on a side so very tiny  and we 've gotten this to run about ten body lengths per second so ten centimeters per second it 's pretty quick for a little small guy and that 's really only limited by our test setup but
+ this gives you some idea of how it works right now  
+ we can also make
+  versions of this that can climb over obstacles a lot like the cockroach that you saw earlier  
+ but ultimately we want to add everything onboard the robot  we want sensing power control actuation all together  and not everything needs to be 
+ so this robot 's about the size of a tic tac and in this case instead of magnets or muscles to move this around
+  this  and we can put one of these pixels on the belly of this robot and this robot then is going to jump when it senses an increase in light  
+ so the next video is one of my favorites  so you have this 
+  robot jumping about eight centimeters in the air it 's only four by four by seven millimeters in size
+  'll see a big flash at the beginning when the energetic is set off and the robot tumbling through the air  so there was that big flash  and you can see the robot jumping up
+ through the air  so there 's no tethers on this no wires connecting to this everything is onboard  and it jumped in response to the student just flicking on a desk lamp
+ next to it so i think you can imagine all the cool things that we could do with robots that can
+  and crawl and jump and roll at this size scale imagine the rubble that you get after a natural disaster like an earthquake imagine these small robots running through that rubble to look for survivors  
+ or imagine a lot of small robots running around a bridge in order to inspect it and make sure it 's safe so you don 't get collapses like this which happened outside of minneapolis in two thousand and seven 
+ or just imagine what you could do if you had robots that could swim through your blood
+  or they could operate without having to cut you open in the first place  
+ or we could radically change the way we build things if we have our tiny robots work the same way that termites do and they build these incredible eight meter high mounds effectively 
+ well ventilated apartment buildings for other termites in africa and australia  
+  given you some of the possibilities of what we can do with these small robots  
+ and we 've made some advances so far but there 's still a long way to go  and hopefully some of you can contribute to that destination thanks very much

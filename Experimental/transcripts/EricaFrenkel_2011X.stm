@@ -1,0 +1,105 @@
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 12.76 16.55 <NA> <unk> i 'm going to talk to you today about the design of medical technology for <unk>
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 17.55 24.9 <NA> i study health systems in these countries <unk> and one of the major gaps in care <unk> almost across the board is access to safe
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 26.36 35.7 <NA> <unk> one of the major bottlenecks that we 've found that 's sort of preventing both the access in the first place <unk> and the safety of those surgeries that do happen is anesthesia 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 35.39 39.58 <NA> and actually it 's the model that we expect to work for delivering anesthesia
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 39.25 41.34 <NA> in these environments 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 41.15 49.81 <NA> here we have a scene that you would find in any operating room across the us or any other developed country in the background there is a very sophisticated anesthesia
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 50.79 63.02 <NA> <unk> and this machine is able to enable surgery and save lives because it was designed with this environment in mind in order to operate this machine needs a number of things that this hospital has to offer <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 62.84 65.52 <NA> it needs an extremely
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 65.53 75.58 <NA> well trained anesthesiologist with years of training with complex machines to help her monitor the flows of the gas and keep her patients safe and anesthetized throughout the surgery <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 75.09 79.85 <NA> it 's a delicate machine running on computer algorithms and it needs special care
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 79.99 84.01 <NA> <unk> tlc to keep it up and running and it 's going to break pretty easily and when it does <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 84.01 90.77 <NA> it needs a team of biomedical engineers who understand its complexities can fix it can source the parts and keep it
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 90.43 100.05 <NA> saving lives it 's a pretty expensive machine it needs a hospital whose budget can allow it to support one machine costing upwards of fifty
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 100.46 109.48 <NA> <unk> one hundred thousand and perhaps most obviously but also most importantly and the path to concepts that we 've heard about kind of illustrates this
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 109.48 113.23 <NA> it needs infrastructure that can supply an uninterrupted
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 112.99 120.6 <NA> source of electricity of compressed oxygen and other medical supplies that are so critical to the functioning
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 120.32 129.97 <NA> of this machine in other words this machine requires a lot of stuff that this hospital cannot offer <unk> this is the electrical supply for
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 129.93 136.99 <NA> <unk> a hospital in rural malawi in this hospital there is one person qualified to deliver anesthesia and she 's qualified
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 136.79 141.91 <NA> because she has twelve maybe eighteen months of training in anesthesia 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 141.45 145.87 <NA> in the hospital and in the entire region there 's not a single biomedical engineer 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 145.87 154.97 <NA> so when this machine breaks the machines that they have to work with break they 've got to try and figure it out but most of the time that 's the end of the road those machines go the proverbial
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 154.87 160.55 <NA> <unk> junkyard <unk> and the price tag of the machine that i mentioned could represent maybe a quarter or a third
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 160.38 164.06 <NA> of the annual operating budget for this hospital 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 164.11 170.76 <NA> and finally i think you can see that infrastructure is not very strong this hospital is connected to a very weak power grid 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 170.76 179.58 <NA> one that goes down frequently so it runs frequently the entire hospital just on a generator and you can imagine the generator breaks down or runs out of fuel
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 180.32 189.42 <NA> <unk> and the world bank sees this and estimates that a hospital in this setting in a low income country can expect up to eighteen power outages per month
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 190.13 198.19 <NA> similarly compressed oxygen and other medical supplies are really a luxury and can often be out of stock for months or even a year <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 198.19 200.08 <NA> so it seems crazy but the model
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 200 201.52 <NA> we have right now
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 201.18 205.82 <NA> is taking those machines that were designed for that first environment that i showed you
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 205.58 210.46 <NA> and donating or selling them to hospitals in this environment 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 210.33 218.98 <NA> it 's not just inappropriate it becomes really unsafe one of our partners at johns hopkins was observing
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 218.73 225.2 <NA> surgeries in sierra leone about a year ago <unk> and the first surgery of the day happened to be an obstetrical
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 225.49 231.68 <NA> <unk> a woman came in she needed an emergency c section to save her life and the life of her baby <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 231.37 235.82 <NA> and everything began pretty auspiciously the surgeon was on call and scrubbed in 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 235.59 242.4 <NA> the nurse was there she was able to anesthetize her quickly <unk> and it was important because of the emergency nature of the situation <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 242.4 246.62 <NA> and everything began well until the power went out 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 247.27 254.28 <NA> and now in the middle of this surgery the surgeon is racing against the clock to finish his case which he can do he 's got a headlamp
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 255.05 263.79 <NA> <unk> but the nurse is literally running around a darkened operating theater trying to find anything she can use to anesthetize her patient to keep her patient asleep 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 263.33 266.46 <NA> because her machine doesn 't work when there 's no power
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 266.93 275.31 <NA> this routine surgery that many of you have probably experienced and others are probably the product of has now become a tragedy <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 275.15 279.97 <NA> and what 's so frustrating is this is not a singular event this happens across the
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 279.93 285.88 <NA> <unk> developing world thirty five million surgeries are attempted every year without safe anesthesia <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 285.69 294.01 <NA> my colleague dr paul fenton was living this reality he was the chief of anesthesiology in a hospital in malawi a teaching hospital 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 293.52 304.97 <NA> he went to work every day in an operating theater like this one trying to deliver anesthesia and teach others how to do so using that same equipment that became so unreliable and frankly unsafe
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 305.19 308.97 <NA> in his hospital and after umpteen surgeries
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 308.76 315.96 <NA> and you can imagine really unspeakable tragedy he just said that 's it i 'm done that 's enough there has to be something better 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 315.72 322.19 <NA> he took a walk down the hall to where they threw all those machines that had just crapped out on them i think that 's the scientific term
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 322.19 328.17 <NA> <unk> and he started tinkering he took one part from here and another from there and he tried to come up with a machine that would work
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 328.01 329.97 <NA> in the reality that he was facing
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 330.07 336.87 <NA> <unk> and what he came up with was this guy <unk> the prototype for the universal anesthesia machine
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 336.64 344.07 <NA> a machine that would work and anesthetize his patients no matter the circumstances that his hospital had to offer <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 344 353.19 <NA> here it is back at home at that same hospital developed a little further twelve years later working on patients from pediatrics to geriatrics
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 352.73 354.97 <NA> let me show you a little bit about how this machine works
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 354.75 362.75 <NA> <unk> works voila here she is when you have electricity <unk> everything in this machine begins
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 362.57 369.79 <NA> in the base there 's a built in oxygen concentrator down there now you 've heard me mention oxygen a few times at this point <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 369.3 374.96 <NA> essentially to deliver anesthesia you want as pure oxygen as possible because eventually you 're going to dilute
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 375.52 377.63 <NA> <unk> with the gas and
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 377.17 383.25 <NA> the mixture that the patient inhales needs to be at least a certain percentage oxygen or else it can become dangerous <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 383.25 391.58 <NA> but so in here when there 's electricity the oxygen concentrator takes in room air now we know room air is gloriously free 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 391.15 399.12 <NA> it is abundant and it 's already twenty one percent oxygen so all this concentrator does is take that room air in filter it
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 398.96 404.94 <NA> and send ninety five percent pure oxygen up and across here where it mixes with the anesthetic agent
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 405.23 413.09 <NA> now before that mixture hits the patient 's lungs it 's going to pass by here you can 't see it but there 's an oxygen sensor here
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 413.1 419.68 <NA> that 's going to read out on this screen the percentage of oxygen being delivered now if you don 't have
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 419.32 427.83 <NA> power or god forbid the power cuts out in the middle of a surgery <unk> this machine transitions automatically without even having to touch it 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 427.83 429.97 <NA> to drawing in room air from this inlet
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 430.29 438.28 <NA> everything else is the same the only difference is that now you 're only working with twenty one percent oxygen now
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 438 448.43 <NA> that used to be a dangerous guessing game because you only knew if you gave too little oxygen once something bad happened but we 've put a long life battery backup on here this is the only part that 's battery backed up 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 448.43 454.91 <NA> but this gives control to the provider whether there 's power or not because they can adjust the flows based on the percentage of
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 454.87 460.45 <NA> <unk> oxygen they see that they 're giving the patient in both cases whether you have power
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 460.29 466.49 <NA> or not sometimes the patient needs help breathing it 's just a reality of anesthesia the lungs can be paralyzed <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 466.49 473.84 <NA> and so we 've just added this manual bellows we 've seen surgeries for three or four hours to ventilate the patient on this 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 473.92 475.47 <NA> so
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 475.26 479.97 <NA> it 's a straightforward machine i shudder to say simple it 's straightforward
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 480.4 481.63 <NA> <unk> and
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 481.45 489.82 <NA> it 's by design you do not need to be a highly trained specialized anesthesiologist to use this machine which is good because 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 489.82 494.13 <NA> in these rural district hospitals you 're not going to get that level of training 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 494.21 504.58 <NA> it 's also designed for the environment that it will be used in this is an incredibly rugged machine it has to stand up to the heat and the wear and tear that happens in hospitals
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 505.14 507.04 <NA> <unk> in these rural districts and so
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 507.04 516.19 <NA> it 's not going to break very easily but if it does <unk> virtually every piece in this machine can be swapped out and replaced with a hex wrench and a screwdriver <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 517.26 523.45 <NA> and finally <unk> it 's affordable this machine comes in at an eighth of the cost
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 523.44 529.88 <NA> of the conventional machine that i showed you earlier so in other words what we have here is a machine
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 530.02 537.77 <NA> <unk> can enable surgery and save lives because it was designed for its environment just like the first machine i showed you 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 537.46 543.59 <NA> but we 're not content to stop there is it working is this the design that 's going to work in place <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 543.59 548.87 <NA> well we 've seen good results so far this is in thirteen hospitals in four countries <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 548.59 550.02 <NA> and since two thousand and
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 550.28 558.58 <NA> <unk> we 've done well over two thousand surgeries with no clinically adverse events <unk> so we 're thrilled this really seems like a
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 559.55 563.64 <NA> <unk> scalable solution to a problem that 's really pervasive <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 563.15 569.62 <NA> but we still want to be sure that this is the most effective and safe device that we can be putting into hospitals 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 569.62 579.97 <NA> so to do that we 've launched a number of partnerships with ngos and universities to gather data on the user interface on the types of surgeries it 's appropriate for and ways we can enhance the device
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 580.08 588.49 <NA> <unk> itself one of those partnerships is with johns hopkins just here in baltimore they have a really cool anesthesia simulation lab
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 588.49 591.46 <NA> out in baltimore so we 're taking this machine
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 591 599.93 <NA> and recreating some of the operating theater crises that this machine might face in one of the hospitals that it 's intended for and in a contained
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 600 607.16 <NA> safe environment evaluating its effectiveness we 're then able to compare the results from that study
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 606.67 615.98 <NA> with real world experience because we 're putting two of these in hospitals that johns hopkins works with in sierra leone including the hospital where that emergency c section happened <unk> 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 616.9 623.55 <NA> so i 've talked a lot about anesthesia and i tend to do that i think it is incredibly fascinating and an important
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 623.38 629.88 <NA> component of health and it really seems peripheral we never think about it until we don 't have access to it and then it
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 629.81 635.37 <NA> <unk> becomes a gatekeeper who gets surgery and who doesn 't who gets safe surgery
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 635.17 636.87 <NA> and who doesn 't 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 636.68 645.27 <NA> but you know it 's just one of so many ways that design appropriate design can have an impact on health outcomes 
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 644.81 651.01 <NA> if more people in the health delivery space really working on some of these challenges in <unk> low income countries
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 650.77 654.91 <NA> could start their design process their solution search from
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 654.87 658.63 <NA> <unk> outside of that proverbial box and inside of the hospital
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 658.17 666.13 <NA> in other words if we could design for the environment that exists in so many parts of the world rather than the one that we wished existed
+EricaFrenkel_2011X 1 EricaFrenkel_2011X 665.7 669.86 <NA> we might just save a lot of lives <unk> thank you very much

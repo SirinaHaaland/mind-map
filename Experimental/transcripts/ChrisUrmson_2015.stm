@@ -1,0 +1,137 @@
+ChrisUrmson_2015 1 ChrisUrmson_2015 14.32 21.59 <NA> <unk> karl benz invented the automobile <unk> later that year <unk> he took it out for the first public test drive and true story
+ChrisUrmson_2015 1 ChrisUrmson_2015 21.59 29.94 <NA> crashed into a wall for the last one hundred and thirty years <unk> we 've been working around that least reliable part of the car the driver
+ChrisUrmson_2015 1 ChrisUrmson_2015 29.98 31.95 <NA> we 've made the car stronger <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 31.94 41.58 <NA> we 've added seat belts <unk> we 've added air bags and in the last decade <unk> we 've actually started trying to make the car smarter to fix that bug <unk> the driver now
+ChrisUrmson_2015 1 ChrisUrmson_2015 41.57 49.99 <NA> today i 'm going to talk to you a little bit about the difference between patching around the problem with driver assistance systems and actually having fully
+ChrisUrmson_2015 1 ChrisUrmson_2015 51.27 53.11 <NA> <unk> and what they can do for the world 
+ChrisUrmson_2015 1 ChrisUrmson_2015 52.65 60.33 <NA> i 'm also going to talk to you a little bit about our car and allow you to see how it sees the world and how it reacts and what it does <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 60.34 63.13 <NA> but first i 'm going to talk a little bit about the problem <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 63.15 72.17 <NA> and it 's a big problem one point two million people are killed on the world 's roads every year in america alone thirty three thousand people are killed each year 
+ChrisUrmson_2015 1 ChrisUrmson_2015 72.17 75.02 <NA> to put that in perspective <unk> that 's the same as a seven
+ChrisUrmson_2015 1 ChrisUrmson_2015 75.76 80.9 <NA> <unk> falling out of the sky every working day <unk> it 's kind of unbelievable <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 81.1 86.63 <NA> cars are sold to us like this but really this is what driving 's like 
+ChrisUrmson_2015 1 ChrisUrmson_2015 86.38 90.75 <NA> right it 's not sunny <unk> it 's rainy and you want to do anything other than drive 
+ChrisUrmson_2015 1 ChrisUrmson_2015 90.75 99.87 <NA> and the reason why is this traffic is getting worse in america between one thousand nine hundred and ninety and two thousand and ten the vehicle miles traveled
+ChrisUrmson_2015 1 ChrisUrmson_2015 102.38 110.94 <NA> <unk> we grew by six percent of roads <unk> so it 's not in your brains traffic really is substantially worse than it was not very long ago <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 110.51 113.29 <NA> and all of this has a very human cost <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 113.05 120.84 <NA> so if you take the average commute time in america which is about fifty minutes you multiply that by the one hundred and twenty million workers we have 
+ChrisUrmson_2015 1 ChrisUrmson_2015 120.84 125.08 <NA> that turns out to be about six billion minutes wasted in commuting every day
+ChrisUrmson_2015 1 ChrisUrmson_2015 126.21 127.72 <NA> <unk> let 's put it in perspective <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 127.72 137.66 <NA> you take that six billion minutes and you divide it by the average life expectancy of a person <unk> that turns out to be one hundred and sixty two lifetimes spent
+ChrisUrmson_2015 1 ChrisUrmson_2015 137.3 143.32 <NA> every day <unk> wasted just getting from a to b it 's unbelievable <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 143.4 149.93 <NA> and then there are those of us who don 't have the privilege of sitting in traffic so this is steve he 's an incredibly
+ChrisUrmson_2015 1 ChrisUrmson_2015 151.99 153.63 <NA> <unk> he just happens to be blind <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 153.63 167.18 <NA> and that means instead of a 30 minute drive to work in the morning <unk> it 's a two hour ordeal of piecing together bits of public transit or asking friends and family for a ride he doesn 't have that same freedom that you and i have to get around 
+ChrisUrmson_2015 1 ChrisUrmson_2015 166.69 169.07 <NA> we should do something about that 
+ChrisUrmson_2015 1 ChrisUrmson_2015 169.27 178.89 <NA> now conventional wisdom would say that we 'll just take these driver assistance systems and we 'll kind of push them and incrementally improve them and over time they 'll turn into
+ChrisUrmson_2015 1 ChrisUrmson_2015 180.23 187.17 <NA> well i 'm here to tell you that 's like me saying that if i work really hard at jumping one day i 'll be able to fly
+ChrisUrmson_2015 1 ChrisUrmson_2015 186.74 195.78 <NA> <unk> we actually need to do something a little different and so i 'm going to talk to you about three different ways that self driving systems are different than driver assistance systems 
+ChrisUrmson_2015 1 ChrisUrmson_2015 195.78 204.67 <NA> and i 'm going to start with some of our own experience so back in two thousand and thirteen <unk> we had the first test of a self driving car where we let regular people use it
+ChrisUrmson_2015 1 ChrisUrmson_2015 205.02 209.29 <NA> <unk> well <unk> almost regular they were one hundred googlers but they weren 't working on the project <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 209.29 222.53 <NA> and we gave them the car and we allowed them to use it in their daily lives <unk> but unlike a real <unk> self driving car this one had a big asterisk with it they had to pay attention because this was an experimental vehicle <unk> we tested it a lot <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 222.32 224.2 <NA> but it could still fail <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 225 228.5 <NA> <unk> gave them two hours of training <unk> we put them in the car we let them use it 
+ChrisUrmson_2015 1 ChrisUrmson_2015 228.07 232.79 <NA> and what we heard back was something awesome <unk> as someone trying to bring a product into the world 
+ChrisUrmson_2015 1 ChrisUrmson_2015 232.79 241.26 <NA> every one of them told us they loved it in fact we had a porsche driver who came in and told us on the first day this is completely stupid what are we thinking
+ChrisUrmson_2015 1 ChrisUrmson_2015 241.02 247.82 <NA> but at the end of it he said not only should i have it everyone else should have it because people are terrible drivers 
+ChrisUrmson_2015 1 ChrisUrmson_2015 248.44 254.7 <NA> so this was music to our ears <unk> but then we started to look at what the people inside the car were doing
+ChrisUrmson_2015 1 ChrisUrmson_2015 254.99 261.02 <NA> <unk> this was eye opening now my favorite story is this gentleman who looks down at his phone and realizes
+ChrisUrmson_2015 1 ChrisUrmson_2015 261.03 267.4 <NA> the battery is low <unk> so he turns around like this in the car and digs around in his backpack
+ChrisUrmson_2015 1 ChrisUrmson_2015 267.17 274.96 <NA> pulls out his laptop <unk> puts it on the seat <unk> goes in the back again <unk> digs around <unk> pulls out the charging cable for
+ChrisUrmson_2015 1 ChrisUrmson_2015 276.63 284.98 <NA> <unk> puts it into the laptop puts it on the phone sure enough the phone is charging all the time he 's been doing sixty five miles per hour down the freeway 
+ChrisUrmson_2015 1 ChrisUrmson_2015 284.82 287.14 <NA> right unbelievable <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 287.16 300.58 <NA> so we thought about this and we said it 's kind of obvious right the better the technology gets the less reliable the driver is going to get so by just making the cars incrementally smarter we 're probably not going to see the wins we really need 
+ChrisUrmson_2015 1 ChrisUrmson_2015 300.81 304.1 <NA> let me talk about something a little technical for a moment here
+ChrisUrmson_2015 1 ChrisUrmson_2015 305.05 316.92 <NA> <unk> at this graph and along the bottom is how often does the car apply the brakes when it shouldn 't you can ignore most of that axis because if you 're driving around town and the car starts stopping randomly you 're never going to buy that car 
+ChrisUrmson_2015 1 ChrisUrmson_2015 316.92 323.48 <NA> and the vertical axis is how often the car is going to apply the brakes when it 's supposed to to help you avoid an accident <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 323.38 324.96 <NA> now if we look at the bottom left
+ChrisUrmson_2015 1 ChrisUrmson_2015 326 333.33 <NA> <unk> your classic car it doesn 't apply the brakes for you it doesn 't do anything goofy <unk> but it also doesn 't get you out of an accident 
+ChrisUrmson_2015 1 ChrisUrmson_2015 333.29 347.38 <NA> now if we want to bring a driver assistance system into a car say with collision mitigation braking we 're going to put some package of technology on there and that 's this curve and it 's going to have some operating properties <unk> but it 's never going to avoid all of the accidents because it doesn 't have that capability 
+ChrisUrmson_2015 1 ChrisUrmson_2015 347.38 354.94 <NA> but we 'll pick some place along the curve here and maybe it avoids half of accidents that the human driver misses and that 's amazing <unk> right we just
+ChrisUrmson_2015 1 ChrisUrmson_2015 354.9 362.08 <NA> <unk> reduced accidents on our roads by a factor of two there are now seventeen thousand less people dying every year in america <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 362.07 364.4 <NA> but if we want a self driving car 
+ChrisUrmson_2015 1 ChrisUrmson_2015 364.19 368.89 <NA> we need a technology curve that looks like this we 're going to have to put more sensors in the vehicle and we
+ChrisUrmson_2015 1 ChrisUrmson_2015 368.89 376.04 <NA> 'll pick some operating point up here where it basically never gets into a crash they 'll happen but very low frequency 
+ChrisUrmson_2015 1 ChrisUrmson_2015 375.81 379.88 <NA> now you and i could look at this and we could argue about whether it 's incremental and i could say something like
+ChrisUrmson_2015 1 ChrisUrmson_2015 379.92 386.51 <NA> 80 20 rule and it 's really hard to move up to that new curve but let 's look at it from a different direction for a moment <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 386.05 394.25 <NA> so let 's look at how often the technology has to do the right thing and so this green dot up here is a driver assistance system 
+ChrisUrmson_2015 1 ChrisUrmson_2015 393.82 402.98 <NA> it turns out that human drivers make mistakes that lead to traffic accidents about once every one hundred thousand miles in america 
+ChrisUrmson_2015 1 ChrisUrmson_2015 402.55 404.49 <NA> in contrast a
+ChrisUrmson_2015 1 ChrisUrmson_2015 405.08 413.61 <NA> <unk> system is probably making decisions about ten times per second so order of magnitude that 's about one thousand times per mile <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 413.15 420.6 <NA> so if you compare the distance between these two <unk> it 's about ten to the eighth right <unk> eight orders of magnitude <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 420.11 423.66 <NA> that 's like comparing how fast i run
+ChrisUrmson_2015 1 ChrisUrmson_2015 423.17 429.97 <NA> to the speed of light it doesn 't matter how hard i train i 'm never actually going to get there so there 's a pretty big
+ChrisUrmson_2015 1 ChrisUrmson_2015 429.99 431.2 <NA> <unk> gap there 
+ChrisUrmson_2015 1 ChrisUrmson_2015 431.49 436 <NA> and then finally there 's how the system can handle uncertainty <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 435.54 441.64 <NA> so this pedestrian here might be stepping into the road might not be i can 't tell nor can any of our algorithms <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 441.63 449.78 <NA> but in the case of a driver assistance system that means it can 't take action because again if it presses the brakes unexpectedly that 's completely
+ChrisUrmson_2015 1 ChrisUrmson_2015 452.08 462.95 <NA> <unk> system can look at that pedestrian and say i don 't know what they 're about to do slow down take a better look <unk> and then react appropriately after that so it can be much safer than a driver assistance system can ever be so that
+ChrisUrmson_2015 1 ChrisUrmson_2015 463 468.89 <NA> 's enough about the differences between the two let 's spend some time talking about how the car sees the world 
+ChrisUrmson_2015 1 ChrisUrmson_2015 468.58 475.02 <NA> so this is our vehicle it starts by understanding where it is in the world by taking a map and its sensor data and aligning
+ChrisUrmson_2015 1 ChrisUrmson_2015 476.18 482.7 <NA> <unk> and then we layer on top of that what it sees in the moment <unk> so here all the purple boxes you can see are other vehicles on the road 
+ChrisUrmson_2015 1 ChrisUrmson_2015 482.69 489.33 <NA> and the red thing on the side over there is a cyclist and up in the distance if you look really closely you can see some cones 
+ChrisUrmson_2015 1 ChrisUrmson_2015 489.56 500.54 <NA> then we know where the car is in the moment but we have to do better than that we have to predict what 's going to happen so here the pickup truck in top right is about to make a left lane change because the road in front of it is closed <unk>
+ChrisUrmson_2015 1 ChrisUrmson_2015 500.54 504.88 <NA> so it needs to needs to get out of the way knowing that one pickup truck is great
+ChrisUrmson_2015 1 ChrisUrmson_2015 504.93 510.16 <NA> <unk> but we really need to know what everybody 's thinking so it becomes quite a complicated problem <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 509.7 518.59 <NA> and then given that we can figure out how the car should respond in the moment <unk> so what trajectory it should follow how quickly it should slow down or speed up <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 518.31 525.11 <NA> and then that all turns into just following a path turning the steering wheel left or right <unk> pressing the brake or gas
+ChrisUrmson_2015 1 ChrisUrmson_2015 525.43 529.52 <NA> <unk> really just two numbers at the end of the day <unk> so how hard can it really be 
+ChrisUrmson_2015 1 ChrisUrmson_2015 529.69 537.86 <NA> back when we started in two thousand and nine this is what our system looked like so you can see our car in the middle and the other boxes on the road driving down the highway 
+ChrisUrmson_2015 1 ChrisUrmson_2015 537.86 544.13 <NA> the car needs to understand where it is and roughly where the other vehicles are it 's really a geometric understanding of the world 
+ChrisUrmson_2015 1 ChrisUrmson_2015 544.33 549.78 <NA> once we started driving on neighborhood and city streets the problem becomes a whole new level of
+ChrisUrmson_2015 1 ChrisUrmson_2015 550.67 560.22 <NA> <unk> you see pedestrians crossing in front of us cars crossing in front of us going every which way the traffic lights crosswalks it 's an incredibly complicated problem by comparison <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 559.91 573.78 <NA> and then once you have that problem solved the vehicle has to be able to deal with construction so here are the cones on the left forcing it to drive to the right <unk> but not just construction in isolation of course <unk> it has to deal with other people moving through that construction zone as well 
+ChrisUrmson_2015 1 ChrisUrmson_2015 573.32 575.11 <NA> and of course if anyone 's breaking
+ChrisUrmson_2015 1 ChrisUrmson_2015 575.46 582.85 <NA> <unk> the police are there and the car has to understand that that flashing light on the top of the car means that it 's not just a car it 's actually a police officer 
+ChrisUrmson_2015 1 ChrisUrmson_2015 582.85 589.75 <NA> similarly <unk> the orange box on the side here <unk> it 's a school bus <unk> and we have to treat that differently as well <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 590.04 599.98 <NA> when we 're out on the road <unk> other people have expectations so when a cyclist puts up their arm it means they 're expecting the car to yield to them and make room for them to make a lane change <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 600.66 604.94 <NA> and when a police officer stood in the road our vehicle should understand that this
+ChrisUrmson_2015 1 ChrisUrmson_2015 604.9 608.81 <NA> <unk> means stop and when they signal to go <unk> we should continue 
+ChrisUrmson_2015 1 ChrisUrmson_2015 609.34 613.22 <NA> now the way we accomplish this is by sharing data between the vehicles 
+ChrisUrmson_2015 1 ChrisUrmson_2015 613.22 621.38 <NA> the first most crude model of this is when one vehicle sees a construction zone having another know about it so it can be in the correct lane to avoid some of the difficulty <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 621.46 627.39 <NA> but we actually have a much deeper understanding of this we could take all of the data that the cars have seen over time
+ChrisUrmson_2015 1 ChrisUrmson_2015 629.93 637.44 <NA> <unk> and vehicles that have been out there and understand what they look like and use that to infer what other vehicles should look like and other pedestrians should look like 
+ChrisUrmson_2015 1 ChrisUrmson_2015 637.4 645.9 <NA> and then <unk> even more importantly <unk> we could take from that a model of how we expect them to move through the world <unk> so here the yellow box is a pedestrian crossing in front of us 
+ChrisUrmson_2015 1 ChrisUrmson_2015 645.9 651.72 <NA> here the blue box is a cyclist and we anticipate that they 're going to nudge out and around the car to the right <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 651.8 654.97 <NA> here there 's a cyclist coming down the road and we know they 're going to continue
+ChrisUrmson_2015 1 ChrisUrmson_2015 654.99 658.93 <NA> <unk> to drive down the shape of the road <unk> here somebody makes a right turn 
+ChrisUrmson_2015 1 ChrisUrmson_2015 658.56 665.11 <NA> and in a moment here somebody 's going to make a u turn in front of us and we can anticipate that behavior and respond safely <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 664.65 671.24 <NA> now that 's all well and good for things that we 've seen but of course you encounter lots of things that you haven 't seen in the world before <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 671.24 675.08 <NA> and so just a couple of months ago our vehicles were driving through mountain view
+ChrisUrmson_2015 1 ChrisUrmson_2015 675.22 677.44 <NA> <unk> and this is what we encountered this is a woman
+ChrisUrmson_2015 1 ChrisUrmson_2015 677.28 680.27 <NA> in an electric wheelchair chasing a duck
+ChrisUrmson_2015 1 ChrisUrmson_2015 680.1 682.07 <NA> in circles on the road 
+ChrisUrmson_2015 1 ChrisUrmson_2015 682.09 688.16 <NA> now it turns out there is nowhere in the dmv handbook that tells you how to deal with that 
+ChrisUrmson_2015 1 ChrisUrmson_2015 687.67 691.91 <NA> but our vehicles were able to encounter that slow down and drive safely 
+ChrisUrmson_2015 1 ChrisUrmson_2015 692.38 697.88 <NA> now we don 't have to deal with just ducks watch this bird fly across in front of us the car reacts to that here
+ChrisUrmson_2015 1 ChrisUrmson_2015 697.69 702.47 <NA> we 're dealing with a cyclist that you would never expect to see anywhere other than mountain view <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 702.34 704.97 <NA> and of course <unk> we have to deal with drivers
+ChrisUrmson_2015 1 ChrisUrmson_2015 705.16 707.49 <NA> <unk> even the very small ones <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 709.19 712.77 <NA> watch to the right as someone jumps out of this truck at us <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 713.54 720.36 <NA> and now <unk> watch the left as the car with the green box decides he needs to make a right turn at the last possible moment 
+ChrisUrmson_2015 1 ChrisUrmson_2015 720.41 724.86 <NA> here as we make a lane change the car to our left decides it wants to as well 
+ChrisUrmson_2015 1 ChrisUrmson_2015 726.74 729.82 <NA> and here we watch a car blow through a red light
+ChrisUrmson_2015 1 ChrisUrmson_2015 729.84 737.68 <NA> and yield to it <unk> and similarly here a cyclist blowing through that light as well and of course the vehicle responds safely <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 738.12 746.41 <NA> and of course we have people who do i don 't know what sometimes on the road like this guy pulling out between two self driving cars you have to ask what are you thinking 
+ChrisUrmson_2015 1 ChrisUrmson_2015 747.75 754.97 <NA> now i just fire hosed you with a lot of stuff there so i 'm going to break one of these down pretty quickly <unk> so what we 're looking at is the scene with the cyclist
+ChrisUrmson_2015 1 ChrisUrmson_2015 754.93 763.85 <NA> <unk> again and you might notice in the bottom we can 't actually see the cyclist yet <unk> but the car can it 's that little blue box up there and that comes from the laser data 
+ChrisUrmson_2015 1 ChrisUrmson_2015 763.42 772.47 <NA> and that 's not actually really easy to understand so what i 'm going to do is i 'm going to turn that laser data and look at it <unk> and if you 're really good at looking at laser data you can see a few dots on the curve there 
+ChrisUrmson_2015 1 ChrisUrmson_2015 772.47 775.26 <NA> right there and that blue box is that cyclist
+ChrisUrmson_2015 1 ChrisUrmson_2015 775.82 782.58 <NA> <unk> now as our light is red the cyclist 's light has turned yellow already and if you squint you can see that in the imagery <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 782.09 785.62 <NA> but the cyclist we see is going to proceed through the intersection 
+ChrisUrmson_2015 1 ChrisUrmson_2015 785.62 793.15 <NA> our light has now turned green his is solidly red and we now anticipate that this bike is going to come all the way across 
+ChrisUrmson_2015 1 ChrisUrmson_2015 792.92 803.47 <NA> unfortunately the other drivers next to us were not paying as much attention they started to pull forward and fortunately for everyone this cyclists reacts avoids and makes it through the intersection
+ChrisUrmson_2015 1 ChrisUrmson_2015 805.08 806.44 <NA> <unk> and off we go <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 806.13 816.86 <NA> now as you can see we 've made some pretty exciting progress <unk> and at this point we 're pretty convinced this technology is going to come to market we do three million miles of testing in our simulators
+ChrisUrmson_2015 1 ChrisUrmson_2015 816.53 820.96 <NA> every single day so you can imagine the experience that our vehicles have 
+ChrisUrmson_2015 1 ChrisUrmson_2015 820.98 829.94 <NA> we are looking forward to having this technology on the road and we think the right path is to go through the <unk> self driving rather than driver assistance approach because the urgency is
+ChrisUrmson_2015 1 ChrisUrmson_2015 829.84 836.78 <NA> <unk> so large <unk> in the time i have given this talk today thirty four people have died on america 's roads 
+ChrisUrmson_2015 1 ChrisUrmson_2015 836.62 843.32 <NA> how soon can we bring it out well <unk> it 's hard to say because it 's a really complicated problem <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 842.83 849.87 <NA> but these are my two boys my oldest son is eleven <unk> and that means in four and a half years <unk> he 's going to be able to get his
+ChrisUrmson_2015 1 ChrisUrmson_2015 876.2 879.61 <NA> <unk> i mean there 's a real debate going on out there right now so some of the companies for example
+ChrisUrmson_2015 1 ChrisUrmson_2015 880.22 889.87 <NA> are going the <unk> driver assisted route what you 're saying is that that that 's kind of going to be a dead end because you can 't
+ChrisUrmson_2015 1 ChrisUrmson_2015 889.62 900.02 <NA> just keep improving that route and get to fully driverless at some point and then a driver is going to say this feels safe and climb into the back and something ugly will happen cu right
+ChrisUrmson_2015 1 ChrisUrmson_2015 900.07 903.02 <NA> <unk> that 's exactly right and it 's not to say that the the
+ChrisUrmson_2015 1 ChrisUrmson_2015 902.53 907.41 <NA> driver assistance systems aren 't going to be incredibly valuable <unk> they can save a lot of lives in the interim <unk> 
+ChrisUrmson_2015 1 ChrisUrmson_2015 907.41 920.3 <NA> but to see the transformative opportunity to help someone like steve get around to really get to the the end case in safety to have the opportunity to change our cities and move parking out and get rid of these urban craters we call parking lots
+ChrisUrmson_2015 1 ChrisUrmson_2015 919.87 921.42 <NA> <unk> it 's the only way to go

@@ -1,0 +1,120 @@
+RussAltman_2015P 1 RussAltman_2015P 12.61 20.64 <NA> <unk> so you go to the doctor and get some tests the doctor determines that you have high cholesterol and you would benefit
+RussAltman_2015P 1 RussAltman_2015P 20.64 29.85 <NA> from medication to treat it so you get a pillbox you have some confidence your physician has some confidence that this is going to work <unk> the company that
+RussAltman_2015P 1 RussAltman_2015P 29.78 41.67 <NA> <unk> invented it did a lot of studies submitted it to the fda they studied it very carefully skeptically they approved it they have a rough idea of how it works they have a rough idea of what the side effects are it should be ok <unk> 
+RussAltman_2015P 1 RussAltman_2015P 42.38 45.73 <NA> you have a little more of a conversation with your physician
+RussAltman_2015P 1 RussAltman_2015P 45.55 54.4 <NA> and the physician is a little worried because you 've been blue haven 't felt like yourself you haven 't been able to enjoy things in life quite as much as you usually do your physician says
+RussAltman_2015P 1 RussAltman_2015P 55.05 56.68 <NA> <unk> you have some depression i 'm
+RussAltman_2015P 1 RussAltman_2015P 57.27 60.55 <NA> going to have to give you another pill 
+RussAltman_2015P 1 RussAltman_2015P 60.45 66.37 <NA> so now we 're talking about two medications this pill also millions of people have taken it the
+RussAltman_2015P 1 RussAltman_2015P 66.37 70.57 <NA> company did studies <unk> the fda looked at it all good 
+RussAltman_2015P 1 RussAltman_2015P 70.23 75.08 <NA> think things should go ok think things should go ok <unk> 
+RussAltman_2015P 1 RussAltman_2015P 75.4 78.59 <NA> <unk> wait a minute how much have we studied
+RussAltman_2015P 1 RussAltman_2015P 78.61 88.04 <NA> these two together <unk> well <unk> it 's very hard to do that in fact it 's not traditionally done we totally depend on
+RussAltman_2015P 1 RussAltman_2015P 87.7 88.79 <NA> what we call <unk>
+RussAltman_2015P 1 RussAltman_2015P 90.57 92.64 <NA> after the drugs hit the market 
+RussAltman_2015P 1 RussAltman_2015P 92.4 99.47 <NA> how can we figure out if bad things are happening between two medications three <unk> five <unk> seven <unk> 
+RussAltman_2015P 1 RussAltman_2015P 99.46 103.62 <NA> ask your favorite person who has several diagnoses how many medications they 're on
+RussAltman_2015P 1 RussAltman_2015P 104.9 110.76 <NA> <unk> care about this problem i care about it deeply <unk> i 'm an informatics and data science guy and really in my
+RussAltman_2015P 1 RussAltman_2015P 110.57 118.31 <NA> opinion the only hope only hope to understand these interactions is to leverage lots of different sources of data
+RussAltman_2015P 1 RussAltman_2015P 118.15 124.2 <NA> in order to figure out when drugs can be used together safely and when it 's not so safe 
+RussAltman_2015P 1 RussAltman_2015P 124.1 129.37 <NA> so let me tell you a data science story <unk> and it begins with my student nick <unk> let 's call him
+RussAltman_2015P 1 RussAltman_2015P 130.08 131.53 <NA> <unk> because that 's his name 
+RussAltman_2015P 1 RussAltman_2015P 132.45 141.29 <NA> nick was a young student i said you know nick we have to understand how drugs work and how and how they work together and how they work separately and we don 't have a great understanding 
+RussAltman_2015P 1 RussAltman_2015P 141.24 146.3 <NA> <unk> but the fda has made available an amazing database it 's a database of adverse events <unk> 
+RussAltman_2015P 1 RussAltman_2015P 154.93 162.83 <NA> <unk> patients doctors companies pharmacists and these reports are pretty simple it has all the diseases that the patient has 
+RussAltman_2015P 1 RussAltman_2015P 162.83 175.02 <NA> all the drugs that they 're on and all the adverse events or side effects that they experience <unk> it is not all of the adverse events that are occurring in america today <unk> but it 's hundreds and hundreds of thousands of drugs <unk> so i said
+RussAltman_2015P 1 RussAltman_2015P 175.97 183.69 <NA> <unk> let 's think about glucose glucose is very important <unk> and we know it 's involved with diabetes <unk> let 's see if we can understand
+RussAltman_2015P 1 RussAltman_2015P 183.62 190.32 <NA> glucose response i sent nick off nick came back russ he said 
+RussAltman_2015P 1 RussAltman_2015P 189.86 197.52 <NA> i 've created a classifier that can look at the side effects of a drug based on looking at this database 
+RussAltman_2015P 1 RussAltman_2015P 197.06 204.97 <NA> and can tell you whether that drug is likely to change glucose or not he did it it was very simple in a way he took all the drugs that were
+RussAltman_2015P 1 RussAltman_2015P 204.93 211.78 <NA> <unk> known to change glucose and a bunch of drugs that don 't change glucose and said what 's the difference in their side effects 
+RussAltman_2015P 1 RussAltman_2015P 211.38 225.05 <NA> differences in fatigue in appetite in urination habits all those things conspired to give him a really good predictor he said russ i can predict with ninety three percent accuracy when a drug will change glucose i said nick that 's great he 's a young
+RussAltman_2015P 1 RussAltman_2015P 229.24 235.53 <NA> <unk> it 's that every physician in the world knows all the drugs that change glucose because it 's core to our practice 
+RussAltman_2015P 1 RussAltman_2015P 235.53 241.31 <NA> so it 's great <unk> good job but not really that interesting definitely not publishable 
+RussAltman_2015P 1 RussAltman_2015P 241.57 245.36 <NA> he said i know russ i thought you might say that nick is smart 
+RussAltman_2015P 1 RussAltman_2015P 245.65 254.34 <NA> i thought you might say that so i did one other experiment i looked at people in this database who were on two drugs and i looked for signals similar
+RussAltman_2015P 1 RussAltman_2015P 255.13 260.88 <NA> glucose changing signals for people taking two drugs <unk> where each drug alone
+RussAltman_2015P 1 RussAltman_2015P 261.26 265.99 <NA> did not change glucose <unk> but together i saw a strong signal and
+RussAltman_2015P 1 RussAltman_2015P 265.99 275.17 <NA> i said oh you 're clever good idea <unk> show me the list and there 's a bunch of drugs not very exciting <unk> but what caught my eye was on the list there were two drugs
+RussAltman_2015P 1 RussAltman_2015P 276.69 279.43 <NA> <unk> or paxil an antidepressant 
+RussAltman_2015P 1 RussAltman_2015P 279.27 283.72 <NA> and pravastatin or pravachol a cholesterol medication <unk> 
+RussAltman_2015P 1 RussAltman_2015P 283.41 285.55 <NA> and i said huh 
+RussAltman_2015P 1 RussAltman_2015P 285.24 298.75 <NA> there are millions of americans on those two drugs in fact we learned later fifteen million americans on paroxetine at the time <unk> fifteen million on pravastatin <unk> and a million we estimated on both so that
+RussAltman_2015P 1 RussAltman_2015P 298.29 304.79 <NA> 's a million people who might be having some problems with their glucose if this machine learning mumbo jumbo that he did in the
+RussAltman_2015P 1 RussAltman_2015P 305.04 306.86 <NA> fda database actually holds up <unk> 
+RussAltman_2015P 1 RussAltman_2015P 306.85 316.94 <NA> but i said it 's still not publishable because i love what you did with the mumbo jumbo with the machine learning but it 's not really <unk> standard of proof evidence that we have 
+RussAltman_2015P 1 RussAltman_2015P 317.29 325.17 <NA> so we have to do something else let 's go into the stanford electronic medical record we have a copy of it that 's ok for research we removed identifying
+RussAltman_2015P 1 RussAltman_2015P 326.87 331.02 <NA> <unk> let 's see if people on these two drugs have problems with their glucose 
+RussAltman_2015P 1 RussAltman_2015P 330.77 336.6 <NA> now there are thousands and thousands of people in the stanford medical records that take paroxetine and pravastatin
+RussAltman_2015P 1 RussAltman_2015P 336.29 341.26 <NA> <unk> but we needed special patients we needed patients who were on one of them
+RussAltman_2015P 1 RussAltman_2015P 341.04 350.14 <NA> and had a glucose measurement <unk> then got the second one and had another glucose measurement all within a reasonable period of time something like two months
+RussAltman_2015P 1 RussAltman_2015P 356.55 366.67 <NA> <unk> out of the ten had a bump in their glucose when they got the second p we call this p and p when they got the second p either one could be first the second one comes up glucose went up <unk>
+RussAltman_2015P 1 RussAltman_2015P 366.57 374.9 <NA> <unk> twenty milligrams per deciliter just as a reminder you walk around normally if you 're not diabetic with a glucose of around ninety <unk> and if it gets up to one hundred and twenty one hundred
+RussAltman_2015P 1 RussAltman_2015P 375.52 381.02 <NA> <unk> your doctor begins to think about a potential diagnosis of diabetes so a twenty bump
+RussAltman_2015P 1 RussAltman_2015P 380.71 384.98 <NA> pretty significant i said nick this is very cool <unk> 
+RussAltman_2015P 1 RussAltman_2015P 385.15 391.07 <NA> but i 'm sorry we still don 't have a paper because this is ten patients and give me a break it 's not enough patients 
+RussAltman_2015P 1 RussAltman_2015P 391 404.97 <NA> so we said what can we do and we said let 's call our friends at harvard and vanderbilt who also harvard in boston vanderbilt in nashville who also have electronic medical records similar to ours let 's see if they can find similar patients with the one p <unk> the other p
+RussAltman_2015P 1 RussAltman_2015P 405.04 408.45 <NA> the glucose measurements in that range that we need 
+RussAltman_2015P 1 RussAltman_2015P 408.26 415.11 <NA> god bless them vanderbilt in one week found forty such patients <unk> same trend <unk> 
+RussAltman_2015P 1 RussAltman_2015P 415.25 429.52 <NA> harvard found one hundred patients <unk> same trend <unk> so at the end we had one hundred and fifty patients from three diverse medical centers that were telling us that patients getting these two drugs were having their glucose bump somewhat significantly
+RussAltman_2015P 1 RussAltman_2015P 430.26 441.58 <NA> <unk> more interestingly we had left out diabetics because diabetics already have messed up glucose when we looked at the glucose of diabetics it was going up sixty milligrams per deciliter not just twenty 
+RussAltman_2015P 1 RussAltman_2015P 441.27 449.99 <NA> this was a big deal <unk> and we said we 've got to publish this we submitted the paper <unk> it was all data evidence data from the fda 
+RussAltman_2015P 1 RussAltman_2015P 450 455.72 <NA> data from stanford data from vanderbilt data from harvard we had not done a single real experiment <unk> 
+RussAltman_2015P 1 RussAltman_2015P 456.01 458 <NA> but we were nervous 
+RussAltman_2015P 1 RussAltman_2015P 457.69 465.74 <NA> so nick <unk> while the paper was in review went to the lab we found somebody who knew about lab stuff i don 't do that 
+RussAltman_2015P 1 RussAltman_2015P 465.37 468.56 <NA> i take care of patients but i don 't do pipettes
+RussAltman_2015P 1 RussAltman_2015P 468.46 472.85 <NA> <unk> they taught us how to feed mice drugs <unk> 
+RussAltman_2015P 1 RussAltman_2015P 472.36 479.34 <NA> we took mice and we gave them one p paroxetine we gave some other mice pravastatin <unk> and we gave a third group of mice
+RussAltman_2015P 1 RussAltman_2015P 480.35 481.92 <NA> both of them 
+RussAltman_2015P 1 RussAltman_2015P 481.46 486.79 <NA> and lo and behold glucose went up twenty to sixty milligrams per deciliter in the mice 
+RussAltman_2015P 1 RussAltman_2015P 486.79 493.77 <NA> so the paper was accepted based on the informatics evidence alone <unk> but we added a little note at the end saying oh by the way if you give these to mice it
+RussAltman_2015P 1 RussAltman_2015P 493.43 499.41 <NA> goes up that was great <unk> and the story could have ended there <unk> but i still have six and a half minutes 
+RussAltman_2015P 1 RussAltman_2015P 501.86 504.97 <NA> so we were sitting around thinking about all of this
+RussAltman_2015P 1 RussAltman_2015P 505.14 511.04 <NA> and i don 't remember who thought of it but somebody said i wonder if patients who are taking these two drugs
+RussAltman_2015P 1 RussAltman_2015P 510.83 518.77 <NA> are noticing side effects of hyperglycemia <unk> they could and they should how would we ever determine that 
+RussAltman_2015P 1 RussAltman_2015P 519.06 524.99 <NA> we said well <unk> what do you do you 're taking a medication one new medication or two and you get a funny feeling
+RussAltman_2015P 1 RussAltman_2015P 525.13 534.14 <NA> <unk> what do you do you go to google and type in the two drugs you 're taking or the one drug you 're taking and you type in side effects what are you experiencing <unk> 
+RussAltman_2015P 1 RussAltman_2015P 533.77 542.78 <NA> so we said ok <unk> let 's ask google if they will share their search logs with us so that we can look at the search logs and see if patients are doing these kinds of searches 
+RussAltman_2015P 1 RussAltman_2015P 542.32 546.74 <NA> google i am sorry to say denied our request <unk> 
+RussAltman_2015P 1 RussAltman_2015P 546.31 554.25 <NA> so i was bummed <unk> i was at a at a dinner with a colleague who works at microsoft research and i said we wanted to do this study google said no it 's kind of a bummer
+RussAltman_2015P 1 RussAltman_2015P 554.87 556.74 <NA> <unk> have the bing searches 
+RussAltman_2015P 1 RussAltman_2015P 562.31 563.91 <NA> yeah 
+RussAltman_2015P 1 RussAltman_2015P 563.75 566.46 <NA> that 's great now i felt like i was 
+RussAltman_2015P 1 RussAltman_2015P 566.96 574.86 <NA> i felt like i was talking to nick again he works for one of the largest companies in the world and i 'm already trying to make him feel better <unk> 
+RussAltman_2015P 1 RussAltman_2015P 576.12 579.22 <NA> <unk> you might not understand we not only have bing searches but if you use
+RussAltman_2015P 1 RussAltman_2015P 579.05 588.03 <NA> internet explorer to do searches at google yahoo bing any <unk> then for eighteen months we keep that data for research purposes only 
+RussAltman_2015P 1 RussAltman_2015P 588.04 590.15 <NA> i said now you 're talking 
+RussAltman_2015P 1 RussAltman_2015P 589.7 592.27 <NA> this was eric horvitz my friend at microsoft <unk> 
+RussAltman_2015P 1 RussAltman_2015P 592.27 600.17 <NA> so we did a study where we defined fifty words that a regular person might type in if they 're having hyperglycemia
+RussAltman_2015P 1 RussAltman_2015P 604.36 610.79 <NA> <unk> peeing a lot forgive me but that 's one of the things you might type in so we had fifty phrases that we called the diabetes words 
+RussAltman_2015P 1 RussAltman_2015P 610.33 620.27 <NA> and we did first a baseline and it turns out that about <unk> 5 to one percent of all searches on the internet involve one of those words so that 's our baseline rate 
+RussAltman_2015P 1 RussAltman_2015P 619.84 627.98 <NA> if people type in paroxetine or paxil those are synonyms and one of those words <unk> the rate goes up to about two percent
+RussAltman_2015P 1 RussAltman_2015P 627.89 628.89 <NA> of
+RussAltman_2015P 1 RussAltman_2015P 629.95 639.03 <NA> diabetes type words if you already know that there 's that paroxetine word if it 's pravastatin the rate goes up to about three percent from the baseline 
+RussAltman_2015P 1 RussAltman_2015P 638.69 648.76 <NA> if both paroxetine and pravastatin are present in the query <unk> it goes up to ten percent a huge three to four fold increase
+RussAltman_2015P 1 RussAltman_2015P 648.6 652.39 <NA> in those searches with the two drugs that we were interested in and
+RussAltman_2015P 1 RussAltman_2015P 655.73 666.07 <NA> we published this and it got some attention the reason it deserves attention is that patients are telling us their side effects indirectly through their searches <unk>
+RussAltman_2015P 1 RussAltman_2015P 666.02 675.23 <NA> <unk> we brought this to the attention of the fda they were interested <unk> they have set up social media surveillance programs to collaborate with microsoft
+RussAltman_2015P 1 RussAltman_2015P 675 688.88 <NA> which had a nice infrastructure for doing this and others to look at twitter feeds to look at facebook feeds to look at search logs to try to see early signs that drugs <unk> either individually or together are causing problems
+RussAltman_2015P 1 RussAltman_2015P 688.39 692.15 <NA> what do i take from this why tell this story well first of all 
+RussAltman_2015P 1 RussAltman_2015P 691.66 699.99 <NA> we have now the promise of big data and medium sized data to help us understand drug interactions and really 
+RussAltman_2015P 1 RussAltman_2015P 702.08 709.62 <NA> <unk> drugs work this will create and has created a new ecosystem for understanding how drugs work and to optimize their use 
+RussAltman_2015P 1 RussAltman_2015P 709.79 724.35 <NA> nick went on he 's a professor at columbia now he did this in his phd for hundreds of pairs of drugs he found several very important interactions and so we replicated this and we showed that this is a way that really works for finding <unk>
+RussAltman_2015P 1 RussAltman_2015P 726.6 735.79 <NA> <unk> there 's a couple of things we don 't just use pairs of drugs at a time as i said before there are patients on three <unk> five <unk> seven <unk> nine drugs 
+RussAltman_2015P 1 RussAltman_2015P 735.56 748.03 <NA> have they been studied with respect to their nine way interaction yes we can do pair wise a and b a and c a and d <unk> but what about a b c d e f g all together <unk> 
+RussAltman_2015P 1 RussAltman_2015P 748.03 754.97 <NA> being taken by the same patient perhaps interacting with each other in ways that either makes them more effective or less
+RussAltman_2015P 1 RussAltman_2015P 755.05 766.62 <NA> <unk> effective or causes side effects that are unexpected we really have no idea <unk> it 's a blue sky <unk> open field for us to use data to try to understand the interaction of drugs 
+RussAltman_2015P 1 RussAltman_2015P 766.62 772.5 <NA> two more lessons i want you to think about the power that we were able to generate
+RussAltman_2015P 1 RussAltman_2015P 772.26 775.02 <NA> with the data from people who had
+RussAltman_2015P 1 RussAltman_2015P 775 779.88 <NA> <unk> volunteered their adverse reactions through their pharmacists through themselves through their doctors 
+RussAltman_2015P 1 RussAltman_2015P 779.71 785.75 <NA> the people who allowed the databases at stanford harvard vanderbilt to be used for research 
+RussAltman_2015P 1 RussAltman_2015P 785.76 798.04 <NA> people are worried about data they 're worried about their privacy and security they should be we need secure systems <unk> but we can 't have a system that closes that data off <unk> because it is too rich of a source
+RussAltman_2015P 1 RussAltman_2015P 797.86 799.02 <NA> of
+RussAltman_2015P 1 RussAltman_2015P 798.95 803.26 <NA> inspiration innovation and discovery for new things in medicine
+RussAltman_2015P 1 RussAltman_2015P 805.02 815.65 <NA> <unk> thing i want to say is in this case we found two drugs and it was a little bit of a sad story the two drugs actually caused problems they increased glucose <unk> they could throw somebody into diabetes <unk>
+RussAltman_2015P 1 RussAltman_2015P 815.55 824.66 <NA> <unk> who would otherwise not be in diabetes and so you would want to use the two drugs very carefully together perhaps not together make different choices when you 're prescribing <unk> 
+RussAltman_2015P 1 RussAltman_2015P 829.96 831.33 <NA> <unk> a beneficial way <unk> 
+RussAltman_2015P 1 RussAltman_2015P 831.09 841.49 <NA> we could have found new effects of drugs that neither of them has alone <unk> but together instead of causing a side effect <unk> they could be a new and novel treatment <unk>
+RussAltman_2015P 1 RussAltman_2015P 841.44 847.86 <NA> for diseases that don 't have treatments or where the treatments are not effective if we think about drug treatment today 
+RussAltman_2015P 1 RussAltman_2015P 850.52 860.88 <NA> <unk> for tuberculosis for depression for diabetes it 's always a cocktail of drugs and so the upside here <unk> and the subject for a different ted talk on a different <unk>
+RussAltman_2015P 1 RussAltman_2015P 860.78 869.83 <NA> <unk> day is how can we use the same data sources to find good effects of drugs in combination that will provide us new treatments 

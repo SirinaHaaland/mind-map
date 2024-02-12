@@ -1,0 +1,78 @@
+  if you remember that first decade of the web it was really a static place you could go online you could look at pages  
+ and they were put up either by organizations who had teams to do it or by individuals who were really
+  for the time 
+ and with the rise of social media and social networks in the early 2000s the web was completely changed to a place where now the vast majority of 
+  content we interact with is put up by average users either in youtube videos or blog posts or product reviews or social media postings  
+  is not the only place you can do this but it 's the biggest and it serves to illustrate the numbers 
+ facebook has one point two billion users per month so half the earth 's internet population is using facebook they are a site  along with others that has allowed people 
+  to create an online persona with very little technical skill and people responded by putting huge amounts of personal data online  
+  preference demographic data for hundreds of millions of people  which is unprecedented in history and as a computer scientist what this means is that i 've been able to build models 
+  that can predict all sorts of hidden attributes for all of you that you don 't even know you 're sharing information about 
+  there 's a problem in that users don 't really understand these techniques and how they work  and even if they did they don 't have a lot of control over it  
+ so what i want to talk to you about today is some of these things that we 're able to do  and then give us some ideas of how we might go forward to move some control back into the hands of users  
+ so this is target the company i didn 't just put that logo on this poor pregnant woman 's belly you may have seen this anecdote that was printed in forbes magazine
+  where target sent a flyer to this 15 year old girl with advertisements and coupons for baby bottles and diapers and cribs two weeks before she told her parents that she was pregnant 
+ yeah the dad was really upset he said 
+ how did target figure out that this high school girl was pregnant before she told her parents 
+ it turns out that they have the purchase history for hundreds of thousands of customers
+  they compute what they call a pregnancy score  which is not just whether or not a woman 's pregnant but what her due date is 
+ and they compute that not by looking at the obvious things like she 's buying a crib or baby clothes  
+ but things like she bought more vitamins than she normally had or she bought a handbag that 's big enough to hold diapers 
+ and by themselves those purchases don 't seem like they might reveal a lot but it 's
+  pattern of behavior that when you take it in the context of thousands of other people starts to actually reveal some insights  
+ so that 's the kind of thing that we do when we 're predicting stuff about you on social media we 're looking for little patterns of behavior that when you detect them among millions of people lets us find out all kinds of things  
+ so in my lab and with colleagues we 've developed mechanisms where we can quite accurately predict things like your
+  political preference your personality score  gender  sexual orientation  religion age intelligence  along with things like how much you trust the people you know and how strong those relationships are we can do all of this really well 
+ and again it doesn 't come from what you might think of as obvious information 
+ so my favorite example is from this study that was published this year in the proceedings of the national academies if you google
+  this you 'll find it it 's four pages  easy to read  
+ and they looked at just people 's facebook likes  so just the things you like on facebook and used that to predict all these attributes along with some other ones 
+ and in their paper they listed the five likes that were most indicative of high intelligence
+ and among those was liking a page for curly
+  curly fries are delicious
+ but liking them does not necessarily mean that you 're smarter than the average person 
+ so how is it that one of the strongest indicators of your intelligence is liking this page when the content is totally irrelevant to the attribute that 's being predicted
+  and it turns out that we have to look at a whole bunch of underlying theories to see why we 're able to do this 
+ one of them is a sociological theory called homophily which basically says people are friends with people like them  so if you 're smart you tend to be friends with smart people and if you 're young you tend to be friends with young people and this is well established for hundreds of years  
+ we also know a lot about how information spreads through networks  
+ it turns out things like viral videos or facebook likes or other information spreads in exactly the same way that diseases spread through
+  so this is something we 've studied for a long time we have good models of it  and so you can put those things together and start seeing why things like this happen  
+ so if i were to give you a hypothesis it would be that
+ a smart guy started this page or maybe one of the first people who liked it would have scored high on that test  
+ and they liked it and their friends saw it  and by homophily we know that he probably had smart friends  and so it spread to
+  some of them liked it  and they had smart friends and so it spread to them and so it propagated through the network
+ to a host of smart people  so that by the end the action of liking the curly fries page
+ is indicative of high intelligence not because of the content but because the actual action of liking reflects back the common attributes of other people who have done it
+  so this is pretty complicated stuff right it 's a hard thing to sit down and explain to an average user
+  and even if you do what can the average user do about it 
+ how do you know that you 've liked something that indicates a trait for you that 's totally irrelevant to the content of what you 've liked 
+ there 's a lot of power that users don 't have to control how this data is used  and i see that as a real problem going forward  
+ so i think there 's a couple paths that we want to look at if we want to give users some control over how this data is used
+  because it 's not always going to be used for their benefit 
+ an example i often give is that if i ever get bored being a professor i 'm going to go start a company that predicts all of these attributes and things like how well you work in teams and if you 're a drug user if you 're an alcoholic we know how to predict all that 
+ and i 'm going to sell reports to h r companies and big businesses that want to hire you 
+ we totally can do that now i could start that business tomorrow and you would
+  have absolutely no control over me using your data like that that seems to me to be a problem so one of the paths we can go down
+ is the policy and law path and in some respects i think that that would be most effective but the problem is we 'd actually have to do it
+  observing our political process in action makes me think it 's highly
+  that we 're going to get a bunch of representatives to sit down learn about this and then enact sweeping changes to intellectual property law in the u s so users control their data 
+ we could go the policy route where social media companies say you know what you own your data you have total control over how it 's used 
+ the problem is that the revenue models for most social media companies rely on sharing or exploiting users ' data in some way 
+ it 's sometimes said of facebook that the users aren 't the customer
+  so how do you get a company to cede control of their main asset back to the users it 's possible but i don 't think it 's something that we 're going to see change quickly  
+ so i think the other path that we can go down that 's going to be more effective is one of more science it
+ 's doing science that allowed us to develop all these mechanisms for computing this personal data in the first place  and it 's actually very similar research that we 'd have to do
+ if we want to develop mechanisms that can say to a user here 's the risk of that action you just took  by liking that facebook page or by sharing this piece of personal 
+  information you 've now improved my ability to predict whether or not you 're using drugs or whether or not you get along well in the workplace 
+  share something keep it private or just keep it offline altogether we can also look at things like
+ allowing people to encrypt data that they upload so it 's kind of invisible and worthless to sites like facebook or third party services that access it  
+ but that select users who the the person who posted it want to see it have access to see it 
+ this is all super exciting research from an intellectual perspective and so scientists are going to be willing to do it so that gives us an advantage over the law side
+  one of the
+  problems that people bring up when i talk about this is they say you know if people start keeping all this data private all those methods that you 've been developing to predict their traits are going to fail  
+ and i say  absolutely and for me that 's success because as a scientist my goal is not to infer information about users it 's to improve the way people interact online  
+ and sometimes that involves inferring things about them
+  but if users don 't want me to use that data i think they should have the right to do that i want users to be informed and consenting users of the tools that we develop  
+ and so i think encouraging this kind of science and supporting researchers who want to cede some of that control back to users and away from the social media companies
+ means that going forward as these tools evolve and advance means that we 're going to have an educated
+  and empowered user base  and i think all of us can agree that that 's a pretty ideal way to go forward  thank you
