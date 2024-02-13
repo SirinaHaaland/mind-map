@@ -69,7 +69,7 @@ def save_cluster_stm_files(stm_transcripts, cluster_labels, output_directory):
 # Main function
 def main():
     # Directory containing STM files
-    directory = 'cleaned_Devtranscripts'
+    directory = 'cleaned_transcripts'
 
     # Output directory for cluster STM files
     output_directory = 'cluster_stm_files'
@@ -88,9 +88,7 @@ def main():
 
     # Determine the optimal number of clusters using the elbow method
     model = KMeans()
-    # Adjust the range of cluster numbers based on the number of samples
-    num_samples = len(stm_transcripts)
-    visualizer = KElbowVisualizer(model, k=(2, min(2*num_samples, 800)))
+    visualizer = KElbowVisualizer(model, k=(2,2300))
     visualizer.fit(document_embeddings)
     visualizer.show()
     
@@ -105,6 +103,7 @@ def main():
     save_cluster_stm_files(stm_transcripts, cluster_labels, output_directory)
 
     print("Cluster STM files saved successfully.")
+
 
 if __name__ == "__main__":
     main()
