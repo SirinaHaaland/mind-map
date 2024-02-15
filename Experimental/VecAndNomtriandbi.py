@@ -50,18 +50,15 @@ def main():
     # Perform TF-IDF vectorization and normalization for bigram files
     for bigram_filename, bigram_content in bigram_files.items():
         vectorized_normalized_data = tfidf_vectorize_normalize(bigram_content)
-        bow_filename = bigram_filename.replace('bigrams.txt', 'bow_matrix.txt')
         np.savetxt(os.path.join(output_directory, bigram_filename), vectorized_normalized_data, delimiter=',')
-        shutil.copy(os.path.join(input_directory, bow_filename), output_directory)
 
     # Perform TF-IDF vectorization and normalization for trigram files
     for trigram_filename, trigram_content in trigram_files.items():
         vectorized_normalized_data = tfidf_vectorize_normalize(trigram_content)
-        bow_filename = trigram_filename.replace('trigrams.txt', 'bow_matrix.txt')
         np.savetxt(os.path.join(output_directory, trigram_filename), vectorized_normalized_data, delimiter=',')
-        shutil.copy(os.path.join(input_directory, bow_filename), output_directory)
 
     print("TF-IDF vectorization and normalization completed. Files saved in the output directory.")
 
 if __name__ == "__main__":
     main()
+

@@ -2,11 +2,11 @@ import os
 import numpy as np
 from sklearn.decomposition import PCA
 
-# Function to read n-gram files and BoW files
+# Function to read tri and bi files
 def read_files(directory):
     files_data = {}
     for filename in os.listdir(directory):
-        if filename.endswith('.txt'):
+        if filename.endswith('trigrams.txt') or filename.endswith('bigrams.txt'):
             file_path = os.path.join(directory, filename)
             with open(file_path, 'r', encoding='utf-8') as file:
                 file_content = file.readlines()
@@ -37,18 +37,18 @@ def perform_pca(data, n_components=2):
 
 # Main function
 def main():
-    # Directory containing n-gram and BoW files
-    directory = 'ngram_bow_files'
+    # Directory containing tri and bi files
+    directory = 'combined_files'
 
     # Output directory for dimensionality-reduced files
     output_directory = 'dimensionality_reduced_files'
     os.makedirs(output_directory, exist_ok=True)
 
-    # Read n-gram and BoW files
+    # Read tri and bi files
     files_data = read_files(directory)
 
     if not files_data:
-        print("No n-gram and BoW files found in the directory.")
+        print("No tri and bi files found in the directory.")
         return
 
     # Perform PCA dimensionality reduction for each file

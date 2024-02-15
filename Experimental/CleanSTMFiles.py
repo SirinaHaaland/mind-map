@@ -34,8 +34,8 @@ def clean_and_save_files(input_folder_path, output_folder_path):
             output_file.write(content)
 
 def main():
-    input_folder_path = "Stranscripts"
-    output_folder_path = "cleaned_Stranscripts"
+    input_folder_path = "transcripts"
+    output_folder_path = "cleaned_transcripts"
 
     clean_and_save_files(input_folder_path, output_folder_path)
 

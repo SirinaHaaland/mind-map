@@ -1,7 +1,6 @@
 import os
 import shutil
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
@@ -15,78 +14,99 @@ def read_stm_files(directory):
                 stm_data[filename] = file.read()
     return stm_data
 
-# Function to read BoW files
-def read_bow_files(directory):
-    bow_data = {}
-    for filename in os.listdir(directory):
-        if filename.endswith('bow_matrix.txt'):
-            file_path = os.path.join(directory, filename)
-            with open(file_path, 'r', encoding='utf-8') as file:
-                bow_data[filename] = file.read()
-    return bow_data
-
 # Function to read n-gram (bigram/trigram) files
 def read_ngram_files(directory):
     ngram_data = {}
     for filename in os.listdir(directory):
-        if filename.endswith('bigrams.txt') or filename.endswith('trigrams.txt'):
+        if filename.endswith('pca.txt'):
             file_path = os.path.join(directory, filename)
             with open(file_path, 'r', encoding='utf-8') as file:
-                ngram_data[filename] = file.read()
+                content = file.read().strip()
+                if content:
+                    try:
+                        # Convert the string content to a 2D array
+                        ngram_data[filename] = np.loadtxt(file_path, delimiter=',')
+                    except ValueError:
+                        print(f"Error: Invalid data in file {filename}. Skipping.")
+                else:
+                    print(f"Error: Empty file {filename}. Skipping.")
     return ngram_data
 
-# Main clustering function
-def cluster_transcripts(tfidf_matrix, bow_matrix, ngram_matrix, stm_data):
-    # Combine TF-IDF matrix with BoW, bigram, and trigram data
-    combined_matrix = np.hstack((tfidf_matrix.toarray(), bow_matrix.toarray(), ngram_matrix.toarray()))
+def find_optimal_clusters(data, max_clusters=10):
+    silhouette_scores = []
+    for i in range(2, max_clusters + 1):
+        kmeans = KMeans(n_clusters=i, random_state=42)
+        cluster_labels = kmeans.fit_predict(data)
+        silhouette_avg = silhouette_score(data, cluster_labels)
+        silhouette_scores.append(silhouette_avg)
+    optimal_num_clusters = silhouette_scores.index(max(silhouette_scores)) + 2  # Add 2 to account for starting cluster number at 2
+    return optimal_num_clusters
 
-    # Choose the number of clusters (you may need to experiment with this)
-    num_clusters = 5
+def pad_matrices(matrices):
+    max_rows = max(matrix.shape[0] for matrix in matrices)
+    padded_matrices = [np.pad(matrix, ((0, max_rows - matrix.shape[0]), (0, 0)), mode='constant') for matrix in matrices]
+    return padded_matrices
+
+def cluster_transcripts(ngram_data, stm_data, num_clusters):
+    # Check if ngram_data is empty
+    if not ngram_data:
+        print("Error: No n-gram data found.")
+        return
+
+    # Convert n-gram data to a list of arrays
+    ngram_matrices = [matrix for matrix in ngram_data.values()]
+
+    # Check if any ngram_matrices are empty
+    if not ngram_matrices:
+        print("Error: No valid n-gram matrices found.")
+        return
+
+    # Pad matrices to have the same number of rows
+    padded_matrices = pad_matrices(ngram_matrices)
+
+    # Combine bigram and trigram data
+    combined_matrix = np.hstack(padded_matrices)
 
     # Apply K-means clustering
     kmeans = KMeans(n_clusters=num_clusters, random_state=42)
     cluster_labels = kmeans.fit_predict(combined_matrix)
 
-    # Evaluate clustering using silhouette score
-    silhouette_avg = silhouette_score(combined_matrix, cluster_labels)
-    print(f"Silhouette Score: {silhouette_avg}")
+    # Create a directory named _Cluster if it doesn't exist
+    cluster_directory = '_Cluster'
+    os.makedirs(cluster_directory, exist_ok=True)
 
-    # Create cluster folders
-    for i in range(num_clusters):
-        os.makedirs(f'cluster_{i}', exist_ok=True)
-
-    # Move transcripts to cluster folders based on clustering results
+    # copy transcripts to cluster folders based on clustering results
+    total_stm_files = 0
     for filename, cluster_label in zip(stm_data.keys(), cluster_labels):
-        shutil.move(filename, f'cluster_{cluster_label}/{filename}')
+        src_path = os.path.join(stm_directory, filename)
+        dst_directory = os.path.join(cluster_directory, f'cluster_{cluster_label}')
+        os.makedirs(dst_directory, exist_ok=True)
+        dst_path = os.path.join(dst_directory, filename)
+        shutil.copy(src_path, dst_path)
+        total_stm_files += 1
 
+    print(f"Total .stm files placed in clusters: {total_stm_files}")
     print("Clustering completed.")
 
 if __name__ == "__main__":
-    # Directories containing all clean STM files, BoW files, and n-gram files
-    stm_directory = 'clean_stm_files'
-    ngram_directory = 'ngram_bow_files'
-    bow_directory = 'bow_files'
+    # Directories containing all clean STM files and n-gram (bigram/trigram) files
+    stm_directory = 'cleaned_transcripts'
+    bigram_trigram_directory = 'dimensionality_reduced_files'
 
     # Read clean STM data
     stm_data = read_stm_files(stm_directory)
 
-    # Read BoW data
-    bow_data = read_bow_files(bow_directory)
+    # Read bigram and trigram files
+    ngram_data = read_ngram_files(bigram_trigram_directory)
 
-    # Read n-gram (bigram/trigram) data
-    ngram_data = read_ngram_files(ngram_directory)
+    # Pad n-gram matrices without removing the analysis with elbow
+    padded_matrices = pad_matrices([matrix for matrix in ngram_data.values()])
 
-    # Vectorize STM data using TF-IDF
-    tfidf_vectorizer = TfidfVectorizer()
-    tfidf_matrix = tfidf_vectorizer.fit_transform(stm_data.values())
+    # Combine bigram and trigram data
+    combined_matrix = np.hstack(padded_matrices)
 
-    # Vectorize BoW data using TF-IDF
-    bow_vectorizer = TfidfVectorizer()
-    bow_matrix = bow_vectorizer.fit_transform(bow_data.values())
-
-    # Vectorize n-gram data using TF-IDF
-    ngram_vectorizer = TfidfVectorizer()
-    ngram_matrix = ngram_vectorizer.fit_transform(ngram_data.values())
+    # Find optimal number of clusters using silhouette analysis
+    num_clusters = find_optimal_clusters(combined_matrix)
 
     # Cluster transcripts
-    cluster_transcripts(tfidf_matrix, bow_matrix, ngram_matrix, stm_data)
+    cluster_transcripts(ngram_data, stm_data, num_clusters)

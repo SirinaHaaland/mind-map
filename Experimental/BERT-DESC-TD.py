@@ -1,23 +1,27 @@
 import os
 import torch
 from transformers import BertModel, BertTokenizer
-import nltk
 import numpy as np
 from sklearn.cluster import KMeans
 from yellowbrick.cluster import KElbowVisualizer
 
-nltk.download('wordnet')
-
-# Function to read STM files from a directory
-def read_stm_files(directory):
-    stm_files = []
+# Function to read bigram or trigram files
+def read_ngram_files(directory):
+    ngram_data = {}
     for filename in os.listdir(directory):
-        if filename.endswith('.stm'):
+        if filename.endswith('pca.txt'):
             file_path = os.path.join(directory, filename)
             with open(file_path, 'r', encoding='utf-8') as file:
-                stm_content = file.read()
-                stm_files.append(stm_content)
-    return stm_files
+                content = file.read().strip()
+                if content:
+                    try:
+                        # Convert the string content to a 2D array
+                        ngram_data[filename] = np.loadtxt(file_path, delimiter=',')
+                    except ValueError:
+                        print(f"Error: Invalid data in file {filename}. Skipping.")
+                else:
+                    print(f"Error: Empty file {filename}. Skipping.")
+    return ngram_data
 
 # Function to preprocess transcripts and generate document embeddings
 def preprocess_and_embed(transcripts):
@@ -25,32 +29,31 @@ def preprocess_and_embed(transcripts):
     tokenizer = BertTokenizer.from_pretrained(model_name)
     bert_model = BertModel.from_pretrained(model_name)
 
+    max_length = 512  # Maximum length for BERT input
+    
     document_embeddings = []
     for transcript in transcripts:
         # Tokenize the transcript
         tokenized_transcript = tokenizer.tokenize(transcript)
         
-        # Split the transcript into chunks of maximum length
-        max_length = tokenizer.model_max_length
-        chunked_transcript = [tokenized_transcript[i:i + max_length] for i in range(0, len(tokenized_transcript), max_length)]
-
-        # Generate embeddings for each chunk
-        chunk_embeddings = []
-        for chunk in chunked_transcript:
-            input_ids = torch.tensor(tokenizer.convert_tokens_to_ids(chunk)).unsqueeze(0)
-            with torch.no_grad():
-                outputs = bert_model(input_ids)
-                last_hidden_states = outputs.last_hidden_state
-            chunk_embeddings.append(last_hidden_states.mean(dim=1).squeeze().numpy())
+        # Truncate or pad tokenized transcript to max_length
+        tokenized_transcript = tokenized_transcript[:max_length] + ['[PAD]'] * (max_length - len(tokenized_transcript))
         
-        # Combine embeddings of chunks
-        document_embeddings.append(np.mean(chunk_embeddings, axis=0))
+        input_ids = torch.tensor(tokenizer.convert_tokens_to_ids(tokenized_transcript)).unsqueeze(0)
+        with torch.no_grad():
+            outputs = bert_model(input_ids)
+            last_hidden_states = outputs.last_hidden_state
+        
+        # Get embedding for the first token (CLS token)
+        document_embedding = last_hidden_states[:, 0, :].squeeze().numpy()
+        document_embeddings.append(document_embedding)
     
     return document_embeddings
 
+
 # Function to perform clustering and assign topics
-def perform_clustering(document_embeddings, num_topics=5):
-    kmeans = KMeans(n_clusters=num_topics)
+def perform_clustering(document_embeddings, num_clusters):
+    kmeans = KMeans(n_clusters=num_clusters)
     cluster_labels = kmeans.fit_predict(document_embeddings)
     return cluster_labels
 
@@ -68,27 +71,30 @@ def save_cluster_stm_files(stm_transcripts, cluster_labels, output_directory):
 
 # Main function
 def main():
-    # Directory containing STM files
-    directory = 'cleaned_transcripts'
+    # Directories containing bigram and trigram files
+    bigram_trigram_directory = 'dimensionality_reduced_files'
 
     # Output directory for cluster STM files
     output_directory = 'cluster_stm_files'
     os.makedirs(output_directory, exist_ok=True)
 
-    # Read all STM files from the directory
-    stm_transcripts = read_stm_files(directory)
+    # Read bigram and trigram files
+    ngram_data = read_ngram_files(bigram_trigram_directory)
 
-    if not stm_transcripts:
-        print("No STM files found in the directory.")
+    # Extract transcripts corresponding to the bigram and trigram files
+    transcripts = [filename.split('_')[0] + '.stm' for filename in ngram_data.keys()]
+
+    if not transcripts:
+        print("No transcripts found corresponding to the bigram and trigram files.")
         return
 
     # Preprocess and generate document embeddings
-    document_embeddings = preprocess_and_embed(stm_transcripts)
+    document_embeddings = preprocess_and_embed(transcripts)
     document_embeddings = np.array(document_embeddings)  # Convert to numpy array
 
     # Determine the optimal number of clusters using the elbow method
     model = KMeans()
-    visualizer = KElbowVisualizer(model, k=(2,2300))
+    visualizer = KElbowVisualizer(model, k=(2, 2350))
     visualizer.fit(document_embeddings)
     visualizer.show()
     
@@ -100,7 +106,7 @@ def main():
     cluster_labels = perform_clustering(document_embeddings, num_clusters)
 
     # Save transcripts belonging to the same cluster in a single STM file
-    save_cluster_stm_files(stm_transcripts, cluster_labels, output_directory)
+    save_cluster_stm_files(transcripts, cluster_labels, output_directory)
 
     print("Cluster STM files saved successfully.")
 
