@@ -16,7 +16,7 @@ def minimal_preprocess(text):
     cleaned_text = re.sub('[^A-Za-z]+', ' ', cleaned_text).lower()
     return cleaned_text
 
-def preprocess_and_tokenize(directory):
+def preprocess(directory):
     # Load and preprocess transcripts
     processed_texts = []
     file_names = []
@@ -32,7 +32,7 @@ def preprocess_and_tokenize(directory):
 
 if __name__ == '__main__':
     directory = '../data/TEDLIUM_release-3/TEDLIUM_release-3/data/stm'
-    transcripts, file_names = preprocess_and_tokenize(directory)
+    transcripts, file_names = preprocess(directory)
 
     # Initialize BERTopic
     topic_model = BERTopic(language="english", calculate_probabilities=False, verbose=True)
