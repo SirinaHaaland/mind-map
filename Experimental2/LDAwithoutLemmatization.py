@@ -35,8 +35,7 @@ def preprocess(tokens, bigram_model):
     # Continue with your preprocessing (stopwords removal, lemmatization, etc.)
     with open('stopwords.txt', 'r', encoding='utf-8') as file:
         stop_words = set(file.read().splitlines())
-    lemmatizer = WordNetLemmatizer()
-    processed_tokens = [lemmatizer.lemmatize(w) for w in tokens_with_phrases if w not in stop_words]
+    processed_tokens = [w for w in tokens_with_phrases if w not in stop_words]
     return processed_tokens
 
 def load_and_preprocess_transcripts(directory):

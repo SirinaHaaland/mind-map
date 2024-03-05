@@ -4,116 +4,81 @@ import json
 from gensim import corpora, models
 import gensim
 import nltk
-from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from gensim.models.coherencemodel import CoherenceModel
-from gensim.models import Phrases, Phraser, TfidfModel
-
+from gensim.models import Phrases
+from gensim.models.phrases import Phraser
 """
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 """
-def preprocess(text):
-    # Split text into lines and process each line to remove unwanted content
-    lines = text.split('\n')
-    processed_lines = []
-    for line in lines:
-        # Remove content before <NA> and <NA> itself
-        cleaned_line = re.sub(r'.*<NA>\s?', '', line)
-        # Further processing (removing non-alphabetic characters, tokenizing, etc.)
-        cleaned_line = re.sub(r'\b\w{1,3}\b', '', cleaned_line)
-        cleaned_line = re.sub('[^A-Za-z]+', ' ', cleaned_line)
-        tokens = word_tokenize(cleaned_line.lower())
-        stop_words = set(stopwords.words('english'))
-        lemmatizer = WordNetLemmatizer()
-        processed_tokens = [lemmatizer.lemmatize(w) for w in tokens if w not in stop_words]
-        processed_lines.extend(processed_tokens)
-    return processed_lines
+def minimal_preprocess(text):
+    # Basic cleaning and tokenization for phrase detection
+    cleaned_text = re.sub(r'.*<NA>\s?', '', text)
+    cleaned_text = re.sub('<unk>', ' ', cleaned_text)
+    cleaned_text = re.sub(r'\b\w{1,2}\b', '', cleaned_text)
+    cleaned_text = re.sub('[^A-Za-z]+', ' ', cleaned_text)
+    tokens = word_tokenize(cleaned_text.lower())
+    return tokens
+
+def train_phrases(transcripts):
+    # Train the Phrases model to detect common phrases (bigrams or more)
+    phrases = Phrases(transcripts, min_count=5, threshold=10)
+    bigram = Phraser(phrases)
+    return bigram
+
+def preprocess(tokens, bigram_model):
+    # Apply the Phrases model to merge detected phrases into single tokens
+    tokens_with_phrases = bigram_model[tokens]
+    # Continue with your preprocessing (stopwords removal, lemmatization, etc.)
+    with open('stopwords.txt', 'r', encoding='utf-8') as file:
+        stop_words = set(file.read().splitlines())
+    lemmatizer = WordNetLemmatizer()
+    processed_tokens = [lemmatizer.lemmatize(w) for w in tokens_with_phrases if w not in stop_words]
+    return processed_tokens
 
 def load_and_preprocess_transcripts(directory):
-    transcripts = []
+    # First pass: collect minimally processed transcripts for phrase model training
+    minimal_transcripts = []
     file_names = []
     for filename in os.listdir(directory):
         if filename.endswith('.stm'):
             file_path = os.path.join(directory, filename)
             with open(file_path, 'r', encoding='utf-8') as file:
                 text = file.read()
-                processed_text = preprocess(text)
-                transcripts.append(processed_text)
+                minimal_tokens = minimal_preprocess(text)
+                minimal_transcripts.append(minimal_tokens)
                 file_names.append(filename)
-    return transcripts, file_names
+    
+    bigram_model = train_phrases(minimal_transcripts)
+    
+    processed_transcripts = [preprocess(tokens, bigram_model) for tokens in minimal_transcripts]
+    
+    return processed_transcripts, file_names
 
-if __name__ == '__main__':
-    additional_stopwords = {'said', 'thing', 'like'}  # Extend as needed
-    stop_words = set(stopwords.words('english')).union(additional_stopwords)
-    # Load and preprocess transcripts
+if __name__ == '__main__':  
     #directory = '../data/TEDLIUM_release-3/TEDLIUM_release-3/legacy/test/randomtestscripts'
     directory = '../data/TEDLIUM_release-3/TEDLIUM_release-3/data/stm'
     transcripts, file_names = load_and_preprocess_transcripts(directory)
 
-    #bigram = Phrases(transcripts, min_count=5, threshold=100) # Higher threshold fewer phrases.
-    #trigram = Phrases(bigram[transcripts], threshold=100) # Depending on your preference, you can skip trigram
-
-    # Turn the Phrases model into a Phraser object for faster performance
-    #bigram_phraser = Phraser(bigram)
-    #trigram_phraser = Phraser(trigram)
-
-    #transcripts = [trigram_phraser[bigram_phraser[doc]] for doc in transcripts]
-
-    # Create the Dictionary and Corpus
     dictionary = corpora.Dictionary(transcripts)
     corpus = [dictionary.doc2bow(text) for text in transcripts]
-
-    #tfidf = TfidfModel(corpus)
-    #corpus_tfidf = tfidf[corpus]
-
     # Save processed transcripts for future use (commented out for testing)
     """
     processed_transcripts = {'filename': text for filename, text in zip(file_names, transcripts)}
     with open('processed_transcripts.json', 'w') as f:
         json.dump(processed_transcripts, f)
     """
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=200, id2word=dictionary, passes=15, alpha=0.01, eta=0.01)
 
-    # Apply LDA, try out different numbers of topics and passes
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=250, id2word=dictionary, passes=15)
-
-    # Coherence Model for evaluating topic quality
     coherence_model_lda = CoherenceModel(model=ldamodel, texts=transcripts, dictionary=dictionary, coherence='c_v')
     coherence_lda = coherence_model_lda.get_coherence()
-    print('\nCoherence Score:\n ', coherence_lda) #Between 0 and 1, over 0.5 considered good
+    print('\nCoherence Score:\n ', coherence_lda) 
 
     # Extracting the most significant topic for each transcript and assigning that topic to the transcript 
-    #topic_assignments = {file_names[i]: max(ldamodel[corpus_tfidf[i]], key=lambda x: x[1])[0] for i in range(len(file_names))}
-
-    # Initialize an empty list to hold filenames of transcripts without assigned topics
-    unassigned_transcripts = []
-
-    topic_assignments = {}
-    for i in range(len(file_names)):
-    # Get the list of topic probabilities for the i-th document
-        topic_probs = ldamodel.get_document_topics(corpus[i], minimum_probability=0)
-    
-    # Check if the list is empty
-        if topic_probs:
-        # If not, find the topic with the maximum probability
-            topic_assignments[file_names[i]] = max(topic_probs, key=lambda x: x[1])[0]
-        else:
-        # If empty, add the filename to the unassigned_transcripts list
-            unassigned_transcripts.append(file_names[i])
-        # Optionally, assign a default value or handle it as needed
-        #topic_assignments[file_names[i]] = None  # Or another placeholder value
-
-    # At the end of the script, print out the filenames of unassigned transcripts
-    #print("\nFilenames of Transcripts Without Assigned Topics:")
-    #for filename in unassigned_transcripts:
-        #print(filename)
-
-    # Optionally, print the count of such files
-    print(f"\nTotal number of transcripts without assigned topics: {len(unassigned_transcripts)}")
-
-
+    topic_assignments = {file_names[i]: max(ldamodel[corpus[i]], key=lambda x: x[1])[0] for i in range(len(file_names))}
     # Save the topic assignments (commented out for testing)
     """
     with open('topic_assignments.json', 'w') as f:
@@ -148,14 +113,12 @@ if __name__ == '__main__':
     with open('transcripts_to_simplified_topics.json', 'w') as f:
         json.dump(transcripts_to_simplified_topics, f)
     """
-
     # Printing processed transcripts for testing purposes
     """
     print("\nPrinting processed transcripts for testing purposes:\n")
     for filename, text in zip(file_names, transcripts):
         print(f"{filename}: {text[:100]}") #100 first words only
     """    
-
     # Print full topic descriptions with associated transcripts
     """
     print("\nPrinting full topic descriptions with associated transcripts for testing purposes:\n")
@@ -164,21 +127,12 @@ if __name__ == '__main__':
         for f in filenames:
             print(f" - {f}")
     """
-
     # Print simplified topics with associated transcripts
     print("\nPrinting simplified topics with associated transcripts for testing purposes:\n")
     for word, filenames in transcripts_to_simplified_topics.items():
-        print(f"Topic '{word}':")
+        print(f"\nTopic '{word}':")
         for f in filenames:
             print(f" - {f}")
 
-    #print("Topic assignments and processed transcripts have been saved.")
-    print("\nTopic assignments and processed transcripts have been printed.")
-    # At the end of the script, print out the filenames of unassigned transcripts
-    #print("\nFilenames of Transcripts Without Assigned Topics:")
-    #for filename in unassigned_transcripts:
-        #print(filename)
-
-    # Optionally, print the count of such files
-    print(f"\nTotal number of transcripts without assigned topics: {len(unassigned_transcripts)}")
+    print("\nTopic assignments and processed transcripts have been saved and/or printed.")
     print('\nCoherence Score:\n ', coherence_lda)

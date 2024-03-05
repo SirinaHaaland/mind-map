@@ -4,7 +4,6 @@ import json
 from gensim import corpora, models
 import gensim
 import nltk
-from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from gensim.models.coherencemodel import CoherenceModel
@@ -31,11 +30,8 @@ def preprocess(tokens, bigram_model):
     # Apply the Phrases model to merge detected phrases into single tokens
     tokens_with_phrases = bigram_model[tokens]
     # Continue with your preprocessing (stopwords removal, lemmatization, etc.)
-    stop_words = set(stopwords.words('english'))
-    stop_words.update({'said', 'thing', 'like', 'could', 'one', 'get', 'people', 
-    'would', 'going', 'make', 'think', 'know', 'team', 'see', 'way', 'say', 'really', 
-    'actually', 'world', 'way', 'life', 'thing', 'well', 'also', 'story', 'life', 
-    'time', 'thing'})
+    with open('stopwords.txt', 'r', encoding='utf-8') as file:
+        stop_words = set(file.read().splitlines())
     lemmatizer = WordNetLemmatizer()
     processed_tokens = [lemmatizer.lemmatize(w) for w in tokens_with_phrases if w not in stop_words]
     return processed_tokens
