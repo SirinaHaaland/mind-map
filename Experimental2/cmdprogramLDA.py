@@ -60,7 +60,7 @@ def load_and_preprocess_transcripts(directory):
 
 if __name__ == '__main__':  
     #directory = '../data/TEDLIUM_release-3/TEDLIUM_release-3/legacy/test/randomtestscripts'
-    directory = '../data/TEDLIUM_release-3/TEDLIUM_release-3/data/stm'
+    directory = '../Experimental/transcripts'
     transcripts, file_names = load_and_preprocess_transcripts(directory)
 
     dictionary = corpora.Dictionary(transcripts)
