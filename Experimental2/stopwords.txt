@@ -288,23 +288,13 @@ believe
 city
 save
 car
-<<<<<<< Updated upstream
-word
-cell
-great
-feel
-posture
-=======
-<<<<<<< HEAD
 word 
 cell
 great
 feel
-=======
 word
 cell
 great
 feel
 posture
->>>>>>> 8583bc837a1bdc7f50c110a563e2f4ddcc15c22d
->>>>>>> Stashed changes
+
