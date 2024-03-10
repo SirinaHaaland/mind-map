@@ -27,7 +27,7 @@ for file_name in os.listdir(directory_path):
     inputs = tokenizer.encode(sentence, return_tensors='pt', max_length=1000, truncation=True)
 
     #generating texts, change max_new_tokens to preferred length of answer from gpt2
-    outputs = model.generate(inputs, max_new_tokens=5, do_sample=True, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
+    outputs = model.generate(inputs, max_new_tokens=1, do_sample=True, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
 
     # Calculate the number of tokens in the input sentence
     num_input_tokens = len(inputs[0])
@@ -38,7 +38,7 @@ for file_name in os.listdir(directory_path):
     #decoding texts
     #text = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
-    print("Printing generated answer from gpt2:")
+    print(f"Printing generated answer for {file_name}:")
     print(text)
 
     break #just remove break to run through all files, now it only runs through the first file
