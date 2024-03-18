@@ -20,7 +20,7 @@ if __name__ == '__main__':
     transcripts, file_names = preprocess(directory)
 
     # Initialize BERTopic
-    topic_model = BERTopic(language="english", calculate_probabilities=True, n_gram_range=(1, 2), min_topic_size=3, verbose=True) # adjust nr of topics
+    topic_model = BERTopic(language="english", calculate_probabilities=True, n_gram_range=(1, 2))
     topics, _ = topic_model.fit_transform(transcripts)
 
     # Save the model and topics
