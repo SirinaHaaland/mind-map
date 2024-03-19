@@ -12,7 +12,7 @@ def preprocess_text(text):
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 model = GPT2LMHeadModel.from_pretrained('gpt2', pad_token_id=tokenizer.eos_token_id)
 
-directory_path = 'C:/Users/sirin/DATBAC-1/STG0006948/Experimental2/TestTranscripts'
+directory_path = '..data/transcripts/CleanedTranscripts'
 topic_mappings = {}  # map each topic to a list of file names associated with that topic
 for file_name in os.listdir(directory_path):
     file_path = os.path.join(directory_path, file_name)

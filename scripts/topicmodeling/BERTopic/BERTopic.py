@@ -16,7 +16,7 @@ def preprocess(directory):
     return processed_texts, file_names
 
 if __name__ == '__main__':
-    directory = 'C:/Users/sirin/DATBAC-1/STG0006948/Experimental2/TestTranscripts'
+    directory = '..data/transcripts/CleanedTranscripts'
     transcripts, file_names = preprocess(directory)
 
     # Initialize BERTopic

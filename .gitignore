@@ -1,6 +1,6 @@
 #venv/
-data/
+#data/
 data/audio/
-data/transcripts/
+#data/transcripts/
 env/
 .vscode/

@@ -12,7 +12,7 @@ def preprocess_text(text):
 tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
 model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B")
 
-directory_path = 'C:/Users/sirin/DATBAC-1/STG0006948/Experimental2/TestTranscripts'
+directory_path = '..data/transcripts/CleanedTranscripts'
 topic_mappings = {}  # map each topic to a list of file names associated with that topic
 
 for file_name in os.listdir(directory_path):
