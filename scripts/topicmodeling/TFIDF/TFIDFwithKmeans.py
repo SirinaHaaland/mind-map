@@ -40,13 +40,13 @@ def load_and_preprocess_transcripts(directory):
     return preprocessed_texts, file_names
 
 if __name__ == '__main__':
-    directory = 'C:/Users/sirin/DATBAC-1/STG0006948/Experimental2/TestTranscripts'
+    directory = 'C:/Users/sirin/DATBAC-1/STG0006948/Experimental/cleaned_transcripts'
     preprocessed_texts, file_names = load_and_preprocess_transcripts(directory)
 
     tfidf_vectorizer = TfidfVectorizer() 
     tfidf_matrix = tfidf_vectorizer.fit_transform(preprocessed_texts) # calculates the TF-IDF scores for all terms in the documents and returns a matrix representing these scores.
 
-    num_clusters = 5  # number of topics
+    num_clusters = 230  # number of topics
     km_model = KMeans(n_clusters=num_clusters) # creates a K-Means model with the specified number of clusters
     km_model.fit(tfidf_matrix) # fits the K-Means model to the TF-IDF matrix, performing the clustering process. After fitting, the model assigns each document to one of the num_clusters clusters based on their TF-IDF features
 
