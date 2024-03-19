@@ -23,12 +23,8 @@ def clean_and_save_files(input_folder_path, output_folder_path):
     stm_files, file_names = load_stm_files(input_folder_path)
 
     for content, filename in zip(stm_files, file_names):
-        # Use regular expression to remove text before and including "<NA>" or "<na>"
         content = re.sub(r'.*<na>', '', content, flags=re.IGNORECASE)
-
-        # Remove all occurrences of "NA" and "<unk>"
         content = content.replace("NA", "").replace("<unk>", "")
-
         output_file_path = os.path.join(output_folder_path, filename)
         with open(output_file_path, 'w', encoding='utf-8') as output_file:
             output_file.write(content)
@@ -36,7 +32,6 @@ def clean_and_save_files(input_folder_path, output_folder_path):
 def main():
     input_folder_path = "transcripts"
     output_folder_path = "cleaned_transcripts"
-
     clean_and_save_files(input_folder_path, output_folder_path)
 
 if __name__ == "__main__":

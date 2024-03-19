@@ -23,11 +23,9 @@ def clean_and_save_files(input_folder_path, output_folder_path):
     stm_files, file_names = load_stm_files(input_folder_path)
 
     for content, filename in zip(stm_files, file_names):
-        # Use regular expression to remove text before and including "<NA>" or "<na>"
         content = re.sub(r'.*<o,f0,male>', '', content, flags=re.IGNORECASE)
         content = re.sub(r'.*<o,f0,female>', '', content, flags=re.IGNORECASE)
         content = re.sub(r'.*<o,,unknown>', '', content, flags=re.IGNORECASE)
-        # Remove all occurrences of "NA" and "<unk>"
         content = content.replace("o,f0,male", "").replace("<o,f0,female>", "").replace("<o,,unknown>", "").replace("ignore_time_segment_in_scoring", "").replace("<unk>", "")
 
         output_file_path = os.path.join(output_folder_path, filename)

@@ -5,24 +5,18 @@ from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 
-# Set up NLTK resources
 import nltk
 nltk.download("punkt")
 nltk.download("stopwords")
 
-# Load stopwords and initialize lemmatizer
 stop_words = set(stopwords.words("english"))
 lemmatizer = WordNetLemmatizer()
 
-# Function to preprocess text
 def preprocess_text(text):
-    # Tokenize text
     tokens = word_tokenize(text.lower())
-    # Remove stopwords and non-alphabetic tokens, and lemmatize
     tokens = [lemmatizer.lemmatize(token) for token in tokens if token.isalpha() and token not in stop_words]
     return " ".join(tokens)
 
-# Function to create bag of words for a transcript
 def create_bag_of_words(transcript):
     preprocessed_text = preprocess_text(transcript)
     vectorizer = CountVectorizer()

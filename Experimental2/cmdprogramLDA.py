@@ -14,6 +14,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 """
+
 def minimal_preprocess(text):
     # Basic cleaning and tokenization for phrase detection
     cleaned_text = re.sub(r'.*<NA>\s?', '', text)
@@ -71,7 +72,7 @@ if __name__ == '__main__':
     with open('processed_transcripts.json', 'w') as f:
         json.dump(processed_transcripts, f)
     """
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=200, id2word=dictionary, passes=15, alpha=0.01, eta=0.01)
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=200, id2word=dictionary, passes=15, alpha=0.005, eta=0.01)
 
     coherence_model_lda = CoherenceModel(model=ldamodel, texts=transcripts, dictionary=dictionary, coherence='c_v')
     coherence_lda = coherence_model_lda.get_coherence()
