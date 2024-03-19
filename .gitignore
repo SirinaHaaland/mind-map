@@ -5,3 +5,4 @@ data/audio/
 env/
 .vscode/
 Experimental/
+scripts/topicmodeling/BERTopic/bertopic_model
