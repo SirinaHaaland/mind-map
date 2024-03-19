@@ -16,7 +16,7 @@ def preprocess(directory):
     return processed_texts, file_names
 
 if __name__ == '__main__':
-    directory = '..data/transcripts/CleanedTranscripts'
+    directory = '../../../data/transcripts/CleanedTranscripts'
     transcripts, file_names = preprocess(directory)
 
     # Initialize BERTopic

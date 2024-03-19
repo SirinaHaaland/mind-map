@@ -46,7 +46,7 @@ def load_and_preprocess_transcripts(directory):
 
 if __name__ == '__main__':
     # Load and preprocess transcripts
-    directory = '..data/transcripts/CleanedTranscripts'
+    directory = '../../../data/transcripts/CleanedTranscripts'
     transcripts, file_names = load_and_preprocess_transcripts(directory)
 
     bigram = Phrases(transcripts, min_count=5, threshold=100) # Higher threshold fewer phrases.

@@ -40,7 +40,7 @@ def load_and_preprocess_transcripts(directory):
     return preprocessed_texts, file_names
 
 if __name__ == '__main__':
-    directory = '..data/transcripts/CleanedTranscripts'
+    directory = '../../../data/transcripts/CleanedTranscripts'
     preprocessed_texts, file_names = load_and_preprocess_transcripts(directory)
 
     tfidf_vectorizer = TfidfVectorizer() 
