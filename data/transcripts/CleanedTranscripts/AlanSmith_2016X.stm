@@ -1,0 +1,124 @@
+  two thousand and three the uk government carried out a survey  
+ and it was a survey that measured levels of numeracy in the population  and they were shocked to find out that for every one hundred working age adults
+ in the country forty seven of them
+ lacked level one numeracy skills now level one numeracy skills that 's
+  score it 's the ability to deal with fractions  percentages and decimals so this figure prompted a lot of hand wringing in
+ whitehall policies were changed investments were made and then they ran the survey again in two thousand and eleven  so can you guess what happened to this number
+  it went up to forty nine and in fact when i reported this figure in the ft one of our readers joked and said this figure
+ is only shocking to fifty one percent of the population 
+ but i preferred actually  the reaction of a schoolchild when i presented at a school this information
+  raised their hand and said how do we know that the person who made that number isn 't one of the forty nine percent either so
+ clearly there 's a numeracy issue because these are important skills for life and a lot of the changes that we want to introduce
+ in this century involve us becoming more comfortable with numbers  
+ now  it 's not just an english problem  oecd this year released some figures looking at numeracy in young people 
+ and leading the way  the usa nearly
+  forty percent of young people in the us have low numeracy now england is there too but there are 
+ seven oecd countries with figures above twenty percent that is a problem because it doesn 't have to be that way if you look at the far end of this graph 
+ you can see the netherlands and korea are in single figures
+ so there 's definitely
+ a numeracy problem that we want to address now
+  useful as studies like these are i think we risk herding people inadvertently into one of two categories that there are two kinds of people 
+ those people that are comfortable with numbers that can do numbers  and the people who can 
+  i 'm trying to talk about here today is to say that i believe that that
+  a false dichotomy  it 's not an immutable pairing  
+ i think you don 't have to have tremendously high levels of numeracy to be inspired by numbers  and that that should be the starting point to the journey ahead
+ and one of the ways in which we can begin that journey for me is looking at statistics now i am the first to acknowledge that statistics has got somewhat of an image problem 
+ laughter it 's the part of mathematics that even mathematicians don 't particularly like because whereas the rest of
+  maths is all about precision and certainty statistics is almost the reverse of that  but actually
+ i was a late convert to the world of statistics myself  if you 'd asked my undergraduate professors what two
+ subjects would i be least likely to excel in after university they 'd have told you statistics and computer programming  and yet here i am about to show you some statistical graphics that i programmed
+  inspired that change in me what made me think that statistics was actually an interesting thing  
+ it 's really because statistics are about us  if you look at the etymology of the word statistics 
+ it 's the science of dealing with data about the state or the community that we live in so statistics are about us as a group 
+ not us as individuals and i think as social animals we share this fascination about how we as individuals
+  relate to our groups to our peers and statistics in this way are at their most powerful when they surprise us
+  and there 's been some really wonderful surveys carried out recently by ipsos mori in the last few years 
+ they did a survey of over one thousand adults in the uk and said  for every one hundred people in england and wales  how many of them are muslim 
+  now the average answer from this survey which was supposed to be representative of the total population was
+ that 's what people thought british people think twenty four out of every one hundred people in the country are muslim now official figures
+ reveal that figure to be about five  
+ so there 's this big variation between what we think our perception  and the reality as as given by statistics and i think that 's interesting what could possibly be causing
+ that misperception
+ and i was so thrilled with this study i started to take questions out in presentations i was referring to it now  i did a presentation at st paul 's school for girls in hammersmith  
+ and i had an audience rather like this except it was comprised entirely of sixth form girls  and i said 
+ girls  
+ how many
+ teenage girls do you think the british public think get pregnant every
+  year and the girls were apoplectic when i said
+ the british public think that fifteen out of every one hundred teenage girls get pregnant in the year  
+ and they had every right to be angry  because in fact i 'd have to have closer to two hundred dots before i could color one in in terms of what the official figures tell us 
+ and rather
+  like numeracy this is not just an english problem  ipsos mori expanded the survey in recent years
+ to go across the world  
+ and so they asked saudi arabians for every one hundred adults in your country  how many of them are overweight or obese  
+ and the average answer from the saudis
+ was
+ just over a quarter that 's what they thought just over a quarter of
+  overweight or obese the official figures show actually  it 's nearer
+ to three quarters 
+ so again a big variation  and i love this one they asked in japan
+  they asked the japanese for every one hundred japanese people how many of them live in rural areas 
+  the average was about a 50 50 split just over
+  of every one hundred japanese people lived in rural areas  the official figure is seven so
+ extraordinary variations and surprising to some but not surprising to people who have read the work of daniel kahneman for example the 
+ economist he and his colleague  amos tversky spent
+ years researching this disjoint between what people perceive and the reality the fact that people are actually pretty poor intuitive statisticians
+ and there are many reasons for this individual experiences certainly can influence our perceptions but so too can things like the media reporting things by exception 
+ rather than what 's normal 
+ kahneman had a nice way of referring to that he said we can be blind to the obvious so we 've got the numbers wrong but we can be blind to our blindness about it and that has enormous repercussions
+ for decision making so at the statistics office while
+  this was all going on i thought this was really interesting i said this is clearly a global problem but maybe geography is the issue here
+  these were questions that were all about how well do you know your country  so in this case it 's
+ how well do you know  sixty four million people not very well it turns out i can 't do that so i had an idea which was
+ to think about this same sort of approach but to think about it in a very local sense
+  is this a local  if we reframe the questions and say how well do you know your local area would your answers be any more accurate  
+ so i devised a quiz  how well do you know your area  
+ it 's a simple web app you put in a post code and then it will ask you questions based on census data for your local
+  and i was very conscious in designing this i wanted to make it
+ open to the widest possible range of people not just the forty nine percent who can get the numbers i wanted everyone to engage with it so for the design of the quiz
+ i was inspired by the isotypes of otto neurath from the 1920s and ' 30s now these
+ are methods for representing
+ numbers using repeating
+  the numbers are there but they sit in the background 
+ so it 's a great way of representing quantity without resorting to using terms like percentage fractions and ratios so
+ here 's the quiz  
+ the layout of the quiz is you have your repeating icons on the  left hand side there and a map showing you the area we 're asking you questions about on the right hand side there are seven questions 
+ each question
+  there 's a possible answer between zero and a hundred and at the end of the quiz you get an overall score between zero and a hundred and so because this is 
+ i thought we would have a quick look at the quiz for the first few questions
+ of exeter and so the first question is for every one hundred people  how many are aged under sixteen  
+ now  i don 't know exeter very well at all so i had a guess at this but it gives you an idea of how this quiz
+  you drag the slider
+ to highlight your icons  
+ and then just click submit to answer and we animate away the difference between your answer and reality  
+ and it turns out i was a pretty terrible guess five  
+ how about the next question this is asking about what the average age is so the age at which half the population are younger and half the population are older and i thought
+  in exeter it 's incredibly young and i had underestimated the impact of the university
+ in this area  the questions get harder as you go through  so this one 's now asking about homeownership 
+ for every one hundred households how many are owned with a mortgage or loan  and i hedged my bets here because i didn 't want to be more than fifty out
+ on the answer
+  these get harder these questions because when you 're in an area when you 're in a community things like age
+ there are clues to whether a population is old or young just by looking around the area you can see it something like homeownership
+ is much more difficult to see so we revert to our own heuristics our own biases about how many people we think own their own homes
+  the truth is when we published this quiz  the census data that it 's based on was already a few years old we 've had
+ online applications that allow you to put in a post code and get statistics back for years  so in some senses this was all a little bit
+ old and and not necessarily new but i was interested to see
+ what reaction we might get by  gamifying the data in the way that we have by using animation and playing on the fact that people have their own preconceptions
+  it turns out  the reaction was um 
+ was more than i could have hoped for it was a long held ambition of mine to bring down a statistics website due to public demand 
+ laughter this url contains the words statistics gov and uk which are three of people 's least favorite words in a
+  and the amazing thing about this was that the website came down
+ at quarter to ten at night because people were actually
+ engaging with this data of their own free will using their own personal time
+  i was very interested to see that we got something like a quarter of a million
+ people playing the quiz within the space of forty eight hours of launching it and it sparked an enormous
+  on social media which was largely dominated
+ by people having fun with their misconceptions which is something that i
+ i couldn 't have hoped for any better in some respects i also liked the fact that people started sending it to politicians  how well do you know the area you claim to represent 
+ and then just to finish 
+ going back to the two kinds of people  i thought it would be really interesting to see how people who are good with numbers would do on this quiz  the national
+  statistician of england and wales  john pullinger you would expect he would be pretty good he got forty four for his own area 
+ jeremy paxman
+ admittedly after a glass of wine thirty six even worse  it just shows you that the numbers can inspire
+  can surprise us all so very often we talk about statistics as being the science of uncertainty my parting thought for today is actually statistics is the science of us  and that 's why we should be fascinated
+ by numbers thank you very much

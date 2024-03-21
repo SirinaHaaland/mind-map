@@ -1,6 +1,8 @@
 #venv/
-data/
-data/audio/
-data/transcripts/
+#data/
+data/AudioMp3/
+#data/transcripts/
 env/
 .vscode/
+Experimental/
+scripts/topicmodeling/BERTopic/bertopic_model

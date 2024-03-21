@@ -1,0 +1,142 @@
+  the substance of things unseen cities past and future  
+ in oxford  perhaps we can use lewis carroll and look in the looking glass that is new york city
+ to try and see our true selves  or perhaps pass through to another world
+ or in the words of f scott fitzgerald 
+ as the moon rose higher  the inessential houses began to melt away until gradually i became aware of the old island here that once flowered for dutch sailors ' eyes 
+ a fresh green breast of the new world 
+ my colleagues and i have been working for ten years to rediscover this lost world in a project we call the mannahatta project
+  we 're trying to discover what henry hudson would have seen on the afternoon of september 12th one thousand six hundred and nine when he sailed into new york harbor and i 'd
+ like to tell you the story in three acts  and if i have time still an epilogue  so act i a map found 
+ so i didn 't grow up in new york i grew up out west in the sierra nevada mountains like you see here in the red rock canyon  and from these early experiences as a child i learned to love
+  landscapes  and so when it became time for me to do my graduate studies i studied this emerging field of landscape ecology 
+ landscape ecology concerns itself with how the stream and the meadow and the forest and the cliffs make habitats for plants and animals 
+ this experience and this training lead me to get a wonderful job with the wildlife conservation
+  which works to save wildlife and wild places all over the world  and over the last decade 
+ i traveled to over forty countries to see jaguars and bears and elephants and tigers and rhinos  
+ but every time i would return from my trips i 'd return back to new york city and on my weekends i would go up just like all the other tourists to the top of the empire state building  and i 'd look down on this landscape on 
+  these ecosystems and i 'd wonder how does this landscape work to make habitat for plants and animals how does it work to make habitat for animals like me
+ i 'd go to times square and i 'd look at the amazing ladies on the wall  and wonder why nobody is looking at the historical figures just behind them 
+ i 'd go to central park and see the rolling topography of central park come up against the abrupt and sheer topography of midtown manhattan  
+ i started reading about the history and the geography in new
+  i read that new york city was the first mega city a city city of ten million people or more in one thousand nine hundred and fifty  
+ i started seeing paintings like this for those of you who are from new york this is 125th street under the west side highway 
+ it was once a beach  and this painting has john james audubon the painter sitting on the rock  
+ and it 's looking up on the wooded heights of washington heights to jeffrey 's hook where the george washington bridge goes across today  
+ or this painting from the 1740s from greenwich village
+ those are two students at king 's college later columbia university sitting on a hill  overlooking a valley  and so i 'd go down to greenwich village and i 'd look for this hill  
+ and i couldn 't find it and i couldn 't find that palm tree what 's that palm tree doing there 
+ so it was in the course of these investigations that i ran into a map and it 's this map you see here
+  held in a geographic information system which allows me to zoom in this map isn 't from hudson 's time but from the american revolution one hundred and seventy years later made by british military cartographers during the occupation of new york city 
+ and it 's a remarkable map it 's in the national archives here in kew  and it 's ten feet long and three and a half feet wide  and if i zoom in to lower manhattan
+ you can see the extent of new york city as it was right at the end of the american revolution here 's bowling green and here 's broadway  and this is city
+  park so the city basically extended to city hall park and just beyond it you can see
+ features that have vanished things that have disappeared this is the collect pond  which was the fresh water source for new york city for its first two hundred years 
+ and for the native americans for thousands of years before that 
+ you can see the lispenard meadows draining down through here through what is tribeca now  and the beaches that come up from the battery all the way to
+  was made for military reasons they 're mapping the roads the buildings these fortifications that they built 
+ but they 're also mapping things of ecological interest  
+ also military interest the hills the marshes 
+ the streams this is richmond hill  and minetta water which used to run its way through greenwich village  
+ or the the swamp at gramercy
+  or murray hill  and this is the murrays ' house on murray hill  two hundred years ago  here is times square  
+ the two streams that came together to make a wetland in times square as it was at the end of the american revolution  
+ so i saw this remarkable map in a book  and i thought to myself 
+ you know  if i could georeference this map if i could place this map in the grid of the city today  i could find these lost features of the city
+ in the block by block geography that people know  the geography of where people go to work and where they go to live  and where they like to eat 
+ so after some work we were able to georeference it which allows us to put the modern streets on the city and the buildings  
+ and the open spaces  
+ so that we can zoom in to where the collect pond is 
+  digitize the collect pond
+ and the streams and see where they actually are in the geography of the city today  so this is fun for finding where things are
+ relative to the old topography  
+ but i had another idea about this map if we take away the streets  and if we take away the
+  we take away the open spaces then we could take this map  
+ if we pull off the 18th century features we could drive it back in time we could drive it back to its ecological fundamentals 
+ to the hills to the streams 
+ to the the basic hydrology and shoreline to the beaches  the basic aspects that make the ecological landscape then
+ if we added maps like the geology the
+  and the surface geology  what the glaciers leave if we make the soil map with the seventeen soil classes that
+ are defined by the national conservation service 
+ if we make a digital elevation model of the topography that tells us how high the hills were 
+ then we can calculate the slopes we can calculate the aspect 
+ we can calculate the winter wind exposure so
+  the winter winds blow across the landscape the white areas on this map are the places protected from the winter winds  
+ we compiled all the information about where the native americans were the lenape and we built a probability map of where they might have been 
+ so the red areas on this map indicate the places that are best for human sustainability on manhattan places that are close to water places that are near the harbor to fish 
+ places protected from the winter winds
+  we know that there was a lenape settlement
+ down here by the collect pond 
+ and we knew that they planted a kind of horticulture that they grew these beautiful gardens of corn beans and squash the three sisters garden  
+ so we built a model that explains where those fields might have been  
+ and the old fields the successional fields that go and we might think of these as abandoned but in fact they 're grassland habitats for grassland birds and and plants 
+ and they have become successional shrub lands  and these then mix
+ to a map of all the ecological communities  and it turns out that manhattan
+ had fifty five different ecosystem types you can think of these as neighborhoods as distinctive as tribeca and the upper east side
+ and inwood that these are the forest and the wetlands and the marine communities the beaches and fifty five is a
+  manhattan had more ecological communities per acre than yosemite does than yellowstone  than amboseli 
+ it was really an extraordinary landscape that was capable of supporting an extraordinary biodiversity  
+ so act ii a home reconstructed  
+ so we studied the fish and the frogs and the birds and the bees 
+ the  eighty five different kinds of fish that were on manhattan  the heath hens the species that aren 't there anymore
+  the beavers on all the streams  the black bears and the native americans to study how they used and thought about their landscape 
+ we wanted to try and map these and to do that what we did was we mapped their habitat needs where do they get their food where do they get their water where do they get their shelter  where do they get their reproductive resources 
+  to an ecologist the intersection of these is habitat but to most people the intersection of these is their home  
+ so we would read in field guides the standard field guides that maybe you have on your shelves you know 
+ what beavers need is a slowly meandering stream with aspen trees and alders and willows near the water that 's the best thing for a beaver  
+ so we just started making a list here is the beaver and here is the stream and the aspen and the alder and the willow 
+ as if these were the maps that we would need to predict where you would find the beaver  or the bog turtle needing wet
+  meadows and insects and sunny places  
+ or the bobcat needing rabbits and beavers and den sites 
+ and rapidly we started to realize that beavers can be something that a bobcat needs  
+ but a beaver also needs things and that having it on either side means that we can link it together that we can create the network of the habitat
+  we realized that you can start out as being a beaver specialist but you can look up what an aspen needs an aspen needs fire and dry soils 
+ and you can look at what a wet meadow needs  
+ and it need beavers to create the wetlands and maybe some other things 
+ but you can also talk about sunny places so what does a sunny place need not habitat per se but what are the conditions that make it possible 
+ or fire  or dry soils 
+ and that you can put these on a grid that
+  thousand columns long across the top and one thousand rows down the other way and then we can visualize this data like a network like a social network  
+ and this is the network of all the habitat relationships of all the plants and animals on manhattan and everything they needed going back to the geology going back to time and space at the very core of the web  
+ we call this the muir web  and if you zoom in on it it looks like this each point is a different species
+  species or a different stream or a different soil type and those little gray lines are the connections that connect them together they are
+ the connections that actually make nature resilient  and the structure of this is what makes nature work seen with all its parts  
+ we call these muir webs after the scottish american naturalist john muir who said when we try to
+ pick out anything by itself we find that it 's bound fast by a thousand invisible cords that cannot be broken to everything in the universe 
+ so then we took the muir webs and we took them back to the maps so if we wanted to go between 
+  and lex and third maybe there was a stream in that block and these would be the kind of trees that might have been there  and the flowers
+ and the lichens and the mosses  the butterflies the fish in the stream the birds in the trees maybe a timber rattlesnake lived there
+  a black bear walked by and maybe native americans were there  and then we took this data 
+ you can see this for yourself on our website you can zoom into any block on manhattan and see what might have been there four hundred years ago  
+ and we used it to try and reveal a landscape
+ here in act iii we used the tools they use in hollywood to make these fantastic landscapes that we all see in the movies  and we tried to use it to visualize third avenue
+ so we would take the landscape and we would build up the topography we 'd lay on top of that the soils and the waters and illuminate the landscape 
+ we would lay on top of that the map of the ecological communities  and feed into that the map of the species so that we would actually take a photograph flying above times square looking toward the hudson river 
+  waiting for hudson to come using this technology we can make these fantastic georeferenced views we can basically take a picture
+  out of any window on manhattan and see what that landscape looked like four hundred years ago  this is the view from the east river looking up murray hill at where the united nations is today  
+ this is the view looking down the hudson river with manhattan on the left and new jersey out on the right looking out toward the atlantic ocean 
+ this is the view over times square  with the beaver pond there looking out toward the east 
+  see the collect pond and lispenard marshes back behind we can see the fields that the native americans made  
+ and we can see this in the geography of the city today  
+ so when you 're watching law and order and the lawyers walk up the steps they could have walked back down those steps of the new york court house right into the collect pond four hundred years ago  
+  these images
+ are the work of my friend and colleague mark boyer who is here in the audience today  and i 'd just like if you would give him a hand to call out for his fine work there
+ is such power in bringing science and visualization together that we can create images like 
+  this perhaps looking on either side of a looking glass  and even though i 've only had a brief time to speak
+  you appreciate that mannahatta was a very special place the place that you see here on the left side was interconnected it was based on this diversity it had this resilience
+ that is what we need in our modern world  but i wouldn 't have you think that i i don 't like the place on the right which i quite do i 've come to love the city and its kind of
+  on density and how we 're connected together in fact that i see them as reflections of each other
+ much as lewis carroll did in through the looking glass
+ we can compare these two and hold them in our minds at the same time that they really are the same place that there is no way that cities can escape from nature and i think this is what what we 're learning about building cities in the
+  so if you 'll allow me a brief epilogue  not about the past but about four hundred years from now 
+ what we 're realizing is that cities are habitats for people and need to supply what people need a sense of home food water shelter  reproductive resources 
+ and a sense of meaning this is the particular additional habitat requirement of humanity  and so many of the talks here at ted are about
+  about bringing meaning to our lives in all kinds of different ways through technology through art through science 
+ so much so that i think we focus so much on that side of our lives that we haven 't given enough attention to
+ the food and the water and the shelter  and what we need to raise the kids 
+ so how can we envision the city of the future  well what if we go to madison square park and we imagine it without
+ all the cars
+  and bicycles instead and large forests  and streams instead of sewers and storm drains 
+ what if we imagined the upper east side with green roofs  and streams winding through the city 
+ and windmills supplying the power we need  
+ or if we imagine the new york city metropolitan area currently home to twelve million people but twelve million people in the future perhaps living at the density of manhattan 
+  percent of the area with the areas in between covered by farmland  covered by wetlands  covered by the marshes we need

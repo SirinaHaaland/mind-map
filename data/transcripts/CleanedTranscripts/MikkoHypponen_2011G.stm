@@ -1,0 +1,138 @@
+  it 's true  think about everything it has brought us  think about all the services we use all the connectivity all the
+  and it 's happening
+ during our lifetimes i 'm pretty sure that one day we 'll be
+ writing history books hundreds of years from now  this time our generation will be remembered
+ as the generation that got online the generation that built something really and truly global
+  it 's also true that the internet has problems very serious problems problems with security
+ and problems with privacy  i 've spent my career
+ fighting these problems  so let me show you something 
+ this here is
+  's the first virus we ever found for pc computers  
+ and we actually know where brain came from  we know
+ because it says so inside the code  
+ let 's take a look 
+ all right
+  that 's the boot sector of an infected floppy  and if we take a closer look inside we 'll see that right there it says welcome to the dungeon 
+ and then it continues saying one thousand nine hundred and eighty six basit and amjad  and basit and amjad are first
+  years ago the pc virus problem is twenty five years old now  so half a year ago  i decided to go to pakistan
+  couple of photos i took while i was in pakistan  this is from the city of lahore which is around three hundred kilometers south from abbottabad where bin laden was caught here 's a typical street 
+ view  and here 's the street or road leading to this building which is seven hundred and thirty nizam block at allama iqbal town  
+ you want to guess who opened the door  basit and amjad  they are still there
+ so here standing up is basit 
+ sitting down is his brother amjad these are the guys who wrote the first pc virus now
+ of course  we had a very interesting discussion  i asked them why  i asked them how they
+ feel about what they started  and
+ i got some sort of satisfaction from learning that both basit and amjad had had their computers infected dozens of times by completely unrelated other viruses over these years so there is
+ there is some sort of justice in the world after all 
+ now the viruses that we used to see in the 1980s and
+  are not a problem any more  
+ so let me just show you a couple of examples of what they used to look like what i 'm running here is a system that enables me to run age old programs on a modern computer  
+ so let me just
+ mount some drives go over there what we have here is a list of old viruses  so let me just run some viruses on my computer for example  
+ let 's go with the centipede virus first and you can see at the top of the screen there 's a centipede
+ scrolling across your computer when you get infected by this one you know that you 're infected because it actually shows up 
+ here 's another one this is the virus called crash invented in russia in one thousand nine hundred and ninety two 
+ let me show you one which actually makes some sound 
+ and the last example  guess what the walker virus
+  does  yes there 's a guy walking across your screen once you get infected 
+ so it used to be fairly easy to know that you 're infected by a virus 
+ when the viruses were written by hobbyists and teenagers  
+ today  they are no longer being written by hobbyists and teenagers  
+  viruses are a global problem 
+ what we have here in the background is an example of our systems that we run in our labs where we track virus infections worldwide so we can actually see in real time that we 've just blocked viruses in sweden and taiwan and
+ russia and elsewhere in fact if i just connect back to our lab systems
+ through the web we can see in real time just some kind of idea of how many viruses how many new examples of malware we find every single day here 's
+  the latest virus we 've found in a file called 
+  and we found it
+ right over here three seconds ago the previous one six seconds ago  and if we just scroll around  
+ it 's just massive we find tens of thousands even hundreds of thousands  and that 's the last twenty minutes of malware every single day
+  so where
+ are all these coming from then 
+ well today  it 's the organized criminal gangs writing these viruses because they make money with their viruses  it 's gangs like
+ let 's go to 
+ this is a website operating in moscow where these guys are buying infected computers  so if you are a virus writer and you 're capable of infecting windows computers but you don 't know what to do with them
+ you can sell those infected computers somebody else 's computers to these guys and they 'll actually pay you money for those computers  
+ so how do these guys then monetize those infected computers  
+ well there 's multiple different ways such as banking trojans  which will steal money from your online banking accounts when you do online banking 
+ or keyloggers 
+ keyloggers
+ silently sit on your computer  hidden from view  and they record everything you type  so you 're sitting on your computer and
+ you 're doing google searches every single google search you type is saved and sent to the criminals 
+ every single email you write is saved and sent to the criminals same thing with every single password and so on
+  but the thing that they 're actually looking for most are sessions where you go online and do online purchases in any online store 
+ because when you do purchases in online stores you will be typing in your name the delivery address your credit card number and the credit card security codes and here 's an example of a file 
+  we found from a server a couple of weeks ago  that 's the credit card number that 's the expiration date that 's the security code and that 's the name of the
+  once you gain access to other people 's credit card information you can just go online and buy whatever you want with this information  
+ and that obviously is a problem  we now have a whole underground marketplace and
+ business ecosystem built around online crime one example of how these guys actually are capable of monetizing
+  go and have a look at the pages of interpol and search for wanted persons we find guys like bjorn sundin originally from sweden and his partner in crime also 
+  listed on the interpol wanted pages mr shaileshkumar jain a u s citizen 
+  couple of weeks ago froze a swiss bank account belonging to mr jain  and that bank account had fourteen point nine million u s dollars on it 
+ so the amount of money online crime generates is significant and that means that the online criminals can actually afford to invest into their attacks 
+  we know that online criminals are hiring programmers hiring testing people testing their code having
+ back end systems with sql databases  and they can afford to watch how we work like how security people work and try to work their way around any security precautions we can build 
+ they also use the global nature of internet to their advantage i mean the internet
+ is international that 's why we call it the internet  and if you just go and take a look at what 's happening
+  the online world 
+ here 's a video built by clarified networks which illustrates how one single malware family is able to move around the world  this operation believed to be originally from estonia  moves 
+  around from one country to another as soon as the website is tried to shut down so you just can 't shut these guys down they will switch from one country to another from one jurisdiction to another moving around the world  using the fact that we don 't have the capability
+  to globally police operations like this 
+ so the internet is as if someone would have given free plane tickets to all the online criminals of the world now criminals who weren 't capable of reaching us before can reach us  
+ so how do you actually go around finding online criminals how do you actually track them down 
+ let me give you an example  what we have here
+ is one exploit file
+ here i 'm looking at the hex dump of an image file  which contains an exploit and that basically means if you 're trying to view this image file on your windows computer it actually takes over your computer and runs code now if
+ you 'll take a look at this image file well there 's the image header and there the actual code of the attack
+  and that code has been encrypted so let 's decrypt it it has been encrypted with
+ xor function ninety seven you just have to believe me it is it is and
+ we can go here and actually start decrypting it 
+ well the yellow part of the code is now decrypted and i know it doesn 't really look much different from the original but just keep staring at it you 'll actually see that down here you can see a web
+  and when you view this image on your computer it actually is going to download and run that program and that 's a backdoor which will take over your computer  
+ but even more interestingly if we continue decrypting we 'll find this mysterious string which says
+  anything and i was looking at that trying to figure out what it means  
+ so obviously i googled for it i got zero hits  wasn 't there  
+ so i spoke with the guys at the lab and we have a couple of russian guys in our labs and one of them mentioned well it ends in rus like russia and 
+ is the city code for the city of st petersburg  for example you can find it from some phone numbers and car license plates and stuff like that so i
+  looking for contacts in st petersburg  
+ and through a long road we eventually found this one particular website 
+ here 's this russian guy who 's been operating online for a number of years who runs his own website and he runs a blog under the popular live journal and on this blog he blogs about his life about his life in
+  engine with more than four hundred horsepower  now that 's a nice car for a 20 something year old kid in st petersburg how do i know about this car
+  because he blogged about the car 
+ he actually had a car accident in downtown  st petersburg he actually crashed his car into another car  and he put blogged images about the car accident that 's his mercedes
+ right here is the lada samara he crashed into and you can actually see that the license plate of the samara ends in 
+ and if you actually take a look at the scene picture you can see that
+  i 'm not a lawyer  but if i would be this is where i would say i rest my case 
+ so what happens when online criminals are caught  well in most cases it never gets this far the vast majority of the online crime cases we don 't even know
+  which continent the attacks are coming from and even if we are able to find online criminals quite often there is no outcome the local police don 't act or if they do there 's not enough evidence or for some reason we can 't take them down  i wish it would be easier  
+ unfortunately it isn 't 
+ but things are also changing
+ at a very rapid pace  you 've all heard about things like stuxnet  
+  if you look at what stuxnet did is that it infected these that 's a siemens
+  plc programmable logic [ controller ] and this
+ is what runs our infrastructure  this is what runs everything around us  plc 's these small boxes which have no display no keyboard which are programmed 
+ are put in place and they do their job for example the elevators in this building most likely are controlled by one of these 
+  stuxnet infects one of these that 's a massive revolution on the kinds of risks we have to worry about because everything around us is being run by these i 
+  mean we have critical infrastructure you go to any any factory any power plant  any chemical plant any food processing plant you look around everything
+  on these computers working we have become very reliant
+ on
+ internet on basic things like electricity  obviously 
+ on computers working  and this really is something which creates completely new problems for us  
+ we must have some way of continuing to work even if computers
+  so preparedness means that we can do stuff even
+  when the things we take for granted
+ aren 't there it 's actually very basic stuff thinking about continuity  thinking about backups  thinking about the things that actually matter 
+ now i told you 
+ i love the internet i do think about all the services we have online
+ think about if they are taken away from you if one day you don 't actually have them for some reason or another
+  i see beauty in the future of the internet  but i 'm worried
+ that we might not see that 
+ i 'm worried that we are running into problems because of online crime online crime is the one thing that might take these things away from us 
+ laughter i 've spent my life
+  and i do feel
+ that if we don 't fight online crime we are
+ running a risk of losing it all we have to do this globally  and we have to do it right now what we need
+ is more global international law enforcement work
+ to find online criminal gangs these organized gangs that are making millions out of their attacks  that 's much more important than running
+ anti viruses or running firewalls what actually matters is actually finding the people behind these attacks  and even more importantly we have to find the people who
+ are about to become part of this online world of crime but haven 't yet done it we have to find the people with the skills  but without the opportunities
+  give them the opportunities to use their skills for good

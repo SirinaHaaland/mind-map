@@ -1,0 +1,155 @@
+  most of us think of motion as a very visual thing if
+ i walk across this stage or gesture with my hands while i speak that motion is something that you can see
+  but there 's a world of important motion that 's too subtle for the human eye  
+ and over the past few years we 've started to find that cameras can often see this motion even when humans can 't 
+ so let me show you what i mean 
+ on the left here you see video of a person 's wrist  
+ and on the right you see video of a sleeping infant but if i didn 't tell you that these were videos you might assume that you were looking at two regular
+  images because in both cases these videos appear to be almost completely still 
+ but there 's actually a lot of subtle motion going on here  
+ and if you were to touch the wrist on the left you would feel a pulse  and if you were to hold the infant on the right 
+ you would feel the rise and fall of her chest as she took each breath 
+ and these motions carry a lot of
+  significance  but they 're usually too subtle for us to see  
+ so instead we have to observe them through direct contact through touch  
+ but a few years ago  my colleagues at mit developed what they call a motion microscope  
+ which is software that finds these subtle motions in video
+ and amplifies them so that they become large enough for us to see
+  and so if we use their software on the left video  
+ it lets us see the pulse in this wrist  and if we were to count that pulse we could even figure out this person 's heart rate  
+ and if we used the same software on the right video  it lets us see each breath that this infant takes  and we can use this as a
+  to monitor her breathing  and so this technology is really powerful
+ because it takes these phenomena that we normally have to experience through touch
+ and it lets us capture them visually and non invasively 
+ so a couple years ago  i started working with the folks that created that software  and we decided to pursue a crazy idea  
+ we thought it 's cool
+  that we can use software to visualize tiny motions like this and you can almost think of it as a way to extend our sense of touch  
+ but what if we could do the same thing with our ability to hear 
+ what if we could use video to capture the vibrations of sound  
+ which are just another kind of motion and turn everything that we see into a microphone now 
+ this is a bit of a strange idea  so let me try to put it in perspective for
+ traditional microphones work by converting the motion of an internal diaphragm into an electrical signal  
+ and that diaphragm is designed to move readily with sound
+ so that its motion can be recorded and interpreted as audio  but sound causes all objects to
+  those vibrations are just usually too subtle and too fast for us to see so what if we record them with a high speed camera
+ and then use software to extract tiny motions from our high speed video 
+ and analyze those motions to figure out what sounds created them 
+ this would let us turn visible objects into
+  visual microphones from a distance
+ and so we tried this out and here 's one of our experiments where we took this potted plant that you see on the right
+ and we filmed it with a high speed camera while a nearby loudspeaker played this sound
+  it at thousands of frames per second  
+ but even if you look very closely all you 'll see are some leaves that are pretty much just sitting there doing nothing  
+ because our sound only moved those leaves by about a micrometer that 's one
+ of a centimeter  which spans somewhere between a hundredth and a thousandth of a pixel in
+  this image  so you can squint all you want  but motion that small is pretty much perceptually invisible 
+ but it turns out that something can be perceptually invisible and still be numerically significant  
+ because with the right algorithms we can take this silent
+  how is this possible how can we get so much information out of so little motion well let 's say
+ that those leaves move by just a single micrometer  and let 's say that that shifts our image by just a thousandth of a pixel 
+ that may not seem like much  but a single frame of video may have hundreds of thousands of pixels in it  
+ and so if we combine all of the tiny motions that we see from across that entire image  then suddenly a thousandth of a pixel
+  pixel can start to add up to something pretty significant on a personal note we were pretty psyched when we figured this out 
+ laughter but
+ even with the right algorithm  we were still missing a pretty important piece of the puzzle 
+ you see there are a lot of factors that affect when and how well this technique will work  there 's the object and how far away it
+ there 's the camera and the lens that you use how much light is shining on the object and how loud your sound is 
+ and even with the right algorithm  
+ we had to be very careful with our early experiments  because if we got any of these factors wrong there was no way to tell what the problem was we would just get noise back 
+ and so a lot of our early experiments looked like this
+  and so here i am  
+ and on the bottom left you can kind of see our high speed camera  which is pointed at a bag of chips  and the whole thing is lit by these bright lamps  
+ and like i said  we had to be very careful in these early experiments  so this is how it went down
+  so this experiment looks completely ridiculous 
+ i mean i 'm screaming at a bag of chips and we 're blasting it with so much light we literally melted the first bag we tried this
+  and this was really significant  because it was the first time we recovered intelligible human speech from silent video of an object 
+ and so it gave us this point of reference
+  and gradually we could start to modify the experiment 
+ using different objects or moving the object further away  using less light or quieter sounds 
+ and we analyzed all of these experiments until we really understood the limits of our technique  
+ because once we understood those limits we could figure out how to push them 
+ and that led to experiments like this one
+ where again i 'm going to speak to a bag of chips  
+ but this time we 've moved our camera about fifteen feet away outside behind a soundproof window  
+ and the whole thing is lit by only natural sunlight
+ and so here 's the video that we captured and this is what
+  and here 's what we were able to recover from our silent video captured outside behind that window
+  there are other ways that we can push these limits as well  so here 's a quieter experiment
+ where we filmed some earphones plugged into a laptop computer  and in this case our goal was to recover the music that was playing on that laptop
+ from just silent video of these two little plastic earphones
+  and we were able to do this so well that i could even shazam our results
+  we can also push things by changing the hardware that we use 
+ because the experiments i 've shown you so far were done with a camera a high speed camera that can record video about a one hundred times faster than most cell phones  
+ but we 've also found a way to use this technique with more regular cameras
+  and we do that by taking advantage of what 's called a rolling shutter 
+ you see most cameras record images one row at a time  and so if an object moves during
+ the recording of a single image  there 's a slight time delay between each row  and this causes
+ slight artifacts that get coded into each frame of a video  and so what we found
+ is that by analyzing these artifacts we can actually recover sound
+  sound using a modified version of our algorithm  
+ so here 's an experiment we did where we filmed a bag of candy while a nearby loudspeaker played the same mary had a little lamb music from before  
+ but this time we used just a regular store bought camera 
+ and so in a second i 'll play for you the sound that we recovered and it 's going to sound distorted this
+  that sounds distorted
+  what 's really amazing here
+ is that we were able to do this with something that you could literally run out and pick up at a best buy  
+ so at this point a lot of people see this work and they immediately think about surveillance  and
+ to be fair it 's not hard to imagine how you might use this technology to spy on someone  but
+ keep in mind that there 's already a lot of very mature technology out there for surveillance in fact
+ people have been using lasers to eavesdrop on objects from a distance for decades  
+ but what 's really new here what 's really different is that now we have a way to picture the vibrations of an object 
+ which gives us a new lens through which to look at the world  
+ and we can use that lens to learn not just about forces like sound that cause an object to vibrate  
+ but also about the object
+  itself  
+ and so i want to take a step back and and think about how that might change the ways that we use video  
+ because we usually use video to look at things and i 've just shown you how we can use it to listen to things  
+ but there 's another important way that we learn about the world that 's by interacting with it 
+ we push and pull and poke and prod things we
+ shake things and see what happens  and that 's something that video still won 't let us do 
+ at least not traditionally  
+ so i want to show you some new work  and this is based on an idea i had just a few months ago  so this is actually the first time i 've shown it to a public audience  
+ and the basic idea is that we 're going to use the vibrations in a video
+ to capture objects in a way that
+  will let us interact with them
+ and see how they react to us 
+ so here 's an object and in this case it 's a wire figure in the shape of a human  
+ and we 're going to film that object with just a regular camera  so there 's nothing special about this camera in fact i 've actually done this with my cell phone before  
+ but we do want to see the object vibrate  so to make that happen we 're just going to bang a little bit on the surface
+  surface where it 's resting while we record this video
+ so that 's it just five seconds of regular video  while we bang on this surface  
+ and we 're going to use the vibrations in that video
+ to learn about the structural and material properties of our object and we 're going to use that information
+ to create something new and interactive  
+ and so here 's what we 've created 
+ and it looks like a regular image  but this isn 't an image and it 's not a video  
+ because now i can take my mouse and i can start interacting with the object
+ and so what you see here
+ is a simulation of how this object would respond to new forces that we 've never seen before  
+ and we created it from just five seconds of regular video
+  so this is a really powerful way to look at the world  because it lets us predict how objects will respond to new situations  
+ and you could imagine for instance looking at an old bridge
+ and wondering what would happen how would that bridge hold up if i were
+ drive my car across it and that 's a question that you probably want to answer before you start driving across that bridge 
+ and of course there are going to be limitations to this technique just like there were with the visual microphone  but
+ we found that it works in a lot of situations that you might not expect  
+ especially if you give it longer videos  so for example here 's a video that i captured of a bush outside of my apartment  
+ and i didn 't do anything to this bush
+  but by capturing a minute long video a gentle breeze caused enough vibrations
+ that we could learn enough about this bush to create this simulation 
+ and so you could imagine giving this
+  and letting him control  say the strength and direction of wind in a shot after it 's been recorded 
+ or in this case  we pointed our camera at a hanging curtain  
+ and you can 't even see any motion in this video  
+ but by recording a two minute long video  natural air currents in this room created enough subtle
+  imperceptible motions and vibrations that we could learn enough to create this simulation  
+ and
+ ironically we 're kind of used to having this kind of interactivity when it comes to virtual objects 
+ when it comes to video games and 3d models  
+ but to be able to capture this information from real objects in the real world using just simple
+  is something new that has a lot of potential  so
+ here are the amazing people who worked with me on these projects applause
+ and what i 've shown you 
+  today is only the beginning  we 've just started to scratch the surface of what you can do with this kind of imaging  
+ to capture our surroundings with common accessible technology  
+ and so looking to the future it 's going to be really exciting to explore what this can tell us about the world

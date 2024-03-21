@@ -1,0 +1,103 @@
+  i was in cambridge at the mit media lab
+ meeting with faculty  students and staff  and we were trying to figure out whether i should be the next director 
+ that night at midnight a magnitude nine earthquake
+ hit off of the pacific coast of japan my wife and family were in japan and
+ as the news started to come in i was panicking i was looking at the news streams and listening to the press conferences of the
+ government officials and the tokyo power company and hearing about this explosion at the nuclear reactors and this cloud of fallout that was headed towards
+  our house which was only about two hundred kilometers away and
+ the people on tv weren 't telling us anything that we wanted to hear  i wanted to know what was going on with the reactor what was going on with the radiation whether my family was in danger  
+ so i did what
+ instinctively felt like the right thing which was to go onto the internet and try to figure out if i could take matters into my own hands on the net i found there were a lot of other people like me trying to figure
+  out what was going on and together we sort of loosely formed a group
+ and we called it safecast and we decided we were going to try to measure the radiation
+ and get the data out to everybody else because it was clear that the government wasn 't going to be doing this for us 
+ three years later  we have sixteen million data points we have
+  designed our own geiger counters that you can
+ download the designs and plug it into the network we have an app that shows you most of the radiation in japan and other parts of the world 
+ we are arguably one of the most successful citizen science projects in the world  and we have created
+ the largest open dataset of radiation measurements and the interesting thing here is how did thank you
+  how did a bunch of amateurs who really didn 't know what we were doing
+ somehow come together
+ and do what ngos and the government were completely incapable of doing 
+ and i would suggest that this has something to do with the internet it 's not a fluke it wasn 't luck  and it wasn 't because it was us  it helped that it was an event that pulled everybody together but it was a new way of doing things
+ that was enabled by the internet and a lot of the other things that were going on and i want
+  talk a little bit about what those new principles are so remember before the internet 
+ i call this b i okay  so in b i life was simple 
+ things were euclidian newtonian  somewhat predictable people actually tried to predict the future even the economists  
+ and
+ then the
+  internet happened and the world became extremely complex  extremely low cost extremely fast and those newtonian laws that we so dearly cherished turned out 
+  to be just local ordinances  and what we found was that in this completely unpredictable world
+  if you remember when we tried to create services what you would do is you 'd create the hardware layer and the network layer and the software and it would cost millions of dollars to do anything that was substantial  
+ so when it costs millions of dollars to do something substantial what you would do is you 'd get an mba who would write a plan and get the money from v c s or big companies and then you 'd hire the designers and the engineers  and they 'd build the thing this is the before internet
+ what happened after the internet was the cost of innovation went down so much because the cost of collaboration the cost of distribution  the cost of communication and moore 's law made 
+  it so that the cost of trying a new thing became nearly zero  and so you would have google facebook yahoo students that didn 't have permission permissionless innovation
+  didn 't have permission didn 't have powerpoints  they just built the thing 
+ then they raised the money 
+ and then they sort of figured out a business plan and maybe later on they hired some mbas so the internet caused innovation at least in software and services to go from an mba driven innovation model to a 
+ innovation model  and it pushed innovation to the edges to the dorm rooms to the startups away from the large
+  the stodgy old institutions that had the power and the money and the authority  and we all know this we all know this happened on the internet it turns out it 's happening in other things too let
+ me give you some examples  
+ so at the media lab we don 't just do hardware we do all kinds of things we do biology we do hardware and nicholas negroponte famously said demo or die 
+ as opposed to publish or perish which was the traditional academic way of thinking and he often said
+  the demo only has to work once
+  the primary mode of us impacting the world was through large companies being inspired by us and creating products like the kindle or lego mindstorms 
+ but today with the ability to deploy things into the real world at such low cost i 'm changing the motto now and this is the official public statement i 'm officially saying deploy 
+  or die you have to get the stuff into the real world for it to really count and sometimes it will be large
+  companies and nicholas can talk about
+ satellites thank you 
+ but we should be getting out there ourselves and not depending on large institutions to do it for us  
+ so last year  we sent a bunch of students to shenzhen  and they sat on the factory floors with the innovators in shenzhen  and it was amazing what was happening there was you would have these manufacturing
+  making prototypes or powerpoints they were fiddling with the manufacturing equipment
+ and innovating right on the manufacturing equipment the factory was in the designer and the designer was literally in the factory and so what you would do is you 'd go down to the stalls and you would see these cell phones  
+ so instead of starting little websites like the kids in palo alto do the kids in shenzhen make new cell phones they make new cell phones like kids in palo alto make websites  and so there 's
+  rainforest of innovation going on in the cell phone what they do is they make a cell phone go down to the stall they sell some they look at the other kids ' stuff go up 
+ make a couple thousand more go down 
+ doesn 't this sound like a software thing it sounds like agile software development a b testing
+ and iteration  and what we thought you could only do with software kids in shenzhen are doing this in hardware  my next fellow i hope is going to be one of these innovators from shenzhen
+  and so what you see is that is pushing innovation to the edges 
+ we talk about 3d printers and stuff like that and that 's great but this is limor she is one of our favorite graduates and she is standing in front of a samsung
+ techwin pick and place machine this thing can put twenty three thousand components per hour onto an electronics board this is a factory in a box 
+ so what used to take a factory full of workers working by hand
+  in this little box in new york she 's able to have effectively she doesn 't actually have to go to shenzhen to do this manufacturing she can buy this box and she can manufacture it so manufacturing the cost of innovation 
+ the cost of prototyping distribution manufacturing hardware is getting so low that innovation is being pushed to the edges and students and startups are being able to build it this is a recent thing but this will happen and this will change
+ a dupont process that uses a genetically engineered microbe to turn corn sugar into polyester 
+ it 's thirty percent more efficient than the fossil fuel method  and it 's much better for the environment 
+ genetic engineering and bioengineering are creating a whole bunch of great new opportunities for chemistry for computation for memory we will probably be doing a lot
+  obviously doing health things but we will probably be growing chairs and buildings soon 
+ the problem is sorona costs about four hundred million dollars and took seven years to build it kind of reminds you of the old mainframe days 
+ the thing is the cost of innovation in bioengineering is also going down this is desktop gene sequencer  it used to cost millions and millions of dollars to sequence genes now you can do it on a desktop like this and kids can do this in dorm
+ this is gen9 gene assembler  and so right now when you try to print a gene what you do is somebody in a factory with pipettes puts the thing together by hand you have one error per one hundred base pairs  and it takes a long time and costs a lot of money 
+ this new device
+ assembles genes on a chip  
+ and instead of one error per one hundred base pairs it 's one error per ten thousand base pairs in this lab we will have the world 's capacity of gene printing
+ within a year  two hundred million base pairs a year  this is kind of like
+ when we went from transistor radios wrapped by hand to the pentium this is going to become the pentium of bioengineering pushing bioengineering into the hands of dorm rooms and startup companies 
+ so it 's happening in software and in hardware and bioengineering  and so this is a fundamental new way of thinking about innovation
+ it 's democratic  it 's chaotic  it 's hard to control  it 's not bad  but it 's very different and i think that the traditional rules that we have for institutions don 't work anymore  and most of us here operate with a different set of principles 
+ one of my favorite principles is the power of pull which is the idea of pulling resources from the network as you need them rather than stocking them in the center and controlling everything
+  in the case of the safecast story  
+ i didn 't know anything when the earthquake happened but i was able to find sean who was the hackerspace community organizer and peter the analog hardware hacker who made our first geiger counter  and dan who built the three mile island monitoring system after the three mile island meltdown 
+ and these people i wouldn 't have been able to find beforehand and probably were better
+ that i found them just in time from the network
+ a three time college dropout so learning over education is very near and dear to my heart  but to me education is what people do to you
+ and learning is what you do to yourself 
+ and it feels like and i 'm biased  it feels like
+ they 're trying to make you memorize the whole encyclopedia before they let you go out and play  and to me  i 've got
+ wikipedia
+  on my cell phone  and it feels like they assume you 're going to be on top of some mountain all by yourself with a number two pencil trying to figure out what to do
+ when in fact you 're always going to be connected you 're always going to have friends  and you can pull wikipedia up whenever you need it and what you need to learn is how to learn 
+ in the case of safecast a bunch of amateurs when we started three years ago i would argue that we probably as a group know more than
+  any other organization
+ about how to collect data and publish data and do citizen science 
+ compass over maps so this one  the idea is that the cost of writing a plan or mapping something is getting so expensive
+ and it 's not very accurate or useful  so in the safecast story
+  we knew we needed to collect data  we knew we wanted to publish the data 
+ and instead of trying to come up with the exact plan we first said oh let 's get geiger counters oh they 've run out let 's build them there aren 't enough sensors  okay then we 
+  can make a mobile geiger counter  we can drive around  we can get volunteers we don 't have enough money let 's kickstarter it we could not have planned this whole thing but by having a very strong compass we eventually got to where we were going and
+  to me it 's very similar to agile software development but this idea of compasses is very important  
+ so i think the good news is that even though the world is extremely complex 
+ what you need to do is very simple  
+ i think it 's about stopping this notion that you need to plan everything you need to stock everything and you need to be so prepared  and focus on being connected
+  always learning 
+  and super present  so i don 't like the word

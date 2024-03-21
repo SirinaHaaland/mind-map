@@ -1,0 +1,66 @@
+  really excited to be here today  i 'll show you some stuff that 's just ready to come out of the lab literally and i 'm
+ really glad that you guys are going to be among the first to see it in person because i really really think this is going to really change the way we
+  normal touch sensors that you see like on a kiosk or interactive whiteboards can only register one point of contact at a time  this thing allows you to have
+ multiple points at the same time they can use both my hands  i can use chording actions  i can just go right up and use all ten fingers if i wanted
+  isn 't completely new  people like bill buxton have been playing around with it in the ' 80s however the approach i built here is actually
+ and probably most importantly  very scalable so 
+ the technology you know  isn 't the most exciting thing here right now other than probably its newfound accessibility what 's really interesting here is what you can do with it
+ and the kind of interfaces you can build on top of it
+ see  so for instance we have
+ a lava lamp application here  now you can see 
+ i can use both of my hands to kind of squeeze and put the blobs together i can inject heat into the system here
+  or i can pull it apart with two of my fingers it 's completely intuitive there 's no instruction manual the interface just kind of disappears this started out as a screensaver app that one of the
+  our lab ilya rosenberg made but i think its true
+ identity comes out here  
+ now what 's great about a multi touch sensor is that you know  i could be doing this with as many fingers here  
+ but of course multi touch also inherently means  multi user chris could be interacting with another part of lava while i play around with it here you can
+  new kind of sculpting tool where i 'm kind of warming something up making it malleable and then letting it cool down and solidifying in a certain state 
+ google should have something like this in their lobby i 'll
+ show you a little more of a concrete example here  as this thing
+  is a photographer 's light box application again i can use both of my hands to interact and move photos around  
+ but what 's even cooler is that if i have two fingers  i can actually grab a photo and then stretch it out like that really easily i
+ can
+ pan zoom and rotate it
+ effortlessly  i can do that grossly with both of my hands or i can do it just with two two fingers on each of my hands together if i grab the canvas i can do the same thing
+ stretch it out i can do it simultaneously holding this down and gripping
+  another one stretching this out again the interface just disappears here there 's no manual this is exactly what you expect
+ especially if you haven 't interacted with a computer before now when you have initiatives like the $ one hundred laptop
+ i kind of cringe at the idea of introducing a whole new generation to computing with this standard  mouse and windows pointer interface
+  this is something that i think is really the way we should be interacting with machines from now on now 
+ of course i can bring up a keyboard 
+ and i can bring that around put that up there   obviously this is a standard keyboard but
+  make it work well for my hands
+ that 's really important because there 's no reason in this day and age that we should be conforming to a physical device that leads to bad things like rsi we have so much technology nowadays that these these interfaces should start conforming to us
+ there 's so little
+ applied now to actually improving the way we interact with interfaces from this point on this keyboard is
+  really wrong direction to go you can imagine in the future as we develop this kind of technology a keyboard that kind of automatically drifts as your hand moves away and really intelligently anticipates which key you 're trying to stroke
+  make these little fuzz balls it 'll remember the strokes i 'm making of course i can do it with all my hands  it 's 
+  what 's neat about that is i showed that two finger gesture that zooms in really quickly because you don 't have to switch to a hand tool or the magnifying glass tool you can just
+ continuously make things
+ in real multiple scales all at the same time i can create big things out here  but i can go back and really quickly go back
+  to where i started and make even smaller things here  this is going to be really important
+ as we start getting to things like data visualization for instance  i think we all enjoyed hans rosling 's talk and he really emphasized the fact i 've been thinking about for a long time we have all this great data but for some reason it 's just sitting there we 're not accessing it and
+  will be helped by things like graphics and visualization and inference tools but i also think a big part of it is going to be having better interfaces to be able to drill down into this kind of data  while still thinking about the big picture here let
+ me show you another app here  this is called worldwind it 's done by nasa
+  that nasa 's collected over the years  as you can see i can use the same two fingered gestures to go down
+ and go in really seamlessly there 's no interface again it really allows anybody to kind of go in
+ and it just does what you 'd expect you know  again there 's just no interface here the interface just disappears  
+ i can switch to different data views that 's what 's neat about this app here  
+ nasa 's really cool these  hyper spectral images are false colored so you can it 's really good for determining
+ vegetative use well let 's go back to this the great thing about mapping applications it 's not really
+  not just simply relegated to a kind of 2d panning and motion  this gesture is just putting two fingers down it 's defining an axis of tilt and i can tilt up and down that way 
+  we just came up with that on the spot it 's probably not the right thing to do but there 's such interesting things you can do with this interface it 's
+ just so much fun playing
+  the last thing i want to show you is
+ i 'm sure we can all think of a lot of entertainment apps that you can do with this thing i 'm more
+ interested in the creative applications we can do with this now here 's a simple application here i can draw out a curve  
+ and when i close it it becomes
+ a character  but the neat thing about it is i can add control points  and then what i can do is manipulate them with both of my fingers at the same time  and you notice what it does
+  it 's kind of a puppeteering thing where i can use as many fingers as i have to draw
+ and make
+ now  there 's a lot of actual math going on under here for this to control this mesh
+  technique of being able to manipulate a mesh here with multiple control points is actually state of the art it was released at siggraph last year it 's a great example of the kind of research i really love all this compute power to make things do the right things
+ intuitive things to do exactly what you expect  
+ so
+  interaction research is a very active field right now in hci i
+ 'm not the only one doing it a lot of other people are getting into it this kind of technology is going to let even more people get into it i 'm looking forward to interacting with all of you over the next few days and seeing how it can apply to your respective fields 

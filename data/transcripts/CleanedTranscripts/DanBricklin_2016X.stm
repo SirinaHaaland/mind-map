@@ -1,0 +1,108 @@
+  how many of you have used an electronic spreadsheet like microsoft excel very good  now  how many of you have
+ run a business with a spreadsheet by hand like my dad did for his small printing business in philadelphia a lot less
+  well  that 's the way it was done for hundreds of years 
+ in early one thousand nine hundred and seventy eight i started working on an idea that eventually became visicalc 
+ and the next year it shipped running on something new called an apple ii personal computer 
+ you could tell that things had really changed when six years later  the wall street journal ran an editorial that assumed you knew what  visicalc was and maybe even were using it
+ steve jobs back in one thousand nine hundred and ninety
+ said that spreadsheets propelled the industry forward visicalc propelled the success of apple more than any other single event 
+ on a more personal note  
+ steve said if visicalc had been written for some other computer you 'd be interviewing somebody else right now
+ on business desks how did it come about what was it what did i go through to make it be what it was well i first
+ learned to program back in 
+  when i was fifteen just a couple months after this photo was taken 
+ few high schoolers had access to computers in those days  but through luck and an awful lot of perseverance i was able to get computer time around the
+ after sleeping in the mud at woodstock  i went off to mit to go to college where to make money  i worked on the multics project
+ multics was a trailblazing interactive time sharing system 
+ have you heard of the linux and unix operating systems  they came from  multics 
+ i worked on the multics versions of what are known as interpreted
+  computer languages that are used by people in noncomputer fields to do their calculations while seated at a computer terminal 
+ after i graduated from mit  i went to work for digital equipment corporation 
+ at dec  
+ i worked on software for the new area of computerized typesetting  
+ i helped newspapers replace their reporters ' typewriters with computer
+  terminals i 'd write software and then i 'd go out in the field to places like the kansas city star 
+ where i would train users and get feedback this was real world experience that is quite different than what i saw in the lab at mit 
+ after that i was project leader of the software
+ for dec 's first word processor again a new field like with typesetting the
+  important thing was crafting a user interface that was both natural and efficient for noncomputer people to use 
+ after i was at dec  i went to work for a small company that made
+ electronic cash registers for the fast food industry but
+ i had always wanted to start a company with my friend bob frankston that i met on the multics project at mit
+  so i decided to go back to school to learn as much as i could about business and in the fall of 
+ i entered the mba program at harvard business school 
+ i was one of the few percentage of students who had a background in computer programming there 's a picture of me from the yearbook sitting in the front row
+  we learned by the case method we 'd do about three cases a day  
+ cases consist of up to a few dozen pages describing particular business situations  
+ they often have exhibits and exhibits often have words and numbers laid out in ways that make sense for the particular situation 
+ they 're usually all somewhat different  here 's my homework again numbers words
+  laid out in ways that made sense lots of calculations we got really close to our calculators in fact here 's my calculator 
+ for halloween  i went dressed up as a calculator 
+ at the beginning of each class  the professor would call on somebody to present the case 
+ what they would do is they would explain what was going on and then dictate information that the professor would transcribe onto the many motorized blackboards in the front of the class
+  and then we 'd have a discussion one of the really
+ frustrating things is when you 've done all your homework you come in the next day only to find out that you made an error and all of the other numbers you did were wrong 
+ and you couldn 't participate as well  and we were marked by class participation 
+ so  sitting there with eighty seven other people in the class  i got to daydream a lot 
+ most programmers in those days
+  days worked on mainframes building things like
+ inventory systems payroll systems and bill paying systems  but i had worked on interactive word processing and on demand personal computation 
+ instead of thinking about
+ about paper printouts and punch cards  i imagined
+ a magic blackboard that if you erased one number and wrote a new thing in all of the other numbers
+  numbers would automatically change like word processing with numbers  i imagined that my calculator had mouse hardware on the bottom of it
+ and a head up display  like in a fighter plane 
+ and i could type some numbers in and circle it and press the sum button  and right in the middle of a negotiation i 'd be able to get the answer 
+ now i just had to take my fantasy and turn it into reality 
+  father taught me about prototyping he showed me mock ups that he 'd make to figure out the placement on the page for the things for brochures that he was printing 
+ and he 'd use it to get feedback from customers and oks before he sent the job off to the presses  
+ the act of making a simple working version of what you 're trying to build
+ forces you to uncover key problems
+ and it lets you find solutions to those problems much less expensively so
+ i decided to build a prototype  
+ i went to a video terminal connected to harvard 's time sharing system and got to work 
+ one of the first problems that i ran into was how do you represent values in formulas let me show you what i mean 
+ i thought that you would
+ point somewhere type in some words then type in some
+ somewhere else put in some numbers and some more numbers point where you want the answer  and then point to the first press minus point to the second  and get the result 
+ the problem was what should i put in the formula 
+ it had to be something the computer knew what to put in and if you looked at the formula you needed to know where on the screen it referred to
+  first thing i thought was the programmer way of doing it the first time you pointed to somewhere  the computer would ask you to type in a unique name it
+ became pretty clear pretty fast that that was going to be too tedious  the computer had to automatically make up the name and put it inside  
+ so i thought  why not make it be the order in
+  you create them  i tried that value one value two pretty quickly i saw that if you had more than a few values you 'd never remember on the screen where things were then i said  
+ why not instead of allowing you to put values anywhere i
+ 'll restrict you to a grid then when you pointed to a cell  the computer could put the row and column in as a name 
+ and if i did it like a map
+  across the top and numbers along the side if you saw  b7 in a formula you 'd know exactly where it was on the screen  and
+ if you had to type the formula in yourself you 'd know what to do restricting you to a grid helped solve my problem 
+ it also opened up new capabilities like the ability to have ranges of cells  
+ but it wasn 't too restrictive you could still put any value any formula in any cell
+  cell  and that 's the way we do it to this day  almost forty years later  
+ my friend bob and i decided that we were going to build this product together  
+ i did more work figuring out exactly how the program was supposed to behave 
+ i wrote a reference card to act as documentation 
+ it also helped me ensure that the user interface i was defining could be explained concisely and clearly to
+  regular people bob worked in the attic
+ of the apartment he rented in arlington massachusetts this is the inside of the attic  
+ bob bought time on the mit multics system to write computer code on a terminal like this 
+ and then he would download test versions to a borrowed apple ii
+  over a phone line using an acoustic coupler and then we would test for one of these tests
+ i prepared for this case about the pepsi challenge  
+ print wasn 't working yet  so i had to copy everything down  
+ save wasn 't working so every time it crashed i had to type in all of the formulas again over and over again  
+ the next day in class i raised my hand i got called on and i presented the case  i did five year projections  i did all sorts of different scenarios  i aced the case
+  was already useful the professor said how did you do it well  i didn 't want to tell him about our secret program  
+ so i said i took this and added this and multiplied by this and subtracted that
+  to be able to show it to the public my dad printed up a sample reference card that we could use as marketing material in june of 
+ our publisher announced visicalc to the world in a small booth at the giant national computer
+  the new york times had a humorous article about the conference 
+ the machines perform what seem religious rites even as the believers gather the painters in the coliseum sign room are adding to the pantheon  carefully lettering ' visicalc ' in giant black on yellow all hail
+  for about two years  most people didn 't get it yet  but some did in october of 
+ we shipped visicalc 
+ it came in packaging that looked like this and it looked like this running on the apple ii 
+ and the rest as they say is history now  there 's an awful lot more to this story but that 'll have to wait for another day one thing though harvard
+  remembers  here 's that classroom they put up a plaque to commemorate what happened there 
+ but it also serves as a reminder that you
+  should take your unique backgrounds  skills and needs and build prototypes to discover
+ and work out the key problems and through that change the world thank you

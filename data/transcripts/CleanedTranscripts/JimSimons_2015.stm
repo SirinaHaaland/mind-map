@@ -1,0 +1,184 @@
+  were something of a mathematical phenom  you had already taught at harvard and mit at a young age  and then the nsa came calling  what was that about jim simons 
+  national security agency
+ they didn 't exactly come calling they had an operation at princeton where they hired mathematicians to
+ attack secret codes and stuff like that  and i knew that existed  
+ and they had a very good policy because you could do half your time at your own mathematics and
+ at least half your time working on their stuff  and they
+  i got fired because 
+ well the vietnam war was on  and the
+ the boss of bosses in my organization was a big fan of the war and wrote a new york times article
+  cover story about how we would win in vietnam  and i didn
+ 't like that war i thought it was stupid and i wrote a letter to the times which they published saying not everyone
+ who works for maxwell taylor if anyone remembers that name
+ agrees with his views  and i gave my own views
+  said anything but then i was twenty nine years old at this time and some kid came around and said he was a stringer from newsweek magazine and he wanted to interview me
+ and ask
+ what i was doing about my views and i told him i 'm doing mostly mathematics now and when the war is over then i 'll do mostly their stuff
+  i did the only intelligent thing i 'd done that day i
+ told my local boss that i gave that interview and he said what 'd you say and i told him what i said and then
+ he said i 've got to call taylor he called taylor  that took ten minutes  i was fired five minutes after that ca
+ ok js but it wasn 't bad ca it wasn 't bad because you went you went on to stony brook and stepped up
+  of the century i had known him
+ when i was a graduate student at berkeley  and
+ i had some ideas  and i brought them to him and he liked them together we did this work which you can
+ easily
+  i think you told me it had something to do with spheres  so let 's start
+ well it did but i 'll say about that work
+ it did have something to do with that but before we get to that that work
+ was
+ was good mathematics  i was very happy with it so was chern 
+ it even started a little sub field that 's now flourishing but
+  happened to apply to physics something we knew nothing about at least i knew nothing about physics and i don 't think chern knew a heck of a lot and
+ about ten years after the paper came out a guy named ed witten
+ in princeton started applying it to string theory and people in russia started applying it to what 's called condensed matter 
+  spread through a lot of physics and it was amazing  we didn 't know any physics  it never occurred to me that it would be applied to physics but that 's the thing about
+ mathematics you never know where it 's going to go ca this is so incredible so we 've been talking about how evolution shapes human minds that may or may not perceive the truth  somehow you come up with a mathematical theory 
+ not knowing any physics
+  discover two decades later that it 's being applied to profoundly describe the actual physical world   how can that happen js god knows  
+ laughter but there 's a
+ famous physicist named [ eugene ] wigner and he wrote
+ an essay on the unreasonable effectiveness of mathematics 
+  this mathematics which
+ is rooted in the real world in some sense we learn to count measure everyone would do that and then it flourishes on its own 
+ but so often it comes back to save the day 
+ general relativity is an example [ hermann ] minkowski had this geometry and einstein realized hey it 's the very thing in which i can cast general relativity so 
+ you never know
+  what i 'm going to show here was originally observed by [ leonhard ] euler the great mathematician in the 
+ and it gradually grew to be a very important field in mathematics
+  algebraic topology  geometry  that paper up there
+ had its roots in this so here 's this thing it has eight vertices  twelve edges six faces  and if you look at the difference vertices minus edges plus faces
+ you get two ok
+  that 's a good number here 's a different way of doing it these are triangles covering this has twelve vertices and thirty edges
+ and
+ twenty faces  twenty tiles  
+ and vertices minus edges plus faces still equals two and in fact  you could do this any which way cover this thing with all kinds of polygons and triangles and mix them up 
+ and you take vertices minus edges plus
+  faces you 'll get two here 's a different shape this is a torus or the surface of a doughnut  sixteen vertices
+ covered by these rectangles thirty two edges sixteen faces  vertices minus edges comes out 
+ it 'll always come out to zero every time you cover a torus
+  this is called the euler characteristic and it 's what 's called a
+ topological invariant it 's pretty amazing no matter how you do it you 're always get the same answer so that was the first
+ sort of thrust from the 
+ into a subject which is now called algebraic topology ca and your own work took an idea
+  like this and moved it into
+ sort of 
+ instead of
+ the way it was typically done and that led to this work and we uncovered some some new things but if it wasn 't for mr euler
+ who wrote almost seventy volumes of mathematics and had thirteen children who he
+  on his knee while he was writing
+ if it wasn 't for mr euler  there wouldn 't perhaps be
+ these invariants ca ok so that 's at least given us a flavor of that amazing mind in there let
+ 's talk about renaissance because you took that amazing mind and
+ you
+  the financial industry  i think you probably didn 't buy efficient market theory  somehow you found a way of creating
+ astonishing returns over two decades 
+ the way it 's been explained to me what 's remarkable about what you did wasn 't just the size of the returns it 's that you took them with surprisingly low volatility and risk compared with other other hedge funds  so how on earth did you do this jim js
+ i did it
+ by assembling a wonderful group of people
+  doing trading  i had gotten a little tired of mathematics  i was in my late 30s i had a little money  i started trading and it went very well
+ i made quite a lot of money with pure luck  i mean i think it was pure luck it certainly wasn 't mathematical modeling  but in looking at the data 
+ after a while i
+  looks like there 's some structure here  and i hired a few mathematicians and we started making some models just the kind of thing we did
+ back at ida [ institute for defense analyses ] you design an algorithm you test it out on a computer does it
+  on earth could you trade looking at that and see something that wasn 't just random js 
+ in the old days this is kind of a graph from the old days  
+ commodities or currencies had a tendency to trend not necessarily the very light trend you see here but trending in in periods  and if you decided
+  i 'm going to predict today  by the average move in the past
+  twenty days
+ maybe that would be a good prediction and i 'd make some money  and in fact years ago  such a system
+ would work not beautifully  but it would work you 'd make money you 'd lose money you 'd make money but this is a year 's worth of days  and  you 'd
+  you would test a bunch of lengths of trends in time and see whether for example a 10 day trend or a 15 day trend was predictive of what happened next js sure you would
+ try all those things and see what worked best
+  how did you stay ahead of the pack js we stayed ahead of the pack by finding by finding other other approaches
+  approaches to some extent the real thing was to gather a tremendous amount of data and we had to get it by hand
+ in the early days  we went down to the federal
+  reserve and copied
+ interest rate histories and stuff like that because it didn 't exist on computers we got a lot of data 
+ and very smart people that was the key 
+ i didn 't really know how to hire people to do fundamental trading  
+ i had hired a few some made money some didn 't make money  i couldn 't make a business out of that but i did know how to hire scientists because i have some
+  taste in that department  so that 's what we did and gradually these
+ models got better and better and better and better  ca you 're credited with doing something remarkable at renaissance which is building this culture this group of people 
+ who weren 't just hired guns who could be lured away by money their motivation was was doing exciting
+  i 'd hoped that might be true  but
+ some of it was money
+ ca they made a lot of money js i can 't say that that no one came because of the money  i think a lot of them came because of the money but they also came because it would be fun ca 
+ what role did machine learning play in in all this js
+ in a certain sense what we did was machine learning
+ you look at a lot of data and you try to
+ simulate
+ different predictive schemes until you get
+  and better at it it doesn 't necessarily feed back on itself the way we we did things but
+ it worked ca so these different predictive schemes can be really quite quite wild and unexpected
+  we take in terabytes of data a day  and store it away and massage it and get it ready for analysis  
+ you 're looking for anomalies  you 're looking for like you said
+  the efficient market hypothesis is not correct ca but
+ any one anomaly might be just a random thing  so  is the secret here to just look at multiple strange anomalies and see when they align 
+ js any one anomaly might be a random thing however if you have enough data you can tell that it 's not you can see an anomaly
+  persistent for a sufficiently long time the probability of it being
+ random is is not high but these things
+ fade after a while anomalies can get washed out so you have to keep on top of the business ca a lot of people look at the hedge fund industry now and are sort of
+ shocked by it by how much wealth is created there and how much talent is going into it do you have any worries about
+  that industry and perhaps the financial industry in general kind of being on a runaway train that 's that 's i don 't know helping increase inequality
+ how would you
+ champion
+ what 's happening in the hedge fund industry js i think in the last three or four years hedge funds have not done especially well  we 've done dandy but the hedge fund industry as a whole has
+  stock market has been on a roll going up as everybody knows  and
+ price earnings ratios have grown so an awful lot of the wealth that 's been created in the last let 's say five or six years has not been created by hedge
+  percent fixed fee and twenty percent of profits hedge funds are all different kinds of creatures ca rumor has it you charge slightly higher fees than that 
+ js we charged the highest fees in the world at one
+  but at a certain point as i think i told you we bought out all the investors because there 's a capacity
+  but should we worry about the hedge fund industry attracting too much of the world 's great mathematical and other talent to work
+  on that  as opposed to the many other problems in the world js well it 's not just mathematical  we hire astronomers and physicists and
+ things like that 
+ i don 't think we should worry about it too much it 's still a pretty small industry and in fact  bringing
+ science into the investing world
+  has improved that world it 's reduced volatility it 's increased liquidity  
+ spreads are narrower because people are trading that kind of stuff so i 'm not too worried about einstein going off and
+ starting a hedge fund ca you 're at a phase in your life now where you 're actually investing though at the other end of the supply chain you 're
+ actually boosting mathematics
+  marilyn started there she is up there my beautiful wife
+ she started the foundation about twenty years ago  i think ' ninety four i claim it was ' ninety three she says it was ' ninety four but it was one of those two years
+  as a convenient way to give charity  she kept the books and so on we did not have a
+ vision at that time but gradually a vision emerged which was to focus on math and science to focus on basic research
+  six years ago or so i left renaissance
+ and went to work at the foundation  so that 's what we do ca and so math for america is basically investing in
+ math teachers around the country  giving them some extra income giving them support and coaching and really trying to make that more effective and make that a calling to which teachers can aspire
+  up the bad teachers which has created
+ morale problems all through the educational community 
+ in particular in math and science  we focus on celebrating the good ones and and giving them
+ status  
+ yeah we give them extra money  fifteen thousand dollars a year we have eight hundred math and science teachers in new york city in public schools today as part of a core 
+  there 's a great morale among them they 're staying in the field 
+ next year it 'll be one thousand and that 'll be ten percent of the math and science teachers in new york
+  how did we get here and the other question is what did we start with what material if any did we have to work with on this route
+  are two very very interesting questions the first question is a tortuous path from
+ from geology up to rna or something like that how that how did that all work and the other what do we have to work with well  more than we think so what 's pictured there
+ is a star in
+  every year in our milky way which has one hundred billion stars about two new stars are created don 't ask me how but they 're created 
+ and it takes them about a million years to settle out 
+ so 
+ in steady state there are about two million stars in formation at any time that one is somewhere along this settling down period 
+ and there 's all this crap sort of circling around it dust and stuff
+  probably a solar system or whatever it forms but here 's the thing
+ in this dust that
+ surrounds a forming star have been found 
+ now significant organic molecules molecules not just like methane
+  formaldehyde and cyanide things that are the building blocks
+ the seeds  if you will of life so that may be typical and it may be typical that
+ planets
+ around the universe
+ start off with some of these basic building blocks now does that mean there 's going to be life all around maybe
+  but it 's a question of how tortuous this path is from those frail beginnings those seeds all the way to life and most of those seeds will fall on fallow
+ planets ca so for you personally finding an answer to this question of where we came from of how did this thing happen that
+ something you would love to see js would love to see and like to know
+ if that path is tortuous enough  and so improbable that no matter what you start with
+ we could be a singularity but on the other hand given all this organic dust that 's floating around  we could have
+  the secret of his success and he said taking physics seriously
+ was it listening to you what i hear you saying is taking math seriously that has
+ infused your whole life it 's made you an absolute fortune and now it 's allowing you to invest in the futures of
+  thousands and thousands of kids across america and elsewhere could it be that science actually works that math actually
+ works js well math certainly works
+ math certainly works  but this has been fun working with marilyn and
+ giving it away has been
+ very enjoyable ca i just find it it 's an inspirational thought to me that by taking knowledge seriously so much more can come from it so thank you for your amazing life and for coming here to ted
