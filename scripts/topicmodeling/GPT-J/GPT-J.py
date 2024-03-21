@@ -15,7 +15,7 @@ model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B")
 directory_path = '../../../data/transcripts/CleanedTranscripts'
 topic_mappings = {}  # map each topic to a list of file names associated with that topic
 
-for file_name in os.listdir(directory_path):
+for file_name in os.listdir(directory_path)[:100]:
     file_path = os.path.join(directory_path, file_name)
     with open(file_path, 'r', encoding='utf-8') as file:
         transcript_text = file.read()  # Read the entire content of the file into a single string
