@@ -12,6 +12,8 @@ def preprocess_text(text):
 tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
 model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B")
 
+tokenizer.pad_token = tokenizer.eos_token  # set the padding token to the end-of-sequence token
+
 directory_path = '../../../data/transcripts/CleanedTranscripts'
 topic_mappings = {}  # map each topic to a list of file names associated with that topic
 

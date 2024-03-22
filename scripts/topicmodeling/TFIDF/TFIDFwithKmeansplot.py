@@ -11,7 +11,7 @@ sorted_topics = sorted(topic_mappings.items(), key=lambda item: len(item[1]), re
 topics_list = [f'{idx + 1}. {topic.strip()}: {len(files)}' for idx, (topic, files) in enumerate(sorted_topics)]
 
 def create_topic_image(topics_list, output_path):
-    modelname = "TFIDF with LDA Topic Model\n"
+    modelname = "TFIDF with Kmeans Topic Model\n"
     header = "Nr. Topic: Count"
     full_text = modelname + "\n" + header + "\n" + "\n".join(topics_list)
     # Adjust figure height based on the number of topics

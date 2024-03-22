@@ -1,7 +1,11 @@
 #venv/
 #data/
-data/audio/
-#data/transcripts/
+data/AudioMp3/
+data/transcripts/CleanedTranscripts
+data/transcripts/RawTranscripts
+data/Duplicates/DuplicateRawTranscripts
+data/Duplicates/DuplicateCleanedTranscripts
+data/Duplicates/DuplicateAudio
 env/
 .vscode/
 Experimental/

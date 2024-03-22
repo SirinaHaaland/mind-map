@@ -2,7 +2,7 @@ import json
 import matplotlib.pyplot as plt
 
 # load the topic mappings from the JSON file
-with open('C:/Users/sirin/DATBAC-1/STG0006948/scripts/topicmodeling/TFIDFwithStopwords/tfidf_kmeans_stopwords_topic_mappings.json', 'r', encoding='utf-8') as f:
+with open('C:/Users/sirin/DATBAC-1/STG0006948/scripts/topicmodeling/BERTopic/bert_topic3_mappings.json', 'r', encoding='utf-8') as f:
     topic_mappings = json.load(f)
 
 # Sort topics by the number of files, in descending order
@@ -11,7 +11,7 @@ sorted_topics = sorted(topic_mappings.items(), key=lambda item: len(item[1]), re
 topics_list = [f'{idx + 1}. {topic.strip()}: {len(files)}' for idx, (topic, files) in enumerate(sorted_topics)]
 
 def create_topic_image(topics_list, output_path):
-    modelname = "TFIDF with Kmeans and stopwords Topic Model\n"
+    modelname = "BERTopic Topic Model with parametres:\ntopic_model = BERTopic(language="'english'", n_gram_range=(1, 2), min_topic_size=6, nr_topics=300)"
     header = "Nr. Topic: Count"
     full_text = modelname + "\n" + header + "\n" + "\n".join(topics_list)
     # Adjust figure height based on the number of topics
@@ -23,7 +23,7 @@ def create_topic_image(topics_list, output_path):
     plt.savefig(output_path, bbox_inches='tight')
 
 # Specify the output path for the generated image
-output_path = 'C:/Users/sirin/DATBAC-1/STG0006948/scripts/topicmodeling/TFIDFwithStopwords/TFIDF_Kmeans_Stopwords_plot.png'
+output_path = 'C:/Users/sirin/DATBAC-1/STG0006948/scripts/topicmodeling/BERTopic/BERTopic3plot.png'
 create_topic_image(topics_list, output_path)
 
 """

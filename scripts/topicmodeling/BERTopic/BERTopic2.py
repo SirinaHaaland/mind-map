@@ -20,7 +20,11 @@ if __name__ == '__main__':
     transcripts, file_names = preprocess(directory)
 
     # Initialize BERTopic
-    topic_model = BERTopic(language="english", n_gram_range=(1, 2), min_topic_size=4, nr_topics=1000)
+    # min_topic_size=5: minimum number of documents in a topic
+    # not possible to set maximum number of documents in a topic
+    # nr_topics=230: number of topics to find, has no effect
+    topic_model = BERTopic(language="english", n_gram_range=(1, 2), min_topic_size=5, nr_topics=230)
+
     topics, _ = topic_model.fit_transform(transcripts)
 
     # Save the model and topics
@@ -36,7 +40,7 @@ if __name__ == '__main__':
                 topics_to_filenames[top_word] = []
             topics_to_filenames[top_word].append(filename)
     
-    with open('bert_topic_mappings.json', 'w', encoding='utf-8') as f:
+    with open('bert_topic2_mappings.json', 'w', encoding='utf-8') as f:
         json.dump(topics_to_filenames, f, ensure_ascii=False, indent=4)
     
     for top_word, filenames in topics_to_filenames.items():
