@@ -1,10 +1,3 @@
-"""
-The aim of LDA is to find topics a document belongs to, based on the words in it.
-The words in a document has a frequency of occurrence. LDA calculates the probability 
-that a word belongs to a topic. We then sort the words with respect to their probability 
-score. The top x words are chosen from each topic to represent the topic.
-https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
-"""
 import os
 import re
 import json
@@ -67,7 +60,7 @@ if __name__ == '__main__':
     dictionary = corpora.Dictionary(transcripts) #Creates a Gensim dictionary from the transcripts. This dictionary maps each unique token (word) in the transcripts to a unique integer ID. Necessary for converting the transcripts into a numerical format that can be used for LDA analysis.
     corpus = [dictionary.doc2bow(text) for text in transcripts] #Converts each transcript into the Bag-of-Words (BoW) format using the previously created dictionary. The BoW model represents each document as a vector of token frequencies, ignoring the order of words but maintaining the information about word occurrences. doc2bow converts the transcript into a sparse representation of the token IDs and their frequencies in the document.
 
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=300, id2word=dictionary, passes=15) #Initializes and trains the LDA model on the corpus. This model will try to find 300 topics in the corpus. The id2word parameter is the dictionary that maps IDs to tokens, necessary for interpreting the topics. The passes parameter defines how many times the model iterates over the entire corpus during training, with more passes potentially leading to a better model at the cost of longer training time.
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=3000, id2word=dictionary, passes=15) #Initializes and trains the LDA model on the corpus. This model will try to find 300 topics in the corpus. The id2word parameter is the dictionary that maps IDs to tokens, necessary for interpreting the topics. The passes parameter defines how many times the model iterates over the entire corpus during training, with more passes potentially leading to a better model at the cost of longer training time.
 
     coherence_model_lda = CoherenceModel(model=ldamodel, texts=transcripts, dictionary=dictionary, coherence='c_v') #Initializes a Coherence Model using the trained LDA model, the preprocessed transcripts, and the Gensim dictionary. The coherence measure used is 'c_v', a popular choice for evaluating topic models. This measure assesses the coherence of the topics identified by the model, essentially estimating how meaningful the topics are by examining the degree of semantic similarity between high scoring words within each topic.
     coherence_lda = coherence_model_lda.get_coherence() #Calculates the coherence score of the LDA model based on the 'c_v' measure. A higher coherence score indicates that the topics are more interpretable and meaningful, suggesting that the model does a good job of capturing the thematic structure of the corpus.
@@ -91,7 +84,7 @@ if __name__ == '__main__':
         simplified_word = simplified_topics[topic_id]
         transcripts_to_simplified_topics.setdefault(simplified_word, []).append(filename)
 
-    output_file_path = 'lda_topic_mappings.json'  
+    output_file_path = 'LDAforIMAGEgen_topic_mappings.json'  
     with open(output_file_path, 'w', encoding='utf-8') as f:
         json.dump(transcripts_to_simplified_topics, f, ensure_ascii=False, indent=4)
 

@@ -1,18 +1,621 @@
 {
-    "67": [
+    "cased": [
+        "BlaiseAguerayArcas_2010.stm"
+    ],
+    "pubblico": [
+        "AnthonyDRomero_2017.stm"
+    ],
+    "bioluminous": [
+        "ShihChiehHuang_2014U.stm"
+    ],
+    "traveller": [
+        "BruceFeiler_2010P.stm"
+    ],
+    "adlai": [
+        "PaulaScher_2008P.stm"
+    ],
+    "laughlin": [
+        "TimFerriss_2008P.stm"
+    ],
+    "usefully": [
+        "MichaelArcher_2013X.stm"
+    ],
+    "sulaiman": [
+        "IrwinRedlener_2008.stm"
+    ],
+    "muktuk": [
+        "JonathanHarris_2007P.stm"
+    ],
+    "wii": [
+        "JohnnyLee_2008.stm"
+    ],
+    "beamers": [
+        "RayKurzweil_2005.stm"
+    ],
+    "reanalyzed": [
+        "RebeccaBrachman_2016X.stm"
+    ],
+    "rhodopsin": [
+        "ProsantaChakrabarty_2016U.stm"
+    ],
+    "exhortation": [
+        "ElizabethLev_2015G.stm"
+    ],
+    "sourcebook": [
+        "NormanFoster_2007P.stm"
+    ],
+    "cdo": [
+        "JamesFlynn_2013.stm"
+    ],
+    "bookstall": [
+        "DanDennett_2006.stm"
+    ],
+    "welwitschia": [
+        "RachelSussman_2010G.stm"
+    ],
+    "unscramble": [
+        "SebastianSeung_2010G.stm"
+    ],
+    "doozies": [
+        "BrianGoldman_2011X.stm"
+    ],
+    "johnnie": [
+        "BryanStevenson_2012.stm"
+    ],
+    "unsuspected": [
+        "MichaelMerzenich_2004.stm"
+    ],
+    "fairground": [
+        "AdamDriver_2015P.stm"
+    ],
+    "sunspot": [
+        "LucianneWalkowicz_2011G.stm"
+    ],
+    "fullerton": [
+        "EricWhitacre_2013.stm"
+    ],
+    "frapped": [
+        "NuclearDebate_2010.stm"
+    ],
+    "clack": [
+        "RicElias_2011U.stm"
+    ],
+    "commutation": [
+        "TheLadyLifers_2014X.stm"
+    ],
+    "hardiness": [
+        "PaulWolpe_2010X.stm"
+    ],
+    "dishonored": [
+        "ThordisElvaandTomStranger_2016W.stm"
+    ],
+    "angelmed": [
+        "RobertFischell_2005.stm"
+    ],
+    "hungrily": [
+        "RobertNeuwirth_2005.stm",
+        "RobertNeuwirth_2005G.stm"
+    ],
+    "prototaxites": [
+        "PaulStamets_2008.stm"
+    ],
+    "bonehead": [
+        "ThomasBarnett_2005.stm"
+    ],
+    "succumbing": [
+        "MartinReeves_2016S.stm"
+    ],
+    "hector": [
+        "KarenArmstrong_2008.stm"
+    ],
+    "fitzherbert": [
+        "RoryStewart_2011G.stm"
+    ],
+    "granddaddy": [
+        "Jennifer8Lee_2008P.stm",
+        "Jenny8Lee_2008P.stm"
+    ],
+    "alls": [
+        "KenJennings_2013X.stm"
+    ],
+    "carmody": [
+        "PaolaAntonelli_2013S.stm"
+    ],
+    "billow": [
+        "EdithWidder_2010Z.stm",
+        "EWidder_2010Z.stm"
+    ],
+    "bedevil": [
+        "DanGilbert_2005G.stm"
+    ],
+    "contorted": [
+        "EleanorLongden_2013.stm"
+    ],
+    "fabs": [
+        "AmoryLovins_2012S.stm"
+    ],
+    "archaeas": [
+        "KevinKelly_2005.stm"
+    ],
+    "pryor": [
+        "ChrisBliss_2011X.stm"
+    ],
+    "maggoting": [
+        "RobertThurman_2009P.stm"
+    ],
+    "adherent": [
+        "KarimaBennoune_2014X.stm"
+    ],
+    "irredeemable": [
+        "DanielReisel_2013.stm"
+    ],
+    "heretofore": [
+        "LarryBrilliant_2006.stm"
+    ],
+    "tacky": [
+        "StevenPinker_2003.stm"
+    ],
+    "croatian": [
+        "KavitaRamdas_2009I.stm",
+        "KRamdas_2009I.stm"
+    ],
+    "pittsfield": [
+        "DaveEggers_2008.stm"
+    ],
+    "discolor": [
+        "PeterHirschberg_2007P.stm"
+    ],
+    "brookhaven": [
+        "StephenPetranek_2002.stm",
+        "StevenPetranek_2002.stm"
+    ],
+    "zolli": [
+        "CameronSinclair_2006.stm"
+    ],
+    "lepper": [
+        "SheenaIyengar_2010G.stm"
+    ],
+    "degredation": [
+        "JohanRockstroem_2010G.stm"
+    ],
+    "elapsed": [
+        "MartinRees_2005G.stm"
+    ],
+    "sybrina": [
+        "TMorganDixonandVanessaGarrison_2017.stm"
+    ],
+    "elm": [
+        "DerekSivers_2009I.stm"
+    ],
+    "uncurious": [
+        "GretchenCarlsonandDavidBrooks_2017S.stm"
+    ],
+    "jayson": [
+        "DavidPogue_2008P.stm"
+    ],
+    "constructional": [
+        "ThomMayne_2005.stm"
+    ],
+    "mcewan": [
+        "BenCameron_2010X.stm"
+    ],
+    "recoiled": [
+        "JanePoynter_2009.stm",
+        "JanePoynter_2009X.stm"
+    ],
+    "cahuinari": [
+        "MarkPlotkin_2014G.stm"
+    ],
+    "unambiguously": [
+        "PaulSnelgrove_2011G.stm"
+    ],
+    "muscat": [
+        "ParagKhanna_2016.stm"
+    ],
+    "summa": [
+        "StuartBrown_2008P.stm"
+    ],
+    "intruding": [
+        "MiruKim_2008P.stm"
+    ],
+    "jeremijenko": [
+        "NatalieJeremijenko_2009P.stm"
+    ],
+    "tetchy": [
+        "RichardDawkins_2002.stm"
+    ],
+    "demoralize": [
+        "BarrySchwartz_2010S.stm"
+    ],
+    "casualness": [
+        "JohnGerzema_2009X.stm"
+    ],
+    "vermillion": [
+        "HarryBaker_2014X.stm"
+    ],
+    "basingstoke": [
+        "SherwinNuland_2001.stm"
+    ],
+    "blackwater": [
+        "MacStone_2015X.stm"
+    ],
+    "belowground": [
+        "SuzanneSimard_2016T.stm"
+    ],
+    "sleet": [
+        "SylviaEarle_2009.stm"
+    ],
+    "bogotanos": [
+        "MajoraCarter_2006.stm"
+    ],
+    "genealogist": [
+        "SpencerWells_2007G.stm"
+    ],
+    "thermoform": [
+        "AmoryLovins_2005.stm"
+    ],
+    "spurting": [
+        "DavidAutor_2016X.stm"
+    ],
+    "alasdair": [
+        "DavidBrooks_2011.stm"
+    ],
+    "neorest": [
+        "BenjaminWallace_2008P.stm"
+    ],
+    "admonishing": [
+        "GarrettLisi_2008.stm"
+    ],
+    "subdivide": [
+        "AaronHuey_2010X.stm"
+    ],
+    "sundae": [
+        "AndrewSolomon_2014.stm"
+    ],
+    "noncommunicable": [
+        "JaredDiamond_2013.stm"
+    ],
+    "dolmatoff": [
+        "WadeDavis_2008.stm"
+    ],
+    "poly": [
+        "JonMooallem_2014.stm"
+    ],
+    "ellsworth": [
+        "DanBuettner_2009X.stm"
+    ],
+    "waistband": [
+        "DameEllenMacArthur_2015.stm"
+    ],
+    "crass": [
+        "NaomiKlein_2010W.stm"
+    ],
+    "vigilance": [
+        "RussellFoster_2013G.stm"
+    ],
+    "restitching": [
+        "JuanEnriquez_2003.stm"
+    ],
+    "antiangiogenic": [
+        "WilliamLi_2010.stm"
+    ],
+    "wala": [
+        "ShashiTharoor_2009I.stm"
+    ],
+    "manger": [
+        "EricXLi_2013G.stm"
+    ],
+    "georeference": [
+        "EricSanderson_2009G.stm"
+    ],
+    "absorptive": [
+        "LizDiller_2007P.stm"
+    ],
+    "nadelmann": [
+        "EthanNadelmann_2014G.stm"
+    ],
+    "gladiatorial": [
+        "CarlHonore_2005G.stm"
+    ],
+    "igneous": [
+        "KennethLacovara_2016.stm"
+    ],
+    "pissing": [
+        "DorisKearnsGoodwin_2008.stm"
+    ],
+    "guerrouj": [
+        "DavidEpstein_2014.stm"
+    ],
+    "globalism": [
+        "YuvalNoahHarari_2017S.stm"
+    ],
+    "blobism": [
+        "RossLovegrove_2005.stm"
+    ],
+    "stuckey": [
+        "DavidCarson_2003.stm"
+    ],
+    "brimstone": [
+        "ShereenElFeki_2013G.stm"
+    ],
+    "antiquus": [
+        "GeorgeMonbiot_2013G.stm"
+    ],
+    "myeloid": [
+        "RichardResnick_2011X.stm"
+    ],
+    "dexterously": [
+        "DanielWolpert_2011G.stm"
+    ],
+    "risible": [
+        "BenDunlap_2007.stm"
+    ],
+    "unselfish": [
+        "JohnWooden_2001.stm"
+    ],
+    "depo": [
+        "BillGates_2014.stm"
+    ],
+    "megan": [
+        "EdwardBurtynsky_2005.stm"
+    ],
+    "finery": [
+        "JaneGoodall_2002.stm"
+    ],
+    "nullity": [
+        "AndrewSolomon_2013X.stm"
+    ],
+    "bailing": [
+        "GeoffMulgan_2009G.stm"
+    ],
+    "sidestepped": [
+        "Sting_2014.stm"
+    ],
+    "medelln": [
+        "RobertMuggah_2014G.stm"
+    ],
+    "calloused": [
+        "MikeRowe_2008P.stm"
+    ],
+    "chumminess": [
+        "MargaretHeffernan_2015W.stm"
+    ],
+    "janjaweed": [
+        "SamanthaPower_2008.stm"
+    ],
+    "eatwise": [
+        "AnnCooper_2007P.stm"
+    ],
+    "leasing": [
+        "ParagKhanna_2009G.stm"
+    ],
+    "specialness": [
+        "SamHarris_2010.stm"
+    ],
+    "perseus": [
+        "JonathanHarris_2007.stm"
+    ],
+    "fashionista": [
+        "JohannaBlakley_2009X.stm",
+        "JohannaBlakley_2010X.stm"
+    ],
+    "fizz": [
+        "BobbyGhosh_2012X.stm"
+    ],
+    "underwrite": [
+        "MishaGlenny_2009G.stm"
+    ],
+    "applauds": [
+        "JonRonson_2015G.stm"
+    ],
+    "engels": [
+        "YangLan_2011G.stm"
+    ],
+    "swifton": [
+        "SheaHembrey_2011.stm"
+    ],
+    "algarve": [
+        "JohnHodgman_2008.stm"
+    ],
+    "battisti": [
+        "PeterWard_2008.stm"
+    ],
+    "coevolves": [
+        "SusanBlackmore_2008.stm"
+    ],
+    "djinn": [
+        "ElifShafak_2010G.stm"
+    ],
+    "counteractive": [
+        "LaurieGarrett_2007U.stm"
+    ],
+    "lokvi": [
+        "SteveKeil_2011X.stm"
+    ],
+    "suraj": [
+        "JacquelineNovogratz_2010W.stm"
+    ],
+    "rudolph": [
+        "WillPotter_2015F.stm"
+    ],
+    "sica": [
+        "BeebanKidron_2012S.stm"
+    ],
+    "stomping": [
+        "GregoryStock_2003.stm"
+    ],
+    "lawyerly": [
+        "DanielPink_2009G.stm"
+    ],
+    "fervor": [
+        "EstherPerel_2015.stm"
+    ],
+    "phthalate": [
+        "MirandaWang_2013.stm"
+    ],
+    "ecosia": [
+        "TimJackson_2010G.stm"
+    ],
+    "polarizes": [
+        "JonathanHaidt_2012S.stm"
+    ],
+    "bucardo": [
+        "StewartBrand_2013.stm"
+    ],
+    "gantos": [
+        "JarrettJKrosoczka_2012X.stm"
+    ],
+    "yeeyan": [
+        "EthanZuckerman_2010G.stm"
+    ],
+    "shenandoah": [
+        "MichaelPollan_2007.stm"
+    ],
+    "flourmill": [
+        "AnilGupta_2009I.stm"
+    ],
+    "saboteur": [
+        "JohnHunter_2011.stm"
+    ],
+    "impoundment": [
+        "GarthLenz_2011X.stm"
+    ],
+    "outvoted": [
+        "MarkBittman_2007P.stm"
+    ],
+    "simonides": [
+        "JoshuaFoer_2012.stm"
+    ],
+    "barnabas": [
+        "BJMiller_2015.stm"
+    ],
+    "soullessness": [
+        "GlennGreenwald_2014G.stm"
+    ],
+    "bioscience": [
+        "JamaisCascio_2006.stm"
+    ],
+    "abetting": [
+        "KevinBales_2010.stm"
+    ],
+    "darkmarket": [
+        "MishaGlenny_2011G.stm"
+    ],
+    "diagrammatically": [
+        "NinaFedoroff_2016X.stm"
+    ],
+    "electrifies": [
+        "DanBarber_2008P.stm"
+    ],
+    "jura": [
+        "TarynSimon_2011S.stm"
+    ],
+    "westboro": [
+        "MeganPhelpsRoper_2017S.stm"
+    ],
+    "forwardly": [
+        "ElynSaks_2012G.stm"
+    ],
+    "boogeremia": [
+        "JoeDeRisi_2006.stm"
+    ],
+    "intransigence": [
+        "StefanWolff_2010G.stm"
+    ],
+    "hilltop": [
+        "MichaelMurphy_2016.stm"
+    ],
+    "fanfare": [
+        "ShyamSankar_2012G.stm"
+    ],
+    "feasted": [
+        "FelixDennis_2004.stm"
+    ],
+    "lurked": [
+        "ParulSehgal_2013S.stm"
+    ],
+    "turrentine": [
+        "BillStrickland_2002.stm"
+    ],
+    "exhibitional": [
+        "OleScheeren_2015G.stm"
+    ],
+    "bookmarking": [
+        "ClayShirky_2005G.stm"
+    ],
+    "secession": [
+        "AnandGiridharadas_2015.stm"
+    ],
+    "caters": [
+        "BethNoveck_2012G.stm"
+    ],
+    "jovians": [
+        "CharlesFleischer_2005.stm"
+    ],
+    "mpas": [
+        "GregStone_2010Z.stm"
+    ],
+    "neuroleptic": [
+        "MichaelShermer_2010.stm"
+    ],
+    "penfield": [
+        "MathieuLehanneur_2009G.stm"
+    ],
+    "squeaked": [
+        "PeterTyack_2010Z.stm"
+    ],
+    "philo": [
+        "CarlSafina_2015Z.stm"
+    ],
+    "thicken": [
+        "RobertBallard_2008.stm"
+    ],
+    "canutt": [
+        "SteveTruglia_2009G.stm"
+    ],
+    "yokneam": [
+        "ShimonSchocken_2010X.stm"
+    ],
+    "lewinsky": [
+        "PamelaMeyer_2011G.stm"
+    ],
+    "spermatazoi": [
+        "PaolaAntonelli_2007P.stm"
+    ],
+    "marshmallow": [
+        "JoachimdePosada_2009U.stm"
+    ],
+    "hogarth": [
+        "StevenJohnson_2010G.stm"
+    ],
+    "longley": [
+        "DavidGruber_2015Z.stm"
+    ],
+    "microsofts": [
+        "DavidPogue_2006.stm"
+    ],
+    "masaru": [
+        "MihalyCsikszentmihalyi_2004.stm"
+    ],
+    "ites": [
+        "JamesNachtwey_2007.stm"
+    ],
+    "vacuity": [
+        "JimHolt_2014.stm"
+    ],
+    "one": [
         "911Mothers_2010W.stm",
         "AalaElKhani_2016X.stm",
-        "AaronHuey_2010X.stm",
         "AaronKoblin_2011.stm",
         "AaronOConnell_2011.stm",
         "AbeDavis_2015.stm",
         "AbhaDawesar_2013G.stm",
         "AbigailMarsh_2016T.stm",
         "AbigailWashburn_2012U.stm",
+        "AbrahamVerghese_2011G.stm",
         "AchenyoIdachaba_2015W.stm",
         "AdamDavidson_2012S.stm",
         "AdamdelaZerda_2016X.stm",
-        "AdamDriver_2015P.stm",
         "AdamFoss_2016.stm",
         "AdamGalinsky_2016X.stm",
         "AdamGarone_2011X.stm",
@@ -32,9 +635,11 @@
         "AimeeMullins_1998.stm",
         "AimeeMullins_2009U.stm",
         "AjitNarayanan_2013.stm",
+        "AJJacobs_2007P.stm",
         "AJJacobs_2011P.stm",
         "AJJacobs_2014A.stm",
         "AlaaMurabit_2015W.stm",
+        "AlaindeBotton_2009G.stm",
         "AlaindeBotton_2011G.stm",
         "AlanEustace_2015.stm",
         "AlanKay_2007.stm",
@@ -56,10 +661,12 @@
         "AlexisOhanian_2009I.stm",
         "AlexKipman_2016.stm",
         "AlexLaskey_2013.stm",
+        "AlexSteffen_2005G.stm",
         "AlexSteffen_2011G.stm",
         "AlexTabarrok_2009.stm",
         "AlexWissnerGross_2013X.stm",
         "AlGore_2006.stm",
+        "AlGore_2008.stm",
         "AlGore_2016.stm",
         "AliCarrChellman_2010X.stm",
         "AliceBowsLarkin_2015G.stm",
@@ -69,6 +676,7 @@
         "AliciaGarzaandPatrisseCullorsandOpalTometi_2016W.stm",
         "AlisaMiller_2008.stm",
         "AlisonGopnik_2011G.stm",
+        "AlisonJackson_2005G.stm",
         "AlisonKilling_2014U.stm",
         "AlisonKilling_2014X.stm",
         "AlixGenerous_2015W.stm",
@@ -91,17 +699,17 @@
         "AmiKlin_2011X.stm",
         "AmitSood_2011.stm",
         "AmitSood_2016.stm",
-        "AmoryLovins_2005.stm",
         "AmosWinter_2012X.stm",
         "AmyAdeleHasinoff_2016X.stm",
+        "AmyCuddy_2012G.stm",
         "AmyGreen_2017S.stm",
         "AmyLockwood_2011G.stm",
         "AmyPurdy_2011X.stm",
         "AmySmith_2006.stm",
         "AmyTan_2008.stm",
+        "AmyWebb_2013S.stm",
         "AnandAgarawala_2007.stm",
         "AnandaShankar_2009I.stm",
-        "AnandGiridharadas_2015.stm",
         "AnandGiridharadas_2016T.stm",
         "AnandVarma_2015.stm",
         "AnantAgarwal_2013G.stm",
@@ -123,9 +731,8 @@
         "AndrewFitzgerald_2013S.stm",
         "AndrewMcAfee_2012X.stm",
         "AndrewMcAfee_2013.stm",
+        "AndrewMwenda_2007G.stm",
         "AndrewPelling_2016U.stm",
-        "AndrewSolomon_2013X.stm",
-        "AndrewSolomon_2014.stm",
         "AndrewYoun_2016.stm",
         "AndyHobsbawm_2008.stm",
         "AndyPuddicombe_2012S.stm",
@@ -140,19 +747,18 @@
         "AnjaliTripathi_2015X.stm",
         "AnnaDeavereSmith_2005.stm",
         "AnnaMracekDietrich_2011G.stm",
-        "AnnCooper_2007P.stm",
         "AnneCurzan_2014X.stm",
         "AnneLamott_2017.stm",
         "AnneMarieSlaughter_2013G.stm",
         "AnneMilgram_2013S.stm",
         "AnnetteHeuser_2013G.stm",
         "AnnieLennox_2010G.stm",
+        "AnnieMurphyPaul_2011G.stm",
         "AnnMarieThomas_2011.stm",
         "AnnMorgan_2015G.stm",
         "AnoteTong_2015Z.stm",
         "AnthonyAtala_2009P.stm",
         "AnthonyAtala_2011.stm",
-        "AnthonyDRomero_2017.stm",
         "AnthonyGoldbloom_2016U.stm",
         "AntonioDamasio_2011.stm",
         "AntonioGuterres_2015G.stm",
@@ -163,6 +769,7 @@
         "AparnaRao_2013U.stm",
         "ApolloRobbins_2013G.stm",
         "AriannaHuffington_2010W.stm",
+        "ArielGarten_2011X.stm",
         "ArisVenetikidis_2012X.stm",
         "AriWallach_2016X.stm",
         "ArthurBenjamin_2005.stm",
@@ -177,7 +784,7 @@
         "AshBeckham_2013X.stm",
         "AshBeckham_2014X.stm",
         "AsherHasan_2009I.stm",
-        "AshrafGhani_2005G.stm",
+        "AshleyJudd_2016W.stm",
         "AshtonCofer_2016Y.stm",
         "AspenBaker_2015W.stm",
         "AstroTeller_2016.stm",
@@ -187,7 +794,6 @@
         "AukeIjspeert_2015G.stm",
         "AuretvanHeerden_2010G.stm",
         "AviReichental_2014.stm",
-        "AviRubin_2011X.stm",
         "AyahBdeir_2012U.stm",
         "AzizAbuSarah_2014U.stm",
         "AzizaChaouni_2014U.stm",
@@ -195,7 +801,6 @@
         "BahiaShehab_2012G.stm",
         "BandiMbubi_2012X.stm",
         "BaratAliBatoor_2014X.stm",
-        "BarbaraBlock_2010Z.stm",
         "BarbaraNattersonHorowitz_2014P.stm",
         "BarrySchuler_2008P.stm",
         "BarrySchwartz_2009.stm",
@@ -211,7 +816,6 @@
         "BeauLotto_2012G.stm",
         "BecciManson_2012G.stm",
         "BeckyBlanton_2009G.stm",
-        "BeebanKidron_2012S.stm",
         "BelPesce_2014U.stm",
         "BenAmbridge_2014X.stm",
         "BenedettaBerti_2015U.stm",
@@ -222,54 +826,52 @@
         "BenKacyra_2011G.stm",
         "BenKatchor_2002.stm",
         "BenoitMandelbrot_2010.stm",
+        "BenSaunders_2005.stm",
         "BenSaunders_2012S.stm",
+        "BenSaunders_2014.stm",
         "BenWellington_2014X.stm",
         "BernieKrause_2013G.stm",
         "BertrandPiccard_2009G.stm",
         "BettinaWarburg_2016T.stm",
         "BeverlyJoubertandDereckJoubert_2010W.stm",
         "BilalBomani_2011X.stm",
+        "BillClinton_2007.stm",
         "BillDavenhall_2009P.stm",
         "BillDoyle_2011P.stm",
         "BillFord_2011.stm",
         "BillGates_2009.stm",
         "BillGates_2011U.stm",
         "BillGates_2013S.stm",
-        "BillGates_2014.stm",
         "BillGates_2015.stm",
         "BillGross_2003.stm",
         "BillGross_2015U.stm",
         "BillieJeanKing_2015W.stm",
         "BillJoy_2006.stm",
         "BillStone_2007.stm",
-        "BillStrickland_2002.stm",
-        "BillyCollins_2012.stm",
         "BillyCollins_2014.stm",
+        "BillyGraham_1998.stm",
         "BirkeBaehr_2010X.stm",
         "BjarkeIngels_2009G.stm",
-        "BJMiller_2015.stm",
         "BjornLomborg_2005.stm",
         "BLACK_2013.stm",
-        "BlaiseAguerayArcas_2010.stm",
         "BlaiseAguerayArcas_2016S.stm",
         "BoazAlmog_2012G.stm",
-        "BobbyGhosh_2012X.stm",
         "BobMankoff_2013S.stm",
         "BobThurman_2006S.stm",
         "BoghumaKabisenTitanji_2012X.stm",
         "BonifaceMwangi_2014U.stm",
         "BonnieBassler_2009.stm",
-        "Bono_2005.stm",
         "Bono_2013.stm",
         "BoydVarty_2013W.stm",
+        "BranFerren_2014.stm",
         "BrendaBrathwaite_2011X.stm",
         "BrendaLaurel_1998.stm",
         "BreneBrown_2010X.stm",
+        "BreneBrown_2012.stm",
         "BrewsterKahle_2007P.stm",
         "BrianCox_2008.stm",
         "BrianCox_2010S.stm",
         "BrianDettmer_2014Y.stm",
-        "BrianGoldman_2011X.stm",
         "BrianGreene_2005.stm",
         "BrianGreene_2012.stm",
         "BrianLittle_2016.stm",
@@ -279,6 +881,7 @@
         "BruceAylward_2011.stm",
         "BruceAylward_2014X.stm",
         "BruceBuenodeMesquita_2009.stm",
+        "BruceFeiler_2013S.stm",
         "BruceMcCall_2008P.stm",
         "BruceSchneier_2010X.stm",
         "BrunoTorturra_2014G.stm",
@@ -289,6 +892,7 @@
         "CalebBarlow_2016S.stm",
         "CalebChung_2007P.stm",
         "CalebHarper_2015G.stm",
+        "CameronHerold_2009X.stm",
         "CameronRussell_2012X.stm",
         "CameronSinclair_2009G.stm",
         "CamilleBrown_2016V.stm",
@@ -296,10 +900,8 @@
         "CamilleSeaman_2013.stm",
         "CandyChang_2012G.stm",
         "CarinBondar_2013G.stm",
-        "CarlHonore_2005G.stm",
         "CarloRatti_2011.stm",
         "CarlSafina_2010X.stm",
-        "CarlSafina_2015Z.stm",
         "CarlSchoonover_2012U.stm",
         "CarmenAgraDeedy_2005.stm",
         "CarolDweck_2014X.stm",
@@ -310,7 +912,6 @@
         "CarolinePaul_2016W.stm",
         "CarolinePhillips_2010G.stm",
         "CarolynJones_2016P.stm",
-        "CarolynPorco_2007.stm",
         "CarolynPorco_2009U.stm",
         "CarolynSteel_2009G.stm",
         "CarrieNugent_2016U.stm",
@@ -318,6 +919,7 @@
         "CarterEmmart_2010.stm",
         "CaryFowler_2009G.stm",
         "CaseyBrown_2015X.stm",
+        "CaseyGerald_2016.stm",
         "CatarinaMota_2012G.stm",
         "CatherineBracy_2013Z.stm",
         "CatherineCrump_2014G.stm",
@@ -329,11 +931,9 @@
         "CesarHarada_2015F.stm",
         "CesarKuriyama_2012.stm",
         "ChadeMengTan_2010Z.stm",
-        "CharityTillemannDick_2010P.stm",
         "CharityWayua_2016S.stm",
         "CharlesAnderson_2009I.stm",
         "CharlesElachi_2008P.stm",
-        "CharlesFleischer_2005.stm",
         "CharlesHazlewood_2011G.stm",
         "CharlesLeadbeater_2005G.stm",
         "CharlesLeadbeater_2010S.stm",
@@ -343,10 +943,12 @@
         "CharlesRobertson_2013G.stm",
         "CharlieRose_2014.stm",
         "CharlieTodd_2011X.stm",
+        "CharmianGooch_2013G.stm",
         "CharmianGooch_2014.stm",
         "ChelseaShields_2015F.stm",
         "CherylHayashi_2010.stm",
         "ChiekoAsakawa_2015S.stm",
+        "ChimamandaAdichie_2009G.stm",
         "ChimamandaNgoziAdichie_2012X.stm",
         "ChinakaHodge_2016W.stm",
         "ChipConley_2010.stm",
@@ -359,7 +961,6 @@
         "ChrisAnderson_2010G.stm",
         "ChrisAnderson_GreatTEDTalk_2016V.stm",
         "ChrisBangle_2002.stm",
-        "ChrisBliss_2011X.stm",
         "ChrisBurkard_2015.stm",
         "ChrisDomas_2013X.stm",
         "ChrisDowney_2013Z.stm",
@@ -387,8 +988,8 @@
         "ChristopherSoghoian_2016T.stm",
         "ChrisUrmson_2015.stm",
         "ChrystiaFreeland_2013G.stm",
+        "CKWilliams_2001.stm",
         "ClaronMcFadden_2010X.stm",
-        "ClayShirky_2005G.stm",
         "ClayShirky_2009S.stm",
         "ClayShirky_2010S.stm",
         "ClayShirky_2012G.stm",
@@ -401,6 +1002,7 @@
         "ColinPowell_2012X.stm",
         "ColinStokes_2012X.stm",
         "ConradWolfram_2010G.stm",
+        "CornielleEwango_2007G.stm",
         "CosminMihaiu_2015U.stm",
         "CourtneyMartin_2010W.stm",
         "CourtneyMartin_2016.stm",
@@ -425,7 +1027,6 @@
         "DanAriely_2012X.stm",
         "DanAriely_2015U.stm",
         "DanBarasch_2014S.stm",
-        "DanBarber_2008P.stm",
         "DanBell_2016X.stm",
         "DanBerkenstock_2013S.stm",
         "DanBricklin_2016X.stm",
@@ -434,6 +1035,7 @@
         "DanDennett_2002.stm",
         "DanDennett_2003.stm",
         "DanDennett_2009U.stm",
+        "DanGilbert_2004.stm",
         "DanGilbert_2014U.stm",
         "DanGross_2016.stm",
         "DanieleQuercia_2014S.stm",
@@ -441,15 +1043,13 @@
         "DanielGoleman_2007.stm",
         "DanielKish_2015.stm",
         "DanielKraft_2009.stm",
+        "DanielKraft_2011X.stm",
         "DanielleFeinberg_2015P.stm",
         "DanielLevitin_2015G.stm",
         "DanielLibeskind_2009.stm",
         "DanielPauly_2010Z.stm",
-        "DanielPink_2009G.stm",
-        "DanielReisel_2013.stm",
         "DanielSuarez_2013G.stm",
         "DanielTammet_2011.stm",
-        "DanielWolpert_2011G.stm",
         "DanitPeleg_2015Y.stm",
         "DanMeyer_2010X.stm",
         "DannyDorling_2016X.stm",
@@ -459,6 +1059,7 @@
         "DanPacholke_2014X.stm",
         "DanPallotta_2013.stm",
         "DanPallotta_2016.stm",
+        "DanPhillips_2010X.stm",
         "DaphneBavelier_2012X.stm",
         "DaphneKoller_2012G.stm",
         "DariavandenBercken_2014S.stm",
@@ -470,6 +1071,7 @@
         "DavidAgus_2009P.stm",
         "DavidAnderson_2013X.stm",
         "DavidBinder_2012G.stm",
+        "DavidBirch_2012X.stm",
         "DavidBismark_2010G.stm",
         "DavidBlaine_2009P.stm",
         "DavidBolinsky_2007.stm",
@@ -478,7 +1080,6 @@
         "DavidByrne_2010.stm",
         "DavidCamarillo_2016X.stm",
         "DavidCameron_2010.stm",
-        "DavidCarson_2003.stm",
         "DavidCasarett_2016P.stm",
         "DavidChalmers_2014.stm",
         "DavidChristian_2011.stm",
@@ -486,12 +1087,10 @@
         "DavidDeutsch_2009G.stm",
         "DavidDow_2012X.stm",
         "DavidEagleman_2015.stm",
-        "DavidEpstein_2014.stm",
         "DavidGallo_1998.stm",
         "DavidGallo_2007.stm",
         "DavidGrady_2013S.stm",
         "DavidGriffin_2008.stm",
-        "DavidGruber_2015Z.stm",
         "DavidHanson_2009.stm",
         "DavidHoffman_2007.stm",
         "DavidHoffman_2008.stm",
@@ -502,13 +1101,14 @@
         "DavidKwong_2014.stm",
         "DavidLang_2013U.stm",
         "DavidLogan_2009.stm",
+        "DavidMacaulay_2002.stm",
         "DavidMackay_2012X.stm",
         "DavidMcCandless_2010G.stm",
         "DavidPerry_2006.stm",
         "DavidPizarro_2012X.stm",
-        "DavidPogue_2008P.stm",
         "DavidPogue_2013U.stm",
         "DavidPuttnam_2013X.stm",
+        "DavidRockwell_2002.stm",
         "DavidRothkopf_2015.stm",
         "DavidRWilliams_2016P.stm",
         "DavidSedlak_2015X.stm",
@@ -519,6 +1119,7 @@
         "DeanKamen_2002.stm",
         "DeanKamen_2007.stm",
         "DeanKamen_2009P.stm",
+        "DeanOrnish_2004.stm",
         "DeanOrnish_2006.stm",
         "DeanOrnish_2008.stm",
         "DeborahGordon_2003.stm",
@@ -534,12 +1135,13 @@
         "DelHarvey_2014.stm",
         "DenaSimmons_2015P.stm",
         "DenisDutton_2010.stm",
+        "DeniseHerzing_2013.stm",
         "DennisHong_2009X.stm",
         "DennisHong_2011.stm",
         "DennisvanEngelsdorp_2008P.stm",
-        "DerekSivers_2009I.stm",
         "DerekSivers_2010G.stm",
         "DerekSivers_2010U.stm",
+        "DevduttPattanaik_2009I.stm",
         "DianaLaufenberg_2010X.stm",
         "DianaNyad_2011P.stm",
         "DianaNyad_2013W.stm",
@@ -568,6 +1170,7 @@
         "DyandeNapoli_2011X.stm",
         "EamesDemetrios_2007.stm",
         "EbenBayer_2010G.stm",
+        "EdBoyden_2011.stm",
         "EdBoyden_2016T.stm",
         "EddieObeng_2012G.stm",
         "EddiReader_KiteflyersHill_2004.stm",
@@ -580,9 +1183,12 @@
         "EduardoPaes_2012.stm",
         "EdUlbrich_2009.stm",
         "EdwardBurtynsky_2009G.stm",
+        "EdwardSnowden_2014.stm",
         "EdwardTenner_2011.stm",
+        "EdYong_2014.stm",
         "EinsteinTheParrot_2006.stm",
         "ElaineMorgan_2009G.stm",
+        "EleniGabreMadhin_2007G.stm",
         "EliBeer_2013P.stm",
         "EliPariser_2011.stm",
         "EliseRoy_2015X.stm",
@@ -594,6 +1200,7 @@
         "ElizabethMurchison_2011G.stm",
         "ElizabethNyamayaro_2015W.stm",
         "ElizabethPisani_2010.stm",
+        "EllenDunhamJones_2010X.stm",
         "EllenGustafson_2010X.stm",
         "EllenJorgensen_2012G.stm",
         "EllenJorgensen_2016T.stm",
@@ -604,30 +1211,32 @@
         "EloraHardy_2015.stm",
         "eLSeed_2015U.stm",
         "eLSeed_2016T.stm",
-        "ElynSaks_2012G.stm",
         "EmanMohammed_2014U.stm",
         "EmilieWapnick_2015X.stm",
         "EmilyBalcetis_2014X.stm",
-        "EmilyLevine_2002.stm",
         "EmilyOster_2007.stm",
         "EmilyParsonsLord_2016X.stm",
         "EmilyPilloton_2010G.stm",
+        "EmmaMarris_2016T.stm",
         "EmmanuelJal_2009G.stm",
         "EmmaTeeling_2012X.stm",
         "EmtithalMahmoud_2016P.stm",
+        "EnricSala_2010Z.stm",
         "EnriquePenelosa_2013Z.stm",
+        "EOWilson_2007.stm",
         "EOWilson_2012P.stm",
         "ErezLiebermanAiden_2011X.stm",
         "EricaFrenkel_2011X.stm",
         "EricBerlow_2010G.stm",
         "EricBerlow_2013U.stm",
+        "EricDishman_2009P.stm",
         "EricDishman_2013S.stm",
         "EricGiler_2009G.stm",
         "EricHaseltine_2015P.stm",
+        "EricLiu_2013Z.stm",
+        "EricLiu_2016S.stm",
         "EricTopol_2009P.stm",
         "EricWhitacre_2011.stm",
-        "EricWhitacre_2013.stm",
-        "EricXLi_2013G.stm",
         "ErikaGregory_2016W.stm",
         "ErikBrynjolfsson_2013.stm",
         "ErikHersman_2009U.stm",
@@ -640,8 +1249,7 @@
         "EstaSoler_2013W.stm",
         "EstherDuflo_2010.stm",
         "EstherPerel_2013S.stm",
-        "EthanNadelmann_2014G.stm",
-        "EthanZuckerman_2010G.stm",
+        "EuvinNaidoo_2007G.stm",
         "EvanGrant_2009G.stm",
         "EvanWilliams_2009.stm",
         "EvaVertes_2005.stm",
@@ -661,7 +1269,6 @@
         "FawnQiu_2016S.stm",
         "FeiFeiLi_2015.stm",
         "FeisalAbdulRauf_2009P.stm",
-        "FelixDennis_2004.stm",
         "FieldsWickerMiurin_2009S.stm",
         "FioOmenetto_2011.stm",
         "FrancescoSauro_2015G.stm",
@@ -685,8 +1292,8 @@
         "GabbyGiffords_2014.stm",
         "GabeBarciaColombo_2013U.stm",
         "GabrielBarciaColombo_2012.stm",
+        "GailReed_2014P.stm",
         "GarikIsraelian_2009G.stm",
-        "GarrettLisi_2008.stm",
         "GarryKasparov_2017.stm",
         "GaryGreenberg_2012X.stm",
         "GaryHaugen_2015.stm",
@@ -701,14 +1308,12 @@
         "GeenaRocero_2014.stm",
         "GeertChatrou_2010X.stm",
         "GenevievevonPetzinger_2015F.stm",
-        "GeoffMulgan_2009G.stm",
         "GeoffMulgan_2011G.stm",
         "GeoffreyCanada_2013S.stm",
         "GeoffreyWest_2011G.stm",
         "GeorgeAyittey_2007G.stm",
         "GeorgeDyson_2002.stm",
         "GeorgeDyson_2003.stm",
-        "GeorgeMonbiot_2013G.stm",
         "GeorgePapandreou_2013G.stm",
         "GeorgeSmoot_2008P.stm",
         "GeorgeTakei_2014X.stm",
@@ -736,10 +1341,10 @@
         "GrahamHill_2011U.stm",
         "GregAsner_2013G.stm",
         "GregGage_2015U.stm",
+        "GregLynn_2005.stm",
         "GregoireCourtine_2013G.stm",
         "GregoryHeyworth_2015X.stm",
         "GregoryPetsko_2008.stm",
-        "GregStone_2010Z.stm",
         "GuyHoffman_2013X.stm",
         "GuyWinch_2014X.stm",
         "HaasandHahn_2014G.stm",
@@ -766,7 +1371,6 @@
         "HaraldHaas_2011G.stm",
         "HaraldHaas_2015G.stm",
         "HarishManwani_2013S.stm",
-        "HarryBaker_2014X.stm",
         "HarryCliff_2015G.stm",
         "HarshaBhogle_2009I.stm",
         "HarveyFineberg_2011.stm",
@@ -779,6 +1383,7 @@
         "HelderGuimaraes_2014.stm",
         "HelenFisher_2006.stm",
         "HelenFisher_2008.stm",
+        "HelenFisher_2016T.stm",
         "HendrikPoinar_2013X.stm",
         "HenryEvans_2013X.stm",
         "HenryLin_2013Y.stm",
@@ -807,6 +1412,7 @@
         "ImamFeisalAbdulRauf_2009P.stm",
         "IngeMissmahl_2010G.stm",
         "IoneWells_2016T.stm",
+        "iOTillettWright_2012X.stm",
         "IqbalQuadir_2005G.stm",
         "IsaacLidsky_2016T.stm",
         "IsaacMizrahi_2008.stm",
@@ -818,6 +1424,7 @@
         "IvanCoyote_2015X.stm",
         "IvanKrastev_2012G.stm",
         "IvanOransky_2012P.stm",
+        "IwanBaan_2013Z.stm",
         "JaapDeRoode_2014Y.stm",
         "JacekUtko_2009.stm",
         "JackAndraka_2013.stm",
@@ -827,24 +1434,23 @@
         "JackieSavitz_2013X.stm",
         "JackieTabick_2009P.stm",
         "JacksonKatz_2012X.stm",
+        "JacquelineNovogratz_2005G.stm",
         "JacquelineNovogratz_2007G.stm",
         "JacquelineNovogratz_2009S.stm",
         "JacquelineNovogratz_2009U.stm",
-        "JacquelineNovogratz_2010W.stm",
         "JaeRhimLee_2011G.stm",
         "JaimeLerner_2007.stm",
         "JakeBarton_2013S.stm",
         "JakeWood_2011X.stm",
         "JakobTrollback_2007.stm",
-        "JamaisCascio_2006.stm",
         "JamesBalog_2009G.stm",
         "JamesBeacham_2016X.stm",
         "JamesBGlattfelder_2012X.stm",
-        "JamesFlynn_2013.stm",
         "JamesForbes_2009P.stm",
         "JamesGeary_2009G.stm",
         "JamesGreen_2015P.stm",
         "JamesHansen_2012.stm",
+        "JamesHowardKunstler_2004.stm",
         "JamesLyne_2013.stm",
         "JamesPatten_2013U.stm",
         "JamesRandi_2007.stm",
@@ -865,22 +1471,19 @@
         "JaneChen_2009I.stm",
         "JaneFonda_2011X.stm",
         "JaneFonda_2015W.stm",
-        "JaneGoodall_2002.stm",
-        "JaneGoodall_2007G.stm",
         "JaneMcGonigal_2012G.stm",
         "JaneMcGonigal_2013G.stm",
         "JanetEchelman_2011.stm",
         "JanetIwasa_2014U.stm",
         "JanetteSadikKhan_2013Z.stm",
+        "JanineBenyus_2005.stm",
         "JanineBenyus_2009G.stm",
         "JaninediGiovanni_2012X.stm",
         "JanineShepherd_2012X.stm",
         "JannaLevin_2011.stm",
         "JaredDiamond_2003.stm",
-        "JaredDiamond_2013.stm",
         "JaredFicklin_2012.stm",
         "JarrethMerz_2011G.stm",
-        "JarrettJKrosoczka_2012X.stm",
         "JarrettKrosoczka_2014S.stm",
         "JasonClay_2010G.stm",
         "JasondeCairesTaylor_2015Z.stm",
@@ -895,6 +1498,7 @@
         "JDVance_2016S.stm",
         "JeanBaptisteMichel_2012.stm",
         "JeanneGang_2016W.stm",
+        "JedidahIsler_2015F.stm",
         "JedidahIsler_2015U.stm",
         "JeffBezos_2003.stm",
         "JeffHancock_2012X.stm",
@@ -914,6 +1518,7 @@
         "JenniferDoudna_2015G.stm",
         "JenniferGolbeck_2013X.stm",
         "JenniferGranholm_2013.stm",
+        "JenniferHealey_2013S.stm",
         "JenniferKahn_2016.stm",
         "JenniferLin_2004.stm",
         "JenniferPahlka_2012.stm",
@@ -924,7 +1529,6 @@
         "JeremyJackson_2010Z.stm",
         "JeremyKasdin_2014.stm",
         "JessaGamble_2010G.stm",
-        "JessaGamble_2010GU.stm",
         "JessiArrington_2011A.stm",
         "JessicaGreen_2011G.stm",
         "JessicaGreen_2013U.stm",
@@ -937,19 +1541,19 @@
         "JillFarrant_2015G.stm",
         "JillHeinerth_2015Y.stm",
         "JillShargaa_2014S.stm",
-        "JillSobuleandJuliaSweeneySHOW_2007.stm",
         "JillSobuleandJuliaSweeney_TheJillandJuliaShow_2007.stm",
+        "JillTarter_2009.stm",
         "JimAlKhalili_2015G.stm",
         "JimFallon_2009.stm",
         "JimHemerling_2016S.stm",
-        "JimHolt_2014.stm",
         "JimmyCarter_2015W.stm",
         "JimmyNelson_2014G.stm",
+        "JimmyWales_2005G.stm",
+        "JimSimons_2015.stm",
         "JimToomey_2010Z.stm",
         "JinhaLee_2013.stm",
         "JinsopLee_2013.stm",
         "JJAbrams_2007.stm",
-        "JoachimdePosada_2009U.stm",
         "JoanHalifax_2010W.stm",
         "JoAnnKucheraMorin_2009.stm",
         "JocelyneBloch_2015G.stm",
@@ -966,6 +1570,7 @@
         "JohannaBlakley_2010W.stm",
         "JohannHari_2015G.stm",
         "JohnBohannon_2011X.stm",
+        "JohnDelaney_2010Z.stm",
         "JohnDoerr_2007.stm",
         "JohnFrancis_2008.stm",
         "JohnGrahamCumming_2012X.stm",
@@ -983,7 +1588,6 @@
         "JohnMaeda_2012G.stm",
         "JohnMcWhorter_2013.stm",
         "JohnMcWhorter_2016.stm",
-        "JohnnyLee_2008.stm",
         "JohnSearle_2013.stm",
         "JohnUnderkoffler_2010.stm",
         "JohnWalker_2007P.stm",
@@ -998,19 +1602,19 @@
         "JonathanDrori_2011S.stm",
         "JonathanEisen_2012P.stm",
         "JonathanFoley_2010X.stm",
+        "JonathanHaidt_2008.stm",
+        "JonathanHaidt_2012.stm",
         "JonathanHaidt_2016S.stm",
-        "JonathanHarris_2007.stm",
         "JonathanKlein_2010U.stm",
         "JonathanMarks_2017X.stm",
         "JonathanRossiter_2016X.stm",
+        "JonathanTepperman_2016T.stm",
         "JonathanTrent_2012G.stm",
         "JonathanZittrain_2009G.stm",
         "JonGosier_2014U.stm",
-        "JonMooallem_2014.stm",
         "JonNguyen_2011X.stm",
         "JonRonson_2012.stm",
         "JorgeSoto_2014G.stm",
-        "JoseAntonioAbreu_2009.stm",
         "JoseMiguelSokoloff_2014G.stm",
         "JosephDeSimone_2015.stm",
         "JosephKim_2013G.stm",
@@ -1022,10 +1626,9 @@
         "JoshLuber_2015S.stm",
         "JoshPrager_2015A.stm",
         "JoshSilver_2009G.stm",
-        "JoshuaFoer_2012.stm",
         "JoshuaKlein_2008.stm",
+        "JoshuaPrager_2013.stm",
         "JoshuaPrinceRamus_2006.stm",
-        "JoshuaPrinceRamus_2009X.stm",
         "JoshuaSmith_2016S.stm",
         "JoshuaWalters_2011S.stm",
         "JoyBuolamwini_2016X.stm",
@@ -1033,8 +1636,8 @@
         "JPRangaswami_2012S.stm",
         "JR_2011.stm",
         "JR_2012.stm",
-        "JuanEnriquez_2003.stm",
         "JuanEnriquez_2007S.stm",
+        "JuanEnriquez_2009.stm",
         "JuanEnriquez_2012S.stm",
         "JuanEnriquez_2013U.stm",
         "JuanEnriquez_2015P.stm",
@@ -1050,14 +1653,15 @@
         "JulianAssange_2010G.stm",
         "JulianBaggini_2011X.stm",
         "JulianTreasure_2009G.stm",
+        "JulianTreasure_2010G.stm",
         "JulianTreasure_2011G.stm",
         "JulianTreasure_2012G.stm",
         "JulianTreasure_2013G.stm",
         "JuliaSweeney_2006.stm",
         "JuliaSweeney_2010.stm",
+        "JulieBurstein_2012.stm",
         "JulieLythcottHaims_2015P.stm",
         "JulieTaymor_2011.stm",
-        "JunoMac_2016X.stm",
         "JustinDavidson_2017S.stm",
         "JustinHallTipping_2011G.stm",
         "KailashSatyarthi_2015.stm",
@@ -1067,7 +1671,6 @@
         "KandiceSumner_2015X.stm",
         "KangLee_2016.stm",
         "KareAnderson_2014S.stm",
-        "KarenArmstrong_2008.stm",
         "KarenArmstrong_2009G.stm",
         "KarenBass_2012.stm",
         "KarenThompsonWalker_2012G.stm",
@@ -1076,6 +1679,7 @@
         "KartickSatyanarayan_2009I.stm",
         "KaryMullis_2002.stm",
         "KaryMullis_2009.stm",
+        "KateAdams_2016S.stm",
         "KateHartman_2011.stm",
         "KateOrff_2010W.stm",
         "KateStafford_2016X.stm",
@@ -1106,7 +1710,6 @@
         "KevinBreel_2013X.stm",
         "KevinBriggs_2014.stm",
         "KevinJones_2015X.stm",
-        "KevinKelly_2005.stm",
         "KevinKelly_2007P.stm",
         "KevinKelly_2009X.stm",
         "KevinKelly_2016T.stm",
@@ -1136,7 +1739,6 @@
         "KwameAnthonyAppiah_2014S.stm",
         "LakshmiPratury_2007.stm",
         "LaliteshKatragadda_2009I.stm",
-        "LaliteshKattragadda_2009I.stm",
         "LaraSetrakian_2017S.stm",
         "LarryBrilliant_2007P.stm",
         "LarryBurns_2005.stm",
@@ -1191,6 +1793,9 @@
         "LisaGansky_2011S.stm",
         "LisaGenova_2017.stm",
         "LisaHarouni_2011S.stm",
+        "LisaKristine_2012X.stm",
+        "LisaMargonelli_2010X.stm",
+        "LisaNip_2015X.stm",
         "LiuBolin_2013.stm",
         "LizaDonnelly_2010W.stm",
         "LizColeman_2009.stm",
@@ -1204,7 +1809,6 @@
         "LouiseFresco_2009.stm",
         "LouiseLeakey_2008.stm",
         "LucaTurin_2005.stm",
-        "LucianneWalkowicz_2011G.stm",
         "LucianneWalkowicz_2015U.stm",
         "LucienEngelen_2011X.stm",
         "LucyKalanithi_2016P.stm",
@@ -1220,12 +1824,14 @@
         "MaeJemison_2002.stm",
         "MagdaSayeg_2015Y.stm",
         "MagnusLarsson_2009G.stm",
-        "MajoraCarter_2006.stm",
+        "MairaKalman_2007.stm",
+        "MajoraCarter_2010X.stm",
         "MalcolmGladwell_2004.stm",
         "MalcolmGladwell_2011G.stm",
         "MalcolmGladwell_2013S.stm",
         "MalcolmLondon_2013S.stm",
         "MallikaSarabhai_2009I.stm",
+        "MallorySoldner_2016S.stm",
         "MalteSpitz_2012G.stm",
         "ManalAlSharif_2013G.stm",
         "MandyLenCatron_2015X.stm",
@@ -1252,7 +1858,6 @@
         "MargaretBourdeaux_2015X.stm",
         "MargaretHeffernan_2012G.stm",
         "MargaretHeffernan_2013X.stm",
-        "MargaretHeffernan_2015W.stm",
         "MargaretStewart_2010U.stm",
         "MargaretStewart_2014.stm",
         "MargaretWertheim_2009.stm",
@@ -1262,25 +1867,22 @@
         "MarianoSigman_2016.stm",
         "MarinaAbramovic_2015.stm",
         "MarisaFickJordan_2007G.stm",
-        "MarisaFickJordan_2007G2.stm",
         "MarkApplebaum_2012X.stm",
         "MarkBezos_2011U.stm",
         "MarkForsyth_2012X.stm",
         "MarkhamNolan_2012S.stm",
         "MarkKendall_2013G.stm",
-        "MarkPlotkin_2014G.stm",
+        "MarkPagel_2011G.stm",
         "MarkRonson_2014.stm",
         "MarkRoth_2010.stm",
         "MarkShaw_2013.stm",
         "MarkusFischer_2011G.stm",
-        "MarlaSpivak_2013G.stm",
         "MarleneZuk_2015W.stm",
         "MarlonPeterson_2016S.stm",
         "MartineRothblatt_2015.stm",
         "MartinHanczyc_2011S.stm",
         "MartinJacques_2010S.stm",
         "MartinPistorius_2015X.stm",
-        "MartinReeves_2016S.stm",
         "MartinSeligman_2004.stm",
         "MartinVilleneuve_2013.stm",
         "MarvinMinsky_2003.stm",
@@ -1289,10 +1891,10 @@
         "MaryJepsen_2013.stm",
         "MarynMcKenna_2015.stm",
         "MaryNorris_2016.stm",
+        "MaryRoach_2009.stm",
         "MaryRobinson_2015W.stm",
         "MassimoBanzi_2012G.stm",
         "MathiasJud_2015G.stm",
-        "MathieuLehanneur_2009G.stm",
         "MattCutts_2011U.stm",
         "MatthewCarter_2014.stm",
         "MatthewChilds_2009U.stm",
@@ -1303,6 +1905,7 @@
         "MattKenyon_2015U.stm",
         "MattKillingsworth_2011X.stm",
         "MattMills_2012G.stm",
+        "MattRidley_2010G.stm",
         "MauriceConti_2016X.stm",
         "MaurizioSeracini_2012G.stm",
         "MaxLittle_2012G.stm",
@@ -1335,7 +1938,6 @@
         "MeronGribetz_2016.stm",
         "MiaBirdsong_2015W.stm",
         "MichaelAnti_2012G.stm",
-        "MichaelArcher_2013X.stm",
         "MichaelBierut_2017S.stm",
         "MichaelBodekaer_2015X.stm",
         "MichaelBotticelli_2016X.stm",
@@ -1350,16 +1952,16 @@
         "MichaelMetcalfe_2015S.stm",
         "MichaelMilken_2001.stm",
         "MichaelMoschen_2002.stm",
-        "MichaelMurphy_2016.stm",
         "MichaelNorton_2011X.stm",
         "MichaelPatrickLynch_2017.stm",
+        "MichaelPawlyn_2010S.stm",
         "MichaelPorter_2013G.stm",
         "MichaelPritchard_2009G.stm",
         "MichaelRubinstein_2014X.stm",
         "MichaelSandel_2010.stm",
         "MichaelSandel_2013G.stm",
         "MichaelShellenberger_2016T.stm",
-        "MichaelShermer_2010.stm",
+        "MichaelShermer_2006.stm",
         "MichaelTilsonThomas_2012.stm",
         "MicheleLSullivan_2016W.stm",
         "MichelLaberge_2014.stm",
@@ -1369,11 +1971,8 @@
         "MickMountz_2011X.stm",
         "MiguelNicolelis_2012P.stm",
         "MiguelNicolelis_2014G.stm",
-        "MihalyCsikszentmihalyi_2004.stm",
         "MikeBiddle_2011G.stm",
-        "MikedeGruy_2010Z.stm",
         "MikeMatas_2011.stm",
-        "MikeRowe_2008P.stm",
         "MikeVelings_2015Z.stm",
         "MikkoHypponen_2011G.stm",
         "MikkoHypponen_2011X.stm",
@@ -1381,10 +1980,7 @@
         "MilehaSoneji_2015X.stm",
         "MiltonGlaser_1998.stm",
         "MinaBissell_2012G.stm",
-        "MirandaWang_2013.stm",
         "MiriamZoilaPerez_2016W.stm",
-        "MiruKim_2008P.stm",
-        "MishaGlenny_2009G.stm",
         "MitchellBesser_2010G.stm",
         "MitchellJoachim_2010.stm",
         "MitchResnick_2012X.stm",
@@ -1398,18 +1994,22 @@
         "MonicaLewinsky_2015.stm",
         "MonikaBulaj_2011G.stm",
         "MorganaBailey_2014S.stm",
+        "MorganSpurlock_2011.stm",
+        "MosheSafdie_2002.stm",
         "MosheSafdie_2014U.stm",
         "MosheSzyf_2016X.stm",
         "Mundano_2014U.stm",
         "MunirVirani_2012S.stm",
         "MurrayGellMann_2007.stm",
         "MurrayGellMann_Language_2007.stm",
+        "MustafaAkyol_2011X.stm",
         "MyriamSidibe_2014S.stm",
         "MyshkinIngawale_2012U.stm",
         "NadiaAlSakkaf_2011G.stm",
         "NadiaLopez_2015P.stm",
         "NadineBurkeHarris_2014P.stm",
         "NaginCox_2016X.stm",
+        "NaifAlMutawa_2010G.stm",
         "NaliniNadkarni_2009.stm",
         "NaliniNadkarni_2010U.stm",
         "NancyEtcoff_2004.stm",
@@ -1417,13 +2017,13 @@
         "NancyKanwisher_2014.stm",
         "NancyLublin_2015W.stm",
         "NandanNilekani_2009.stm",
-        "NaomiKlein_2010W.stm",
         "NaomiOreskes_2014S.stm",
         "NatalieMacMaster_2003.stm",
         "NatalieMerchant_2010.stm",
         "NataliePanek_2015X.stm",
         "NatashaHurleyWalker_2016X.stm",
         "NatashaTsakos_2009.stm",
+        "NateSilver_2009A.stm",
         "NathalieCabrol_2015.stm",
         "NathalieMiebach_2011G.stm",
         "NathanielKahn_2002.stm",
@@ -1434,10 +2034,13 @@
         "NathanWolfe_2012U.stm",
         "NaviRadjou_2014G.stm",
         "NeginFarsad_2016U.stm",
+        "NehaNarula_2016S.stm",
         "NeilBurgess_2011S.stm",
+        "NeilGershenfeld_2006.stm",
         "NeilHarbisson_2012G.stm",
         "NeilMacGregor_2011G.stm",
         "NeilPasricha_2010X.stm",
+        "NeilTurok_2008.stm",
         "NeriOxman_2015.stm",
         "NewtonAduaka_2007G.stm",
         "NgoziOkonjoIweala_2007.stm",
@@ -1452,12 +2055,14 @@
         "NicholasNegroponte_2008.stm",
         "NicholasNegroponte_2014.stm",
         "NickBostrom_2005G.stm",
+        "NickBostrom_2015.stm",
         "NickHanauer_2014S.stm",
         "NickSears_2007.stm",
         "NickVeasey_2009G.stm",
         "NicMarks_2010G.stm",
         "NicolasPerony_2013X.stm",
         "NicoleParis_2015Y.stm",
+        "NielsDiffrient_2002.stm",
         "NigelMarsh_2010X.stm",
         "NikolaiBegg_2013X.stm",
         "NiloferMerchant_2013.stm",
@@ -1471,10 +2076,9 @@
         "NoelMerz_2011X.stm",
         "NonnydelaPena_2015W.stm",
         "NoraYorkWHATIWANT_2006S.stm",
+        "NoreenaHertz_2010S.stm",
         "NormanLear_2016.stm",
         "NormanSpack_2013X.stm",
-        "NoyThrupkaew_2015.stm",
-        "NuclearDebate_2010.stm",
         "OdedShoseyov_2016S.stm",
         "OKGo_2017.stm",
         "OlafurEliasson_2009.stm",
@@ -1486,15 +2090,13 @@
         "OryOkolloh_2007G.stm",
         "OscarSchwartz_2015X.stm",
         "PaddyAshdown_2011X.stm",
-        "PamelaMeyer_2011G.stm",
         "PamelaRonald_2015.stm",
         "PameliaKurstin_2002.stm",
         "PamWarhurst_2012S.stm",
         "PankajGhemawat_2012G.stm",
-        "PaolaAntonelli_2007P.stm",
+        "PaolaAntonelli_2007.stm",
         "PaoloCardini_2012G.stm",
         "PardisSabeti_2015W.stm",
-        "ParulSehgal_2013S.stm",
         "PatienceMthunzi_2015U.stm",
         "PatriciaBurchat_2008.stm",
         "PatriciaKuhl_2010X.stm",
@@ -1505,8 +2107,8 @@
         "PattieMaes_2009.stm",
         "PaulaHammond_2015P.stm",
         "PaulaJohnson_2013W.stm",
-        "PaulaScher_2008P.stm",
         "PaulBennett_2005G.stm",
+        "PaulBloom_2011G.stm",
         "PaulBloom_2014S.stm",
         "PaulCollier_2008.stm",
         "PaulCollier_2009S.stm",
@@ -1514,6 +2116,7 @@
         "PaulDebevec_2009X.stm",
         "PaulEwald_2007.stm",
         "PaulGilding_2012.stm",
+        "PaulGreenberg_2015Z.stm",
         "PaulKempRobertson_2013G.stm",
         "PaulKnoepfler_2015X.stm",
         "PaulMacCready_1998.stm",
@@ -1536,8 +2139,9 @@
         "PenelopeBoston_2006.stm",
         "PeteAlcorn_2009.stm",
         "PeterAttia_2013P.stm",
+        "PeterDiamandis_2005G.stm",
         "PeterDiamandis_2008.stm",
-        "PeterDiamandis_2012.stm",
+        "PeterDonnelly_2005G.stm",
         "PeterDoolittle_2013G.stm",
         "PeterEigen_2009X.stm",
         "PeterFankhauser_2011G.stm",
@@ -1549,10 +2153,10 @@
         "PeterReinhart_2008P.stm",
         "PeterSaul_2011X.stm",
         "PeterSinger_2013.stm",
-        "PeterTyack_2010Z.stm",
         "PeterVanManen_2013X.stm",
         "PetervanUhm_2011X.stm",
         "PeterWeinstock_2016X.stm",
+        "PhilBorges_2006.stm",
         "PhilHansen_2013.stm",
         "PhilipeStarck_2007.stm",
         "PhilipEvans_2013S.stm",
@@ -1563,14 +2167,12 @@
         "PhilipRosedale_2008P.stm",
         "PhilipZimbardo_2011.stm",
         "PhilPlait_2011X.stm",
-        "PhilZimbardo_2008.stm",
         "PhilZimbardo_2009U.stm",
         "PiaMancini_2014G.stm",
         "PicoIyer_2013G.stm",
         "PicoIyer_2014S.stm",
         "PicoIyer_2016T.stm",
         "PranavMistry_2009I.stm",
-        "ProsantaChakrabarty_2016U.stm",
         "PWSinger_2009.stm",
         "QuyenNguyen_2011P.stm",
         "RachelArmstrong_2009G.stm",
@@ -1580,7 +2182,6 @@
         "RachelPike_2009G.stm",
         "RaffaelloDAndrea_2013G.stm",
         "RaffaelloDAndrea_2016.stm",
-        "RaghavaKK_2010.stm",
         "RaghavaKK_2011G.stm",
         "RaghavaKK_2012S.stm",
         "RainerStrack_2014S.stm",
@@ -1595,8 +2196,6 @@
         "RamseyMusallam_2013S.stm",
         "RanaelKaliouby_2015W.stm",
         "RandallMunroe_2014.stm",
-        "RaulMidonANSWERS_2007.stm",
-        "RaulMidonEVERYBODY_2007.stm",
         "RaulMidon_Everybody_2007.stm",
         "RaulMidon_Tembererana_2007.stm",
         "RavinAgrawal_2009I.stm",
@@ -1606,7 +2205,7 @@
         "RaymondWang_2015Y.stm",
         "RayZahab_2009.stm",
         "ReadMontague_2012G.stm",
-        "RebeccaBrachman_2016X.stm",
+        "RebeccaMacKinnon_2011G.stm",
         "RebeccaMacKinnon_2016T.stm",
         "RebeccaOnie_2012P.stm",
         "RebeccaSaxe_2009G.stm",
@@ -1622,16 +2221,14 @@
         "RhiannonGiddens_2016.stm",
         "RicardoSemler_2014G.stm",
         "RiccardoSabatini_2016.stm",
-        "RicElias_2011U.stm",
         "RichardBaraniuk_2006.stm",
         "RichardBranson_2007.stm",
         "RichardBrowning_2017.stm",
-        "RichardDawkins_2002.stm",
+        "RichardLedgett_2014.stm",
+        "RichardPreston_2008.stm",
         "RichardPyle_2004.stm",
-        "RichardResnick_2011X.stm",
         "RichardSears_2010U.stm",
         "RichardSeymour_2011S.stm",
-        "RichardSt.John_2005.stm",
         "RichardStJohn_2005.stm",
         "RichardStJohn_2009U.stm",
         "RichardTurere_2013.stm",
@@ -1643,19 +2240,16 @@
         "RickWarren_2006.stm",
         "RishiManchanda_2014S.stm",
         "RitaPierson_2013S.stm",
+        "Rives4AM_2007.stm",
         "RivesINTERNET_2006S.stm",
-        "RivesMOCKINGBIRD_2006.stm",
-        "RivesTTYL_2008.stm",
         "Rives_2012S.stm",
         "Rives_2014A.stm",
-        "Rives_4AM_2007.stm",
         "Rives_IfIControlledtheInternet_2006S.stm",
         "Rives_Mockingbird_2006.stm",
         "Rives_TTYL_2008.stm",
         "RLukeDuBois_2016.stm",
         "RobbWiller_2016X.stm",
         "RobDunbar_2010Z.stm",
-        "RobertFischell_2005.stm",
         "RobertFull_2002.stm",
         "RobertFull_2005.stm",
         "RobertFull_2009.stm",
@@ -1672,6 +2266,7 @@
         "RobertThurman_2006S.stm",
         "RobertWaldinger_2015X.stm",
         "RobertWright_2009P.stm",
+        "RobForbes_2006.stm",
         "RobHarmon_2010X.stm",
         "RobHopkins_2009G.stm",
         "RobinChase_2007.stm",
@@ -1688,18 +2283,22 @@
         "RodneyBrooks_2013.stm",
         "RodneyMullen_2012X.stm",
         "RodrigoBijou_2015G.stm",
+        "RodrigoCanales_2013S.stm",
         "RogerAntonsen_2015X.stm",
+        "RogerEbert_2011.stm",
         "RogerStein_2013S.stm",
         "RogierVanDerHeide_2010X.stm",
         "RomanMars_2015.stm",
+        "RonEglash_2007G.stm",
         "RonFinley_2013.stm",
         "RonGutman_2011U.stm",
         "RonMcCallum_2013X.stm",
         "RonnyEdry_2012X.stm",
         "RoryBremner_2009G.stm",
-        "RoryStewart_2011G.stm",
         "RoryStewart_2012X.stm",
+        "RorySutherland_2009G.stm",
         "RorySutherland_2010S.stm",
+        "RorySutherland_2011X.stm",
         "RoseGeorge_2013.stm",
         "RoseGeorge_2013S.stm",
         "RoseGoslinga_2014S.stm",
@@ -1709,6 +2308,7 @@
         "RoyGould_2008.stm",
         "RozSavage_2010Z.stm",
         "RubyWax_2012G.stm",
+        "RufusGriscomandAlisaVolkman_2010W.stm",
         "RupalPatel_2013W.stm",
         "RussAltman_2015P.stm",
         "RutgerBregman_2017.stm",
@@ -1728,7 +2328,6 @@
         "SalmanKhan_2015P.stm",
         "SalvatoreIaconesi_2013P.stm",
         "SamanthaNutt_2015P.stm",
-        "SamHarris_2010.stm",
         "SamHarris_2016T.stm",
         "SamKass_2015P.stm",
         "SamMartin_2009G.stm",
@@ -1753,6 +2352,7 @@
         "SarahKay_2011X.stm",
         "SarahLewis_2014.stm",
         "SarahParcak_2012U.stm",
+        "SarahParcak_2016.stm",
         "SarahParcak_2016T.stm",
         "SaraLewis_2014.stm",
         "SaraRamirez_2015P.stm",
@@ -1764,7 +2364,6 @@
         "SayuBhojwani_2016S.stm",
         "ScillaElworthy_2012X.stm",
         "ScottDinsmore_2012X.stm",
-        "ScottFraser_2012X.stm",
         "ScottKim_2008P.stm",
         "ScottMcCloud_2005.stm",
         "SeanCarroll_2010X.stm",
@@ -1774,7 +2373,6 @@
         "SebastianJunger_2014S.stm",
         "SebastianJunger_2015P.stm",
         "SebastianKraves_2016S.stm",
-        "SebastianSeung_2010G.stm",
         "SebastianThrun_2011.stm",
         "SebastianWernicke_2010A.stm",
         "SebastianWernicke_2011X.stm",
@@ -1792,7 +2390,6 @@
         "SethGodin_2009.stm",
         "SethPriebatsch_2010X.stm",
         "SethShostak_2012X.stm",
-        "SeverineAutesserre_2014G.stm",
         "SeyiOyesola_2007G.stm",
         "ShabanaBasijRasikh_2012X.stm",
         "ShaffiMather_2009I.stm",
@@ -1804,8 +2401,8 @@
         "ShaoLanHsueh_2013.stm",
         "ShaoLanHsueh_2016U.stm",
         "SharmeenObaidChinoy_2010U.stm",
+        "SharonBrous_2016W.stm",
         "ShawnAchor_2011X.stm",
-        "SheaHembrey_2011.stm",
         "SheenaIyengar_2011S.stm",
         "SheikhaAlMayassa_2010W.stm",
         "SheilaNirenberg_2011P.stm",
@@ -1813,15 +2410,13 @@
         "ShekharKapur_2009I.stm",
         "ShereenElFeki_2009G.stm",
         "ShereenElFeki_2012S.stm",
-        "ShereenElFeki_2013G.stm",
         "SherryTurkle_2012.stm",
         "SherwinNuland_2003.stm",
         "SherylSandberg_2010W.stm",
         "SherylSandberg_2013W.stm",
+        "SherylWuDunn_2010G.stm",
         "ShigeruBan_2013X.stm",
-        "ShihChiehHuang_2014U.stm",
         "ShiloSuleman_2011P.stm",
-        "ShimonSchocken_2010X.stm",
         "ShimonSchocken_2012G.stm",
         "ShimonSteinberg_2010X.stm",
         "ShirinNeshat_2010W.stm",
@@ -1831,7 +2426,6 @@
         "ShubhenduSharma_2014U.stm",
         "ShubhenduSharma_2016S.stm",
         "ShuklaBose_2009I.stm",
-        "ShyamSankar_2012G.stm",
         "SiamakHariri_2017S.stm",
         "SiddharthaMukherjee_2015.stm",
         "SiddharthanChandran_2013G.stm",
@@ -1872,7 +2466,6 @@
         "StefanSagmeister_2008.stm",
         "StefanSagmeister_2009G.stm",
         "StefanSagmeister_2010S.stm",
-        "StefanWolff_2010G.stm",
         "StefonHarris_2011S.stm",
         "StellaYoung_2014X.stm",
         "StephanieBusari_2017S.stm",
@@ -1889,7 +2482,6 @@
         "StephenWolfram_2010.stm",
         "SteveHoward_2013G.stm",
         "SteveJurvetson_2007.stm",
-        "SteveKeil_2011X.stm",
         "StevenAddis_2012.stm",
         "StevenCowley_2009G.stm",
         "StevenJohnson_2003.stm",
@@ -1897,14 +2489,15 @@
         "StevenJohnson_2016V.stm",
         "StevenLevitt_2004.stm",
         "StevenLevitt_2005G.stm",
+        "StevenPinker_2005G.stm",
+        "StevenPinker_2007.stm",
         "StevenSchwaitzberg_2012X.stm",
+        "StevenStrogatz_2004.stm",
+        "StevenWise_2015.stm",
         "SteveRamirez_2013X.stm",
         "SteveSilberman_2015.stm",
-        "SteveTruglia_2009G.stm",
+        "StewartBrand_2004.stm",
         "StewartBrand_2006.stm",
-        "StewartBrand_2009S.stm",
-        "StewartBrand_2013.stm",
-        "Sting_2014.stm",
         "StuartFirestein_2013.stm",
         "StuartRussell_2017.stm",
         "SueAustin_2012X.stm",
@@ -1917,7 +2510,6 @@
         "SukiKim_2015.stm",
         "SunithaKrishnan_2009I.stm",
         "SunniBrown_2011.stm",
-        "SusanBlackmore_2008.stm",
         "SusanCain_2012.stm",
         "SusanColantuono_2013X.stm",
         "SusanEtlinger_2014S.stm",
@@ -1928,9 +2520,7 @@
         "SuzanaHerculanoHouzel_2013G.stm",
         "SuzanneBarakat_2016W.stm",
         "SuzanneLee_2011U.stm",
-        "SuzanneSimard_2016T.stm",
         "SvantePaabo_2011G.stm",
-        "SylviaEarle_2009.stm",
         "TabethaBoyajian_2016.stm",
         "TaiyeSelasi_2014G.stm",
         "TakaharuTezuka_2014X.stm",
@@ -1942,7 +2532,7 @@
         "TaniaSimoncelli_2014X.stm",
         "TanLe_2010G.stm",
         "TanLe_2011X.stm",
-        "TarynSimon_2011S.stm",
+        "TarynSimon_2009G.stm",
         "TasosFrantzolas_2016X.stm",
         "TassoAzevedo_2014G.stm",
         "TaviGevinson_2012X.stm",
@@ -1953,12 +2543,12 @@
         "TedHalstead_2017.stm",
         "Teitur_2015.stm",
         "TempleGrandin_2010.stm",
+        "TeresaCarrenoOrchestra_2009.stm",
         "TerryMoore_2005.stm",
         "TerryMoore_2012.stm",
         "ThandieNewton_2011G.stm",
         "TheAhnTrio_2010W.stm",
         "TheasterGates_2015.stm",
-        "TheLadyLifers_2014X.stm",
         "ThelmaGolden_2009.stm",
         "TheLXD_2010.stm",
         "TheoJansen_2007.stm",
@@ -1970,13 +2560,16 @@
         "ThomasHeatherwick_2011.stm",
         "ThomasHellum_2014X.stm",
         "ThomasInsel_2013X.stm",
+        "ThomasPeschak_2015Z.stm",
         "ThomasPiketty_2014S.stm",
         "ThomasSuarez_2011X.stm",
         "ThomasThwaites_2010S.stm",
         "ThulasirajRavilla_2009I.stm",
+        "TierneyThys_2003.stm",
         "TimBernersLee_2009.stm",
         "TimBernersLee_2010U.stm",
         "TimBernersLee_2014U.stm",
+        "TimBrown_2008P.stm",
         "TimBrown_2009G.stm",
         "TimFerriss_2017.stm",
         "TimHarford_2011G.stm",
@@ -1987,6 +2580,7 @@
         "TimothyIhrig_2013X.stm",
         "TimothyPrestero_2012X.stm",
         "TimUrban_2016.stm",
+        "TiqMilanandKimMilan_2016W.stm",
         "TobyEccles_2013G.stm",
         "TobyShapshak_2013G.stm",
         "ToddColeman_2015P.stm",
@@ -1995,6 +2589,7 @@
         "ToddScott_2017S.stm",
         "TodMachover_2008.stm",
         "TomChatfield_2010G.stm",
+        "TomHoney_2005.stm",
         "TomHulme_2016U.stm",
         "TomRielly_2006.stm",
         "TomShannon_2003.stm",
@@ -2024,6 +2619,7 @@
         "TritaParsi_2013G.stm",
         "TsheringTobgay_2016.stm",
         "TylerDeWitt_2012X.stm",
+        "TyroneHayes_2010W.stm",
         "UeliGegenschatz_2009.stm",
         "UldusBakhtiozina_2014U.stm",
         "UriAlon_2013G.stm",
@@ -2040,12 +2636,12 @@
         "VijayKumar_2015X.stm",
         "VikMuniz_2003.stm",
         "VikramPatel_2012G.stm",
+        "VilayanurRamachandran_2007.stm",
         "VilayanurRamachandran_2009I.stm",
         "VinayVenkatraman_2012S.stm",
         "VincentCochetel_2014X.stm",
         "VincentMoon_2014G.stm",
         "VirginiaPostrel_2004.stm",
-        "VusiMahlaselaSONGOFMAMA_2007G.stm",
         "VusiMahlasela_SongofMama_2007G.stm",
         "WadahKhanfar_2011.stm",
         "WadeDavis_2012.stm",
@@ -2055,20 +2651,18 @@
         "WanisKabbaj_2016S.stm",
         "WayneMcGregor_2012G.stm",
         "WendyChung_2014.stm",
+        "WendyFreedman_2014G.stm",
         "WendyTroxel_2016X.stm",
         "WesMoore_2014S.stm",
         "WillardWigan_2009G.stm",
         "WilliamBlack_2013X.stm",
         "WilliamKamkwamba_2007G.stm",
         "WilliamKamkwamba_2009G.stm",
-        "WilliamLi_2010.stm",
         "WilliamMcDonough_2005.stm",
         "WilliamNoel_2012S.stm",
         "WilliamUry_2010X.stm",
-        "WillieSmits_2009.stm",
         "WillMarshall_2014.stm",
         "WillPotter_2014U.stm",
-        "WillPotter_2015F.stm",
         "WillWright_2007.stm",
         "WinghamRowan_2012S.stm",
         "WolfgangKessling_2012S.stm",
@@ -2084,7 +2678,6 @@
         "YorubaRichen_2014.stm",
         "YossiVardi_2007.stm",
         "YuvalNoahHarari_2015G.stm",
-        "YuvalNoahHarari_2017S.stm",
         "YvesBehar_2008.stm",
         "YvesBehar_2009.stm",
         "YvesMorieux_2013S.stm",
@@ -2105,707 +2698,94 @@
         "ZiyahGafic_2014U.stm",
         "ZubaidaBai_2016S.stm"
     ],
-    "185": [
-        "AbrahamVerghese_2011G.stm"
+    "salacious": [
+        "NoyThrupkaew_2015.stm"
     ],
-    "83": [
-        "AJJacobs_2007P.stm"
+    "decal": [
+        "RaghavaKK_2010.stm"
     ],
-    "105": [
-        "AlaindeBotton_2009G.stm"
-    ],
-    "215": [
-        "AlexSteffen_2005G.stm"
-    ],
-    "208": [
-        "AlGore_2008.stm"
-    ],
-    "213": [
-        "AlisonJackson_2005G.stm"
-    ],
-    "30": [
-        "AmoryLovins_2012S.stm"
-    ],
-    "104": [
-        "AmyCuddy_2012G.stm"
-    ],
-    "152": [
-        "AmyWebb_2013S.stm"
-    ],
-    "172": [
-        "AndrewMwenda_2007G.stm"
-    ],
-    "120": [
-        "AndrewSolomon_2013P.stm"
-    ],
-    "4": [
-        "AnilGupta_2009I.stm"
-    ],
-    "165": [
-        "AnnieMurphyPaul_2011G.stm"
-    ],
-    "219": [
-        "ArielGarten_2011X.stm"
-    ],
-    "147": [
-        "AshleyJudd_2016W.stm"
-    ],
-    "218": [
-        "BarrySchwartz_2010S.stm"
-    ],
-    "18": [
-        "BenCameron_2010X.stm"
-    ],
-    "52": [
-        "BenDunlap_2007.stm"
-    ],
-    "211": [
-        "BenjaminWallace_2008P.stm"
-    ],
-    "159": [
-        "BenSaunders_2005.stm"
-    ],
-    "139": [
-        "BenSaunders_2014.stm"
-    ],
-    "201": [
-        "BethNoveck_2012G.stm"
-    ],
-    "55": [
-        "BillClinton_2007.stm"
-    ],
-    "49": [
-        "BillyGraham_1998.stm"
-    ],
-    "206": [
-        "BranFerren_2014.stm"
-    ],
-    "15": [
-        "BreneBrown_2012.stm"
-    ],
-    "44": [
-        "BruceFeiler_2010P.stm"
-    ],
-    "37": [
-        "BruceFeiler_2013S.stm"
-    ],
-    "47": [
-        "BryanStevenson_2012.stm"
-    ],
-    "21": [
-        "CameronHerold_2009X.stm"
-    ],
-    "163": [
-        "CameronSinclair_2006.stm"
-    ],
-    "156": [
-        "CarneRoss_2009P.stm"
-    ],
-    "127": [
-        "CaseyGerald_2016.stm"
-    ],
-    "191": [
-        "CharmianGooch_2013G.stm"
-    ],
-    "28": [
-        "ChimamandaAdichie_2009G.stm"
-    ],
-    "35": [
-        "CKWilliams_2001.stm"
-    ],
-    "131": [
-        "CorneilleEwango_2007G.stm",
-        "CornielleEwango_2007G.stm"
-    ],
-    "144": [
-        "DameEllenMacArthur_2015.stm"
-    ],
-    "187": [
-        "DanBuettner_2009X.stm"
-    ],
-    "102": [
-        "DanDennett_2006.stm"
-    ],
-    "2": [
-        "DanGilbert_2004.stm"
-    ],
-    "171": [
-        "DanGilbert_2005G.stm"
-    ],
-    "86": [
-        "DanielKraft_2011X.stm"
-    ],
-    "27": [
-        "DanPhillips_2010X.stm"
-    ],
-    "182": [
-        "DaveEggers_2008.stm"
-    ],
-    "125": [
-        "DavidAutor_2016X.stm"
-    ],
-    "137": [
-        "DavidBirch_2012X.stm"
-    ],
-    "111": [
-        "DavidBrooks_2011.stm"
-    ],
-    "175": [
-        "DavidMacaulay_2002.stm"
-    ],
-    "65": [
-        "DavidPogue_2006.stm"
-    ],
-    "95": [
-        "DavidRockwell_2002.stm"
-    ],
-    "73": [
-        "DeanOrnish_2004.stm"
-    ],
-    "193": [
-        "DeniseHerzing_2013.stm"
-    ],
-    "148": [
-        "DevduttPattanaik_2009I.stm"
-    ],
-    "202": [
-        "DorisKearnsGoodwin_2008.stm"
-    ],
-    "96": [
-        "EdBoyden_2011.stm"
-    ],
-    "60": [
-        "EdithWidder_2010Z.stm",
-        "EWidder_2010Z.stm"
-    ],
-    "160": [
-        "EdwardBurtynsky_2005.stm"
-    ],
-    "222": [
-        "EdwardSnowden_2014.stm"
-    ],
-    "9": [
-        "EdYong_2014.stm"
-    ],
-    "178": [
-        "EleanorLongden_2013.stm"
-    ],
-    "162": [
-        "EleniGabreMadhin_2007G.stm"
-    ],
-    "82": [
-        "ElifShafak_2010G.stm"
-    ],
-    "155": [
-        "ElizabethLev_2015G.stm"
-    ],
-    "114": [
-        "EllenDunhamJones_2010X.stm"
-    ],
-    "216": [
-        "EmmaMarris_2016T.stm"
-    ],
-    "170": [
-        "EnricSala_2010Z.stm"
-    ],
-    "70": [
-        "EOWilson_2007.stm"
-    ],
-    "87": [
-        "EricDishman_2009P.stm"
-    ],
-    "177": [
-        "EricLiu_2013Z.stm"
-    ],
-    "188": [
-        "EricLiu_2016S.stm"
-    ],
-    "133": [
-        "EricSanderson_2009G.stm"
-    ],
-    "154": [
-        "EstherPerel_2015.stm"
-    ],
-    "29": [
-        "EuvinNaidoo_2007G.stm"
-    ],
-    "164": [
-        "FrankGehry_1990.stm"
-    ],
-    "57": [
-        "GailReed_2014P.stm"
-    ],
-    "19": [
-        "GarthLenz_2011X.stm"
-    ],
-    "7": [
-        "GlennGreenwald_2014G.stm"
-    ],
-    "124": [
-        "GregLynn_2005.stm"
-    ],
-    "126": [
-        "GregoryStock_2003.stm"
-    ],
-    "50": [
-        "GretchenCarlsonandDavidBrooks_2017S.stm"
-    ],
-    "53": [
-        "HelenFisher_2016T.stm"
-    ],
-    "221": [
-        "iOTillettWright_2012X.stm"
-    ],
-    "110": [
-        "IrwinRedlener_2008.stm"
-    ],
-    "63": [
-        "IwanBaan_2013Z.stm"
-    ],
-    "138": [
-        "JacquelineNovogratz_2005G.stm"
-    ],
-    "10": [
-        "JamesHowardKunstler_2004.stm"
-    ],
-    "64": [
-        "JamesNachtwey_2007.stm"
-    ],
-    "14": [
-        "JanePoynter_2009.stm",
-        "JanePoynter_2009X.stm"
-    ],
-    "103": [
-        "JanineBenyus_2005.stm"
-    ],
-    "210": [
-        "JedidahIsler_2015F.stm"
-    ],
-    "209": [
-        "Jennifer8Lee_2008P.stm",
-        "Jenny8Lee_2008P.stm"
-    ],
-    "33": [
-        "JenniferHealey_2013S.stm",
-        "JenniferHealey_2013X.stm"
-    ],
-    "59": [
-        "JillTarter_2009.stm"
-    ],
-    "130": [
-        "JimmyWales_2005G.stm"
-    ],
-    "153": [
-        "JimSimons_2015.stm"
-    ],
-    "181": [
-        "JoeDeRisi_2006.stm"
-    ],
-    "99": [
-        "JohannaBlakley_2009X.stm",
-        "JohannaBlakley_2010X.stm"
-    ],
-    "122": [
-        "JohanRockstroem_2010G.stm",
-        "JohanRockstrom_2010G.stm"
-    ],
-    "174": [
-        "JohnDelaney_2010Z.stm"
-    ],
-    "194": [
-        "JohnGerzema_2009X.stm"
-    ],
-    "16": [
-        "JohnHodgman_2008.stm"
-    ],
-    "214": [
-        "JohnHunter_2011.stm"
-    ],
-    "180": [
-        "JohnWooden_2001.stm"
-    ],
-    "31": [
-        "JonathanHaidt_2008.stm"
-    ],
-    "121": [
-        "JonathanHaidt_2012.stm"
-    ],
-    "132": [
-        "JonathanHaidt_2012S.stm"
-    ],
-    "66": [
-        "JonathanHarris_2007P.stm"
-    ],
-    "195": [
-        "JonathanTepperman_2016T.stm"
-    ],
-    "25": [
-        "JonRonson_2015G.stm"
-    ],
-    "149": [
-        "JoshuaPrager_2013.stm"
-    ],
-    "190": [
-        "JuanEnriquez_2009.stm"
-    ],
-    "220": [
-        "JulianTreasure_2010G.stm",
-        "JulianTreasure_2010GU.stm"
-    ],
-    "205": [
-        "JulieBurstein_2012.stm"
-    ],
-    "169": [
-        "KarimaBennoune_2014X.stm"
-    ],
-    "78": [
-        "KateAdams_2016S.stm"
-    ],
-    "77": [
-        "KavitaRamdas_2009I.stm",
-        "KRamdas_2009I.stm"
-    ],
-    "196": [
-        "KenJennings_2013X.stm"
-    ],
-    "43": [
-        "KennethLacovara_2016.stm"
-    ],
-    "228": [
-        "KevinBales_2010.stm"
-    ],
-    "17": [
-        "LarryBrilliant_2006.stm"
-    ],
-    "198": [
+    "gander": [
         "LaurelBraitman_2014S.stm"
     ],
-    "212": [
-        "LaurieGarrett_2007U.stm"
+    "headier": [
+        "Bono_2005.stm"
     ],
-    "32": [
-        "LisaKristine_2012X.stm"
-    ],
-    "106": [
-        "LisaMargonelli_2010X.stm"
-    ],
-    "161": [
-        "LisaNip_2015X.stm"
-    ],
-    "145": [
-        "LizDiller_2007P.stm"
-    ],
-    "76": [
-        "MacStone_2015X.stm"
-    ],
-    "116": [
-        "MairaKalman_2007.stm"
-    ],
-    "72": [
-        "MajoraCarter_2010X.stm"
-    ],
-    "0": [
-        "MallorySoldner_2016S.stm"
-    ],
-    "135": [
-        "MarkBittman_2007P.stm"
-    ],
-    "166": [
-        "MarkPagel_2011G.stm"
-    ],
-    "123": [
-        "MartinRees_2005G.stm"
-    ],
-    "71": [
-        "MaryRoach_2009.stm"
-    ],
-    "151": [
-        "MattRidley_2010G.stm"
-    ],
-    "61": [
-        "MeganPhelpsRoper_2017S.stm"
-    ],
-    "93": [
-        "MichaelMerzenich_2004.stm"
-    ],
-    "56": [
-        "MichaelPawlyn_2010S.stm"
-    ],
-    "101": [
-        "MichaelPollan_2007.stm"
-    ],
-    "117": [
-        "MichaelShermer_2006.stm"
-    ],
-    "62": [
-        "MishaGlenny_2011G.stm"
-    ],
-    "22": [
-        "MorganSpurlock_2011.stm"
-    ],
-    "119": [
-        "MosheSafdie_2002.stm"
-    ],
-    "100": [
-        "MustafaAkyol_2011X.stm"
-    ],
-    "141": [
-        "NaifAlMutawa_2010G.stm"
-    ],
-    "94": [
-        "NatalieJeremijenko_2009P.stm"
-    ],
-    "45": [
-        "NateSilver_2009.stm",
-        "NateSilver_2009A.stm"
-    ],
-    "224": [
-        "NehaNarula_2016S.stm"
-    ],
-    "69": [
-        "NeilGershenfeld_2006.stm"
-    ],
-    "217": [
-        "NeilTurok_2008.stm"
-    ],
-    "118": [
-        "NickBostrom_2015.stm"
-    ],
-    "108": [
-        "NielsDiffrient_2002.stm",
-        "NielsDiffrient_2002a.stm"
-    ],
-    "143": [
-        "NinaFedoroff_2016X.stm"
-    ],
-    "146": [
-        "NoreenaHertz_2010S.stm"
-    ],
-    "12": [
-        "NormanFoster_2007P.stm"
-    ],
-    "113": [
-        "OleScheeren_2015G.stm"
-    ],
-    "24": [
-        "PaolaAntonelli_2007.stm"
-    ],
-    "5": [
-        "PaolaAntonelli_2013S.stm"
-    ],
-    "84": [
-        "ParagKhanna_2009G.stm"
-    ],
-    "227": [
-        "ParagKhanna_2016.stm"
-    ],
-    "11": [
-        "PaulBloom_2011G.stm"
-    ],
-    "189": [
-        "PaulGreenberg_2015Z.stm"
-    ],
-    "8": [
-        "PaulSnelgrove_2011G.stm"
-    ],
-    "128": [
-        "PaulStamets_2008.stm"
-    ],
-    "183": [
-        "PaulWolpe_2010X.stm"
-    ],
-    "179": [
-        "PeterDiamandis_2005G.stm"
-    ],
-    "204": [
-        "PeterDonnelly_2005G.stm"
-    ],
-    "42": [
-        "PeterHirschberg_2007P.stm",
-        "PeterHirshberg_2007P.stm"
-    ],
-    "168": [
-        "PeterWard_2008.stm"
-    ],
-    "39": [
-        "PhilBorges_2006.stm"
-    ],
-    "207": [
-        "RachelSussman_2010G.stm"
-    ],
-    "92": [
-        "RayKurzweil_2005.stm"
-    ],
-    "112": [
-        "RebeccaMacKinnon_2011G.stm"
-    ],
-    "142": [
-        "RichardDawkins_2005G.stm"
-    ],
-    "98": [
-        "RichardLedgett_2014.stm"
-    ],
-    "79": [
-        "RichardPreston_2008.stm"
-    ],
-    "97": [
-        "RobertBallard_2008.stm"
-    ],
-    "225": [
-        "RobertMuggah_2014G.stm"
-    ],
-    "13": [
-        "RobertNeuwirth_2005.stm",
-        "RobertNeuwirth_2005G.stm"
-    ],
-    "20": [
-        "RobertThurman_2009P.stm"
-    ],
-    "115": [
-        "RobertWright_2006.stm"
-    ],
-    "41": [
-        "RobForbes_2006.stm"
-    ],
-    "90": [
-        "RodrigoCanales_2013S.stm"
-    ],
-    "107": [
-        "RogerEbert_2011.stm"
-    ],
-    "6": [
-        "RomulusWhitaker_2009I.stm"
-    ],
-    "34": [
-        "RonEglash_2007G.stm",
-        "RonEglash_2007G2.stm"
-    ],
-    "200": [
-        "RorySutherland_2009G.stm"
-    ],
-    "197": [
-        "RorySutherland_2011X.stm"
-    ],
-    "26": [
-        "RossLovegrove_2005.stm"
-    ],
-    "192": [
-        "RufusGriscomandAlisaVolkman_2010W.stm"
-    ],
-    "203": [
-        "RussellFoster_2013G.stm"
-    ],
-    "48": [
-        "SamanthaPower_2008.stm"
-    ],
-    "186": [
-        "SarahParcak_2016.stm"
-    ],
-    "136": [
-        "SharonBrous_2016W.stm"
-    ],
-    "51": [
-        "ShashiTharoor_2009I.stm"
-    ],
-    "80": [
-        "SheenaIyengar_2010G.stm"
-    ],
-    "74": [
-        "SherwinNuland_2001.stm"
-    ],
-    "68": [
-        "SherylWuDunn_2010G.stm"
-    ],
-    "85": [
-        "SimonLewis_2010P.stm"
-    ],
-    "40": [
-        "SpencerWells_2007G.stm"
-    ],
-    "173": [
-        "StephenPetranek_2002.stm",
-        "StevenPetranek_2002.stm"
-    ],
-    "176": [
-        "StevenJohnson_2010G.stm"
-    ],
-    "223": [
-        "StevenPinker_2003.stm"
-    ],
-    "167": [
-        "StevenPinker_2005G.stm"
-    ],
-    "23": [
-        "StevenPinker_2007.stm"
-    ],
-    "91": [
+    "rng": [
         "StevenPinker_2012.stm"
     ],
-    "36": [
-        "StevenStrogatz_2004.stm",
-        "StevenStrogatz_2004R.stm"
+    "comm": [
+        "PeterDiamandis_2012.stm"
     ],
-    "157": [
-        "StevenWise_2015.stm"
+    "triumvirate": [
+        "JoshuaPrinceRamus_2009X.stm"
     ],
-    "229": [
-        "StewartBrand_2004.stm"
+    "urals": [
+        "WillieSmits_2009.stm"
     ],
-    "58": [
-        "StuartBrown_2008P.stm"
+    "boyhood": [
+        "CarneRoss_2009P.stm"
     ],
-    "199": [
-        "TarynSimon_2009G.stm"
+    "isabelle": [
+        "SeverineAutesserre_2014G.stm"
     ],
-    "1": [
-        "TeresaCarrenoOrchestra_2009.stm"
+    "slammer": [
+        "EmilyLevine_2002.stm"
     ],
-    "158": [
-        "ThomasBarnett_2005.stm"
+    "lynwood": [
+        "ScottFraser_2012X.stm"
     ],
-    "184": [
-        "ThomasPeschak_2015Z.stm"
+    "endothermic": [
+        "BarbaraBlock_2010Z.stm"
     ],
-    "54": [
-        "ThomMayne_2005.stm"
+    "palladio": [
+        "FrankGehry_1990.stm"
     ],
-    "134": [
-        "ThordisElvaandTomStranger_2016W.stm"
+    "latex": [
+        "AviRubin_2011X.stm"
     ],
-    "88": [
-        "TierneyThys_2003.stm"
+    "neonics": [
+        "MarlaSpivak_2013G.stm"
     ],
-    "140": [
-        "TimBrown_2008P.stm"
+    "caprylic": [
+        "RichardDawkins_2005G.stm"
     ],
-    "3": [
-        "TimFerriss_2008P.stm"
+    "ghani": [
+        "AshrafGhani_2005G.stm"
     ],
-    "129": [
-        "TimJackson_2010G.stm"
+    "mrv": [
+        "SimonLewis_2010P.stm"
     ],
-    "109": [
-        "TiqMilanandKimMilan_2016W.stm"
+    "achondroplasia": [
+        "AndrewSolomon_2013P.stm"
     ],
-    "81": [
-        "TMorganDixonandVanessaGarrison_2017.stm"
+    "condensable": [
+        "CarolynPorco_2007.stm"
     ],
-    "150": [
-        "TomHoney_2005.stm"
+    "edemic": [
+        "CharityTillemannDick_2010P.stm"
     ],
-    "226": [
-        "TyroneHayes_2010W.stm"
+    "calla": [
+        "BillyCollins_2012.stm"
     ],
-    "46": [
-        "VilayanurRamachandran_2007.stm"
+    "manicure": [
+        "JunoMac_2016X.stm"
     ],
-    "38": [
-        "WadeDavis_2008.stm"
+    "bioethics": [
+        "StewartBrand_2009S.stm"
     ],
-    "89": [
-        "WendyFreedman_2014G.stm"
+    "decently": [
+        "RobertWright_2006.stm"
     ],
-    "75": [
-        "YangLan_2011G.stm"
+    "rutting": [
+        "RomulusWhitaker_2009I.stm"
+    ],
+    "fossilize": [
+        "JaneGoodall_2007G.stm"
+    ],
+    "twitchy": [
+        "MikedeGruy_2010Z.stm"
+    ],
+    "haney": [
+        "PhilZimbardo_2008.stm"
     ]
 }

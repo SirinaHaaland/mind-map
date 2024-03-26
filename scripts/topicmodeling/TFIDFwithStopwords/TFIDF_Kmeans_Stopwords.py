@@ -4,11 +4,18 @@ representing documents, that emphasizes words that are unique to each
 document, potentially improving the quality of your topics by reducing 
 the impact of frequently occurring words that are less informative.
 TF-IDF often serves as a preparatory step or feature extraction technique 
-that should be combined with other algorithms.
-This script clusters documents based on their TF-IDF representations, 
+that should be combined with other algorithms.To calculate TF-IDF, we need 
+to multiply the values of TF and IDF. The final score shows the relevance 
+of the term, with a higher score denoting higher relevance and a lower score 
+denoting lower relevance. https://www.semrush.com/blog/tf-idf/, 
+https://towardsdatascience.com/text-vectorization-term-frequency-inverse-document-frequency-tfidf-5a3f9604da6d
+This script clusters documents based on their TF-IDF representations (matrix), 
 achieved by using the K-Means clustering algorithm. This approach will 
 group documents into clusters based on the similarity of their TF-IDF 
 vectors, which can be interpreted as grouping documents by their "topics". 
+So when K-means tries to find the distance/similarity between two documents, 
+it's performing the similarity between two rows in the matrix. 
+https://stackoverflow.com/questions/60293351/how-tfidf-value-is-used-in-k-means-clustering
 For each cluster, we identify the most representative word (word with the 
 highest average TF-IDF score) based on TF-IDF scores across documents in 
 the cluster, and this will be the topic name."
@@ -52,7 +59,7 @@ if __name__ == '__main__':
     km_model = KMeans(n_clusters=num_clusters) # creates a K-Means model with the specified number of clusters
     km_model.fit(tfidf_matrix) # fits the K-Means model to the TF-IDF matrix, performing the clustering process. After fitting, the model assigns each document to one of the num_clusters clusters based on their TF-IDF features
 
-    clusters = km_model.labels_.tolist() # list of cluster labels (assignments) for each document
+    clusters = km_model.labels_.tolist() # list of cluster labels (topic assignments) for each document
 
     # determine the top word for each cluster
     order_centroids = km_model.cluster_centers_.argsort()[:, ::-1] # sorts the cluster centers by their TF-IDF scores in descending order of importance, helps to identify the most representative words for each cluster
