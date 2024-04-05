@@ -2,7 +2,7 @@ import json
 import matplotlib.pyplot as plt
 
 # load the topic mappings from the JSON file
-with open('C:/Users/sirin/DATBAC-1/STG0006948/scripts/topicmodeling/Custom/custom_topic_mappings.json', 'r', encoding='utf-8') as f:
+with open('C:/Users/sirin/DATBAC-1/STG0006948/scripts/topicmodeling/Custom/selected_topicscopy.json', 'r', encoding='utf-8') as f:
     topic_mappings = json.load(f)
 
 # Sort topics by the number of files, in descending order
