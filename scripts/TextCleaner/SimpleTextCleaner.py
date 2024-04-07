@@ -22,6 +22,6 @@ def save_clean_transcripts(input_directory, output_directory):
                 file.write(cleaned_text)
 
 if __name__ == '__main__':
-    input_directory = '..data/transcripts/RawTranscripts'
-    output_directory = '..data/transcripts/CleanedTranscripts'
+    input_directory = '../data/transcripts/RawTranscripts'
+    output_directory = '../data/transcripts/CleanedTranscripts'
     save_clean_transcripts(input_directory, output_directory)

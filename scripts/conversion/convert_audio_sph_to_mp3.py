@@ -21,8 +21,8 @@ def convert_all_sph_in_directory(source_directory, target_directory):
             print(file_count)
     print(f"Conversion complete. {file_count} files were converted.")
 
-source_dir = "C:\\Users\\sirin\\DATBAC-1\\STG0006948\\data\\TEDLIUM_release-3\\TEDLIUM_release-3\\data\\sph"
-target_dir = "C:\\Users\\sirin\\DATBAC-1\\STG0006948\\data\\audio_mp3"
+source_dir = "../data/Sph"
+target_dir = "../data/AudioMp3"
 
 convert_all_sph_in_directory(source_dir, target_dir)
 

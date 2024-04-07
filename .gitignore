@@ -8,6 +8,4 @@ data/Duplicates/DuplicateCleanedTranscripts
 data/Duplicates/DuplicateAudio
 env/
 .vscode/
-Experimental/
-Experimental/dimensionality_reduced_files
 scripts/topicmodeling/BERTopic/bertopic_model
