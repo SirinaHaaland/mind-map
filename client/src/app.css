@@ -1,0 +1,178 @@
+.App {
+  text-align: center;
+}
+.NavB{
+  margin-top: 10px;
+}
+.NavL{
+  margin-left:40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  max-height: 35vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  line-height: 120px;
+  background: linear-gradient(to top, #282c34, #35495e);
+  padding-bottom: -20px;
+  margin-top: -10px;  
+  padding-top: 75px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-link a {
+  color: inherit; 
+  text-decoration: none; 
+  
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-page-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 20;
+}
+
+.mind-map-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* Ensure alignment is consistent */
+  align-items: flex-start;
+  width: 100%;
+  gap: 10px; /* Ensure there's space between items */
+}
+
+.mind-map-item {
+  flex: 1 1 auto; /* Allow flexible growth and avoid specifying a set percentage */
+  min-width: 150px; /* Minimum width before wrapping */
+  max-width: 100%; /* Avoid overflow */
+  box-sizing: border-box; /* Include padding and borders in the element's total width and height */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.mind-map-item:hover {
+  transform: scale(1.05); /* Slightly enlarge on hover */
+  z-index: 10; /* Ensure the item is above others when scaled */
+  /*box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+}
+
+.category-item {
+  display: flex;
+  align-items: center; /* Centers the label with the checkbox */
+  margin-bottom: 5px;
+}
+
+.category-item label {
+  font-size: 0.8rem; /* Smaller font size for category names */
+  margin: 0; /* Reset margin to reduce space */
+  cursor: pointer; /* Indicates that the label is clickable */
+}
+
+.category-item input[type="checkbox"] {
+  margin-right: 5px; /* Adds space between the checkbox and the label */
+  width: 12px;
+  height: 12px;
+  cursor: pointer;
+}
+
+.App-select .btn {
+  padding: 4px 8px;
+  background-color:#008B8B; 
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-top: 1px;
+}
+
+.App-select .search {
+  padding: 6px 11px;
+  color: black;
+  cursor: pointer;
+  border-radius: 10px;
+  line-height: 20px;
+  margin-right: 5px;
+  margin-top: 6px;
+}
+
+App-select {
+  flex: 1 1 auto;
+}
+
+.App-header button:hover {
+  background-color: #4a90e2; 
+}
+
+.about-page {
+  text-align: center; /* Center all text */
+  padding: 20px; /* Add padding around the content */
+  margin: auto; /* Center the div on the page */
+  max-width: 800px; /* Set a max-width for readability */
+}
+
+.about-page h1, .about-page h2 {
+  color:  #282c34; /* A dark shade of blue */
+  margin-top: 20px; /* Space above headers */
+}
+
+.about-page p, .about-page ul {
+  text-align: left; /* Align text left within the centered content */
+  line-height: 1.6; /* Increase line height for readability */
+  color: #35495e; /* Dark grey color for text */
+}
+
+.about-page ul {
+  list-style-type: circle; /* Styled bullet points */
+  margin-left: 20px; /* Indent list */
+  padding-left: 0; /* Remove default padding */
+}
+
+.about-page a {
+  color: #61dafb; /* Style links to match the app theme */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.about-page a:hover {
+  text-decoration: underline; /* Add underline on hover for better interaction */
+}
+

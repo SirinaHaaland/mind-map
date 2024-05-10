@@ -1,22 +1,38 @@
-# STG0006948
-Bachelor Thesis in Computer Science (DATBAC-1) 23H- 24V. 
-Group STG0006948; Sirina Håland, Trond Karlsen Strøm.  
-Working title: Navigation in Collections of Speech Recordings.
+Mind Map: Navigating Speech Collections Overview
 
-Motivation/Background; 
-Recordings of speech, such as podcasts, talks, or radio programmes contain large amounts of information. Though speech recording is nowadays probably the easiest way to store information, acquiring the information from speech collections is still problematic, mainly due to the linear structure of the recordings. Information can be typically only accessed using the meta-data which is provided by the creator of the content or using Spoken Content Retrieval methods [2]. The goal of this thesis is to make speech collections more accessible. This work will investigate, explore, design and implement alternative approaches for navigating in large collections of speech recordings, which would make an access to information and knowledge stored in speech collections easier.
+Mind Map is a web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. The project is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
 
-Task; 
-The main aim of this thesis is to explore the existing navigational and browsing tools for speech collections, identify and then implement the most promising methods for alternative browsing approaches. The browsing and navigational methods should be proposed to particularly ease the process of exploratory search. An example of navigational methods might be creating clusters of similar recordings or segments in the recordings, creating links between similar recordings, creating links between the mentioned entities or using visual representations of the spoken content. A possible scenario in which the tools would be used might be a user trying to find all the information regarding her/his home town about which she/he is writing a review. The method will be implemented on an existing collection of spoken data, such as for example Malach collection [2].
+Motivation
 
-The thesis is suitable for one or two students.
+The linear structure of speech recordings, such as podcasts and talks, often makes accessing stored information challenging. Mind Map addresses this by providing innovative navigation and browsing tools that make it easier to access knowledge within these recordings. This work builds upon existing navigational methods, adding visual representations and link-based explorations to enhance the user's ability to conduct exploratory searches.
 
-Objectives; 
-Explore existing navigational approaches for the speech collections
+Features
 
-Propose and develop a novel approach for browsing and navigation and apply it on an existing speech collection
+AI-Enhanced Visuals: AI-generated visuals provide a pictorial summary of talk content, enhancing user engagement.
+Search and Filtering Capabilities: Allows users to swiftly navigate through topics using keywords or curated filters.
+Interactive Transcripts: Users can follow along with transcripts synchronized to audio, helping them quickly determine the relevance of content.
 
-References; 
-[1] Martha Larson and Gareth J. F. Jones: Spoken Content Retrieval: A Survey of Techniques and Technologies
+How It Works
 
-[2] https://ufal.mff.cuni.cz/malach-test-collection
+At the core of Mind Map is a sophisticated topic modeling system that processes audio transcripts to categorize topics using techniques such as TF-IDF and K-means clustering. This enables users to interact with a responsive interface, navigating topics and accessing audio and transcripts directly. The system leverages the latest AI technology to improve topic identification and visual representation, making exploration both engaging and insightful.
+
+Installation and Usage
+
+For detailed installation and running instructions, please see the [SETUP.md](./SETUP.md) file.
+Ensure that all prerequisites are met to set up the application on your local machine or server.
+
+Contribution
+
+Mind Map and its associated preprocessing and topic modeling scripts are open source, hosted on GitHub at this repository. We encourage the community to contribute to the project by extending its capabilities or adapting its methodologies to new collections of spoken data.
+
+Contact
+
+For more information, support, or feedback, please reach out to us at 2024mindmap@gmail.com.
+
+Acknowledgements
+
+This project was supervised by Petra Galuscakova, Associate professor in language technology in Department of Computer and Electrical Engineering at the University of Stavanger, and we appreciate her guidance and support throughout the development process.
+
+License
+
+MIT License
