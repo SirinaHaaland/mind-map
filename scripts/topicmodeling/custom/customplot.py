@@ -22,11 +22,6 @@ def create_topic_image(topics_list, output_path):
     plt.tight_layout()
     plt.savefig(output_path, bbox_inches='tight')
 
-<<<<<<< HEAD:scripts/topicmodeling/custom/customplot.py
 # Specify the output path for the generated plot image
 output_path = 'customplot.png'
-=======
-# Specify the output path for the generated image
-output_path = '../../../scripts/topicmodeling/Custom/customplot2.png'
->>>>>>> dad41a9a6850ac55780ab7cfef2d36bb5bf3e263:scripts/topicmodeling/Custom/customplot.py
 create_topic_image(topics_list, output_path)
