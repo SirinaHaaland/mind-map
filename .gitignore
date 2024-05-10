@@ -6,6 +6,7 @@ data/transcripts/rawtranscripts
 data/duplicates/duplicaterawtranscripts
 data/duplicates/duplicatecleanedtranscripts
 data/duplicates/duplicateaudio
+scripts/topicmodeling/bertopic/bertopic_model
 data/images
 env/
 .vscode/
