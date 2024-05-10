@@ -7,7 +7,7 @@ with open('../../../data/mappedtopics/selectedtopics.json', 'r', encoding='utf-8
 
 # Sort topics by the number of files, in descending order
 sorted_topics = sorted(topic_mappings.items(), key=lambda item: len(item[1]), reverse=True)
-# create a list of strings, each containing the topic and the count of files
+# Create a list of strings, each containing the topic and the count of files
 topics_list = [f'{idx + 1}. {topic.strip()}: {len(files)}' for idx, (topic, files) in enumerate(sorted_topics)]
 
 def create_topic_image(topics_list, output_path):
@@ -22,6 +22,11 @@ def create_topic_image(topics_list, output_path):
     plt.tight_layout()
     plt.savefig(output_path, bbox_inches='tight')
 
+<<<<<<< HEAD:scripts/topicmodeling/custom/customplot.py
 # Specify the output path for the generated plot image
 output_path = 'customplot.png'
+=======
+# Specify the output path for the generated image
+output_path = '../../../scripts/topicmodeling/Custom/customplot2.png'
+>>>>>>> dad41a9a6850ac55780ab7cfef2d36bb5bf3e263:scripts/topicmodeling/Custom/customplot.py
 create_topic_image(topics_list, output_path)
