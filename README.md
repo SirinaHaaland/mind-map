@@ -1,6 +1,6 @@
 Mind Map: Navigating Speech Collections Overview
 
-Mind Map is a web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. Demo of the Web page can be accessed on https://mindmap.ux.uis.no/ for a limited time period.  The project is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
+Mind Map is a web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. Demo of the Web page can be accessed on https://mindmap.ux.uis.no/ for a limited time period.  The Web application is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
 
 Motivation
 
@@ -23,7 +23,7 @@ Ensure that all prerequisites are met to set up the application on your local ma
 
 Contribution
 
-Mind Map and its associated preprocessing and topic modeling scripts are open source, hosted on GitHub at this repository. We encourage the community to contribute to the project by extending its capabilities or adapting its methodologies to new collections of spoken data.
+Mind Map and its associated preprocessing and topic modeling scripts are open source, hosted on GitHub at this repository. We encourage the community to contribute to the Web application by extending its capabilities or adapting its methodologies to new collections of spoken data.
 
 Contact
 
@@ -31,7 +31,7 @@ For more information, support, or feedback, please reach out to us at 2024mindma
 
 Acknowledgements
 
-This project was supervised by Petra Galuscakova, Associate professor in language technology in Department of Computer and Electrical Engineering at the University of Stavanger, and we appreciate her guidance and support throughout the development process.
+This thesis was supervised by Petra Galuscakova, Associate professor in language technology in Department of Computer and Electrical Engineering at the University of Stavanger, and we appreciate her guidance and support throughout the development process.
 
 License
 
