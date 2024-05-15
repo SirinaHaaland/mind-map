@@ -1,10 +1,10 @@
 Mind Map: Navigating Speech Collections Overview
 
-Mind Map is a web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. Demo of the Web page can be accessed on https://mindmap.ux.uis.no/ for a limited time period.  The Web application is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
+Mind Map is a Web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. Demo of the web page can be accessed on https://mindmap.ux.uis.no/ for a limited time period.  The Web application is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
 
 Motivation
 
-The linear structure of speech recordings, such as podcasts and talks, often makes accessing stored information challenging. Mind Map addresses this by providing innovative navigation and browsing tools that make it easier to access knowledge within these recordings. This work builds upon existing navigational methods, adding visual representations and link-based explorations to enhance the user's ability to conduct exploratory searches.
+The linear structure of speech recordings, such as podcasts and talks, often makes accessing stored information challenging. Mind Map addresses this by providing innovative navigation and browsing tools that make it easier to access knowledge within these recordings. This work builds upon existing navigational methods, adding visual representations to enhance the user's engagement with the content.
 
 Features
 
@@ -14,7 +14,7 @@ Interactive Transcripts: Users can follow along with transcripts synchronized to
 
 How It Works
 
-At the core of Mind Map is a sophisticated topic modeling system that processes audio transcripts to categorize topics using techniques such as TF-IDF and K-means clustering. This enables users to interact with a responsive interface, navigating topics and accessing audio and transcripts directly. The system leverages the latest AI technology to improve topic identification and visual representation, making exploration both engaging and insightful.
+At the core of Mind Map is a sophisticated topic modeling system that processes audio transcripts to categorize topics using techniques such as tf-idf and K-Means clustering. This enables users to interact with a responsive interface, navigating topics and accessing audio and transcripts directly. The system leverages the latest AI technology to improve topic identification and visual representation, making exploration both engaging and insightful.
 
 Installation and Usage
 
