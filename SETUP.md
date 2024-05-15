@@ -8,7 +8,7 @@ Before you begin, ensure your system meets these prerequisites:
 
 - **Python:** Backend development language. [Download Python](https://www.python.org/downloads/)
 - **Node.js and npm:** Manage React application dependencies. [Download Node.js](https://nodejs.org/)
-- **Flask:** Python micro web framework. Install with `pip install flask`.
+- **Flask:** Python micro Web framework. Install with `pip install flask`.
 - **React:** Frontend development framework. Setup with `npx create-react-app`.
 
 ### Additional Libraries and Tools
