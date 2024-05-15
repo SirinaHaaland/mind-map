@@ -4,14 +4,22 @@ import json
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 # Necessary NLTK resources are downloaded automatically
+import nltk
 nltk.download('punkt')  # for the word_tokenize function
 nltk.download('stopwords')  # for stopwords
 nltk.download('wordnet')  # for the WordNet Lemmatizer
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 
+
+#Preprocesses input text by removing non-alphabetic characters and short words, tokenizing, lemmatizing, and filtering out stop words.
+def preprocess(text, stop_words):
+    lemmatizer = WordNetLemmatizer()
+    cleaned_text = re.sub('[^A-Za-z]+', ' ', text)
+    cleaned_text = re.sub(r'\b\w{1,2}\b', '', cleaned_text)
+    tokens = word_tokenize(cleaned_text.lower())
+    return " ".join([lemmatizer.lemmatize(w) for w in tokens if w not in stop_words])
 
 # Load and preprocess transcripts from a directory, excluding certain files
 def load_and_preprocess_transcripts(directory, stop_words, exclude_files):
@@ -23,7 +31,6 @@ def load_and_preprocess_transcripts(directory, stop_words, exclude_files):
                 preprocessed_texts.append(preprocess(file.read(), stop_words))
                 file_names.append(filename)
     return preprocessed_texts, file_names
-
 # Perform topic modeling using KMeans clustering on TF-IDF transformed data
 def run_topic_modeling(preprocessed_texts, num_clusters):
     tfidf_vectorizer = TfidfVectorizer()
@@ -45,8 +52,7 @@ def run_topic_modeling(preprocessed_texts, num_clusters):
         topics_to_files[topic_word].append(file_names[i])
 
     return topics_to_files
-
-# Prompts the user to select topics to save and update an existing JSON file with the selected topics
+# Prompt the user to select topics to save and update an existing JSON file with the selected topics
 def select_and_save_topics(topics_to_files, selected_topics_file):
     print("\nIdentified Topics:")
     for topic, filenames in topics_to_files.items():
@@ -85,7 +91,7 @@ def select_and_save_topics(topics_to_files, selected_topics_file):
 
     return excluded_files
 
-# Allows the user to update the list of stopwords by appending new stopwords to an existing file
+# Allow the user to update the list of stopwords by appending new stopwords to an existing file
 def update_stopwords(stop_words_file):
     new_stopwords = input("Enter any new stopwords to add (separated by commas, or leave blank if none): ")
     if new_stopwords.strip():
