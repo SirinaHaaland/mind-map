@@ -1,6 +1,6 @@
 Mind Map: Navigating Speech Collections Overview
 
-Mind Map is a web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. The project is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
+Mind Map is a web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. Demo of the Web page can be accessed on https://mindmap.ux.uis.no/ for a limited time period.  The project is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
 
 Motivation
 
