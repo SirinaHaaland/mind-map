@@ -18,7 +18,7 @@ function AboutPage() {
         </ul>
   
         <h2>How It Works</h2>
-        <p>At the core of Mind Map is our sophisticated topic modeling system that processes audio transcripts to identify and categorize topics using TF-IDF and K-means clustering. Users interact with a responsive and intuitive interface where they can navigate through topics and access audio and transcripts directly. Leveraging cutting-edge AI, Mind Map enhances topic identification and visual representation, making exploration both engaging and insightful.</p>
+        <p>At the core of Mind Map is our sophisticated topic modeling system that processes audio transcripts to identify and categorize topics using TF-idf and K-Means clustering. Users interact with a responsive and intuitive interface where they can navigate through topics and access audio and transcripts directly. Leveraging cutting-edge AI, Mind Map enhances topic identification and visual representation, making exploration both engaging and insightful.</p>
   
         <h2>Who We Are</h2>
         <p>Mind Map was developed by a dedicated team of computer science students, passionate about making digital education more accessible and navigable. Our team combines expertise in machine learning, software development, and user experience to create innovative solutions to complex problems.</p>
