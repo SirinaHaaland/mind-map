@@ -6,7 +6,7 @@ function MainRecPage({ filename }) {
   const audioElementRef = useRef(null);
   const [title, setTitle] = useState('');
   const [category, setCategory] = useState('');
-
+  // Fetch image, transcript, and title data from the server based on the filename when it changes.
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -49,7 +49,8 @@ function MainRecPage({ filename }) {
       }
     };
   }, [filename]);
-
+  
+  // Update the audio element's source to fetch the corresponding audio file based on the filename.
   useEffect(() => {
     if (audioElementRef.current) {
       audioElementRef.current.src = `/get-mp3?filename=${filename}`;

@@ -4,6 +4,12 @@
 .NavB{
   margin-top: 10px;
 }
+.NavB button{
+  background-color: #008B8B;
+}
+.NavB button:hover{
+  background-color: #007D7D;
+}
 .NavL{
   margin-left:40px;
   margin-right: 40px;
@@ -37,8 +43,11 @@
   padding-top: 75px;
 }
 
-.App-link {
+.App-link{
   color: #61dafb;
+}
+.App-link:hover {
+  color: #4fa9d9;
 }
 
 .App-link a {
@@ -124,7 +133,9 @@ html, body {
   border-radius: 10px;
   margin-top: 1px;
 }
-
+.App-select .btn:hover{
+  background-color: #007D7D;
+}
 .App-select .search {
   padding: 6px 11px;
   color: black;
@@ -144,29 +155,29 @@ App-select {
 }
 
 .about-page {
-  text-align: center; /* Center all text */
-  padding: 20px; /* Add padding around the content */
-  margin: auto; /* Center the div on the page */
-  max-width: 800px; /* Set a max-width for readability */
+  display: flex;
+  flex-direction: column;
+  align-items: stretch; /* Ensure the content spreads across the width */
+  padding: 20px;
+  line-height: 1.6;
+  max-width: 1200px; /* Add a max-width for readability */
+  margin: 0 auto;
 }
 
 .about-page h1, .about-page h2 {
-  color:  #282c34; /* A dark shade of blue */
-  margin-top: 20px; /* Space above headers */
-}
-
-.about-page p, .about-page ul {
-  text-align: left; /* Align text left within the centered content */
-  line-height: 1.6; /* Increase line height for readability */
-  color: #35495e; /* Dark grey color for text */
+  text-align: center; /* Center the headings */
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .about-page ul {
-  list-style-type: circle; /* Styled bullet points */
-  margin-left: 20px; /* Indent list */
-  padding-left: 0; /* Remove default padding */
+  list-style-type: disc;
+  padding-left: 40px;
 }
 
+.about-page p, .about-page li {
+  margin-bottom: 15px;
+}
 .about-page a {
   color: #61dafb; /* Style links to match the app theme */
   text-decoration: none; /* Remove underline from links */

@@ -23,5 +23,5 @@ def create_topic_image(topics_list, output_path):
     plt.savefig(output_path, bbox_inches='tight')
 
 # Specify the output path for the generated image
-output_path = 'gpt-jplot.png'
+output_path = 'gpt-jplotW.png'
 create_topic_image(topics_list, output_path)

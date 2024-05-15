@@ -6,8 +6,9 @@ import json
 # Set your OpenAI API key here
 api_key = 'your_api_key' 
 
+# removes any irregular spacing (spaces, tabs, newlines, etc.)
 def preprocess_text(text):
-    text = re.sub(r'\s+', ' ', text).strip() # removes any irregular spacing (spaces, tabs, newlines, etc.)
+    text = re.sub(r'\s+', ' ', text).strip() 
     return text
 
 directory_path = '../../../data/transcripts/cleanedtranscripts'

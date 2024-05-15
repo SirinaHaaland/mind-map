@@ -11,10 +11,12 @@ const FilterPage= ({ selectedCategories = [], setSelectedCategories }) => {
   const [sortedCategories, setSortedCategories] = useState([]);
   const [showSelected, setShowSelected] = useState(true);
 
+  // Update the checked categories state when selected categories change.
   useEffect(() => {
     setCheckedCategories(selectedCategories);
   }, [selectedCategories]);
 
+  // Fetch categories from the server when the component mounts.
   useEffect(() => {
     axios.get('/data')
       .then(response => {
@@ -25,6 +27,7 @@ const FilterPage= ({ selectedCategories = [], setSelectedCategories }) => {
       });
   }, []);
 
+  // Save the checked categories to local storage and remove them when the component unmounts.
   useEffect(() => {
     localStorage.setItem('checkedCategories', JSON.stringify(checkedCategories));
   
@@ -38,7 +41,8 @@ const FilterPage= ({ selectedCategories = [], setSelectedCategories }) => {
       window.removeEventListener('beforeunload', handleBeforeUnload);
     };
   }, [checkedCategories]);
-
+  
+  // Filter, sort, and update the sorted categories based on search query and selected categories.
   useEffect(() => {
     const filteredCategories = categories.filter(category =>
       category.toLowerCase().includes(searchQuery.toLowerCase())

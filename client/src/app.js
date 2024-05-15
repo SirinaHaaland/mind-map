@@ -4,6 +4,7 @@ import MainPage from './mainpage';
 import FilterPage from './filterpage';
 import FrontPage from './frontpage';
 import About from './about';
+import Button from '@mui/material/Button';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('home');
@@ -76,13 +77,13 @@ function NavigationLinks({ handleHomeClick, currentPage, navigateToPage, selecte
   return (
     <div className='NavB'>
       {currentPage === 'mainrec' && (
-        <button onClick={() => navigateToPage('mainpage', null)}>Back</button>
+        <Button variant="contained" onClick={() => navigateToPage('mainpage', null)}>Back</Button>
       )}
       {currentPage === 'mainpage' && selectedCategories.length > 0 && (
-        <button onClick={handleHomeClick}>Home</button>
+        <Button variant="contained" onClick={handleHomeClick}>Home</Button>
       )}
       {currentPage === 'about' &&(
-        <button onClick={handleHomeClick}>Home</button>
+        <Button variant="contained" onClick={handleHomeClick}>Home</Button>
       )
       }
     </div>

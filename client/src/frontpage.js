@@ -1,11 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
+
 const FrontPage = ({ setSelectedCategories, setCurrentPage }) => { 
   const [categories, setCategories] = useState([]);
   const [selectedCategoriesLocal, setSelectedCategoriesLocal] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-
+  
+  // Fetch categories from the server when the component mounts
+  // and update the state with the sorted categories.
   useEffect(() => {
     axios.get('/data')
       .then(response => {
@@ -45,7 +48,7 @@ const FrontPage = ({ setSelectedCategories, setCurrentPage }) => {
         <div className="App-logo" /> 
         <h1>Welcome to the Mind Map</h1>
         <p className="App-link">
-          <a href="#" onClick={handleLearnMoreClick}>Learn More:</a>
+          <a href="#" onClick={handleLearnMoreClick}>About</a>
         </p>
       </header>
       <div className= 'App-select'>
@@ -58,7 +61,7 @@ const FrontPage = ({ setSelectedCategories, setCurrentPage }) => {
         />
         <button className="btn" onClick={handleShowSelected}>Show selected topics</button>
       </div>
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(100px, 1fr))', gap: '10px', maxHeight: '335px', overflowY: 'auto', marginTop: '15px'}}>
+      <div style={{ display: 'grid',flexDirection: 'column', gridTemplateColumns: 'repeat(auto-fill, minmax(100px, 1fr))', gap: '10px', maxHeight: '335px', overflowY: 'auto', marginTop: '15px'}}>
         {filteredCategories.map(category => (
           <div key={category} className="category-item">
             <input
@@ -71,7 +74,7 @@ const FrontPage = ({ setSelectedCategories, setCurrentPage }) => {
           </div>
         ))}
       </div>
-    </div>
+      </div>
   );
 };
 

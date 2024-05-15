@@ -11,7 +11,12 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
+#Preprocesses the input text by removing non-alphabetic characters 
+#and short words, tokenizing, lemmatizing, and filtering out stopwords.
 def preprocess(text):
+    """
+    
+    """
     with open('stopwords.txt', 'r', encoding='utf-8') as file:
         stop_words = set(file.read().splitlines())
     lemmatizer = WordNetLemmatizer()
@@ -20,6 +25,8 @@ def preprocess(text):
     tokens = word_tokenize(cleaned_text.lower())
     return " ".join([lemmatizer.lemmatize(w) for w in tokens if w not in stop_words])
 
+
+#Loads and preprocesses transcripts from a specified directory.
 def load_and_preprocess_transcripts(directory):
     preprocessed_texts = []
     file_names = []
@@ -29,6 +36,7 @@ def load_and_preprocess_transcripts(directory):
                 preprocessed_texts.append(preprocess(file.read()))
                 file_names.append(filename)
     return preprocessed_texts, file_names
+
 
 if __name__ == '__main__':
     directory = '../../../data/transcripts/cleanedtranscripts'

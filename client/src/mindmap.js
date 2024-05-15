@@ -10,7 +10,7 @@ function MindMap({ selectedCategories, navigateToPage }) {
   const defaultWidth = 800;
   const defaultHeight = 600;
   const clipPathIds = [];
-
+  //Fetch central image from server based on category(topic)
   useEffect(() => {
     const fetchCentralImage = async () => {
       if (selectedCategories.length > 0) {
@@ -38,6 +38,7 @@ function MindMap({ selectedCategories, navigateToPage }) {
     fetchCentralImage();
   }, [selectedCategories]);
 
+  //Fetch image for subnodes, by fetching filename with help of selectied categories and then use it to fetch image.
   useEffect(() => {
     const fetchDataForCategory = async () => {
       const nodes = [];
@@ -73,7 +74,7 @@ function MindMap({ selectedCategories, navigateToPage }) {
       setLoading(false);
     }
   }, [selectedCategories]);
-
+  
   useEffect(() => {
     const handleResize = () => {
       if (svgRef.current) {
