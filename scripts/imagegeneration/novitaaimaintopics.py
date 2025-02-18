@@ -4,7 +4,7 @@ from novita_client import NovitaClient, Samplers
 from novita_client.utils import base64_to_image
 
 # Define your Novita API key and endpoint
-novita_api_key = "your novita api key goes here"
+novita_api_key = "Your_API_Key"
 novita_api_endpoint = "https://api.novita.ai"
 
 # Set the Novita API key as an environment variable
@@ -14,7 +14,7 @@ os.environ["NOVITA_API_KEY"] = novita_api_key
 client = NovitaClient(novita_api_key, novita_api_endpoint)
 
 # Path to the JSON file containing category mappings
-json_file_path = "selectedtopics.json"  
+json_file_path = "../../data/mappedtopics/selectedtopics.json"
 
 # Output directory path for saving generated images
 output_path = "../../data/images"  

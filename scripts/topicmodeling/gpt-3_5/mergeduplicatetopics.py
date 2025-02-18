@@ -2,7 +2,7 @@ import json
 
 def merge_json_duplicates(file_path):
     # Read the original JSON data from the provided file path
-    with open('gpt-3_5topicmappings.json', 'r') as file:
+    with open(file_path, 'r') as file:
         json_data = json.load(file)
 
     # Temporary storage to track which keys have been added (case-insensitive)
@@ -22,11 +22,8 @@ def merge_json_duplicates(file_path):
             seen_keys[lower_key] = key
 
     # Save the merged data back to a new JSON file
-    with open('mergedgpt-3_5topicmappings.json', 'w') as outfile:
+    with open("data/mappedtopics/mergedgpt-3_5topicmappings.json", 'w') as outfile:
         json.dump(merged_data, outfile, indent=4)
 
-# The path to the original JSON file - adjust as necessary for the actual file location
-file_path = 'gpt-3_5topicmappings.json'
-
 # Call the function to merge duplicates and save to a new file
-merge_json_duplicates(file_path)
+merge_json_duplicates("data/mappedtopics/gpt-3_5topicmappings.json")

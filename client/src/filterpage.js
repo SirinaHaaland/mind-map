@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Checkbox, Drawer, List, ListItem, ListItemText, ListItemIcon, IconButton, TextField, Box, FormControlLabel, Switch } from '@mui/material';
-import MenuIcon from '@mui/icons-material/Menu';
+import { Checkbox, List, ListItem, ListItemText, ListItemIcon, TextField, Box, FormControlLabel, Switch, Drawer } from '@mui/material';
 
-const FilterPage= ({ selectedCategories = [], setSelectedCategories }) => {
+const FilterPage = ({ selectedCategories = [], setSelectedCategories }) => {
   const [categories, setCategories] = useState([]);
-  const [drawerOpen, setDrawerOpen] = useState(false);
   const [checkedCategories, setCheckedCategories] = useState(() => selectedCategories);
   const [searchQuery, setSearchQuery] = useState('');
   const [sortedCategories, setSortedCategories] = useState([]);
@@ -41,71 +39,115 @@ const FilterPage= ({ selectedCategories = [], setSelectedCategories }) => {
       window.removeEventListener('beforeunload', handleBeforeUnload);
     };
   }, [checkedCategories]);
-  
+
   // Filter, sort, and update the sorted categories based on search query and selected categories.
   useEffect(() => {
     const filteredCategories = categories.filter(category =>
       category.toLowerCase().includes(searchQuery.toLowerCase())
     );
-
-    filteredCategories.sort((a, b) => a.localeCompare(b));
-
+  
     const sorted = [...filteredCategories].sort((a, b) => {
       const isSelectedA = selectedCategories.includes(a);
       const isSelectedB = selectedCategories.includes(b);
-      if (isSelectedA && isSelectedB) {
-        return 0;
+  
+      if (isSelectedA !== isSelectedB) {
+        return isSelectedA ? -1 : 1; // Selected categories first
       }
-      if (isSelectedA) {
-        return -1;
-      }
-      return 1;
+  
+      const nameA = a.toLowerCase();
+      const nameB = b.toLowerCase();
+  
+      if (nameA < nameB) return -1; // Alphabetical order
+      if (nameA > nameB) return 1;
+      return 0;
     });
-
+  
     setSortedCategories(sorted);
   }, [categories, searchQuery, selectedCategories]);
-
-  const toggleDrawer = (open) => (event) => {
-    if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
-      return;
-    }
-    setDrawerOpen(open);
-  };
 
   const handleCategoryChange = (event) => {
     const { value, checked } = event.target;
     if (checked) {
       setSelectedCategories(prev => [...prev, value]);
-      setCheckedCategories(prev => [...prev, value]); 
+      setCheckedCategories(prev => [...prev, value]);
     } else {
       setSelectedCategories(prev => prev.filter(cat => cat !== value));
-      setCheckedCategories(prev => prev.filter(cat => cat !== value)); 
+      setCheckedCategories(prev => prev.filter(cat => cat !== value));
     }
   };
 
   return (
-    <div>
-      <IconButton onClick={toggleDrawer(true)} color="inherit" aria-label="open drawer" edge="start">
-        <MenuIcon />
-      </IconButton>
-      <Drawer anchor="left" open={drawerOpen} onClose={toggleDrawer(false)}>
-        <Box mt={2} ml={1}>
-          <TextField
-            label="Search topics"
-            variant="outlined"
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-          />
-        </Box>
-        <Box ml={1} mt={2}>
-          <FormControlLabel
-            control={<Switch checked={showSelected} onChange={() => setShowSelected(!showSelected)} />}
-            label="Show selected topics"
-            labelPlacement="start"
-          />
-        </Box>
-        <List>
-          {showSelected && selectedCategories.map((category) => (
+    <Drawer
+      variant="persistent"
+      anchor="left"
+      open={true} // Drawer is always open
+      sx={{
+        width: 250,
+        flexShrink: 0,
+        mt: 8,  // This pushes the drawer below the AppBar (64px height)
+        '& .MuiDrawer-paper': {
+          width: 250,
+          boxSizing: 'border-box',
+          mt: '64px', // Match this with the AppBar height
+        },
+      }}
+    >
+      <Box mt={2} mx={2}>
+        <TextField
+          label="Search categories..."
+          variant="outlined"
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          fullWidth
+          sx={{
+            '& label': { 
+              color: "black" // Change label text color
+            },
+            '& label.Mui-focused': { 
+              color: "black" // Keep it black when focused
+            },
+            '& .MuiOutlinedInput-root': {
+              '& fieldset': { 
+                borderColor: "black" // Default border color
+              },
+              '&:hover fieldset': { 
+                borderColor: "black" // Border color on hover
+              },
+              '&.Mui-focused fieldset': { 
+                borderColor: "black" // Keep border black on focus
+              }
+            }
+          }}
+        />
+      </Box>
+      <Box mt={2} mx={2}>
+        <FormControlLabel
+          control={<Switch checked={showSelected} onChange={() => setShowSelected(!showSelected)} />}
+          label="Show selected categories"
+          labelPlacement="start"
+        />
+      </Box>
+      <List>
+        {showSelected && selectedCategories.map((category) => (
+          <ListItem key={category}>
+            <ListItemIcon>
+              <Checkbox 
+                onChange={handleCategoryChange} 
+                value={category} 
+                checked={checkedCategories.includes(category)}
+                sx={{
+                  color: "#2C3E50", // Unchecked color
+                  '&.Mui-checked': {
+                    color: "#2C3E50", // Checked color
+                  },
+                }}
+              />
+            </ListItemIcon>
+            <ListItemText primary={category} />
+          </ListItem>
+        ))}
+        {sortedCategories.map((category) => (
+          !selectedCategories.includes(category) && (
             <ListItem key={category}>
               <ListItemIcon>
                 <Checkbox 
@@ -116,24 +158,10 @@ const FilterPage= ({ selectedCategories = [], setSelectedCategories }) => {
               </ListItemIcon>
               <ListItemText primary={category} />
             </ListItem>
-          ))}
-          {sortedCategories.map((category) => (
-            !selectedCategories.includes(category) && (
-              <ListItem key={category}>
-                <ListItemIcon>
-                  <Checkbox 
-                    onChange={handleCategoryChange} 
-                    value={category} 
-                    checked={checkedCategories.includes(category)}
-                  />
-                </ListItemIcon>
-                <ListItemText primary={category} />
-              </ListItem>
-            )
-          ))}
-        </List>
-      </Drawer>
-    </div>
+          )
+        ))}
+      </List>
+    </Drawer>
   );
 };
 

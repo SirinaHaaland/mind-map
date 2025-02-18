@@ -1,173 +1,241 @@
-.App {
-  text-align: center;
-}
-.NavB{
-  margin-top: 10px;
-}
-.NavB button{
-  background-color: #008B8B;
-}
-.NavB button:hover{
-  background-color: #007D7D;
-}
-.NavL{
-  margin-left:40px;
-  margin-right: 40px;
-  margin-bottom: 20px;
+* {
+  font-family: 'Roboto', sans-serif !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body, h1, h2, h3, h4, h5, h6, p, a, button, input, textarea, select,
+.btn, .navbar, .form-control, .card, .dropdown-menu {
+  font-family: 'Roboto', sans-serif !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  max-height: 35vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content:flex-start;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  line-height: 120px;
-  background: linear-gradient(to top, #282c34, #35495e);
-  padding-bottom: -20px;
-  margin-top: -10px;  
-  padding-top: 75px;
-}
-
-.App-link{
-  color: #61dafb;
-}
-.App-link:hover {
-  color: #4fa9d9;
-}
-
-.App-link a {
-  color: inherit; 
-  text-decoration: none; 
-  
-}
-
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-html, body {
-  width: 100%;
+html, body, #root {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  background: 
+  linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), 
+  url('https://mindmap.ux.uis.no/data/backgroundImage2.png') 
+  no-repeat center center fixed;
+  background-size: cover;
+  color: solid black;
 }
 
-.main-page-container {
+.App {
   display: flex;
-  width: 100%;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.App-header {
+  background: url('https://mindmap.ux.uis.no/data/backgroundImage.png') no-repeat center center !important;
+  background-size: 100% 100% !important;
+  height: 30vh !important;
+  min-height: 300px !important; /* Ensures enough space for the image */
+  display: flex;
+  align-items: center;
   justify-content: center;
-  align-items: flex-start;
-  margin-top: 20;
+  font-size: 50px;
+  padding: 0;
+  text-align: center;
 }
 
-.mind-map-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start; /* Ensure alignment is consistent */
-  align-items: flex-start;
-  width: 100%;
-  gap: 10px; /* Ensure there's space between items */
-}
-
-.mind-map-item {
-  flex: 1 1 auto; /* Allow flexible growth and avoid specifying a set percentage */
-  min-width: 150px; /* Minimum width before wrapping */
-  max-width: 100%; /* Avoid overflow */
-  box-sizing: border-box; /* Include padding and borders in the element's total width and height */
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: pointer;
-}
-
-.mind-map-item:hover {
-  transform: scale(1.05); /* Slightly enlarge on hover */
-  z-index: 10; /* Ensure the item is above others when scaled */
-  /*box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
-}
-
-.category-item {
-  display: flex;
-  align-items: center; /* Centers the label with the checkbox */
-  margin-bottom: 5px;
-}
-
-.category-item label {
-  font-size: 0.8rem; /* Smaller font size for category names */
-  margin: 0; /* Reset margin to reduce space */
-  cursor: pointer; /* Indicates that the label is clickable */
-}
-
-.category-item input[type="checkbox"] {
-  margin-right: 5px; /* Adds space between the checkbox and the label */
-  width: 12px;
-  height: 12px;
-  cursor: pointer;
-}
-
-.App-select .btn {
-  padding: 4px 8px;
-  background-color:#008B8B; 
+.App-header h1 {
+  font-size: 70px;
   color: white;
-  cursor: pointer;
-  border-radius: 10px;
-  margin-top: 1px;
 }
-.App-select .btn:hover{
-  background-color: #007D7D;
+
+.NavL {
+  margin: 0;       
+  padding: 0;      
+  width: 100%; 
+  height: 40px;  
 }
-.App-select .search {
-  padding: 6px 11px;
-  color: black;
-  cursor: pointer;
-  border-radius: 10px;
-  line-height: 20px;
-  margin-right: 5px;
-  margin-top: 6px;
+
+.MuiToolbar-root {
+  min-height: 40px !important; /* Forces toolbar height to match navbar */
+  align-items: center; /* Centers items vertically */
+  background-color:#2C3E50;
+  color: white;
 }
 
 App-select {
   flex: 1 1 auto;
 }
 
-.App-header button:hover {
-  background-color: #4a90e2; 
+.App-select .search {
+  padding: 0px 0px;
+  cursor: pointer;
+  line-height: 25px;
+  margin-right: 20px;
+  margin-top: 10px;
+  font-weight: 500;
+  border: none;
+  background-color: transparent; /* Make the background transparent */
+  outline: 2px solid black; /* Add an outline similar to the checkbox */
+  box-shadow: none; /* Remove any box shadow */
 }
+
+.App-select .search::placeholder {
+  color: black; /* Placeholder color to match text color */
+}
+
+
+.App-select .search:hover {
+  border-color: black;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.15);
+  transform: scale(1.02);
+}
+
+.App-select .btn {
+  padding: 6px 6px;
+  background-color: #C0392B;
+  color: white;
+  cursor: pointer;
+  margin-top: -2px;
+  font-weight: 500;
+  border-radius: 0px !important;
+}
+
+.App-select .btn:hover {
+  background-color: #A93226;
+  box-shadow: 0px 4px 6px rgba(192, 57, 43, 0.25);
+  transform: scale(1.02);
+}
+
+.category-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.category-item label {
+  font-size: 1.2rem;
+  margin-right: 30px;
+  cursor: pointer;
+  font-weight: 600;
+  color:black;
+}
+
+/* .category-item input[type="checkbox"] {
+  margin-right: 5px;
+  width: 1rem;
+  height: 1rem;
+  cursor: pointer;
+} */
+
+.category-item input[type='checkbox'] {
+  width: 1rem !important;
+  height: 1rem !important;
+  cursor: pointer;
+  margin-right: 5px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  outline: 2px solid black;
+  box-shadow: none;
+  position: relative;
+}
+
+.category-item input[type='checkbox']:checked::before {
+  background-color: #2C3E50;
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+/* .front-page-container {
+  padding: 5px 20px; 
+  box-sizing: border-box;
+  margin: 0 auto;
+} */
+
+.categories-container {
+/*   display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+  max-height: 335px; 
+  overflow-y: auto; */ 
+  padding: 10px 70px; 
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column; /* Stack sections vertically */
+  gap: 40px; /* Space between sections */
+}
+
+.category-section {
+  width: 100%;
+}
+
+.category-letter {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+  color: black;
+}
+
+.category-divider {
+  border: none;
+  border-top: 2px rgb(0, 0, 0); 
+  width: 100%;
+  margin: 5px 0;
+}
+
+.category-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.main-page-container {
+  margin-top: 40px; 
+}
+
+.mind-map-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  gap: 10px;
+}
+
+.mind-map-item {
+  flex: 1 1 auto;
+  min-width: 150px;
+  max-width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+/* .mind-map-item:hover {
+  transform: scale(1.05);
+  z-index: 10;
+} */
 
 .about-page {
   display: flex;
   flex-direction: column;
-  align-items: stretch; /* Ensure the content spreads across the width */
+  align-items: stretch;
   padding: 20px;
   line-height: 1.6;
-  max-width: 1200px; /* Add a max-width for readability */
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .about-page h1, .about-page h2 {
-  text-align: center; /* Center the headings */
+  text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
+  font-weight: 600;
 }
 
 .about-page ul {
@@ -177,13 +245,29 @@ App-select {
 
 .about-page p, .about-page li {
   margin-bottom: 15px;
+  font-weight: 500;
+  font-size: 1.1rem;
 }
+
 .about-page a {
-  color: #61dafb; /* Style links to match the app theme */
-  text-decoration: none; /* Remove underline from links */
+  color: #C0392B;
+  text-decoration: none;
 }
 
 .about-page a:hover {
-  text-decoration: underline; /* Add underline on hover for better interaction */
+  text-decoration: underline;
 }
+
+
+.MuiSwitch-thumb {
+  background-color: #2C3E50 !important; /* Dark grey for the toggle thumb */
+}
+
+.MuiSwitch-track {
+  background-color: #D5D8DC !important; /* Soft grey for the track */
+}
+
+
+
+
 

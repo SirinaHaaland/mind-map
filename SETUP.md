@@ -2,6 +2,8 @@
 
 This document provides the instructions needed to set up and run the system. It covers software prerequisites, installation steps, and how to get the application running in a development environment.
 
+📌 **For a more detailed step-by-step guide on how each script works and how to interact with the system, refer to [INSTRUCTIONS.md](INSTRUCTIONS.md).**
+
 ## Prerequisites
 
 Before you begin, ensure your system meets these prerequisites:
@@ -33,7 +35,22 @@ Before you begin, ensure your system meets these prerequisites:
 
 Clone the repository to get started:
 
-git clone https://github.com/SirinaHaaland/STG0006948.git
+📌 Clone via HTTPS:
+
+```bash
+git clone https://github.com/SirinaHaaland/mind-map.git
+```
+
+📌 Clone via SSH (for contributors with SSH keys set up)
+
+```bash
+git clone git@github.com:SirinaHaaland/mind-map.git
+```
+
+👉 Visit the repository on GitHub: [Mind Map Repository](https://github.com/SirinaHaaland/mind-map).
+
+
+📌 **For a step-by-step breakdown of data processing and pipeline execution, refer to [INSTRUCTIONS.md](INSTRUCTIONS.md).**
 
 
 ## Running the Application

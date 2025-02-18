@@ -40,5 +40,6 @@ for file_name in os.listdir(directory_path):
 
 
 # Export mappings to a JSON file
-with open('gpt-3_5topicmappings.json', 'w', encoding='utf-8') as f:
+with open("../../../data/mappedtopics/gpt-3_5topicmappings.json", 'w', encoding='utf-8') as f: 
     json.dump(topic_mappings, f, ensure_ascii=False, indent=4)
+

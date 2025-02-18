@@ -1,38 +1,100 @@
-Mind Map: Navigating Speech Collections Overview
+# **Mind Map: Navigating Speech Collections Overview**  
 
-Mind Map is a Web application engineered to transform how users interact with vast collections of spoken content, including lectures, podcasts, and seminars. Demo of the web page can be accessed on https://mindmap.ux.uis.no/ for a limited time period.  The Web application is developed by Sirina Håland and Trond Karlsen Strøm as part of their Bachelor Thesis in Computer Science at the University of Stavanger (UiS). Utilizing advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques, the application categorizes spoken content into intuitive, searchable topics, facilitating rapid information retrieval tailored to user interests and research needs.
+**Mind Map** is a Web application designed to improve how users interact with large collections of spoken content, such as **lectures, podcasts, and seminars**. A **demo of the webpage** can be accessed at **[Mind Map Demo](https://mindmap.ux.uis.no/)** for a limited time.  
 
-Motivation
+The Web application is developed by **Sirina Håland** and **Trond Karlsen Strøm** as part of their **Bachelor Thesis in Data Science** at the **University of Stavanger (UiS)**.  
 
-The linear structure of speech recordings, such as podcasts and talks, often makes accessing stored information challenging. Mind Map addresses this by providing innovative navigation and browsing tools that make it easier to access knowledge within these recordings. This work builds upon existing navigational methods, adding visual representations to enhance the user's engagement with the content.
+Utilizing **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques, the application **categorizes spoken content** into intuitive, searchable topics, allowing users to quickly find information relevant to their interests and research needs.  
 
-Features
+---
 
-AI-Enhanced Visuals: AI-generated visuals provide a pictorial summary of talk content, enhancing user engagement.
-Search and Filtering Capabilities: Allows users to swiftly navigate through topics using keywords or curated filters.
-Interactive Transcripts: Users can follow along with transcripts synchronized to audio, helping them quickly determine the relevance of content.
+## **Motivation**  
 
-How It Works
+The **linear structure** of speech recordings (such as podcasts and talks) often makes **accessing stored information challenging**. **Mind Map** solves this by providing **intelligent navigation and browsing tools** to help users explore spoken content efficiently.  
 
-At the core of Mind Map is a sophisticated topic modeling system that processes audio transcripts to categorize topics using techniques such as tf-idf and K-Means clustering. This enables users to interact with a responsive interface, navigating topics and accessing audio and transcripts directly. The system leverages the latest AI technology to improve topic identification and visual representation, making exploration both engaging and insightful.
+This work **builds upon existing navigation methods**, incorporating **visual representations** to **enhance user engagement and interaction** with the content.  
 
-Installation and Usage
+---
 
-For detailed installation and running instructions, please see the [SETUP.md](./SETUP.md) file.
-Ensure that all prerequisites are met to set up the application on your local machine or server.
+## **Features**  
 
-Contribution
+✅ **AI-Enhanced Visuals**  
+AI-generated visuals provide **a pictorial summary of talk content**, enhancing **user engagement**.  
 
-Mind Map and its associated preprocessing and topic modeling scripts are open source, hosted on GitHub at this repository. We encourage the community to contribute to the Web application by extending its capabilities or adapting its methodologies to new collections of spoken data.
+✅ **Search and Filtering Capabilities**  
+Allows users to **swiftly navigate** through topics using **keywords** or **curated filters**.  
 
-Contact
+✅ **Interactive Transcripts**  
+Users can follow along with **synchronized transcripts** linked to the **audio playback**, helping them quickly **determine content relevance**.  
 
-For more information, support, or feedback, please reach out to us at 2024mindmap@gmail.com.
+---
 
-Acknowledgements
+## **How It Works**  
 
-This thesis was supervised by Petra Galuscakova, Associate professor in language technology in Department of Computer and Electrical Engineering at the University of Stavanger, and we appreciate her guidance and support throughout the development process.
+At the core of **Mind Map** is a **topic modeling system** that processes **audio transcripts** to **categorize topics** using techniques like:  
+- **tf-idf** (Term Frequency-Inverse Document Frequency)  
+- **K-Means Clustering**  
 
-License
+This enables users to interact with a **responsive interface**, navigating **topics** and accessing **audio and transcripts directly**.  
 
-MIT License
+The system leverages **AI technology** to improve **topic identification** and **visual representation**, making exploration both **engaging** and **insightful**.  
+
+---
+
+## **Installation and Usage**  
+
+For **detailed installation** and **running instructions**, please see:  
+
+📌 **[SETUP.md](./SETUP.md)** – Installation prerequisites & setup instructions.  
+📌 **[INSTRUCTIONS.md](INSTRUCTIONS.md)** – Step-by-step guide on scripts & system interaction.  
+
+Ensure that all **prerequisites** are met to set up the application on your **local machine** or **server**.  
+
+---
+
+## **Contribution**  
+
+**Mind Map** and its associated **preprocessing & topic modeling scripts** are **open-source**, hosted on **GitHub**. Clone the repository to get started:
+
+📌 Clone via HTTPS:
+
+```bash
+git clone https://github.com/SirinaHaaland/mind-map.git
+```
+
+📌 Clone via SSH (for contributors with SSH keys set up)
+
+```bash
+git clone git@github.com:SirinaHaaland/mind-map.git
+```
+
+👉 Visit the repository on GitHub: [Mind Map Repository](https://github.com/SirinaHaaland/mind-map).
+
+
+💡 **Contribute!** We encourage the community to:  
+- Extend the Web application’s capabilities  
+- Adapt its methodologies to new **spoken data collections**  
+
+---
+
+## **Contact**  
+
+📧 **For support, inquiries, or feedback, contact us at:**  
+📌 **2024mindmap@gmail.com**  
+
+---
+
+## **Acknowledgements**  
+
+This thesis was **supervised by**:  
+
+👩‍🏫 **Petra Galuscakova** – Associate Professor in Language Technology,  
+Department of Computer and Electrical Engineering, **University of Stavanger**  
+
+We **appreciate her guidance and support** throughout the development process.  
+
+---
+
+## **License**  
+
+📝 **MIT License** – Open-source and free to use.  

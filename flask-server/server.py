@@ -9,6 +9,13 @@ STM_DIRECTORY = '../data/transcripts/cleanedtranscripts'
 JSON_FILE_PATH = '../data/mappedtopics/selectedtopics.json'
 TITLE_PATH = '../data/mappedtopics/maptitle.json'
 IMAGE_PATH = '../data/images'
+DATA_FOLDER = "/zfs1/home/trondstr/STG0006948/data"
+
+
+# Route to serve the background image
+@app.route('/data/<path:filename>')
+def serve_data_file(filename):
+    return send_from_directory(DATA_FOLDER, filename)
 
 # Route to get audio file, function retrieve and serve an audio file.
 @app.route('/get-mp3')
@@ -106,11 +113,11 @@ def get_title():
         data = json.load(f)
 
     for recording in data:
-        if recording['baseFileName'] == filename:
-            title = recording['title']
-            return title
+        if recording.get('Identifier') == filename:
+            return recording.get('Title', filename)
 
     return filename
+
 
 # Main function to run the Flask application
 if __name__ == '__main__':

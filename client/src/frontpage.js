@@ -1,14 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-
-const FrontPage = ({ setSelectedCategories, setCurrentPage }) => { 
+const FrontPage = ({ selectedCategories, setSelectedCategories, navigateToPage }) => {
   const [categories, setCategories] = useState([]);
-  const [selectedCategoriesLocal, setSelectedCategoriesLocal] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  
-  // Fetch categories from the server when the component mounts
-  // and update the state with the sorted categories.
+
+  // Fetch categories from the server
   useEffect(() => {
     axios.get('/data')
       .then(response => {
@@ -20,21 +17,19 @@ const FrontPage = ({ setSelectedCategories, setCurrentPage }) => {
       });
   }, []);
 
+  // Handle checkbox changes
   const handleCheckboxChange = (category) => {
-    if (selectedCategoriesLocal.includes(category)) {
-      setSelectedCategoriesLocal(selectedCategoriesLocal.filter(cat => cat !== category));
-    } else {
-      setSelectedCategoriesLocal([...selectedCategoriesLocal, category]);
-    }
+    const newCategories = selectedCategories.includes(category)
+      ? selectedCategories.filter(cat => cat !== category)
+      : [...selectedCategories, category];
+    setSelectedCategories(newCategories);
   };
 
+  // Handle showing selected categories
   const handleShowSelected = () => {
-    setSelectedCategories(selectedCategoriesLocal);
-  };
-
-  const handleLearnMoreClick = (event) => {
-    event.preventDefault();
-    setCurrentPage('about');
+    if (selectedCategories.length > 0) {
+      navigateToPage('mainpage', null, selectedCategories);
+    }
   };
 
   // Filter categories based on search query
@@ -43,38 +38,57 @@ const FrontPage = ({ setSelectedCategories, setCurrentPage }) => {
   );
 
   return (
-    <div>
+    <div className="front-page-container">
       <header className="App-header">
-        <div className="App-logo" /> 
-        <h1>Welcome to the Mind Map</h1>
-        <p className="App-link">
-          <a href="#" onClick={handleLearnMoreClick}>About</a>
-        </p>
+        <div className="App-logo" />
+        <h1>Mind Map</h1>
       </header>
-      <div className= 'App-select'>
-        <input className="search"
+      <div className="App-select">
+        <input
+          className="search"
           type="text"
           placeholder="Search categories..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           style={{ padding: '5px' }}
         />
-        <button className="btn" onClick={handleShowSelected}>Show selected topics</button>
+        <button
+          className="btn"
+          onClick={handleShowSelected}
+          disabled={selectedCategories.length === 0}
+        >
+          Show selected categories
+        </button>
       </div>
-      <div style={{ display: 'grid',flexDirection: 'column', gridTemplateColumns: 'repeat(auto-fill, minmax(100px, 1fr))', gap: '10px', maxHeight: '335px', overflowY: 'auto', marginTop: '15px'}}>
-        {filteredCategories.map(category => (
-          <div key={category} className="category-item">
-            <input
-              type="checkbox"
-              id={category}
-              checked={selectedCategoriesLocal.includes(category)}
-              onChange={() => handleCheckboxChange(category)}
-            />
-            <label htmlFor={category}>{category}</label>
+      <div className="categories-container">
+        {Object.entries(
+          filteredCategories.reduce((acc, category) => {
+            const letter = category[0].toUpperCase();
+            if (!acc[letter]) acc[letter] = [];
+            acc[letter].push(category);
+            return acc;
+          }, {})
+        ).map(([letter, categories]) => (
+          <div key={letter} className="category-section">
+            <h2 className="category-letter">{letter}</h2>
+            <hr className="category-divider" />
+            <div className="category-items">
+              {categories.map(category => (
+                <div key={category} className="category-item">
+                  <input
+                    type="checkbox"
+                    id={category}
+                    checked={selectedCategories.includes(category)}
+                    onChange={() => handleCheckboxChange(category)}
+                  />
+                  <label htmlFor={category}>{category}</label>
+                </div>
+              ))}
+            </div>
           </div>
         ))}
       </div>
-      </div>
+    </div>
   );
 };
 
