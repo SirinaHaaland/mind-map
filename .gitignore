@@ -53,4 +53,6 @@ data/*
 
 # Bertopic model
 scripts/topicmodeling/bertopic/bertopic_model
+scripts/topicmodeling/BERTopic/bertopic_model
+Experimental2/bertopic_model
 
