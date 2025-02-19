@@ -652,6 +652,7 @@
         "Talk Id": 2682,
         "Runtime": "00:18:42",
         "Seconds": 1122,
+        "Title": "Jeff Speck: 4 ways to make a city more walkable",
         "Description": "Freedom from cars, freedom from sprawl, freedom to walk your city! City planner Jeff Speck shares his \"general theory of walkability\" -- four planning principles to transform sprawling cities of six-lane highways and 600-foot blocks into safe, walkable oases full of bike lanes and tree-lined streets.",
         "Published Date": 1486655714,
         "PublicDate": "2017-02-09",
@@ -675,6 +676,7 @@
         "Talk Id": 2680,
         "Runtime": "00:12:31",
         "Seconds": 751,
+        "Title": "Joshua Smith: New nanotech to detect cancer early",
         "Description": "What if every home had an early-warning cancer detection system? Researcher Joshua Smith is developing a nanobiotechnology \"cancer alarm\" that scans for traces of disease in the form of special biomarkers called exosomes. In this forward-thinking talk, he shares his dream for how we might revolutionize cancer detection and, ultimately, save lives.",
         "Published Date": 1486569531,
         "PublicDate": "2017-02-08",
@@ -698,6 +700,7 @@
         "Talk Id": 2678,
         "Runtime": "00:19:11",
         "Seconds": 1151,
+        "Title": "Thordis Elva and Tom Stranger: Our Story of Rape and Reconciliation",
         "Description": "In 1996, Thordis Elva shared a teenage romance with Tom Stranger, an exchange student from Australia. After a school dance, Tom raped Thordis, after which they parted ways for many years. In this extraordinary talk, Elva and Stranger move through a years-long chronology of shame and silence, and invite us to discuss the omnipresent global issue of sexual violence in a new, honest way. For a Q&amp;amp;A with the speakers, visit go.ted.com/thordisandtom.",
         "Published Date": 1486467874,
         "PublicDate": "2017-02-07",
@@ -19316,6 +19319,29 @@
     {
         "Identifier": "RhiannonGiddens_2016",
         "Title": "Rhiannon Giddens: Songs that bring history to life"
+    },
+    {
+        "Identifier": "AbigailWashburn_2012U",
+        "Title": "Abigail Washburn: Building US-China relations ... by banjo"
+    },
+    {
+        "Identifier": "RobertThurman_2006S",
+        "Title": "Robert Thurman: We can be Buddhas"
+    },
+    {
+        "Identifier": "SrdjaPopovic_2011X",
+        "Title": "Srdja Popovic: How to topple a dictator"
+    },
+    {
+        "Identifier": "KevinAllocca_2011Y",
+        "Title": "Kevin Allocca: Why videos go viral"
+    },
+    {
+        "Identifier": "LeonardSusskind_2011X",
+        "Title": "Leonard Susskind: My friend Richard Feynman"
     }
+
+
+
     
 ]
