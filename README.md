@@ -52,31 +52,6 @@ Ensure that all **prerequisites** are met to set up the application on your **lo
 
 ---
 
-## **Contribution**  
-
-**Mind Map** and its associated **preprocessing & topic modeling scripts** are **open-source**, hosted on **GitHub**. Clone the repository to get started:
-
-📌 Clone via HTTPS:
-
-```bash
-git clone https://github.com/SirinaHaaland/mind-map.git
-```
-
-📌 Clone via SSH (for contributors with SSH keys set up)
-
-```bash
-git clone git@github.com:SirinaHaaland/mind-map.git
-```
-
-👉 Visit the repository on GitHub: [Mind Map Repository](https://github.com/SirinaHaaland/mind-map).
-
-
-💡 **Contribute!** We encourage the community to:  
-- Extend the Web application’s capabilities  
-- Adapt its methodologies to new **spoken data collections**  
-
----
-
 ## **Contact**  
 
 📧 **For support, inquiries, or feedback, contact us at:**  
