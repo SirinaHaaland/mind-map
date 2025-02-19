@@ -40,7 +40,7 @@ function AboutPage() {
           2024mindmap@gmail.com.</p>
         <p>Open Source Contribution: The Web application and associated topic 
           modeling, preprocessing and image-generation scripts are available as 
-          open-source resources on GitHub <a href="">here</a>. 
+          open-source resources on GitHub <a href="https://github.com/SirinaHaaland/mind-map" target="_blank">here</a>. 
           This allows others to explore, modify and adapt our approach to new speech media collections.</p>
       </div>
     );

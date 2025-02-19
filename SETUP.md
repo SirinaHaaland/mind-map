@@ -47,9 +47,6 @@ git clone https://github.com/SirinaHaaland/mind-map.git
 git clone git@github.com:SirinaHaaland/mind-map.git
 ```
 
-👉 Visit the repository on GitHub: [Mind Map Repository](https://github.com/SirinaHaaland/mind-map).
-
-
 📌 **For a step-by-step breakdown of data processing and pipeline execution, refer to [INSTRUCTIONS.md](INSTRUCTIONS.md).**
 
 
