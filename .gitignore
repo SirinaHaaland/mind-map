@@ -1,0 +1,78 @@
+# ==============================
+# OS-Specific Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bat
+*.exe
+
+# ==============================
+# Python Files & Virtual Environments
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+venv/
+env/
+
+# ==============================
+# Node.js (JavaScript/React)
+# ==============================
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# ==============================
+# Environment Variables & Secrets
+# ==============================
+.env
+*.key
+*.pem
+config.json
+
+# ==============================
+# Logs & Temporary Files
+# ==============================
+*.log
+logs/
+debug.log
+nohup.out
+
+# ==============================
+# Flask (Python Web Framework)
+# ==============================
+instance/
+*.sqlite3
+db.sqlite3
+
+# ==============================
+# React Build Files
+# ==============================
+build/
+dist/
+coverage/
+
+# ==============================
+# Processed Data & Outputs
+# ==============================
+data/audiomp3/
+data/duplicates/
+data/images/
+data/transcripts/
+data/sph/
+data/**                # Ignore everything inside data/
+!data/mappedtopics/    # Allow mappedtopics/
+!data/mappedtopics/**  # Allow everything inside mappedtopics/
+!data/**/.gitkeep      # Allow .gitkeep files to preserve folder structure
+
+
+# ==============================
+# ML / AI / Bertopic Models
+# ==============================
+scripts/topicmodeling/bertopic/bertopic_model/*
+scripts/topicmodeling/BERTopic/bertopic_model/*
+Experimental2/bertopic_model/*
